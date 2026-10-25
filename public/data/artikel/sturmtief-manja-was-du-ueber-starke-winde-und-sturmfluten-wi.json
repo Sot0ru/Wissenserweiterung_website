@@ -1,0 +1,75 @@
+{
+  "id": "sturmtief-manja-was-du-ueber-starke-winde-und-sturmfluten-wi",
+  "category": "politik",
+  "title": "Sturmtief „Manja“: Was du über starke Winde und Sturmfluten wissen musst",
+  "teaser": "Ein starkes Tiefdruckgebiet kann Wetterextremen wie Orkanböen und Sturmfluten auslösen. Wir erklären dir, was das bedeutet und wie du dich vorbereiten kannst.",
+  "tags": [
+    "Wetter",
+    "Naturphänomene",
+    "Hochwasser",
+    "Risikomanagement"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Sturmtiefs bringen starke Winde und können zu gefährlichen Wetterlagen führen, besonders an den Küsten.",
+    "Besonders in Norddeutschland drohen Orkanböen und eine Sturmflut, die den Wasserstand stark ansteigen lässt.",
+    "Bei solchen Wetterlagen ist Vorsicht geboten: Gegenstände sichern und die aktuellen Warnungen beachten."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist ein Sturmtief und was bedeutet das für dich?",
+      "paragraphs": [
+        "Wenn ein Sturmtief wie „Manja“ über Deutschland zieht, bedeutet das, dass sich ein großes Gebiet mit niedrigem Luftdruck bildet. Dieser Druckunterschied zwischen dem Zentrum des Tiefs und dem umliegenden Hochdruckgebiet sorgt für starke Luftbewegungen – also Wind.",
+        "Die Windgeschwindigkeiten können je nach Lage stark variieren. In exponierten, also freiliegenden Gebieten kann es zu extremen Sturmböen kommen. In weniger exponierten Gegenden sind die Windgeschwindigkeiten zwar auch hoch, aber oft etwas geringer.",
+        "Diese starken Winde können vieles mitreißen. Gegenstände, die draußen stehen, können herumfliegen, und Äste können abbrechen. Deshalb wird geraten, alles, was nicht fest verbunden ist, zu sichern."
+      ]
+    },
+    {
+      "heading": "Die Gefahr an der Küste: Sturmflut und Orkanböen",
+      "paragraphs": [
+        "Besonders gefährlich wird es an den Nord- und Ostseeküsten. Dort treffen die starken Winde auf das Wasser, was zu einer Sturmflut führen kann. Eine Sturmflut ist ein starker, ungewöhnlicher Anstieg des Meeresspiegels.",
+        "Laut Wetterdiensten kann dieser Anstieg sehr deutlich sein. Wenn der Wasserstand eine bestimmte Höhe überschreitet, spricht man von einer Sturmflut. Dies kann zu Überschwemmungen in Küstennähe führen.",
+        "Außerdem sind an der Küste Orkanböen zu erwarten. Diese extremen Windgeschwindigkeiten machen nicht nur Sachschäden, sondern können auch die Schifffahrt stark beeinträchtigen, wie aktuell eingeschränkte Fährverbindungen zeigen."
+      ]
+    }
+  ],
+  "whyItMatters": "Wetterextreme sind Teil des Klimawandels und werden häufiger oder intensiver. Es ist wichtig zu wissen, wie man auf solche Ereignisse reagiert, um sich und sein Eigentum zu schützen.",
+  "glossary": [
+    {
+      "term": "Sturmtief",
+      "definition": "Ein Gebiet mit niedrigem Luftdruck, das starke Winde erzeugt."
+    },
+    {
+      "term": "Sturmflut",
+      "definition": "Ein starker, ungewöhnlicher Anstieg des Meeresspiegels, verursacht durch Wind und Druckveränderungen."
+    },
+    {
+      "term": "Böen",
+      "definition": "Plötzliche, sehr starke Windstöße."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist die Hauptgefahr, die an den Nordseeküsten durch ein Sturmtief wie 'Manja' droht?",
+    "options": [
+      "Ein starker Temperaturabfall, der zu Eisbildung führt.",
+      "Eine Sturmflut, also ein ungewöhnlicher Anstieg des Meeresspiegels.",
+      "Ein anhaltender Niederschlag, der zu Überschwemmungen im Binnenland führt."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Quelle warnt explizit vor einer Sturmflut an der Nordseeküste."
+  },
+  "discussion": [
+    "Welche Maßnahmen sollte eine Kommune ergreifen, um Bürger und Infrastruktur besser vor Sturmfluten zu schützen?",
+    "Wie beeinflusst die zunehmende Häufigkeit von Wetterextremen die langfristige Planung in Städten und Regionen?"
+  ],
+  "publishedAt": "2026-10-25T11:36:55.316Z",
+  "sources": [
+    {
+      "title": "Sturmtief \"Manja\" fegt über Deutschland",
+      "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

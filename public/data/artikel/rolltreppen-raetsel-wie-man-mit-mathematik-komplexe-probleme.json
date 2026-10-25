@@ -1,0 +1,71 @@
+{
+  "id": "rolltreppen-raetsel-wie-man-mit-mathematik-komplexe-probleme",
+  "category": "wissenschaft",
+  "title": "Rolltreppen-Rätsel: Wie man mit Mathematik komplexe Probleme löst",
+  "teaser": "Ein Manager steigt eine Rolltreppe hoch – aber wie viele Stufen hat die Treppe wirklich, wenn sie stillsteht? Wir zeigen dir die mathematische Logik dahinter.",
+  "tags": [
+    "Mathematik",
+    "Logik",
+    "Rätsel",
+    "Problemlösung"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Das Rätsel verlangt, die Gesamtzahl der Stufen (n) zu finden, basierend auf zwei Szenarien mit einer beweglichen Rolltreppe.",
+    "Die entscheidende Erkenntnis ist, dass die Geschwindigkeit, mit der Stufen aus dem Blickfeld verschwinden, konstant bleiben muss.",
+    "Durch die Gleichsetzung dieser Geschwindigkeiten ergibt sich die Lösung: Die Treppe hat 80 Stufen."
+  ],
+  "sections": [
+    {
+      "heading": "Wenn Bewegung und Sichtbarkeit aufeinandertreffen",
+      "paragraphs": [
+        "Stell dir vor, du bist ein sehr eiliger Manager. Du steigst eine Rolltreppe hinauf. Das Rätsel spielt mit der Illusion: Wir sehen nur einen Teil der Treppe, und die Bewegung der Rolltreppe verändert, wie schnell wir die Stufen sehen.",
+        "Im ersten Szenario steigt der Manager mit einer Geschwindigkeit von einer Stufe pro Sekunde hinauf. Er benötigt 20 Sekunden, um die oberste Stufe zu erreichen. Das bedeutet, er betritt 20 Stufen. Wenn die Rolltreppe sich bewegt, verschwinden Stufen aus dem Blickfeld, bevor er sie erreicht. Die mathematische Herausforderung liegt darin, diese 'Verlustrate' der sichtbaren Stufen zu berechnen.",
+        "Die Forscher des Rätsels führen eine Variable 'n' ein. 'n' steht für die tatsächliche Gesamtzahl der Stufen, wenn die Rolltreppe stillsteht. Im ersten Fall verschwinden in 20 Sekunden Stufen, die oberhalb seiner Reichweite liegen. Die Rate, mit der diese Stufen verschwinden, muss also berechnet werden."
+      ]
+    },
+    {
+      "heading": "Die Gleichung als Schlüssel zur Lösung",
+      "paragraphs": [
+        "Im zweiten Szenario wird es noch schneller. Der Manager steigt nun mit doppelt so hoher Geschwindigkeit auf – zwei Stufen pro Sekunde. Er benötigt 16 Sekunden für dieselbe Strecke. Auch hier verschwinden Stufen aus dem Sichtfeld, aber diesmal in 16 Sekunden.",
+        "Der Trick des Rätsels ist die Annahme der Konstanz: Die Geschwindigkeit, mit der Stufen aus dem Blickfeld verschwinden, muss in beiden Szenarien gleich sein. Das ist der wichtigste mathematische Gedanke.",
+        "Man stellt also eine Gleichung auf: Die Rate der Stufenverluste aus Szenario 1 muss der Rate aus Szenario 2 entsprechen. Wenn man diese Gleichung löst, kommt man zur Antwort: Die Rolltreppe hat 80 Stufen. Dieses Beispiel zeigt, wie man komplexe Alltagssituationen mithilfe von algebraischen Gleichungen analysieren kann."
+      ]
+    }
+  ],
+  "whyItMatters": "Solche Rätsel sind mehr als nur Spielerei. Sie zeigen, wie grundlegende mathematische Konzepte wie Geschwindigkeit und Verhältnis in scheinbar einfachen Alltagssituationen angewendet werden können. Das hilft dir, logisch zu denken und Probleme strukturiert anzugehen.",
+  "glossary": [
+    {
+      "term": "Algebra",
+      "definition": "Ein Teil der Mathematik, die Symbole (wie Buchstaben) benutzt, um unbekannte Werte in Gleichungen darzustellen und zu berechnen."
+    },
+    {
+      "term": "Rate",
+      "definition": "Ein Maß dafür, wie schnell etwas passiert. Im Rätsel ist es die Geschwindigkeit, mit der Stufen aus dem Blickfeld verschwinden."
+    }
+  ],
+  "quiz": {
+    "question": "Wie viele Stufen hat die Rolltreppe laut der Lösung des Rätsels?",
+    "options": [
+      "20",
+      "80",
+      "32"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die mathematische Gleichung, die die konstante Rate des Stufenverlusts herleitet, führt zur Zahl 80."
+  },
+  "discussion": [
+    "Inwiefern unterscheidet sich die Anwendung von mathematischen Modellen in der Physik (z.B. Bewegung) von ihrer Anwendung in der Logik (wie in diesem Rätsel)?",
+    "Wenn wir die Annahme der 'konstanten Geschwindigkeit' der Stufenverluste verändern würden, wie würde sich die Lösung des Rätsels ändern?"
+  ],
+  "publishedAt": "2026-10-25T11:27:01.115Z",
+  "sources": [
+    {
+      "title": "Welcher Wert ist gesucht?",
+      "url": "https://www.spektrum.de/raetsel/welcher-wert-ist-gesucht/2266202",
+      "publisher": "Spektrum der Wissenschaft"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

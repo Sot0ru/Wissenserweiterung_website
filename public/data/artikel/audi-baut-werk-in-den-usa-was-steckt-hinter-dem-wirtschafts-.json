@@ -1,0 +1,76 @@
+{
+  "id": "audi-baut-werk-in-den-usa-was-steckt-hinter-dem-wirtschafts-",
+  "category": "politik",
+  "title": "Audi baut Werk in den USA: Was steckt hinter dem Wirtschafts- und Politik-Spiel?",
+  "teaser": "Ein deutscher Autohersteller plant eine große Investition in Amerika. Doch dieser Schritt spielt mitten in einem politischen Machtkampf in den USA eine wichtige Rolle.",
+  "tags": [
+    "Wirtschaft",
+    "USA",
+    "Globalisierung",
+    "Industrie",
+    "Handel"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Audi kündigte den Bau seines ersten Werks in den USA an, was eine große Investition in den US-Bundesstaat Georgia bedeutet.",
+    "Diese Ankündigung fand während einer Wahlkampftour von Donald Trump statt, der Unternehmen zur Verlagerung ihrer Produktion nach Amerika drängt.",
+    "Solche Entscheidungen zeigen, wie stark politische Rahmenbedingungen und Handelsbeziehungen die globale Wirtschaft beeinflussen."
+  ],
+  "sections": [
+    {
+      "heading": "Zölle und die Jagd nach Jobs",
+      "paragraphs": [
+        "Wenn große Unternehmen wie Audi Entscheidungen treffen, die Milliarden kosten, ist selten nur die Geschäftsstrategie dahinter. Oft spielen politische Rahmenbedingungen eine riesige Rolle. In den USA gibt es seit Längerem eine Debatte über Handel und Industriejobs.",
+        "Ein zentrales Thema in diesem politischen Klima sind Zölle. Donald Trump hat mehrfach die Forderung gestellt, dass ausländische Firmen ihre Produktion in die USA verlagern sollen. Als Anreiz dafür wurden teilweise Zollerlassungen versprochen. Das Ziel ist, die heimische Wirtschaft zu stärken und Arbeitsplätze zu schaffen.",
+        "Genau in diesem Kontext hat Audi den Bau eines neuen Werks in Georgia angekündigt. Die Marke plant hier ihre erste Produktionsstätte in Amerika. Die Pläne sehen hohe Investitionen vor, etwa vier Milliarden US-Dollar, und die Schaffung von rund 4.500 Arbeitsplätzen."
+      ]
+    },
+    {
+      "heading": "Politik trifft auf Fabrikhalle",
+      "paragraphs": [
+        "Die Ankündigung kam mitten in einer wichtigen politischen Phase in den USA. Die Wahlkämpfe laufen auf Hochtouren, und die politische Richtung ist entscheidend für Unternehmen. Wer die Macht hat, bestimmt die Regeln des Handels und der Wirtschaft.",
+        "Die Verknüpfung von Unternehmensentscheidungen mit politischen Veranstaltungen ist nicht ungewöhnlich. Wenn ein Unternehmen eine große Investition plant, kann es von der Unterstützung einer politischen Figur profitieren, besonders wenn diese Person die Rahmenbedingungen für solche Investitionen positiv beeinflussen könnte. Audi-Chef Gernot Döllner bedankte sich dabei direkt bei Donald Trump für die Unterstützung.",
+        "Was bedeutet das für dich? Es zeigt, dass globale Unternehmen nicht isoliert agieren. Ihre Entscheidungen sind eng mit den politischen Entscheidungen in anderen Ländern verbunden. Zölle, Subventionen oder Handelsabkommen können den Unterschied machen, ob eine Fabrik gebaut oder geschlossen wird."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es zeigt, wie stark Politik und Wirtschaft miteinander verwoben sind. Wenn du verstehst, wie Zölle oder politische Versprechen globale Firmen beeinflussen, verstehst du besser, wie sich dein Alltag durch internationale Handelsbeziehungen verändert.",
+  "glossary": [
+    {
+      "term": "Zölle",
+      "definition": "Abgaben, die Staaten auf importierte Waren erheben. Sie sollen den inländischen Markt schützen oder Einnahmen generieren."
+    },
+    {
+      "term": "Investition",
+      "definition": "Geld, das man in ein Unternehmen steckt, um dieses zu vergrößern oder neue Dinge zu bauen, um später mehr Gewinn zu erzielen."
+    },
+    {
+      "term": "Kongress",
+      "definition": "Die gesetzgebende Versammlung der USA, die aus zwei Kammern besteht: dem Repräsentantenhaus und dem Senat."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist das Hauptziel von Forderungen nach Zollerlassungen durch Politiker wie Trump?",
+    "options": [
+      "Die Preise für importierte Autos zu senken.",
+      "Die heimische Wirtschaft anzukurbeln und Jobs zu schaffen.",
+      "Die Umweltstandards in den USA zu verschärfen."
+    ],
+    "answerIndex": 1,
+    "explanation": "Der Text erwähnt, dass Trump mit Zollerlassungen die heimische Wirtschaft ankurbeln und Industriejobs schaffen will."
+  },
+  "discussion": [
+    "Welche Rolle sollte der Staat bei der Ansiedlung internationaler Unternehmen spielen: Soll er sie durch Steuererleichterungen fördern oder lieber den freien Markt lassen?",
+    "Wie beeinflusst die globale Produktionsverteilung (z.B. Autos in den USA, Elektronik in Asien) die Umwelt und die Arbeitsbedingungen weltweit?"
+  ],
+  "publishedAt": "2026-10-25T11:33:30.690Z",
+  "sources": [
+    {
+      "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+      "url": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}
