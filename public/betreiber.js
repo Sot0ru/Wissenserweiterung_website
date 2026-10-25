@@ -6,9 +6,9 @@
 // wenn er deine Post zuverlässig weiterleitet.
 
 window.BETREIBER = {
-  name: "",          // Vor- und Nachname, z. B. "Max Mustermann"
-  strasse: "",       // z. B. "Musterstraße 1"
-  ort: "",           // z. B. "12345 Musterstadt"
-  email: "",         // eine E-Mail-Adresse, die du liest
+  name: "David Tran",
+  strasse: "Gibitzenhofstraße 175",
+  ort: "90443 Nürnberg",
+  email: "lryu638@gmail.com",
   stand: "Oktober 2026", // Datum der Datenschutzerklärung
 };
