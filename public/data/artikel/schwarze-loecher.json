@@ -1,0 +1,82 @@
+{
+  "id": "schwarze-loecher",
+  "category": "wissenschaft",
+  "title": "Schwarze Löcher: Was steckt hinter den Monstern im All?",
+  "teaser": "Nicht einmal Licht kann ihnen entkommen. Trotzdem ist es gelungen, Schwarze Löcher zu fotografieren – sogar das in unserer eigenen Galaxie.",
+  "tags": [
+    "Weltall",
+    "Physik",
+    "Nobelpreis"
+  ],
+  "readingMinutes": 4,
+  "publishedAt": "2026-10-17T07:00:00.000Z",
+  "tldr": [
+    "Ein Schwarzes Loch ist eine Region, deren Schwerkraft so stark ist, dass nichts entkommt – nicht einmal Licht.",
+    "Im Zentrum unserer Milchstraße sitzt ein Schwarzes Loch mit rund vier Millionen Sonnenmassen.",
+    "2019 wurde das erste Bild eines Schwarzen Lochs veröffentlicht."
+  ],
+  "sections": [
+    {
+      "heading": "Wie entsteht ein Schwarzes Loch?",
+      "paragraphs": [
+        "Sehr massereiche Sterne verbrennen irgendwann ihren Brennstoff. Dann kann ihr Kern unter seinem eigenen Gewicht in sich zusammenstürzen. Die Masse ist danach auf so kleinem Raum gebündelt, dass die Schwerkraft alles verschluckt, was ihr zu nahe kommt.",
+        "Die Grenze, ab der es kein Zurück mehr gibt, heißt Ereignishorizont. Was dahinter passiert, können wir nicht beobachten."
+      ]
+    },
+    {
+      "heading": "Ein Foto vom Unsichtbaren",
+      "paragraphs": [
+        "Wie fotografiert man etwas, das kein Licht abgibt? Man fotografiert das leuchtende, heiße Gas drum herum. Dafür haben Forschende Radioteleskope rund um den Globus zusammengeschaltet – das „Event Horizon Telescope“, quasi ein Teleskop so groß wie die Erde.",
+        "2019 zeigte es das Schwarze Loch in der Galaxie M87, 2022 folgte „Sagittarius A*“ im Zentrum unserer Milchstraße, etwa 27.000 Lichtjahre von uns entfernt."
+      ]
+    },
+    {
+      "heading": "Nobelpreis – auch für einen Deutschen",
+      "paragraphs": [
+        "2020 ging der Physik-Nobelpreis an Roger Penrose sowie an Reinhard Genzel und Andrea Ghez. Genzel und Ghez hatten jahrelang die Bahnen von Sternen im Zentrum der Milchstraße verfolgt und so bewiesen, dass dort ein riesiges, unsichtbares Objekt sitzt."
+      ]
+    }
+  ],
+  "whyItMatters": "Schwarze Löcher sind ein Prüfstein für unsere besten Theorien über Raum, Zeit und Schwerkraft. Und die Technik, die für solche Beobachtungen entwickelt wird, landet oft später in ganz alltäglichen Geräten.",
+  "glossary": [
+    {
+      "term": "Ereignishorizont",
+      "definition": "Die Grenze um ein Schwarzes Loch, hinter der nichts mehr entkommen kann."
+    },
+    {
+      "term": "Lichtjahr",
+      "definition": "Die Strecke, die Licht in einem Jahr zurücklegt – knapp 9,5 Billionen Kilometer. Es ist eine Entfernung, keine Zeit."
+    },
+    {
+      "term": "Sonnenmasse",
+      "definition": "Die Masse unserer Sonne. Sie dient in der Astronomie als Maßeinheit."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist ein Lichtjahr?",
+    "options": [
+      "Eine Zeitspanne",
+      "Eine Entfernung",
+      "Eine Helligkeit"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ein Lichtjahr ist die Strecke, die Licht in einem Jahr zurücklegt – also eine Entfernung."
+  },
+  "discussion": [
+    "Ist es sinnvoll, viel Geld in Grundlagenforschung zu stecken, die keinen direkten Nutzen hat?",
+    "Welche Frage über das Universum würdest du gern beantwortet haben?"
+  ],
+  "sources": [
+    {
+      "title": "Press release: The Nobel Prize in Physics 2020",
+      "url": "https://www.nobelprize.org/prizes/physics/2020/press-release/",
+      "publisher": "Nobel Prize Outreach"
+    },
+    {
+      "title": "Event Horizon Telescope",
+      "url": "https://eventhorizontelescope.org/",
+      "publisher": "EHT Collaboration"
+    }
+  ],
+  "aiGenerated": true
+}

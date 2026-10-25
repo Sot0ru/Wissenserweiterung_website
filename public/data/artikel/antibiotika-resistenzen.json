@@ -1,0 +1,83 @@
+{
+  "id": "antibiotika-resistenzen",
+  "category": "medizin",
+  "title": "Antibiotika-Resistenzen: Wenn Medikamente nicht mehr wirken",
+  "teaser": "Bakterien werden immer öfter unempfindlich gegen Antibiotika. Warum das passiert – und was jede und jeder dagegen tun kann.",
+  "tags": [
+    "Gesundheit",
+    "Bakterien",
+    "Medikamente",
+    "Weltgesundheit"
+  ],
+  "readingMinutes": 4,
+  "publishedAt": "2026-10-23T07:00:00.000Z",
+  "tldr": [
+    "Antibiotika töten Bakterien – aber manche Bakterien überleben und geben ihre Widerstandskraft weiter.",
+    "Die Weltgesundheitsorganisation (WHO) zählt Resistenzen zu den größten Gesundheitsgefahren weltweit.",
+    "Antibiotika helfen nicht gegen Viren – also auch nicht gegen die meisten Erkältungen."
+  ],
+  "sections": [
+    {
+      "heading": "Wie Bakterien resistent werden",
+      "paragraphs": [
+        "Wenn du ein Antibiotikum nimmst, sterben die meisten Bakterien. Aber nicht immer alle: Einzelne Bakterien haben durch zufällige Veränderungen in ihrem Erbgut eine Eigenschaft, die sie schützt. Sie überleben, vermehren sich und geben diesen Schutz weiter – manchmal sogar an ganz andere Bakterienarten.",
+        "Je häufiger Antibiotika eingesetzt werden, desto öfter bekommen genau diese widerstandsfähigen Bakterien ihre Chance. Das passiert in Krankenhäusern, aber auch in der Tierhaltung, wo Antibiotika in großen Mengen genutzt werden."
+      ]
+    },
+    {
+      "heading": "Wie groß ist das Problem?",
+      "paragraphs": [
+        "Eine große Studie in der Fachzeitschrift „The Lancet“ schätzt, dass im Jahr 2019 weltweit rund 1,27 Millionen Menschen direkt an Infektionen mit resistenten Bakterien gestorben sind. Bei fast fünf Millionen Todesfällen spielten Resistenzen eine Rolle.",
+        "Besonders gefährlich wird es, wenn selbst „Reserve-Antibiotika“ nicht mehr helfen. Dann können Infektionen, die heute als harmlos gelten, wieder lebensbedrohlich werden – etwa nach Operationen."
+      ]
+    },
+    {
+      "heading": "Was du tun kannst",
+      "paragraphs": [
+        "Nimm Antibiotika nur, wenn eine Ärztin oder ein Arzt sie verschreibt – und zwar genau so lange wie besprochen. Gib Reste nicht an andere weiter und frag nicht nach Antibiotika, wenn du „nur“ erkältet bist: Gegen Viren sind sie wirkungslos."
+      ]
+    }
+  ],
+  "whyItMatters": "Antibiotika sind eine der wichtigsten Erfindungen der Medizin. Ohne sie wären viele Operationen, Krebstherapien oder Geburten deutlich riskanter. Ob sie auch in Zukunft wirken, hängt davon ab, wie wir heute mit ihnen umgehen.",
+  "glossary": [
+    {
+      "term": "Antibiotikum",
+      "definition": "Ein Medikament, das Bakterien abtötet oder an ihrer Vermehrung hindert."
+    },
+    {
+      "term": "Resistenz",
+      "definition": "Widerstandsfähigkeit: Ein Bakterium reagiert nicht mehr auf ein Medikament, das es früher abgetötet hat."
+    },
+    {
+      "term": "Reserve-Antibiotikum",
+      "definition": "Ein Antibiotikum, das bewusst nur im Notfall eingesetzt wird, damit Bakterien sich möglichst nicht daran gewöhnen."
+    }
+  ],
+  "quiz": {
+    "question": "Gegen welche Krankheitserreger helfen Antibiotika?",
+    "options": [
+      "Gegen Viren",
+      "Gegen Bakterien",
+      "Gegen beides"
+    ],
+    "answerIndex": 1,
+    "explanation": "Antibiotika wirken nur gegen Bakterien. Erkältungen und Grippe werden meist von Viren ausgelöst."
+  },
+  "discussion": [
+    "Sollte der Einsatz von Antibiotika in der Tierhaltung strenger begrenzt werden – auch wenn Fleisch dadurch teurer wird?",
+    "Wer trägt mehr Verantwortung: Ärztinnen und Ärzte, die verschreiben, oder Patientinnen und Patienten, die danach fragen?"
+  ],
+  "sources": [
+    {
+      "title": "Antimicrobial resistance – Fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance",
+      "publisher": "Weltgesundheitsorganisation (WHO)"
+    },
+    {
+      "title": "Global burden of bacterial antimicrobial resistance in 2019",
+      "url": "https://doi.org/10.1016/S0140-6736(21)02724-0",
+      "publisher": "The Lancet"
+    }
+  ],
+  "aiGenerated": true
+}

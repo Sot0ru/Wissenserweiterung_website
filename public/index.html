@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+  <title>Wissenshappen</title>
+  <meta name="description" content="Allgemeinwissen in kleinen Happen: Medizin, Wissenschaft, Politik und Geschichte, verständlich erklärt.">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0e0e0d" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Wissenshappen">
+  <link rel="preload" href="fonts/libre-franklin-wght.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/source-serif-4-wght.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Icon-Satz: eine Strichstärke, eine Sprache -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="i-medizin" viewBox="0 0 24 24"><path d="M9 3.5h6v5.5h5.5v6H15v5.5H9V15H3.5V9H9z"/></symbol>
+    <symbol id="i-wissenschaft" viewBox="0 0 24 24"><ellipse cx="12" cy="12" rx="9.5" ry="3.8"/><ellipse cx="12" cy="12" rx="9.5" ry="3.8" transform="rotate(60 12 12)"/><ellipse cx="12" cy="12" rx="9.5" ry="3.8" transform="rotate(120 12 12)"/><circle cx="12" cy="12" r="1.2"/></symbol>
+    <symbol id="i-politik" viewBox="0 0 24 24"><path d="M2.5 9.5 12 4l9.5 5.5zM5 9.5v8M9.7 9.5v8M14.3 9.5v8M19 9.5v8M3 20.5h18"/></symbol>
+    <symbol id="i-geschichte" viewBox="0 0 24 24"><path d="M6 3h12M6 21h12M7.5 3v2.5c0 2.2 2 3.8 4.5 6.5 2.5-2.7 4.5-4.3 4.5-6.5V3M7.5 21v-2.5c0-2.2 2-3.8 4.5-6.5 2.5 2.7 4.5 4.3 4.5 6.5V21"/></symbol>
+    <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7a4.3 4.3 0 0 1 7.5 2.8C19.5 15.4 12 20 12 20z"/></symbol>
+    <symbol id="i-feed" viewBox="0 0 24 24"><path d="M4 4.5h16v6H4zM4 14h16M4 18.5h10"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z"/></symbol>
+    <symbol id="i-back" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></symbol>
+    <symbol id="i-share" viewBox="0 0 24 24"><path d="M12 15V4M7.5 8.5 12 4l4.5 4.5M5 13v7h14v-7"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+  </svg>
+
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Wissenshappen, zur Startseite">
+      <img class="mark" src="icon.svg" alt="" width="26" height="26">
+      <span>Wissenshappen</span>
+    </a>
+  </header>
+
+  <main id="app" tabindex="-1">
+    <p class="loading">Lädt …</p>
+  </main>
+
+  <nav class="tabbar" aria-label="Hauptnavigation">
+    <a href="#/" data-tab="feed">
+      <svg class="icon" aria-hidden="true"><use href="#i-feed"/></svg>
+      <span>Für dich</span>
+    </a>
+    <a href="#/themen" data-tab="themen">
+      <svg class="icon" aria-hidden="true"><use href="#i-grid"/></svg>
+      <span>Themen</span>
+    </a>
+    <a href="#/likes" data-tab="likes">
+      <svg class="icon" aria-hidden="true"><use href="#i-heart"/></svg>
+      <span>Likes</span>
+    </a>
+  </nav>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

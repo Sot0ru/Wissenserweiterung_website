@@ -1,0 +1,94 @@
+# Jeden Morgen neue Artikel schreiben lassen und die Website veröffentlichen.
+#
+# - Zeitplan: täglich ca. 5 Uhr (Winterzeit) / 6 Uhr (Sommerzeit). GitHub startet geplante
+#   Läufe manchmal etwas später.
+# - Von Hand starten: Reiter „Actions“ → „Täglich neue Artikel“ → „Run workflow“.
+# - Bei jedem Push auf main wird die Website ebenfalls neu veröffentlicht (ohne neue Artikel).
+#
+# Die Artikel schreibt ein freies Open-Source-Modell (Ollama + gemma4:e4b) direkt auf dem
+# GitHub-Rechner. Für öffentliche Repositories kostet das nichts.
+
+name: Täglich neue Artikel
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+    inputs:
+      per_category:
+        description: "Neue Artikel pro Thema"
+        default: "2"
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: taeglich
+  cancel-in-progress: false
+
+env:
+  OLLAMA_MODEL: gemma4:e4b
+
+jobs:
+  generate:
+    name: Artikel schreiben
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref }}
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Ollama installieren und Modell laden
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          for i in $(seq 1 30); do curl -sf http://127.0.0.1:11434/api/version && break; sleep 2; done
+          ollama pull "$OLLAMA_MODEL"
+
+      - name: Artikel generieren
+        run: npm run generate -- --per-category "${{ github.event.inputs.per_category || '2' }}"
+
+      - name: Neue Artikel speichern
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data generator/seen.json
+          if git diff --cached --quiet; then
+            echo "Keine neuen Artikel."
+            exit 0
+          fi
+          git commit -m "Neue Artikel vom $(date +%d.%m.%Y)"
+          git pull --rebase
+          git push
+
+  deploy:
+    name: Website veröffentlichen
+    needs: generate
+    if: always() && needs.generate.result != 'cancelled'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref }}
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,0 +1,82 @@
+{
+  "id": "bundestagswahl-erklaert",
+  "category": "politik",
+  "title": "Erststimme, Zweitstimme: So funktioniert die Bundestagswahl",
+  "teaser": "Zwei Kreuze, ein Parlament. Was die beiden Stimmen bewirken und was sich durch die Wahlrechtsreform geändert hat.",
+  "tags": [
+    "Demokratie",
+    "Wahlen",
+    "Deutschland"
+  ],
+  "readingMinutes": 5,
+  "publishedAt": "2026-10-21T07:00:00.000Z",
+  "tldr": [
+    "Mit der Erststimme wählst du eine Person aus deinem Wahlkreis, mit der Zweitstimme eine Partei.",
+    "Die Zweitstimme entscheidet, wie viele Sitze eine Partei im Bundestag bekommt.",
+    "Seit der Reform hat der Bundestag fest 630 Sitze – Überhang- und Ausgleichsmandate gibt es nicht mehr."
+  ],
+  "sections": [
+    {
+      "heading": "Zwei Stimmen, zwei Aufgaben",
+      "paragraphs": [
+        "Deutschland ist in 299 Wahlkreise aufgeteilt. Mit der Erststimme wählst du, wer deinen Wahlkreis vertreten soll. Mit der Zweitstimme wählst du eine Partei und deren Liste von Kandidierenden in deinem Bundesland.",
+        "Die wichtigere Stimme ist die Zweitstimme: Sie bestimmt, wie viele der 630 Sitze eine Partei insgesamt bekommt."
+      ]
+    },
+    {
+      "heading": "Was die Reform geändert hat",
+      "paragraphs": [
+        "Früher konnte eine Partei mehr Wahlkreise gewinnen, als ihr nach Zweitstimmen zustanden. Diese „Überhangmandate“ wurden ausgeglichen – der Bundestag wuchs dadurch auf über 730 Abgeordnete.",
+        "Seit der Reform, die bei der Wahl im Februar 2025 erstmals galt, gilt: Wer einen Wahlkreis gewinnt, bekommt den Sitz nur, wenn er durch das Zweitstimmenergebnis seiner Partei gedeckt ist. Deshalb sind seither nicht alle Wahlkreissiegerinnen und -sieger automatisch im Bundestag."
+      ]
+    },
+    {
+      "heading": "Die Fünf-Prozent-Hürde",
+      "paragraphs": [
+        "Eine Partei braucht mindestens fünf Prozent der Zweitstimmen, um in den Bundestag einzuziehen. Ausnahme: Gewinnt sie mindestens drei Wahlkreise, zieht sie trotzdem entsprechend ihrem Zweitstimmenanteil ein. Diese Grundmandatsklausel wollte die Reform streichen – das Bundesverfassungsgericht hat sie 2024 aber vorerst bestehen lassen."
+      ]
+    }
+  ],
+  "whyItMatters": "Wer das Wahlsystem versteht, kann seine Stimmen bewusster einsetzen. Und die Debatte um die Reform zeigt: Auch die Regeln der Demokratie selbst sind politisch umstritten.",
+  "glossary": [
+    {
+      "term": "Wahlkreis",
+      "definition": "Ein Gebiet mit etwa 250.000 Einwohnerinnen und Einwohnern, das eine direkt gewählte Person im Bundestag vertritt."
+    },
+    {
+      "term": "Überhangmandat",
+      "definition": "Nach altem Wahlrecht: ein zusätzlicher Sitz, wenn eine Partei mehr Wahlkreise gewann, als ihr nach Zweitstimmen zustanden."
+    },
+    {
+      "term": "Grundmandatsklausel",
+      "definition": "Regel, nach der eine Partei mit mindestens drei gewonnenen Wahlkreisen auch unter fünf Prozent in den Bundestag kommt."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Stimme entscheidet, wie viele Sitze eine Partei bekommt?",
+    "options": [
+      "Die Erststimme",
+      "Die Zweitstimme",
+      "Beide gleich stark"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Zweitstimme bestimmt die Sitzverteilung im Bundestag."
+  },
+  "discussion": [
+    "Ist es fair, dass jemand einen Wahlkreis gewinnt und trotzdem nicht in den Bundestag kommt?",
+    "Sollte das Wahlalter für die Bundestagswahl wie bei der Europawahl auf 16 Jahre gesenkt werden?"
+  ],
+  "sources": [
+    {
+      "title": "Wahlen in Deutschland",
+      "url": "https://www.bpb.de/themen/politisches-system/wahlen-in-deutschland/",
+      "publisher": "Bundeszentrale für politische Bildung"
+    },
+    {
+      "title": "Die Bundeswahlleiterin",
+      "url": "https://www.bundeswahlleiterin.de/",
+      "publisher": "Die Bundeswahlleiterin"
+    }
+  ],
+  "aiGenerated": true
+}

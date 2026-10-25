@@ -1,0 +1,20 @@
+{
+  "medizin": [
+    { "publisher": "tagesschau.de", "url": "https://www.tagesschau.de/wissen/gesundheit/index~rss2.xml" },
+    { "publisher": "Deutsches Ärzteblatt", "url": "https://www.aerzteblatt.de/rss/news.asp" },
+    { "publisher": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/health_medicine.xml" }
+  ],
+  "wissenschaft": [
+    { "publisher": "tagesschau.de", "url": "https://www.tagesschau.de/wissen/index~rss2.xml" },
+    { "publisher": "Spektrum der Wissenschaft", "url": "https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406" },
+    { "publisher": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/top/science.xml" }
+  ],
+  "politik": [
+    { "publisher": "tagesschau.de", "url": "https://www.tagesschau.de/inland/index~rss2.xml" },
+    { "publisher": "tagesschau.de", "url": "https://www.tagesschau.de/ausland/index~rss2.xml" },
+    { "publisher": "Deutschlandfunk", "url": "https://www.deutschlandfunk.de/politikportal-100.rss" }
+  ],
+  "geschichte": [
+    { "publisher": "Deutschlandfunk Kalenderblatt", "url": "https://www.deutschlandfunk.de/kalenderblatt-100.rss" }
+  ]
+}

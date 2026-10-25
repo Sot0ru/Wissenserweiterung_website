@@ -1,0 +1,75 @@
+{
+  "id": "obama-greift-trump-an-was-steckt-hinter-der-politischen-krit",
+  "category": "politik",
+  "title": "Obama greift Trump an: Was steckt hinter der politischen Kritik?",
+  "teaser": "Als ehemaliger US-Präsident tritt Barack Obama in die aktuellen Wahlkämpfe ein. Er wirft Donald Trump Korruption vor und kritisiert die Gestaltung des Weißen Hauses.",
+  "tags": [
+    "USA",
+    "Wahlen",
+    "Demokratie",
+    "Präsidentschaft"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Der ehemalige US-Präsident Barack Obama hat sich in die Zwischenwahlen eingemischt und Donald Trump scharf kritisiert.",
+    "Obama wirft Trump Korruption vor und macht sich über die Renovierungen des Weißen Hauses lustig.",
+    "Gleichzeitig gibt es Kritik an Trump wegen seiner Haltung zur Briefwahl und seiner Behauptungen über Wahlen."
+  ],
+  "sections": [
+    {
+      "heading": "Warum Obama sich in die US-Politik einmischt",
+      "paragraphs": [
+        "Weniger als zwei Wochen vor den Zwischenwahlen in den USA ist Barack Obama wieder aktiv. Er tritt bei Kundgebungen in Bundesstaaten wie Michigan auf und unterstützt die Demokraten.",
+        "Sein Angriffspunkt ist Donald Trump. Obama wirft dem republikanischen Präsidenten unter anderem Korruption vor. Er äußert sich scharf dazu, dass der Präsident sich auf Kosten anderer bereichert habe.",
+        "Obama sieht diese Wahlen als eine Möglichkeit, einen Teil des politischen „Wahnsinns“, der seiner Meinung nach unter der Trump-Präsidentschaft herrscht, einzudämmen. Die Demokraten sehen in diesen Wahlen eine Chance auf einen Sieg."
+      ]
+    },
+    {
+      "heading": "Von Korruption bis zum Weißen Haus: Obamas Kritikpunkte",
+      "paragraphs": [
+        "Die Kritik von Obama reicht weit über finanzielle Vorwürfe hinaus. Er hat auch die Renovierungsarbeiten am Weißen Haus aufs Korn genommen. Er machte sich dabei über die Ästhetik des Gebäudes lustig.",
+        "Im Gegensatz dazu reagiert Trump auf solche Vorwürfe mit Gegenangriffen. Als er zu Themen wie Korruption befragt wurde, behauptete er, die Demokraten seien die eigentlichen korrupten Akteure.",
+        "Trump vertritt zudem eine sehr spezifische Meinung zur Stimmabgabe. Er fordert strengere Regeln für die Briefwahl. Kritiker werfen ihm vor, dies diene dazu, die Wählerschaft der Demokraten zu schwächen, da diese traditionell häufiger per Briefwahl abstimmen."
+      ]
+    }
+  ],
+  "whyItMatters": "Politische Auseinandersetzungen in den USA beeinflussen globale Entwicklungen. Es ist wichtig zu verstehen, welche Themen (wie Korruption oder Wahlverfahren) in den politischen Debatten eine große Rolle spielen.",
+  "glossary": [
+    {
+      "term": "Zwischenwahlen (Midterms)",
+      "definition": "Regelmäßige Wahlen, bei denen nicht alle Ämter gleichzeitig, sondern nur bestimmte Senats- oder Kongresssitze neu gewählt werden."
+    },
+    {
+      "term": "Korruption",
+      "definition": "Missbrauch öffentlicher Macht oder Ämter zu privaten Vorteilen."
+    },
+    {
+      "term": "Demokraten / Republikaner",
+      "definition": "Die beiden größten politischen Parteien in den USA, die unterschiedliche politische Ansichten vertreten."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Wahlen sollen laut Artikel helfen, einen Teil des politischen 'Wahnsinns' einzudämmen?",
+    "options": [
+      "Die Präsidentschaftswahlen",
+      "Die Zwischenwahlen (Midterms)",
+      "Die lokalen Kommunalwahlen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Obama sieht die Zwischenwahlen als Gelegenheit, die politische Richtung zu beeinflussen."
+  },
+  "discussion": [
+    "Wie wirkt sich die öffentliche Meinung von Prominenten (wie ehemaligen Präsidenten) auf politische Kampagnen aus?",
+    "Welche ethischen Grenzen gibt es, wenn politische Gegner persönliche Angriffe (wie über Bauprojekte) führen?"
+  ],
+  "publishedAt": "2026-10-25T10:54:58.808Z",
+  "sources": [
+    {
+      "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

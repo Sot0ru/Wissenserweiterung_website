@@ -1,0 +1,83 @@
+{
+  "id": "crispr-genschere",
+  "category": "wissenschaft",
+  "title": "CRISPR: Die Genschere, die die Biologie verändert",
+  "teaser": "Mit CRISPR lässt sich Erbgut so präzise bearbeiten wie nie zuvor. Erste Patientinnen und Patienten werden schon damit behandelt.",
+  "tags": [
+    "Genetik",
+    "Nobelpreis",
+    "Technik",
+    "Ethik"
+  ],
+  "readingMinutes": 5,
+  "publishedAt": "2026-10-22T07:00:00.000Z",
+  "tldr": [
+    "CRISPR/Cas9 ist ein Werkzeug, mit dem Forschende DNA an einer genau festgelegten Stelle schneiden können.",
+    "Emmanuelle Charpentier und Jennifer Doudna erhielten dafür 2020 den Chemie-Nobelpreis.",
+    "Seit 2023/2024 ist in Großbritannien, den USA und der EU eine erste CRISPR-Therapie gegen Sichelzellkrankheit zugelassen."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Trick aus der Welt der Bakterien",
+      "paragraphs": [
+        "Ursprünglich ist CRISPR ein Abwehrsystem von Bakterien gegen Viren. Forschende haben es in ein Werkzeug verwandelt: Ein kurzes RNA-Stück funktioniert wie ein „Suchauftrag“ und führt das Eiweiß Cas9 an eine bestimmte Stelle der DNA. Dort schneidet Cas9 den DNA-Strang durch.",
+        "Die Zelle repariert den Schnitt anschließend selbst. Dabei kann ein Gen ausgeschaltet oder gezielt verändert werden. Früher waren solche Eingriffe viel ungenauer, teurer und langwieriger."
+      ]
+    },
+    {
+      "heading": "Von der Forschung in die Klinik",
+      "paragraphs": [
+        "Die erste zugelassene CRISPR-Therapie heißt Casgevy. Sie hilft Menschen mit Sichelzellkrankheit und Beta-Thalassämie – zwei erblichen Bluterkrankungen. Dafür werden Blutstammzellen außerhalb des Körpers bearbeitet und dann zurückgegeben.",
+        "Auch in der Landwirtschaft wird CRISPR erforscht, etwa für Pflanzen, die Trockenheit besser aushalten."
+      ]
+    },
+    {
+      "heading": "Wo sind die Grenzen?",
+      "paragraphs": [
+        "2018 veränderte ein chinesischer Forscher das Erbgut von Embryonen; zwei Mädchen kamen so zur Welt. Weltweit gab es heftige Kritik, er wurde zu einer Haftstrafe verurteilt. Denn Veränderungen an Embryonen werden an alle Nachkommen vererbt – mit unbekannten Folgen."
+      ]
+    }
+  ],
+  "whyItMatters": "CRISPR könnte Krankheiten heilen, die bisher als unheilbar galten. Gleichzeitig wirft die Technik Fragen auf, die nicht nur die Wissenschaft beantworten sollte: Was dürfen wir am Menschen verändern – und wer entscheidet das?",
+  "glossary": [
+    {
+      "term": "DNA",
+      "definition": "Das Erbgut: ein langes Molekül, in dem die Baupläne für alle Eiweiße eines Lebewesens gespeichert sind."
+    },
+    {
+      "term": "Gen",
+      "definition": "Ein Abschnitt der DNA, der die Information für ein bestimmtes Merkmal oder Eiweiß enthält."
+    },
+    {
+      "term": "Keimbahn",
+      "definition": "Zellen, deren Erbgut an Nachkommen weitergegeben wird – etwa Ei- und Samenzellen oder Embryonen."
+    }
+  ],
+  "quiz": {
+    "question": "Woher stammt das CRISPR-System ursprünglich?",
+    "options": [
+      "Aus dem menschlichen Immunsystem",
+      "Aus Bakterien",
+      "Aus Pflanzen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bakterien nutzen CRISPR, um sich gegen Viren zu wehren. Forschende haben das System zu einem Werkzeug umgebaut."
+  },
+  "discussion": [
+    "Wo würdest du die Grenze ziehen: Krankheiten heilen ja – aber Augenfarbe oder Größe verändern nein?",
+    "Sollten genveränderte Pflanzen in der EU leichter erlaubt werden, wenn sie gegen Dürre helfen?"
+  ],
+  "sources": [
+    {
+      "title": "Press release: The Nobel Prize in Chemistry 2020",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2020/press-release/",
+      "publisher": "Nobel Prize Outreach"
+    },
+    {
+      "title": "CRISPR/Cas-Methode",
+      "url": "https://de.wikipedia.org/wiki/CRISPR/Cas-Methode",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "aiGenerated": true
+}

@@ -1,0 +1,18 @@
+{
+  "name": "wissenshappen",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Allgemeinwissen in kleinen Happen – KI-erstellte Artikel aus Nachrichten und Wissenschaft für Jugendliche und junge Erwachsene.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "generate": "node --env-file-if-exists=.env generator/generate.mjs",
+    "generate:dry": "node generator/generate.mjs --dry-run"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.3.0"
+  },
+  "engines": {
+    "node": ">=22.9"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "mauerfall-1989",
+  "category": "geschichte",
+  "title": "Der Mauerfall: Die Nacht, in der Berlin sich umarmte",
+  "teaser": "28 Jahre trennte eine Mauer Ost- und West-Berlin. Am 9. November 1989 öffnete sie sich – ausgelöst durch einen missverständlichen Satz.",
+  "tags": [
+    "Deutschland",
+    "DDR",
+    "Kalter Krieg",
+    "Demokratie"
+  ],
+  "readingMinutes": 5,
+  "publishedAt": "2026-10-19T07:00:00.000Z",
+  "tldr": [
+    "Die DDR baute die Berliner Mauer ab dem 13. August 1961, um die Flucht in den Westen zu stoppen.",
+    "Friedliche Proteste in der DDR setzten die Regierung 1989 massiv unter Druck.",
+    "Am 9. November 1989 wurden die Grenzen geöffnet, am 3. Oktober 1990 folgte die Wiedervereinigung."
+  ],
+  "sections": [
+    {
+      "heading": "Warum es die Mauer gab",
+      "paragraphs": [
+        "Nach dem Zweiten Weltkrieg wurde Deutschland geteilt: in die Bundesrepublik im Westen und die DDR im Osten, die von der Sowjetunion abhängig war. Bis 1961 flohen Millionen Menschen aus der DDR in den Westen. Um das zu stoppen, ließ die DDR-Führung eine Mauer quer durch Berlin bauen.",
+        "Wer trotzdem zu fliehen versuchte, riskierte sein Leben. Mindestens 140 Menschen kamen an der Berliner Mauer ums Leben."
+      ]
+    },
+    {
+      "heading": "Die friedliche Revolution",
+      "paragraphs": [
+        "1989 gingen in der DDR immer mehr Menschen auf die Straße, besonders bei den Montagsdemonstrationen in Leipzig. Ihr Ruf: „Wir sind das Volk!“ Gleichzeitig flohen Tausende über Ungarn und die Tschechoslowakei.",
+        "Am Abend des 9. November verkündete SED-Politiker Günter Schabowski auf einer Pressekonferenz neue Reiseregeln. Auf die Frage, ab wann sie gelten, antwortete er sinngemäß: sofort. Tausende strömten zu den Grenzübergängen – und die überforderten Grenzer öffneten die Schlagbäume, zuerst an der Bornholmer Straße."
+      ]
+    }
+  ],
+  "whyItMatters": "Der Mauerfall zeigt, dass Menschen ohne Gewalt ein ganzes politisches System verändern können. Viele Unterschiede zwischen Ost- und Westdeutschland – etwa bei Löhnen oder Wahlergebnissen – lassen sich bis heute nur mit dieser Geschichte verstehen.",
+  "glossary": [
+    {
+      "term": "DDR",
+      "definition": "Deutsche Demokratische Republik: der sozialistische Staat im Osten Deutschlands von 1949 bis 1990."
+    },
+    {
+      "term": "SED",
+      "definition": "Sozialistische Einheitspartei Deutschlands – die herrschende Partei in der DDR."
+    },
+    {
+      "term": "Kalter Krieg",
+      "definition": "Der Konflikt zwischen dem Westen unter Führung der USA und dem Ostblock unter Führung der Sowjetunion, etwa 1947 bis 1991."
+    }
+  ],
+  "quiz": {
+    "question": "Wann wurde Deutschland wiedervereinigt?",
+    "options": [
+      "9. November 1989",
+      "3. Oktober 1990",
+      "13. August 1961"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Mauer fiel am 9. November 1989, die Wiedervereinigung folgte am 3. Oktober 1990 – heute der Tag der Deutschen Einheit."
+  },
+  "discussion": [
+    "Gibt es heute noch eine „Mauer in den Köpfen“ zwischen Ost und West? Woran merkt man das?",
+    "Was macht friedlichen Protest so wirkungsvoll – und wann stößt er an Grenzen?"
+  ],
+  "sources": [
+    {
+      "title": "Stiftung Berliner Mauer",
+      "url": "https://www.stiftung-berliner-mauer.de/",
+      "publisher": "Stiftung Berliner Mauer"
+    },
+    {
+      "title": "Deutsche Teilung – Deutsche Einheit",
+      "url": "https://www.bpb.de/themen/deutsche-teilung/",
+      "publisher": "Bundeszentrale für politische Bildung"
+    }
+  ],
+  "aiGenerated": true
+}

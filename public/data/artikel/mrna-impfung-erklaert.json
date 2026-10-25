@@ -1,0 +1,82 @@
+{
+  "id": "mrna-impfung-erklaert",
+  "category": "medizin",
+  "title": "Wie funktioniert eigentlich eine mRNA-Impfung?",
+  "teaser": "Seit Corona kennt fast jeder den Begriff. Doch was passiert im Körper wirklich – und warum gab es dafür einen Nobelpreis?",
+  "tags": [
+    "Gesundheit",
+    "Impfung",
+    "Immunsystem",
+    "Nobelpreis"
+  ],
+  "readingMinutes": 4,
+  "publishedAt": "2026-10-20T07:00:00.000Z",
+  "tldr": [
+    "Eine mRNA-Impfung liefert dem Körper eine Bauanleitung für ein harmloses Stück des Erregers.",
+    "Das Immunsystem lernt daran, den echten Erreger später schnell zu erkennen.",
+    "Die mRNA verändert nicht das Erbgut und wird nach kurzer Zeit abgebaut."
+  ],
+  "sections": [
+    {
+      "heading": "Eine Bauanleitung statt Erreger",
+      "paragraphs": [
+        "Klassische Impfstoffe enthalten oft abgeschwächte oder abgetötete Erreger. Ein mRNA-Impfstoff funktioniert anders: Er enthält nur eine Art Bauanleitung – die mRNA. Damit stellen deine eigenen Zellen für kurze Zeit ein bestimmtes Eiweiß her, das auch auf der Oberfläche des Erregers sitzt. Beim Coronavirus war das das sogenannte Spike-Protein.",
+        "Dein Immunsystem bemerkt dieses fremde Eiweiß, bildet Antikörper und spezielle Abwehrzellen. Kommt später das echte Virus, ist der Körper vorbereitet."
+      ]
+    },
+    {
+      "heading": "Und das Erbgut?",
+      "paragraphs": [
+        "Die mRNA gelangt nicht in den Zellkern, in dem unsere DNA liegt. Sie wird nach der Herstellung des Eiweißes innerhalb weniger Tage abgebaut – so wie die vielen tausend mRNA-Moleküle, die dein Körper ohnehin jeden Tag selbst produziert und wieder zerlegt."
+      ]
+    },
+    {
+      "heading": "Ein Nobelpreis für jahrzehntelange Forschung",
+      "paragraphs": [
+        "Die Technik ist nicht über Nacht entstanden. Katalin Karikó und Drew Weissman fanden heraus, wie man mRNA so verändert, dass das Immunsystem sie nicht sofort als Gefahr bekämpft. Dafür erhielten sie 2023 den Nobelpreis für Medizin. Heute wird die Methode auch für Impfungen gegen Krebs erforscht."
+      ]
+    }
+  ],
+  "whyItMatters": "Über Impfungen wird viel gestritten – oft ohne zu wissen, wie sie funktionieren. Wer das Prinzip versteht, kann Falschinformationen besser erkennen und eigene Entscheidungen fundierter treffen.",
+  "glossary": [
+    {
+      "term": "mRNA",
+      "definition": "Messenger-RNA: ein Botenmolekül, das in der Zelle die Information für den Bau eines Eiweißes transportiert."
+    },
+    {
+      "term": "Antikörper",
+      "definition": "Eiweiße des Immunsystems, die sich gezielt an Erreger heften und sie unschädlich machen."
+    },
+    {
+      "term": "Spike-Protein",
+      "definition": "Ein Eiweiß auf der Oberfläche des Coronavirus, mit dem es an menschliche Zellen andockt."
+    }
+  ],
+  "quiz": {
+    "question": "Was liefert ein mRNA-Impfstoff dem Körper?",
+    "options": [
+      "Ein abgeschwächtes Virus",
+      "Eine Bauanleitung für ein Erreger-Eiweiß",
+      "Fertige Antikörper"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die mRNA ist eine Bauanleitung. Die Körperzellen bauen damit kurzzeitig ein Eiweiß, an dem das Immunsystem trainiert."
+  },
+  "discussion": [
+    "Warum verbreiten sich Falschinformationen über Impfungen so schnell – und wie könnte man dagegenhalten?",
+    "Sollte es Pflicht-Impfungen geben, etwa für Menschen, die im Krankenhaus arbeiten?"
+  ],
+  "sources": [
+    {
+      "title": "Press release: The Nobel Prize in Physiology or Medicine 2023",
+      "url": "https://www.nobelprize.org/prizes/medicine/2023/press-release/",
+      "publisher": "Nobel Prize Outreach"
+    },
+    {
+      "title": "RNA-Impfstoff",
+      "url": "https://de.wikipedia.org/wiki/RNA-Impfstoff",
+      "publisher": "Wikipedia"
+    }
+  ],
+  "aiGenerated": true
+}

@@ -1,0 +1,67 @@
+{
+  "id": "wann-war-hitler-offiziell-tot-die-geschichte-hinter-dem-tode",
+  "category": "geschichte",
+  "title": "Wann war Hitler offiziell tot? Die Geschichte hinter dem Todesdatum",
+  "teaser": "Adolf Hitler starb 1945, aber offiziell galt er erst viel später als tot. Warum war dieser historische Fakt so lange ein Streitpunkt?",
+  "tags": [
+    "Zweiter Weltkrieg",
+    "NS-Zeit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Adolf Hitler beging im April 1945 Suizid, doch sein Tod wurde lange Zeit nicht offiziell anerkannt.",
+    "Gerüchte und politische Verwirrungen sorgten dafür, dass sein Todesfall bis 1956 juristisch unklar blieb.",
+    "Die Klärung seines Todes ist ein Beispiel dafür, wie Propaganda die Geschichtsschreibung beeinflussen kann."
+  ],
+  "sections": [
+    {
+      "heading": "Der Tod, der lange offen blieb",
+      "paragraphs": [
+        "Am 30. April 1945 beendete Adolf Hitler sein Leben. Dieser Akt war ein tragisches Ende für eine dunkle Epoche der deutschen Geschichte. Doch obwohl der Tod bekannt war, gab es lange Zeit keinen offiziellen, rechtlichen Abschluss dieses Falls.",
+        "In der Zeit nach dem Krieg war die öffentliche Wahrnehmung von Hitlers Tod von vielen Gerüchten und politischen Spielchen geprägt. Diese Unsicherheit machte den Todesfall zu einem offenen Thema, das von verschiedenen Parteien und Interessengruppen genutzt wurde."
+      ]
+    },
+    {
+      "heading": "Die juristische Klärung in Berchtesgaden",
+      "paragraphs": [
+        "Die endgültige juristische Klärung kam erst viel später. Im Jahr 1956 erklärte ein Gericht in Berchtesgaden Hitlers Tod offiziell. Dieser Spalt im historischen Prozess zeigt, wie wichtig die formelle Anerkennung von Ereignissen ist, selbst wenn die Faktenlage klar war.",
+        "Solche Verzögerungen sind oft nicht nur akademisch. Sie können politische Narrative beeinflussen. Propaganda – also die gezielte Verbreitung von Informationen, oft mit einer bestimmten Agenda – kann dazu beitragen, dass ein historisch geklärter Sachverhalt lange Zeit in der öffentlichen Debatte als ungeklärt dargestellt wird."
+      ]
+    }
+  ],
+  "whyItMatters": "Für dich ist es wichtig zu wissen, dass Geschichte nicht nur aus Ereignissen besteht, sondern auch aus der Art und Weise, wie diese Ereignisse dokumentiert und anerkannt werden. Dieses Beispiel zeigt, wie politische Macht und Propaganda die Wahrnehmung von Fakten verzerren können. Es lehrt uns, kritisch zu hinterfragen, wer wann und warum etwas als 'wahr' erklärt.",
+  "glossary": [
+    {
+      "term": "Propaganda",
+      "definition": "Die gezielte Verbreitung von Informationen, oft selektiv oder verzerrt, um eine bestimmte politische Meinung oder Einstellung zu fördern."
+    },
+    {
+      "term": "Juristisch",
+      "definition": "Bezogen auf das Recht; etwas, das durch Gerichtsentscheidungen oder Gesetze formal bestätigt wird."
+    }
+  ],
+  "quiz": {
+    "question": "Wann wurde Adolf Hitlers Tod von einem Gericht offiziell bestätigt?",
+    "options": [
+      "Im April 1945",
+      "Im Jahr 1956",
+      "Im Mai 1990"
+    ],
+    "answerIndex": 1,
+    "explanation": "Obwohl er 1945 starb, bestätigte ein Gericht in Berchtesgaden seinen Tod erst 1956."
+  },
+  "discussion": [
+    "Wie unterscheidet sich ein historischer Fakt, der allgemein bekannt ist, von einem Fakt, der juristisch oder offiziell bestätigt werden muss?",
+    "Welche Rolle spielen Medien und staatliche Institutionen dabei, die Deutung von historischen Ereignissen zu beeinflussen?"
+  ],
+  "publishedAt": "2026-10-25T10:35:24.740Z",
+  "sources": [
+    {
+      "title": "Der Tag, an dem Hitler amtlich starb",
+      "url": "https://www.deutschlandfunk.de/25-10-1956-amtsgericht-berchtesgaden-erklaert-adolf-hitler-fuer-tot-100.html",
+      "publisher": "Deutschlandfunk Kalenderblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

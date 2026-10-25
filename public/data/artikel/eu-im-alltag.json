@@ -1,0 +1,77 @@
+{
+  "id": "eu-im-alltag",
+  "category": "politik",
+  "title": "Was macht die EU eigentlich – und was hat das mit dir zu tun?",
+  "teaser": "Kein Roaming, ein Ladekabel für alle, Erasmus: Die Europäische Union steckt in mehr Alltagsdingen, als man denkt.",
+  "tags": [
+    "EU",
+    "Demokratie",
+    "Wahlen",
+    "Alltag"
+  ],
+  "readingMinutes": 4,
+  "publishedAt": "2026-10-15T07:00:00.000Z",
+  "tldr": [
+    "Die EU ist ein Zusammenschluss von 27 Staaten, die viele Regeln gemeinsam beschließen.",
+    "Gesetze entstehen meist im Zusammenspiel von Kommission, Parlament und Rat.",
+    "Seit 2024 darf man in Deutschland schon mit 16 Jahren das Europaparlament wählen."
+  ],
+  "sections": [
+    {
+      "heading": "Wer entscheidet was?",
+      "paragraphs": [
+        "Die Europäische Kommission schlägt neue Gesetze vor. Darüber entscheiden dann zwei Institutionen gemeinsam: das Europäische Parlament, das alle fünf Jahre direkt von den Bürgerinnen und Bürgern gewählt wird, und der Rat der EU, in dem die Ministerinnen und Minister der Mitgliedstaaten sitzen.",
+        "Daneben gibt es den Europäischen Rat: Dort treffen sich die Staats- und Regierungschefs und legen die großen Linien fest."
+      ]
+    },
+    {
+      "heading": "EU zum Anfassen",
+      "paragraphs": [
+        "Seit 2017 zahlst du im EU-Ausland keine Roaming-Gebühren mehr fürs Handy. Seit Ende 2024 müssen neue Smartphones einen USB-C-Anschluss haben. Die Datenschutz-Grundverordnung regelt, was Firmen mit deinen Daten machen dürfen. Und mit Erasmus+ können junge Menschen im Ausland studieren oder eine Ausbildung machen.",
+        "Gleichzeitig gibt es Kritik: Entscheidungen dauern oft lange, und viele Menschen finden die EU schwer zu durchschauen."
+      ]
+    }
+  ],
+  "whyItMatters": "Ein großer Teil der Regeln, die in Deutschland gelten, wird in Brüssel und Straßburg mitbestimmt. Wer weiß, wie die EU funktioniert, kann besser mitreden – und mitwählen.",
+  "glossary": [
+    {
+      "term": "Europäische Kommission",
+      "definition": "Eine Art Regierung der EU: Sie schlägt Gesetze vor und achtet darauf, dass sie eingehalten werden."
+    },
+    {
+      "term": "Europäisches Parlament",
+      "definition": "Die direkt gewählte Volksvertretung der EU."
+    },
+    {
+      "term": "Roaming",
+      "definition": "Die Nutzung eines Handynetzes im Ausland. Innerhalb der EU kostet das seit 2017 nicht mehr extra."
+    }
+  ],
+  "quiz": {
+    "question": "Wer schlägt in der EU neue Gesetze vor?",
+    "options": [
+      "Das Europäische Parlament",
+      "Die Europäische Kommission",
+      "Der Europäische Gerichtshof"
+    ],
+    "answerIndex": 1,
+    "explanation": "Das Vorschlagsrecht liegt in der Regel bei der Kommission. Parlament und Rat entscheiden dann gemeinsam."
+  },
+  "discussion": [
+    "Sollte die EU mehr entscheiden dürfen, zum Beispiel beim Klimaschutz – oder lieber weniger?",
+    "Welche EU-Regel merkst du in deinem Alltag am meisten?"
+  ],
+  "sources": [
+    {
+      "title": "So funktioniert die EU",
+      "url": "https://european-union.europa.eu/institutions-law-budget_de",
+      "publisher": "Europäische Union"
+    },
+    {
+      "title": "Europäische Union",
+      "url": "https://www.bpb.de/themen/europa/europaeische-union/",
+      "publisher": "Bundeszentrale für politische Bildung"
+    }
+  ],
+  "aiGenerated": true
+}

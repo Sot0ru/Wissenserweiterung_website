@@ -1,0 +1,77 @@
+{
+  "id": "industrielle-revolution",
+  "category": "geschichte",
+  "title": "Die Industrielle Revolution: Als Maschinen die Welt veränderten",
+  "teaser": "Dampfmaschine, Fabriken, Eisenbahn: Vor rund 250 Jahren begann ein Umbruch, der unser Leben bis heute prägt – vom Wohlstand bis zum Klimawandel.",
+  "tags": [
+    "Technik",
+    "Arbeit",
+    "Klima",
+    "Deutschland"
+  ],
+  "readingMinutes": 4,
+  "publishedAt": "2026-10-12T07:00:00.000Z",
+  "tldr": [
+    "Die Industrielle Revolution begann im 18. Jahrhundert in Großbritannien.",
+    "Maschinen und Fabriken ersetzten Handarbeit – viele Menschen zogen vom Land in die Städte.",
+    "Elend in den Fabriken führte zur Arbeiterbewegung und zu den ersten Sozialversicherungen."
+  ],
+  "sections": [
+    {
+      "heading": "Dampf statt Muskelkraft",
+      "paragraphs": [
+        "Lange wurde fast alles von Hand oder mit Tierkraft hergestellt. Im 18. Jahrhundert verbesserte James Watt die Dampfmaschine entscheidend. Mit Kohle betrieben, konnte sie Webstühle, Pumpen und später Lokomotiven antreiben.",
+        "In Deutschland fuhr 1835 die erste Eisenbahn zwischen Nürnberg und Fürth. Innerhalb weniger Jahrzehnte entstand ein Netz, das Waren und Menschen so schnell transportierte wie nie zuvor."
+      ]
+    },
+    {
+      "heading": "Die soziale Frage",
+      "paragraphs": [
+        "Für viele Menschen bedeutete der Fortschritt zunächst harte Zeiten: Arbeitstage von 14 Stunden, Kinderarbeit und enge, schmutzige Wohnungen. Arbeiterinnen und Arbeiter schlossen sich zusammen, gründeten Gewerkschaften und Parteien.",
+        "Als Reaktion führte Reichskanzler Otto von Bismarck in den 1880er-Jahren Kranken-, Unfall- und Rentenversicherung ein – die Grundlage unseres heutigen Sozialstaats."
+      ]
+    }
+  ],
+  "whyItMatters": "Seit der Industrialisierung verbrennen Menschen Kohle, Öl und Gas in großen Mengen – eine Hauptursache des Klimawandels. Und heute erleben wir mit Digitalisierung und KI wieder einen Umbruch, der die Arbeitswelt verändert.",
+  "glossary": [
+    {
+      "term": "Industrialisierung",
+      "definition": "Der Übergang von Handarbeit zur Massenproduktion mit Maschinen in Fabriken."
+    },
+    {
+      "term": "Gewerkschaft",
+      "definition": "Ein Zusammenschluss von Beschäftigten, der sich für bessere Löhne und Arbeitsbedingungen einsetzt."
+    },
+    {
+      "term": "Sozialversicherung",
+      "definition": "Pflichtversicherungen, die bei Krankheit, Unfall, Arbeitslosigkeit oder im Alter absichern."
+    }
+  ],
+  "quiz": {
+    "question": "Wo begann die Industrielle Revolution?",
+    "options": [
+      "In Deutschland",
+      "In Großbritannien",
+      "In den USA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sie begann im 18. Jahrhundert in Großbritannien und breitete sich dann über Europa und die Welt aus."
+  },
+  "discussion": [
+    "Ist die Digitalisierung mit KI eine neue industrielle Revolution? Was spricht dafür, was dagegen?",
+    "Welche Errungenschaften der Arbeiterbewegung nutzt du heute, ohne darüber nachzudenken?"
+  ],
+  "sources": [
+    {
+      "title": "Industrielle Revolution",
+      "url": "https://de.wikipedia.org/wiki/Industrielle_Revolution",
+      "publisher": "Wikipedia"
+    },
+    {
+      "title": "LeMO – Lebendiges Museum Online",
+      "url": "https://www.dhm.de/lemo/",
+      "publisher": "Deutsches Historisches Museum"
+    }
+  ],
+  "aiGenerated": true
+}
