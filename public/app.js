@@ -435,6 +435,104 @@ function renderLikes() {
     `}`;
 }
 
+/* ---------- Impressum und Datenschutz ---------- */
+
+/** Angabe aus betreiber.js – fehlt sie, gut sichtbarer Platzhalter statt erfundener Daten. */
+function owner(key, placeholder) {
+  const value = (window.BETREIBER || {})[key];
+  return value ? esc(value) : `<mark class="todo">[${placeholder}]</mark>`;
+}
+
+function ownerAddress() {
+  return `${owner("name", "Vor- und Nachname")}<br>${owner("strasse", "Straße und Hausnummer")}<br>${owner("ort", "PLZ und Ort")}`;
+}
+
+function renderImpressum() {
+  app.innerHTML = `
+    <article class="legal">
+      <div class="page-head"><h1>Impressum</h1></div>
+
+      <h2>Angaben gemäß § 5 DDG</h2>
+      <p>${ownerAddress()}</p>
+
+      <h2>Kontakt</h2>
+      <p>E-Mail: ${owner("email", "E-Mail-Adresse")}</p>
+
+      <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
+      <p>${ownerAddress()}</p>
+
+      <h2>Hinweis zu den Artikeln</h2>
+      <p>Die Artikel auf dieser Website werden automatisiert mit künstlicher Intelligenz auf Grundlage
+      der jeweils verlinkten Nachrichten- und Wissenschaftsquellen erstellt. Trotz Sorgfalt können sie
+      Fehler enthalten. Maßgeblich sind die Originalquellen. Hinweise auf Fehler bitte an die oben
+      genannte E-Mail-Adresse.</p>
+
+      <h2>Links zu anderen Websites</h2>
+      <p>Für die Inhalte verlinkter Seiten sind deren Betreiber verantwortlich. Zum Zeitpunkt der
+      Verlinkung waren keine Rechtsverstöße erkennbar. Wird ein Rechtsverstoß bekannt, wird der Link
+      entfernt.</p>
+    </article>`;
+}
+
+function renderDatenschutz() {
+  const stand = esc((window.BETREIBER || {}).stand || "");
+  app.innerHTML = `
+    <article class="legal">
+      <div class="page-head"><h1>Datenschutz&shy;erklärung</h1>
+        <p>Kurz gesagt: Diese Website setzt keine Cookies, nutzt kein Tracking und speichert deine Likes
+        nur auf deinem eigenen Gerät.</p></div>
+
+      <h2>1. Verantwortlicher</h2>
+      <p>${ownerAddress()}<br>E-Mail: ${owner("email", "E-Mail-Adresse")}</p>
+
+      <h2>2. Hosting bei GitHub Pages</h2>
+      <p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc.
+      (88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA), einer Tochter der Microsoft
+      Corporation. Wenn du die Website aufrufst, verarbeitet GitHub technisch notwendige Daten,
+      insbesondere deine IP-Adresse. Laut GitHub wird die IP-Adresse aus Sicherheitsgründen
+      protokolliert und gespeichert.</p>
+      <p>Rechtsgrundlage ist unser berechtigtes Interesse an einer sicheren und zuverlässigen
+      Bereitstellung der Website (Art. 6 Abs. 1 lit. f DSGVO). Dabei können Daten in die USA übermittelt
+      werden. Die Übermittlung stützt sich auf den Angemessenheitsbeschluss der EU-Kommission zum
+      EU-US Data Privacy Framework, unter dem Microsoft und GitHub zertifiziert sind. Auf diese
+      Protokolle haben wir als Betreiber keinen Zugriff.</p>
+      <p>Mehr dazu: <a href="https://docs.github.com/de/pages/getting-started-with-github-pages/about-github-pages#data-collection" target="_blank" rel="noopener noreferrer">GitHub Pages: Datenerfassung</a>
+      und die <a href="https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">Datenschutzerklärung von GitHub</a>.</p>
+
+      <h2>3. Keine Cookies, kein Tracking, keine fremden Inhalte</h2>
+      <p>Wir setzen keine Cookies und keine Analyse- oder Werbedienste ein. Schriften und Symbole liegen
+      auf dieser Website selbst; beim Aufruf werden keine Inhalte von Drittanbietern wie Google geladen.</p>
+
+      <h2>4. Speicherung auf deinem Gerät</h2>
+      <p>Damit die Like-Funktion und die Markierung „Gelesen“ funktionieren, speichert die Website in
+      deinem Browser (localStorage), welche Artikel du gelikt und geöffnet hast. Diese Daten verlassen
+      dein Gerät nie; wir können sie nicht sehen. Die Speicherung ist für die von dir genutzten Funktionen
+      unbedingt erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG).</p>
+      <p>Du kannst die Daten jederzeit löschen: unter „Likes“ mit „Likes und Verlauf zurücksetzen“ oder
+      indem du die Websitedaten in deinem Browser löschst.</p>
+
+      <h2>5. Links zu Quellen</h2>
+      <p>Artikel verlinken auf ihre Quellen, etwa tagesschau.de oder Spektrum.de. Erst wenn du einen
+      solchen Link antippst, wird die fremde Seite geöffnet; dort gilt deren Datenschutzerklärung.</p>
+
+      <h2>6. Teilen</h2>
+      <p>Der Knopf „Mit Freunden teilen“ öffnet die Teilen-Funktion deines Geräts oder kopiert den Link.
+      Wir erfahren dabei nicht, ob und mit wem du teilst.</p>
+
+      <h2>7. Erstellung der Artikel mit KI</h2>
+      <p>Die Artikel erstellt ein KI-Modell auf Grundlage öffentlicher Nachrichten. Daten von Besucherinnen
+      und Besuchern werden dafür nicht verwendet.</p>
+
+      <h2>8. Deine Rechte</h2>
+      <p>Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung deiner
+      Daten sowie das Recht, der Verarbeitung zu widersprechen (Art. 15 bis 21 DSGVO). Wende dich dafür
+      an die oben genannte E-Mail-Adresse. Außerdem kannst du dich bei einer
+      Datenschutz-Aufsichtsbehörde beschweren, zum Beispiel bei der Behörde deines Bundeslandes.</p>
+
+      ${stand ? `<p class="stand">Stand: ${stand}</p>` : ""}
+    </article>`;
+}
+
 function renderNotFound() {
   app.innerHTML = `<p class="empty">Diese Seite gibt es nicht. <a href="#/">Zur Startseite</a></p>`;
 }
@@ -444,7 +542,7 @@ function renderNotFound() {
 function route() {
   const [, page = "", param = ""] = location.hash.replace(/^#/, "").split("/");
   const id = decodeURIComponent(param);
-  const tab = page === "" ? "feed" : page === "likes" ? "likes" : page === "artikel" ? null : "themen";
+  const tab = page === "" ? "feed" : page === "likes" ? "likes" : ["themen", "thema"].includes(page) ? "themen" : null;
   document.querySelectorAll(".tabbar a").forEach((el) => {
     el.classList.toggle("active", el.dataset.tab === tab);
     if (el.dataset.tab === tab) el.setAttribute("aria-current", "page");
@@ -457,6 +555,8 @@ function route() {
   else if (page === "thema") renderCategory(id);
   else if (page === "artikel") renderArticle(id);
   else if (page === "likes") renderLikes();
+  else if (page === "impressum") renderImpressum();
+  else if (page === "datenschutz") renderDatenschutz();
   else renderNotFound();
 
   window.scrollTo(0, 0);

@@ -716,6 +716,31 @@ main {
   font-size: 15px;
 }
 
+/* ---------- Fußzeile und Rechtliches ---------- */
+.site-foot {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 8px var(--gutter) 28px;
+  display: flex;
+  gap: 20px;
+  font-family: var(--sans);
+  font-size: var(--step-small);
+}
+.site-foot a { color: var(--muted); min-height: 44px; display: inline-flex; align-items: center; }
+
+.legal { max-width: 65ch; }
+.legal h2 { font-size: var(--step-body); margin: 28px 0 8px; letter-spacing: -0.01em; }
+.legal p + p { margin-top: 10px; }
+.legal a { word-break: break-word; }
+.legal .stand { margin-top: 28px; color: var(--muted); font-size: var(--step-small); }
+.todo {
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-family: var(--sans);
+  font-weight: 700;
+  padding: 0 4px;
+}
+
 /* ---------- Toast ---------- */
 .toast {
   position: fixed;
