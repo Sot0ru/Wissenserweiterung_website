@@ -7,7 +7,9 @@
 
 const CATEGORIES = {
   medizin:      { name: "Medizin",      desc: "Körper, Gesundheit, Forschung" },
-  wissenschaft: { name: "Wissenschaft", desc: "Natur, Technik, Weltall" },
+  wissenschaft: { name: "Wissenschaft", desc: "Natur, Technik, Klima" },
+  astronomie:   { name: "Astronomie",   desc: "Sterne, Planeten, Raumfahrt" },
+  psychologie:  { name: "Psychologie",  desc: "Denken, Fühlen, Verhalten" },
   politik:      { name: "Politik",      desc: "Demokratie, Gesellschaft, Welt" },
   geschichte:   { name: "Geschichte",   desc: "Wie wir wurden, was wir sind" },
 };

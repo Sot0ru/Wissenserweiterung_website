@@ -6,7 +6,7 @@ Gestaltungsgrundlage für alle UI-Arbeiten. Entstanden mit den Projekt-Skills `t
 
 ## Idee
 
-Die vier Themen sind vier flache Farbflächen. Jeder Artikel ist ein Plakat in der Farbe seines
+Die sechs Themen sind sechs flache Farbflächen. Jeder Artikel ist ein Plakat in der Farbe seines
 Themas; der Feed liest sich wie eine Reihe aufgehängter Plakate. Eine Schrift-Familie und ein
 Raster halten alles zusammen.
 
@@ -14,6 +14,8 @@ Raster halten alles zusammen.
 | ------------ | --------- | ----------- |
 | Medizin      | `#c3ead5` | Kreuz       |
 | Wissenschaft | `#cbe4f2` | Atom        |
+| Astronomie   | `#d5cbf6` | Mondsichel  |
+| Psychologie  | `#ffc2ad` | Kopfprofil  |
 | Politik      | `#ffc013` | Säulenbau   |
 | Geschichte   | `#f1e3b5` | Sanduhr     |
 

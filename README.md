@@ -2,7 +2,7 @@
 
 Allgemeinwissen in kleinen Happen – für Jugendliche und junge Erwachsene, gemacht fürs Handy.
 
-- **Vier Themen:** Medizin, Wissenschaft, Politik, Geschichte
+- **Sechs Themen:** Medizin, Wissenschaft, Astronomie, Psychologie, Politik, Geschichte
 - **Quellen:** Nachrichten (tagesschau.de, Deutschlandfunk, Ärzteblatt) und Wissenschaft
   (Spektrum, ScienceDaily)
 - **KI-Artikel:** Ein freies Open-Source-Modell (lokal über Ollama) oder optional Claude schreibt aus jeder Meldung einen Erklär-Artikel mit „Das Wichtigste in
@@ -49,7 +49,7 @@ Cron oder GitHub Actions.
 
 ## Online stellen und täglich neue Artikel (GitHub)
 
-Der Ablauf in `.github/workflows/taeglich.yml` schreibt jeden Morgen gegen 5–6 Uhr je Thema zwei
+Der Ablauf in `.github/workflows/taeglich.yml` schreibt jeden Morgen (Start 3:17 Uhr, fertig gegen 5–6 Uhr) mit gemma4:12b je Thema zwei
 neue Artikel (mit Ollama auf einem GitHub-Rechner, kostenlos) und veröffentlicht die Website auf
 GitHub Pages. Einmalig einrichten:
 

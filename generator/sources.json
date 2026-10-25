@@ -9,6 +9,16 @@
     { "publisher": "Spektrum der Wissenschaft", "url": "https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406" },
     { "publisher": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/top/science.xml" }
   ],
+  "astronomie": [
+    { "publisher": "Sterne und Weltraum", "url": "https://www.spektrum.de/alias/rss/sterne-und-weltraum-rss-feed/865248" },
+    { "publisher": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/space_time/astronomy.xml" },
+    { "publisher": "ESA", "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science" },
+    { "publisher": "Raumfahrer.net", "url": "https://www.raumfahrer.net/feed/" }
+  ],
+  "psychologie": [
+    { "publisher": "Gehirn&Geist", "url": "https://www.spektrum.de/alias/rss/gehirn-und-geist-rss-feed/982626" },
+    { "publisher": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/mind_brain/psychology.xml" }
+  ],
   "politik": [
     { "publisher": "tagesschau.de", "url": "https://www.tagesschau.de/inland/index~rss2.xml" },
     { "publisher": "tagesschau.de", "url": "https://www.tagesschau.de/ausland/index~rss2.xml" },

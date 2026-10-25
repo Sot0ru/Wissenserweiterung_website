@@ -1,18 +1,19 @@
 # Jeden Morgen neue Artikel schreiben lassen und die Website veröffentlichen.
 #
-# - Zeitplan: täglich ca. 5 Uhr (Winterzeit) / 6 Uhr (Sommerzeit). GitHub startet geplante
-#   Läufe manchmal etwas später.
+# - Zeitplan: Start täglich 3:17 Uhr (Winterzeit) / 4:17 Uhr (Sommerzeit). Mit gemma4:12b und
+#   sechs Themen dauert ein Lauf etwa 1,5 bis 2 Stunden; die Artikel sind also gegen 5–6 Uhr online.
+#   GitHub startet geplante Läufe manchmal etwas später.
 # - Von Hand starten: Reiter „Actions“ → „Täglich neue Artikel“ → „Run workflow“.
 # - Bei jedem Push auf main wird die Website ebenfalls neu veröffentlicht (ohne neue Artikel).
 #
-# Die Artikel schreibt ein freies Open-Source-Modell (Ollama + gemma4:e4b) direkt auf dem
+# Die Artikel schreibt ein freies Open-Source-Modell (Ollama + gemma4:12b) direkt auf dem
 # GitHub-Rechner. Für öffentliche Repositories kostet das nichts.
 
 name: Täglich neue Artikel
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "17 2 * * *"
   workflow_dispatch:
     inputs:
       per_category:
@@ -31,14 +32,14 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  OLLAMA_MODEL: gemma4:e4b
+  OLLAMA_MODEL: gemma4:12b
 
 jobs:
   generate:
     name: Artikel schreiben
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 330 # GitHub erlaubt höchstens 360; fertige Artikel werden auch bei Abbruch gespeichert
     steps:
       - uses: actions/checkout@v7
         with:
@@ -77,7 +78,8 @@ jobs:
   deploy:
     name: Website veröffentlichen
     needs: generate
-    if: always() && needs.generate.result != 'cancelled'
+    # Auch nach Abbruch oder Zeitüberschreitung veröffentlichen, damit gespeicherte Artikel online gehen.
+    if: always()
     runs-on: ubuntu-latest
     environment:
       name: github-pages

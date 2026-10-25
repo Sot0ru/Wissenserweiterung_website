@@ -41,6 +41,8 @@
   /* Themenfelder: flach, volle Stärke, immer schwarze Schrift */
   --medizin: #c3ead5;
   --wissenschaft: #cbe4f2;
+  --astronomie: #d5cbf6;
+  --psychologie: #ffc2ad;
   --politik: #ffc013;
   --geschichte: #f1e3b5;
   --field-ink: #0a0a0a;
@@ -80,6 +82,8 @@
 
 [data-cat="medizin"]      { --cat: var(--medizin); }
 [data-cat="wissenschaft"] { --cat: var(--wissenschaft); }
+[data-cat="astronomie"]   { --cat: var(--astronomie); }
+[data-cat="psychologie"]  { --cat: var(--psychologie); }
 [data-cat="politik"]      { --cat: var(--politik); }
 [data-cat="geschichte"]   { --cat: var(--geschichte); }
 [data-cat] {

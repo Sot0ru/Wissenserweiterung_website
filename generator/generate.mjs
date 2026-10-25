@@ -151,6 +151,8 @@ async function loadSourceText(item) {
 const CATEGORY_NAMES = {
   medizin: "Medizin",
   wissenschaft: "Wissenschaft",
+  astronomie: "Astronomie",
+  psychologie: "Psychologie",
   politik: "Politik",
   geschichte: "Geschichte",
 };
@@ -183,11 +185,13 @@ Bausteine:
 
 Themenprüfung (Feld category):
 Der Feed hat die Meldung einem Thema zugeordnet, das stimmt aber nicht immer. Entscheide selbst, wohin der Artikel gehört:
-- medizin: Gesundheit, Krankheiten, Körper, Ernährung, psychische Gesundheit, Medikamente, Gesundheitssystem.
-- wissenschaft: Naturwissenschaften, Technik, Umwelt und Klima, Wetter und Naturphänomene mit Erklärung, Mathematik, Weltall, Forschung über menschliches Verhalten.
+- medizin: Gesundheit, Krankheiten (auch psychische Erkrankungen und ihre Behandlung), Körper, Ernährung, Medikamente, Gesundheitssystem.
+- wissenschaft: Naturwissenschaften auf der Erde, Technik, Umwelt und Klima, Wetter und Naturphänomene mit Erklärung, Mathematik.
+- astronomie: Weltall, Sterne, Planeten, Galaxien, Schwarze Löcher, Himmelsbeobachtung, Raumfahrt.
+- psychologie: wie Menschen denken, fühlen und handeln: Gefühle, Motivation, Lernen, Gewohnheiten, Denkfehler, Beziehungen, Persönlichkeit, Gehirn und Verhalten.
 - politik: Regierung, Parlamente, Wahlen, Gesetze, internationale Beziehungen, Konflikte, Wirtschafts- und Sozialpolitik, gesellschaftliche Debatten.
 - geschichte: historische Ereignisse, Personen und Epochen, Jahrestage.
-- keins: passt in keines der vier Themen.
+- keins: passt in keines der sechs Themen.
 Wähle das Thema, um das es im Kern geht, nicht das, in dem die Meldung erschienen ist. Eine Unwetterwarnung ist zum Beispiel keine Politik; erklärt der Artikel, wie Stürme entstehen, gehört er zu wissenschaft.
 
 Nicht geeignet sind: Kommentare und andere Meinungsbeiträge, Liveticker, Sportergebnisse, Promi-Meldungen, reine Kriminalfälle oder Unfälle ohne gesellschaftliche Bedeutung, reine Wetterberichte, Werbung und Meldungen mit zu wenig Inhalt. Setze dann suitable auf false, begründe kurz in reason und fülle die übrigen Felder mit leeren Werten.`;
@@ -201,7 +205,7 @@ const ARTICLE_SCHEMA = {
   ],
   properties: {
     suitable: { type: "boolean" },
-    category: { type: "string", enum: ["medizin", "wissenschaft", "politik", "geschichte", "keins"] },
+    category: { type: "string", enum: [...Object.keys(CATEGORY_NAMES), "keins"] },
     reason: { type: "string" },
     title: { type: "string" },
     teaser: { type: "string" },
@@ -473,7 +477,7 @@ async function main() {
       // Themenprüfung: Die KI entscheidet, wohin der Artikel wirklich gehört.
       const topic = result.category;
       if (!CATEGORY_NAMES[topic]) {
-        console.log("    übersprungen: passt zu keinem der vier Themen");
+        console.log("    übersprungen: passt zu keinem Thema");
         continue;
       }
       if (topic !== category) {

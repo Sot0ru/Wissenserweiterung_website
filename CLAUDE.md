@@ -1,7 +1,7 @@
 # Wissenshappen
 
 Mobile-first Wissens-Website für Jugendliche und junge Erwachsene: KI-erstellte Erklär-Artikel zu
-Medizin, Wissenschaft, Politik und Geschichte, personalisiert über Likes. Siehe README.md.
+Medizin, Wissenschaft, Astronomie, Psychologie, Politik und Geschichte, personalisiert über Likes. Siehe README.md.
 
 ## Design-Skills (in `.claude/skills/`)
 
@@ -18,8 +18,9 @@ aus dem Netz nach. Vorher den Nutzer fragen.
 
 ## Artikel-Generator
 
-`generator/generate.mjs` nutzt standardmäßig Ollama mit `gemma4:e4b` (lokal, kostenlos, ca.
-2–6 Min. pro Artikel auf diesem Laptop ohne Grafikkarte). `--provider claude` für die Claude-API.
+`generator/generate.mjs` nutzt lokal standardmäßig Ollama mit `gemma4:e4b` (kostenlos, ca.
+2–6 Min. pro Artikel auf diesem Laptop ohne Grafikkarte). Der tägliche GitHub-Lauf nutzt
+`gemma4:12b` (eingestellt in `.github/workflows/taeglich.yml`). `--provider claude` für die Claude-API.
 Kleine lokale Modelle machen sachliche Fehler: neue Artikel vor dem Veröffentlichen gegenlesen.
 
 ## Konventionen
