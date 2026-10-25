@@ -1,0 +1,82 @@
+{
+  "id": "wohnungen-vergesellschaften-was-bedeutet-das-und-wie-wird-es",
+  "category": "politik",
+  "title": "Wohnungen vergesellschaften: Was bedeutet das und wie wird es verhindert?",
+  "teaser": "Die Idee, große Immobilienkonzerne zu enteignen, sorgt in Berlin für Diskussionen. Aber wie sieht die Gegenseite aus? Wir erklären dir die politischen Pläne.",
+  "tags": [
+    "Wohnen",
+    "Immobilien",
+    "Soziales",
+    "Gesetzgebung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In Berlin diskutiert die Linkspartei die Vergesellschaftung von Wohnungen, also die Übernahme von Immobilienkonzernen durch staatliche Stellen.",
+    "Die Bundesregierung plant ein Gesetz, das solche Enteignungen stark erschwert, um einen „Investitionsschutz“ zu gewährleisten.",
+    "Kurz gesagt: Es gibt einen politischen Wettstreit zwischen dem Wunsch nach sozialem Wohnraum und dem Schutz privater Investitionen."
+  ],
+  "sections": [
+    {
+      "heading": "Was heißt „Vergesellschaftung“ von Wohnungen?",
+      "paragraphs": [
+        "Wenn von „Vergesellschaftung“ die Rede ist, geht es um die Übernahme von privaten Immobilienbeständen durch staatliche oder gemeinnützige Träger. Konkret bedeutet das, dass große Wohnungsunternehmen, die viele Mietwohnungen besitzen, in staatliche Hände übergehen könnten.",
+        "Die Befürworter dieser Idee sehen darin einen Weg, den Wohnungsmarkt sozialer zu gestalten. Sie möchten verhindern, dass Immobilien nur noch als reine Profitmaschine dienen und dass Mieten unkontrolliert steigen.",
+        "Die Pläne, die in Berlin diskutiert werden, zielen darauf ab, große Konzerne mit mehr als 10.000 Wohnungen zu übernehmen. Das würde einen großen Einfluss auf das Wohnen in der Stadt haben."
+      ]
+    },
+    {
+      "heading": "Die Bremse der Bundesregierung: Hohe Hürden im Gesetz",
+      "paragraphs": [
+        "Die Bundesregierung sieht diese Pläne kritisch und arbeitet an einem Gesetz, das diesen Vorgängen hohe Hürden auferlegen soll. Dieses Vorhaben wird teilweise als „Anti-Enteignungsgesetz“ bezeichnet.",
+        "Die Kernidee dieses geplanten Gesetzes ist, dass eine Übernahme nur unter sehr strengen Bedingungen möglich sein darf. Eine zwingende Notwendigkeit muss nachgewiesen werden.",
+        "Das bedeutet, die zuständige Landesregierung müsste beweisen, dass sie alle anderen Möglichkeiten ausgeschöpft hat – zum Beispiel durch Förderung oder Investitionen in neuen Wohnraum – und ihr wirklich keine andere Wahl bleibt. Das ist ein sehr hoher bürokratischer und rechtlicher Standard."
+      ]
+    },
+    {
+      "heading": "Was passiert, wenn es doch zur Übernahme kommt?",
+      "paragraphs": [
+        "Sollte eine Enteignung trotz aller Hürden stattfinden, sieht das Gesetz vor, dass die Eigentümer eine Entschädigung erhalten. Diese muss „unmittelbar in Geld“ gezahlt werden und basiert auf dem sogenannten Verkehrswert der Immobilie, den ein Gutachten feststellt.",
+        "Die Debatte ist politisch aufgeladen. Während Befürworter von mehr sozialem Wohnraum sprechen, warnen Kritiker, dass solche Gesetze private Investitionen gefährden könnten. Sie argumentieren, dass der Schutz von Eigentum im Grundgesetz wichtig sei."
+      ]
+    }
+  ],
+  "whyItMatters": "Wohnraum ist für jeden von uns extrem wichtig. Wenn die Regeln dafür sich ändern, beeinflusst das direkt, wie viel du für deine Miete bezahlen musst. Dieses Thema zeigt, wie Politik und Wirtschaft aufeinanderprallen, wenn es um grundlegende Bedürfnisse geht.",
+  "glossary": [
+    {
+      "term": "Vergesellschaftung",
+      "definition": "Die Überführung von privaten Vermögenswerten (wie Wohnungen) in staatliche oder gemeinnützige Besitzverhältnisse."
+    },
+    {
+      "term": "Enteignung",
+      "definition": "Die zwangsweise Übernahme von Privatbesitz durch den Staat, meist gegen eine Entschädigung."
+    },
+    {
+      "term": "Verkehrswert",
+      "definition": "Der marktübliche Wert einer Immobilie, also was sie auf dem freien Kauf- und Verkaufsmarkt kosten würde."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Bedingung muss laut den Plänen der Bundesregierung für eine Vergesellschaftung erfüllt sein?",
+    "options": [
+      "Die Stadt muss eine politische Mehrheit für die Enteignung haben.",
+      "Es muss eine zwingende Notwendigkeit nachgewiesen werden, nachdem alle anderen Mittel ausgeschöpft sind.",
+      "Die Eigentümer müssen sich freiwillig zur Übernahme bereit erklären."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Pläne sehen vor, dass eine Übernahme nur möglich ist, wenn eine zwingende Notwendigkeit besteht und die Regierung alle anderen Mittel ausgeschöpft hat."
+  },
+  "discussion": [
+    "Wie balancierst du das Verhältnis zwischen dem Recht auf Eigentum und dem gesellschaftlichen Bedürfnis nach bezahlbarem Wohnraum?",
+    "Welche Rolle sollte der Staat bei der Gestaltung des Wohnungsmarktes spielen: soll er nur regulieren oder aktiv eingreifen?"
+  ],
+  "publishedAt": "2026-10-25T12:02:55.153Z",
+  "sources": [
+    {
+      "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

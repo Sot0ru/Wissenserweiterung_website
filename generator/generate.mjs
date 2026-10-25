@@ -110,8 +110,11 @@ async function loadCandidates(category, feeds, usedLinks) {
       console.warn(`  ! Feed nicht erreichbar (${feed.publisher}): ${err.message}`);
     }
   }
+  // Meinungsbeiträge auslassen: Ein Erklär-Artikel daraus würde eine Meinung als Tatsache wiedergeben.
+  const OPINION = /^(kommentar|meinung|leitartikel|kolumne|essay|glosse|gastbeitrag)\b/i;
   return items
     .filter((i) => !usedLinks.has(i.link))
+    .filter((i) => !OPINION.test(i.title))
     .sort((a, b) => b.date - a.date)
     .slice(0, CANDIDATES_PER_CATEGORY);
 }
@@ -120,8 +123,18 @@ async function loadCandidates(category, feeds, usedLinks) {
 async function loadSourceText(item) {
   try {
     const html = await fetchText(item.link);
-    const main = html.match(/<article[\s\S]*?<\/article>/i)?.[0] || html.match(/<main[\s\S]*?<\/main>/i)?.[0] || html;
-    let text = stripTags(main);
+    // Viele Seiten haben mehrere <article>-Blöcke (Teaser-Kästen, Empfehlungen, Videoplayer).
+    // Nimm den Block mit dem meisten Fließtext, gezählt nur in echten Absätzen und Zwischenüberschriften.
+    const paragraphs = (block) =>
+      [...block.matchAll(/<(p|h2|h3|li)[\s>][\s\S]*?<\/\1>/gi)]
+        .map((m) => stripTags(m[0]))
+        .filter((t) => t.length > 40)
+        .join("\n\n");
+    const containers = [
+      ...[...html.matchAll(/<article[\s\S]*?<\/article>/gi)].map((m) => m[0]),
+      html.match(/<main[\s\S]*?<\/main>/i)?.[0] ?? html,
+    ];
+    let text = containers.map(paragraphs).sort((a, b) => b.length - a.length)[0] ?? "";
     if (text.length > MAX_SOURCE_CHARS) {
       console.warn(`  ! Quelltext gekürzt (${text.length} → ${MAX_SOURCE_CHARS} Zeichen): ${item.link}`);
       text = text.slice(0, MAX_SOURCE_CHARS);
@@ -168,17 +181,27 @@ Bausteine:
 - tags: drei bis fünf verschiedene kurze Stichworte (z. B. „Klima“, „EU“, „Genetik“), damit verwandte Artikel gefunden werden. Verwende bevorzugt allgemeine, wiederverwendbare Begriffe, aber nicht den Namen des Themas selbst.
 - readingMinutes: geschätzte Lesezeit in Minuten.
 
-Nicht geeignet sind: Liveticker, Sportergebnisse, Promi-Meldungen, reine Kriminalfälle ohne gesellschaftliche Bedeutung, Werbung und Meldungen mit zu wenig Inhalt. Setze dann suitable auf false, begründe kurz in reason und fülle die übrigen Felder mit leeren Werten.`;
+Themenprüfung (Feld category):
+Der Feed hat die Meldung einem Thema zugeordnet, das stimmt aber nicht immer. Entscheide selbst, wohin der Artikel gehört:
+- medizin: Gesundheit, Krankheiten, Körper, Ernährung, psychische Gesundheit, Medikamente, Gesundheitssystem.
+- wissenschaft: Naturwissenschaften, Technik, Umwelt und Klima, Wetter und Naturphänomene mit Erklärung, Mathematik, Weltall, Forschung über menschliches Verhalten.
+- politik: Regierung, Parlamente, Wahlen, Gesetze, internationale Beziehungen, Konflikte, Wirtschafts- und Sozialpolitik, gesellschaftliche Debatten.
+- geschichte: historische Ereignisse, Personen und Epochen, Jahrestage.
+- keins: passt in keines der vier Themen.
+Wähle das Thema, um das es im Kern geht, nicht das, in dem die Meldung erschienen ist. Eine Unwetterwarnung ist zum Beispiel keine Politik; erklärt der Artikel, wie Stürme entstehen, gehört er zu wissenschaft.
+
+Nicht geeignet sind: Kommentare und andere Meinungsbeiträge, Liveticker, Sportergebnisse, Promi-Meldungen, reine Kriminalfälle oder Unfälle ohne gesellschaftliche Bedeutung, reine Wetterberichte, Werbung und Meldungen mit zu wenig Inhalt. Setze dann suitable auf false, begründe kurz in reason und fülle die übrigen Felder mit leeren Werten.`;
 
 const ARTICLE_SCHEMA = {
   type: "object",
   additionalProperties: false,
   required: [
-    "suitable", "reason", "title", "teaser", "tags", "readingMinutes", "tldr",
+    "suitable", "reason", "category", "title", "teaser", "tags", "readingMinutes", "tldr",
     "sections", "whyItMatters", "glossary", "quiz", "discussion",
   ],
   properties: {
     suitable: { type: "boolean" },
+    category: { type: "string", enum: ["medizin", "wissenschaft", "politik", "geschichte", "keins"] },
     reason: { type: "string" },
     title: { type: "string" },
     teaser: { type: "string" },
@@ -223,7 +246,7 @@ const ARTICLE_SCHEMA = {
 };
 
 function buildPrompt(category, item, sourceText) {
-  return `Thema der Website: ${CATEGORY_NAMES[category]}
+  return `Der Feed ordnet diese Meldung dem Thema „${CATEGORY_NAMES[category]}“ zu. Prüfe, ob das stimmt.
 
 <quelle>
 <herausgeber>${item.publisher}</herausgeber>
@@ -447,6 +470,15 @@ async function main() {
         console.log(`    übersprungen: ${result.reason}`);
         continue;
       }
+      // Themenprüfung: Die KI entscheidet, wohin der Artikel wirklich gehört.
+      const topic = result.category;
+      if (!CATEGORY_NAMES[topic]) {
+        console.log("    übersprungen: passt zu keinem der vier Themen");
+        continue;
+      }
+      if (topic !== category) {
+        console.log(`    umsortiert: ${CATEGORY_NAMES[category]} → ${CATEGORY_NAMES[topic]}`);
+      }
       if (!isValid(result)) {
         console.warn("    ! unvollständiger Artikel – übersprungen");
         continue;
@@ -456,15 +488,15 @@ async function main() {
       while (existingIds.has(id)) id = `${id}-${Math.random().toString(36).slice(2, 6)}`;
       existingIds.add(id);
 
-      const { suitable, reason, ...article } = result;
+      const { suitable, reason, category: _, ...article } = result;
       const finished = {
         id,
-        category,
+        category: topic,
         ...article,
         sections: article.sections.map((s) => ({ ...s, paragraphs: mergeFragments(s.paragraphs) })),
         // Doppelte Stichworte und den Themennamen selbst entfernen (kleine Modelle wiederholen sich gern).
         tags: [...new Set(article.tags.map((t) => t.trim()).filter(Boolean))]
-          .filter((t) => t.toLowerCase() !== (CATEGORY_NAMES[category] ?? category).toLowerCase()),
+          .filter((t) => t.toLowerCase() !== CATEGORY_NAMES[topic].toLowerCase()),
         readingMinutes: Math.max(1, article.readingMinutes),
         publishedAt: new Date().toISOString(),
         sources: [{ title: item.title, url: item.link, publisher: item.publisher }],
