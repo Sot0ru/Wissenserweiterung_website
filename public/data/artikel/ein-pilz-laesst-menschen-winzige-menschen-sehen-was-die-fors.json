@@ -1,0 +1,82 @@
+{
+  "id": "ein-pilz-laesst-menschen-winzige-menschen-sehen-was-die-fors",
+  "category": "wissenschaft",
+  "title": "Ein Pilz lässt Menschen winzige Menschen sehen: Was die Forschung weiß",
+  "teaser": "Eine jahrzehntelange Rätselgeschichte aus verschiedenen Kulturen findet eine biologische Erklärung. Entdecke, wie ein Pilz unser Gehirn verändern kann.",
+  "tags": [
+    "Neurobiologie",
+    "Pilze",
+    "Halluzinationen",
+    "Wahrnehmung",
+    "Chemie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher identifizierten den Pilz *Lanmaoa asiatica* als Ursache für die sogenannten Lilliput-Halluzinationen, bei denen Betroffene winzige Menschen sehen.",
+    "Die Untersuchung ergab, dass dieser Pilz keine bekannten psychoaktiven Stoffe wie Psilocybin enthält.",
+    "Man vermutet, dass *L. asiatica* eine bisher unbekannte, halluzinogene Substanz produziert, die unser Gehirn beeinflusst."
+  ],
+  "sections": [
+    {
+      "heading": "Ein fast hundert Jahre altes Rätsel",
+      "paragraphs": [
+        "Seit Jahrzehnten berichten Menschen in Papua-Neuguinea, Südchina und auf den Philippinen von einem sehr seltsamen Erlebnis nach dem Verzehr bestimmter Wildpilze: Sie sehen winzige, farbenfrohe menschliche Figuren, die sich in der realen Welt bewegen. Diese Visionen werden als Lilliput-Halluzinationen bezeichnet, eine Anspielung auf die kleinen Bewohner aus „Gullivers Reisen“.",
+        "Ursprünglich vermuteten Wissenschaftler, dass kulturelle Überzeugungen oder Folklore diese ähnlichen Erfahrungen erklären könnten. Selbst Albert Hofmann, der Entdecker von LSD, fand in den Pilzen keinen Wirkstoff. Eine neue Studie liefert nun Belege für eine biologische Erklärung. Wichtig: Die Pilze werden vor Ort gegessen und lösen die Halluzinationen vor allem dann aus, wenn sie nicht gründlich gegart sind."
+      ]
+    },
+    {
+      "heading": "Der Pilz und das unbekannte Gift",
+      "paragraphs": [
+        "Forscher der University of Utah nutzten DNA-Sequenzierung, um den Pilz *Lanmaoa asiatica* als Verursacher dieser ungewöhnlichen Halluzinationen in Südchina und auf den Philippinen zu identifizieren. Das überraschendste Ergebnis: Die Untersuchung fand keine bekannten psychoaktiven Pilz-Wirkstoffe wie Psilocybin.",
+        "Diese Feststellung deutet darauf hin, dass *L. asiatica* möglicherweise eine völlig neue, unbekannte halluzinogene Substanz produziert. Die Identifizierung dieser Chemikalie könnte uns helfen, neurologische Störungen und die Prozesse zu verstehen, mit denen unser Gehirn die Realität konstruiert.",
+        "Die Forscher stellten fest, dass die Figuren, die gesehen werden, sehr detailliert sind. Etwa 90 Prozent der Betroffenen beschreiben Figuren, die Elfen oder Clowns ähneln und farbenfrohe Kleidung tragen. Noch ungewöhnlicher ist ihr Verhalten: Sie folgen scheinbar normalen physikalischen Gesetzen, zum Beispiel indem sie über Gegenstände laufen."
+      ]
+    },
+    {
+      "heading": "Was das für unser Verständnis des Gehirns bedeutet",
+      "paragraphs": [
+        "Die Entdeckung ist wichtig, weil sie zeigt, dass unser Gehirn auf sehr spezifische Reize reagieren kann. Der Pilz ist ein Auslöser, aber sind ähnliche Halluzinationen auch bei anderen neurologischen Zuständen bekannt, zum Beispiel bei Alkoholentzug, Demenz oder bestimmten Augenerkrankungen.",
+        "Die Wissenschaftler vermuten daher, dass diese Visionen möglicherweise auf einer grundlegenden Funktion des menschlichen Gehirns beruhen, nämlich der Art und Weise, wie es visuelle Informationen verarbeitet. Die genaue Wirkweise dieser neuen Substanz bleibt jedoch noch unklar und muss weiter erforscht werden."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie komplex unser Gehirn ist und wie stark äußere Einflüsse – selbst unbekannte Stoffe – unsere Wahrnehmung verändern können. Es hilft zu verstehen, was zwischen einer normalen Wahrnehmung und einer Halluzination liegt.",
+  "glossary": [
+    {
+      "term": "Halluzination",
+      "definition": "Eine sinnliche Wahrnehmung, die ohne einen äußeren Reiz stattfindet, also etwas sehen, hören oder fühlen, das nicht da ist."
+    },
+    {
+      "term": "Psychoaktiver Stoff",
+      "definition": "Eine Substanz, die die Psyche – also Gedanken, Gefühle und Wahrnehmungen – beeinflusst."
+    },
+    {
+      "term": "DNA-Sequenzierung",
+      "definition": "Ein Verfahren, bei dem die Abfolge der Nukleotide in einer DNA-Kette bestimmt wird, um Organismen zu identifizieren."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Pilz wurde als Ursache für die Lilliput-Halluzinationen identifiziert?",
+    "options": [
+      "Psilocybin",
+      "Lanmaoa asiatica",
+      "Boletaceae"
+    ],
+    "answerIndex": 1,
+    "explanation": "Der Pilz, der als Ursache identifiziert wurde, ist *Lanmaoa asiatica*."
+  },
+  "discussion": [
+    "Wie unterscheidet sich eine Halluzination, die durch eine unbekannte Substanz ausgelöst wird, von einer, die durch eine bekannte Substanz wie Alkohol oder Drogen verursacht wird?",
+    "Welche ethischen Fragen entstehen, wenn wissenschaftliche Forschung auf unbekannte, potenziell gefährliche Naturstoffe trifft?"
+  ],
+  "publishedAt": "2026-10-26T16:13:20.928Z",
+  "sources": [
+    {
+      "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

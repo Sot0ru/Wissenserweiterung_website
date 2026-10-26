@@ -1,0 +1,81 @@
+{
+  "id": "studentenliste-gewinnt-in-serbien-was-bedeutet-ein-machtwech",
+  "category": "politik",
+  "title": "Studentenliste gewinnt in Serbien: Was bedeutet ein Machtwechsel?",
+  "teaser": "Eine Protestbewegung hat in Serbien überraschend die Parlamentswahl gewonnen. Aber wie kann eine solche Bewegung eine stabile Regierung bilden?",
+  "tags": [
+    "Osteuropa",
+    "Demokratie",
+    "Wahl",
+    "Korruption",
+    "EU"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Studentenliste hat in Serbien die Parlamentswahl mit einer absoluten Mehrheit von rund 53 Prozent gewonnen und damit die langjährige Regierungspartei abgewählt.",
+    "Obwohl der Sieg klar ist, steht die Bildung einer Regierung noch aus, da der Listenführer nicht automatisch zum Premierminister wird.",
+    "Experten warnen davor, dass die neuen Regierenden große Herausforderungen erwarten, da viele Institutionen noch von der alten Elite kontrolliert werden."
+  ],
+  "sections": [
+    {
+      "heading": "Ein unerwarteter Sieg aus der Protestbewegung",
+      "paragraphs": [
+        "In Serbien hat eine oppositionelle Studentenliste die Parlamentswahl unerwartet deutlich gewonnen. Die Bewegung, die aus breiten Protesten entstanden ist, erreichte nach vorläufigen Angaben der Wahlkommission rund 53 Prozent der Stimmen. Damit hat sie die absolute Mehrheit im Parlament erreicht Die Serbische Fortschrittspartei (SNS) des langjährigen Machthabers Aleksandar Vucic kam auf etwa 39 Prozent.",
+        "Vucic räumte seine Niederlage schnell ein. Viele Beobachter waren davon überrascht, weil sie mit einer langen und schwierigen Wahlnacht gerechnet hatten. Der Sieg bedeutet, dass die Studentenliste alleine eine Regierung bilden kann und voraussichtlich 140 Abgeordnete ins Parlament schicken wird. Auf ihrer Wahlliste standen kaum Studierende, sondern Fachleute, die basisdemokratisch bestimmt wurden."
+      ]
+    },
+    {
+      "heading": "Herausforderungen: Von der Bewegung zur Regierung",
+      "paragraphs": [
+        "Trotz des klaren Wahlsiegs ist vieles noch unklar. Die größte Frage ist: Wer wird der Regierungschef? Der Listenführer der Studentenliste, Ilija Srdanovic, ist nicht automatisch für das Amt des Premierministers vorgesehen. Die Besetzung der Ministerposten muss in den nächsten Tagen noch entschieden werden.",
+        "Experten sehen dies als ein spannendes, aber risikoreiches Experiment. Eine breite Protestbewegung kann zwar eine Regierung stürzen, aber laut Experten kann sie nicht automatisch regieren. Große Aufgaben warten auf die neuen Akteure. Dazu gehört die Reform von Institutionen wie der Justiz und der Staatsanwaltschaft, da diese nach Einschätzung von Experten noch stark von der alten Elite beeinflusst sind."
+      ]
+    },
+    {
+      "heading": "Der Weg zur Demokratie und die EU-Zukunft",
+      "paragraphs": [
+        "Die Proteste, die zur Entstehung der Studentenliste führten, begannen vor zwei Jahren nach dem Einsturz eines Bahnhofsvordachs in Novi Sad, bei dem 16 Menschen ums Leben kamen. Kritiker führten dieses Unglück auf Korruption und Missstände der damaligen Regierung zurück. Die Studentenliste fordert nun unter anderem den Abbau der alten autoritären Elite und die Wiederherstellung der Medienfreiheit.",
+        "Serbien ist seit fast 15 Jahren EU-Beitrittskandidat. Unter der bisherigen Führung kam der Beitrittsprozess kaum voran. Ob sich das ändert, ist offen: Ein Politologe erwartet, dass auch die neue Regierung „kein bequemer Partner für Brüssel“ wird, weil ein Teil ihrer Wählerschaft der EU skeptisch gegenübersteht. Die EU hat sich bereit erklärt, Serbien bei Reformen in den Bereichen Rechtsstaatlichkeit und Korruptionsbekämpfung zu unterstützen, da die neue Regierung eine Chance auf mehr gesellschaftlichen Zusammenhalt bieten könnte."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieser Wandel zeigt, wie Bürgerproteste politische Macht verändern können. Für dich bedeutet das, dass auch in etablierten Systemen neue Bewegungen Einfluss nehmen können, wenn sie genug Unterstützung mobilisieren.",
+  "glossary": [
+    {
+      "term": "Absolute Mehrheit",
+      "definition": "Die Mehrheit aller Stimmen, die nötig ist, um eine Entscheidung oder eine Mehrheit im Parlament zu bilden."
+    },
+    {
+      "term": "Opposition",
+      "definition": "Die politischen Kräfte, die nicht an der Regierung beteiligt sind, aber die Regierung kontrollieren und kritisieren."
+    },
+    {
+      "term": "Basisdemokratisch",
+      "definition": "Ein System, bei dem Entscheidungen von der breiten Basis der Mitglieder oder Bürger getroffen werden, statt nur von einer kleinen Elite."
+    }
+  ],
+  "quiz": {
+    "question": "Welchen Stimmenanteil hat die Studentenliste laut vorläufigen Angaben der Wahlkommission erhalten?",
+    "options": [
+      "53 Prozent",
+      "16 Prozent",
+      "39 Prozent"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Studentenliste erreichte mit gut 53 Prozent der Stimmen die absolute Mehrheit."
+  },
+  "discussion": [
+    "Wie kann eine Bewegung, die aus einem spezifischen Ereignis (wie einem Bahnhofunglück) entstanden ist, eine langfristig stabile Regierung bilden?",
+    "Welche Rolle spielt die Unterstützung internationaler Organisationen, wie der EU, bei der erfolgreichen Umsetzung demokratischer Reformen in Ländern wie Serbien?"
+  ],
+  "publishedAt": "2026-10-26T16:21:03.886Z",
+  "sources": [
+    {
+      "title": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

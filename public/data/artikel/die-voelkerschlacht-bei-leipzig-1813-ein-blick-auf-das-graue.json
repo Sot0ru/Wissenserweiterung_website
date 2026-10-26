@@ -1,0 +1,81 @@
+{
+  "id": "die-voelkerschlacht-bei-leipzig-1813-ein-blick-auf-das-graue",
+  "category": "geschichte",
+  "title": "Die Völkerschlacht bei Leipzig 1813: Ein Blick auf das Grauen des Schlachtfelds",
+  "teaser": "Was geschah in der bis dahin größten Schlacht der Menschheitsgeschichte? Wir beleuchten die erschütternden Bilder von Leipzig 1813.",
+  "tags": [
+    "Napoleon",
+    "Kriegsgeschichte",
+    "Deutschland",
+    "19. Jahrhundert",
+    "Militär"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Völkerschlacht bei Leipzig im Oktober 1813 war eine der größten Schlachten der Menschheitsgeschichte und führte zu enormen Verlusten.",
+    "Zeitzeugen berichten von einem unfassbaren Grauen: Tausende Tote und Schwerverletzte lagen auf dem Schlachtfeld, oft unversorgt.",
+    "Die Schlacht trug maßgeblich zum Ende der napoleonischen Ära bei und führte später zum Wiener Kongress."
+  ],
+  "sections": [
+    {
+      "heading": "Das Ausmaß des Grauens in Leipzig",
+      "paragraphs": [
+        "Stell dir vor, du bist im Oktober 1813 in Leipzig. Die Stadt und ihr Umland waren Schauplatz der Völkerschlacht, der bis dahin größten Schlacht der Menschheitsgeschichte. Österreicher, Preußen, Russen und Schweden kämpften hier gegen die Armee Napoleons. Die Zahlen sind erschütternd: Bis zu 100.000 Menschen, Soldaten beider Seiten, wurden entweder getötet oder so schwer verletzt, dass sie kurz darauf starben.",
+        "Die vier Tage des Kampfes hinterließen ein kollektives Trauma. Zeitzeugen wie Ludwig Hußel beschreiben, dass die Toten alle Straßen bedeckten. Überall, wo man nicht gefochten hatte, fand man Leichen. Die Schlacht war so verheerend, dass selbst die Feldherren und Monarchen den Krieg satt hatten."
+      ]
+    },
+    {
+      "heading": "Die schrecklichen Bilder der Zeitzeugen",
+      "paragraphs": [
+        "Die Bilder, die die Menschen damals sahen, sind kaum vorstellbar. Ferdinand Grautoff erinnert sich an Richters Garten, wo die Franzosen fliehen mussten. Dort beschreibt er, wie der Fluss Elster von Leichen von Menschen und Pferden gedämmt schien. An beiden Ufern ragten viele tausend Arme aus dem Wasser.",
+        "Außerhalb der Stadtmauern erstreckte sich ein Terrain von über 200 Quadratkilometern, das von Toten übersät war. In Dörfern wie Schönefeld lagen Tausende Leichen ausgestreut, oft in Reihen, wie sie durch Kanonenkugeln niedergeschmettert worden waren. Die Versorgung der Verwundeten war katastrophal. Der Arzt Johann Christian Reil zählte rund 20.000 Verwundete und Kranke in der Stadt und berichtete von Amputationen mit stumpfen Messern. Viele Schwerverwundete lagen tagelang unversorgt auf dem Schlachtfeld."
+      ]
+    },
+    {
+      "heading": "Von der Schlacht zur Friedensordnung",
+      "paragraphs": [
+        "Obwohl die Schlacht eine Katastrophe war, führte sie zu einer politischen Wende. Die Verluste beider Seiten und das Ende der Kämpfe ebneten den Weg für neue politische Ordnungen. Kurz darauf, auf dem Wiener Kongress 1814/15, fanden die Herrscher eine dauerhafte Friedensordnung, die die europäische Machtstruktur neu definierte.",
+        "Die Schlacht bei Leipzig ist somit nicht nur ein Kapitel über militärisches Grauen, sondern auch ein Wendepunkt in der europäischen Geschichte, der das Ende einer Ära einläutete und neue politische Richtungen vorgab."
+      ]
+    }
+  ],
+  "whyItMatters": "Kriegsgeschichte hilft uns zu verstehen, wie große Ereignisse die Gesellschaft und Politik verändern. Die Völkerschlacht zeigt, welche menschlichen Kosten politische Entscheidungen haben können.",
+  "glossary": [
+    {
+      "term": "Kollektives Trauma",
+      "definition": "Ein tiefes, gemeinsames psychisches Erleben, das eine ganze Gruppe nach einem traumatischen Ereignis prägt."
+    },
+    {
+      "term": "Wiener Kongress",
+      "definition": "Eine wichtige Konferenz im Jahr 1814/15, auf der die europäischen Mächte nach den Napoleonischen Kriegen die politische Landkarte neu gestalteten."
+    },
+    {
+      "term": "Feldherren",
+      "definition": "Hochrangige Militärführer, die große Armeen kommandieren."
+    }
+  ],
+  "quiz": {
+    "question": "Wann fand die Völkerschlacht bei Leipzig statt?",
+    "options": [
+      "1809",
+      "1813",
+      "1814/15"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Schlacht fand im Oktober 1813 statt."
+  },
+  "discussion": [
+    "Wie beeinflusst die Erinnerung an große historische Ereignisse die heutige politische Landschaft?",
+    "Welche Verantwortung haben wir als heutige Generation, die Verbrechen und das Leid vergangener Kriege zu dokumentieren und zu verstehen?"
+  ],
+  "publishedAt": "2026-10-26T16:31:39.616Z",
+  "sources": [
+    {
+      "title": "Die Toten der Völkerschlacht bei Leipzig 1813: Niedergehauen, zerrissen, niedergeschossen",
+      "url": "https://www.mdr.de/geschichte/weitere-epochen/voelkerschlacht/leipzig-schlacht-tote-sachsen-napoleon-wiener-kongress,voelkerschlacht-1813-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

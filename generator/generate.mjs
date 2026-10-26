@@ -480,8 +480,9 @@ async function main() {
         const sourceText = await loadSourceText(item);
         // Aus drei Sätzen lässt sich kein guter Erklär-Artikel machen; das Modell füllt die Lücken
         // sonst mit Allgemeinplätzen oder erfundenen Details.
-        if (sourceText.length + item.description.length < MIN_SOURCE_CHARS) {
-          console.log(`    übersprungen: zu wenig Quelltext (${sourceText.length + item.description.length} Zeichen)`);
+        // Nur der Text der Originalseite zählt: Der Feed-Anreißer wiederholt meist ihren ersten Absatz.
+        if (sourceText.length < MIN_SOURCE_CHARS) {
+          console.log(`    übersprungen: zu wenig Quelltext (${sourceText.length} Zeichen)`);
           seen.add(item.link);
           continue;
         }
