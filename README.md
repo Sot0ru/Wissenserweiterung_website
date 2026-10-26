@@ -49,7 +49,7 @@ Cron oder GitHub Actions.
 
 ## Online stellen und täglich neue Artikel (GitHub)
 
-Der Ablauf in `.github/workflows/taeglich.yml` schreibt jeden Morgen (Start 3:17 Uhr, fertig gegen 5–6 Uhr) mit gemma4:12b je Thema zwei
+Der Ablauf in `.github/workflows/taeglich.yml` schreibt jeden Morgen (Start 3:17 Uhr, fertig gegen 4–5 Uhr) mit gemma4:e4b je Thema zwei
 neue Artikel (mit Ollama auf einem GitHub-Rechner, kostenlos) und veröffentlicht die Website auf
 GitHub Pages. Einmalig einrichten:
 

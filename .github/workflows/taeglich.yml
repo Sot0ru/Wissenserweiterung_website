@@ -1,12 +1,12 @@
 # Jeden Morgen neue Artikel schreiben lassen und die Website veröffentlichen.
 #
-# - Zeitplan: Start täglich 3:17 Uhr (Winterzeit) / 4:17 Uhr (Sommerzeit). Mit gemma4:12b und
-#   sechs Themen dauert ein Lauf etwa 1,5 bis 2 Stunden; die Artikel sind also gegen 5–6 Uhr online.
+# - Zeitplan: Start täglich 3:17 Uhr (Winterzeit) / 4:17 Uhr (Sommerzeit). Mit gemma4:e4b und
+#   sechs Themen dauert ein Lauf etwa 45 bis 60 Minuten; die Artikel sind also gegen 4–5 Uhr online.
 #   GitHub startet geplante Läufe manchmal etwas später.
 # - Von Hand starten: Reiter „Actions“ → „Täglich neue Artikel“ → „Run workflow“.
 # - Bei jedem Push auf main wird die Website ebenfalls neu veröffentlicht (ohne neue Artikel).
 #
-# Die Artikel schreibt ein freies Open-Source-Modell (Ollama + gemma4:12b) direkt auf dem
+# Die Artikel schreibt ein freies Open-Source-Modell (Ollama + gemma4:e4b) direkt auf dem
 # GitHub-Rechner. Für öffentliche Repositories kostet das nichts.
 
 name: Täglich neue Artikel
@@ -32,7 +32,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  OLLAMA_MODEL: gemma4:12b
+  OLLAMA_MODEL: gemma4:e4b
 
 jobs:
   generate:

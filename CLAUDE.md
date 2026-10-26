@@ -20,7 +20,8 @@ aus dem Netz nach. Vorher den Nutzer fragen.
 
 `generator/generate.mjs` nutzt lokal standardmäßig Ollama mit `gemma4:e4b` (kostenlos, ca.
 2–6 Min. pro Artikel auf diesem Laptop ohne Grafikkarte). Der tägliche GitHub-Lauf nutzt
-`gemma4:12b` (eingestellt in `.github/workflows/taeglich.yml`). `--provider claude` für die Claude-API.
+ebenfalls `gemma4:e4b` (eingestellt in `.github/workflows/taeglich.yml`); `gemma4:12b` wurde getestet und
+lieferte mehr Format- und Sachfehler. `--provider claude` für die Claude-API.
 Kleine lokale Modelle machen sachliche Fehler: neue Artikel vor dem Veröffentlichen gegenlesen.
 
 ## Konventionen
