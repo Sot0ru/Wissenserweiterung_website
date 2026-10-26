@@ -49,13 +49,13 @@
     }
   ],
   "quiz": {
-    "question": "Was ist die Hauptgefahr, die an den Nordseeküsten durch ein Sturmtief wie 'Manja' droht?",
+    "question": "Was ist die Hauptgefahr, die an den Nordseeküsten durch ein Sturmtief wie „Manja“ droht?",
     "options": [
+      "Ein anhaltender Niederschlag, der zu Überschwemmungen im Binnenland führt.",
       "Ein starker Temperaturabfall, der zu Eisbildung führt.",
-      "Eine Sturmflut, also ein ungewöhnlicher Anstieg des Meeresspiegels.",
-      "Ein anhaltender Niederschlag, der zu Überschwemmungen im Binnenland führt."
+      "Eine Sturmflut, also ein ungewöhnlicher Anstieg des Meeresspiegels."
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Die Quelle warnt explizit vor einer Sturmflut an der Nordseeküste."
   },
   "discussion": [

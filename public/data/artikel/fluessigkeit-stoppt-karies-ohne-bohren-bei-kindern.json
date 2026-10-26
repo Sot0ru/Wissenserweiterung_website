@@ -42,37 +42,6 @@
         "Obwohl Zahnärzte SDF schon seit Jahrzehnten nutzen, fehlte in den USA bisher der große wissenschaftliche Beweis für die Sicherheit und Wirksamkeit bei Kindern. Die aktuelle Studie liefert genau diese Daten. Das Ziel ist nun, dass die Behörden die Flüssigkeit offiziell als Medikament zur Kariesbekämpfung zulassen.",
         "Wenn das gelingt, könnten Kinder früher und einfacher behandelt werden, noch bevor die Schmerzen so stark werden, dass eine Notoperation nötig wird. Die Forscher hoffen, dass dadurch viele Kinder und Familien vor schweren Zahnproblemen bewahrt werden."
       ]
-    },
-    {
-      "heading": "Glossar",
-      "paragraphs": [
-        "Karies: Eine Zerstörung der Zahnschicht durch Bakterien und Säuren.",
-        "Arretierung: Das Anhalten oder Stoppen eines fortschreitenden Prozesses (hier: des Zahnverfalls).",
-        "Off-label-Anwendung: Wenn ein Medikament oder Medizinprodukt für einen Zweck verwendet wird, für den es offiziell noch nicht zugelassen ist.",
-        "Milchzähne: Die ersten Zähne, die ein Kind bekommt, bevor die bleibenden Zähne durchbrechen."
-      ]
-    },
-    {
-      "heading": "Quiz",
-      "paragraphs": [
-        "Was passiert mit der Zahnstelle nach der Behandlung mit Silberdiaminfluorid (SDF)?",
-        "Die Stelle wird durch eine künstliche Füllung ersetzt.",
-        "Die Stelle bleibt unverändert und wird nur oberflächlich gereinigt.",
-        "Die Stelle wird dauerhaft dunkel verfärbt."
-      ]
-    },
-    {
-      "heading": "Discussion",
-      "paragraphs": [
-        "Findest du, dass ein optischer Schönheitsfehler (die dunkle Verfärbung) ein guter Grund ist, auf eine schmerzfreie Behandlung zu verzichten?",
-        "Inwiefern könnte eine einfachere Behandlung von Karies die Gesundheitsversorgung für Kinder in ärmeren Regionen verbessern?"
-      ]
-    },
-    {
-      "heading": "Antwort",
-      "paragraphs": [
-        "2"
-      ]
     }
   ],
   "whyItMatters": "Zahnschmerzen sind für Kinder extrem belastend und können zu schweren Infektionen führen. Diese neue Erkenntnis zeigt, wie medizinischer Fortschritt einfache Lösungen für alltägliche Probleme finden kann.",
@@ -97,11 +66,11 @@
   "quiz": {
     "question": "Was passiert mit der Zahnstelle nach der Behandlung mit Silberdiaminfluorid (SDF)?",
     "options": [
+      "Die Stelle wird dauerhaft dunkel verfärbt.",
       "Die Stelle wird durch eine künstliche Füllung ersetzt.",
-      "Die Stelle bleibt unverändert und wird nur oberflächlich gereinigt.",
-      "Die Stelle wird dauerhaft dunkel verfärbt."
+      "Die Stelle bleibt unverändert und wird nur oberflächlich gereinigt."
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Der Text erklärt, dass die Behandlung die Karies stoppt, aber die Stelle dauerhaft dunkel verfärbt, was vor allem bei Frontzähnen auffallen kann."
   },
   "discussion": [

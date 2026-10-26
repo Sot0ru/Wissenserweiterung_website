@@ -54,11 +54,11 @@
   "quiz": {
     "question": "Was ist die Hauptwirkung des Saure-Trauben-Effekts?",
     "options": [
-      "Er hilft uns, schwierige Aufgaben schneller zu lösen.",
       "Er führt dazu, dass wir unerreichbare Dinge abwerten, um Frust zu vermeiden.",
-      "Er steigert automatisch unseren Ehrgeiz für neue Projekte."
+      "Er steigert automatisch unseren Ehrgeiz für neue Projekte.",
+      "Er hilft uns, schwierige Aufgaben schneller zu lösen."
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Die Abwertung dient der Dissonanzreduktion, um den Schmerz des Aufgebens zu lindern."
   },
   "discussion": [

@@ -24,6 +24,7 @@ import { homedir } from "node:os";
 import { fileURLToPath } from "node:url";
 import { join } from "node:path";
 import { loadArticles, saveArticle, rebuildIndex } from "./store.mjs";
+import { cleanArticle } from "./clean.mjs";
 
 const ROOT = fileURLToPath(new URL("..", import.meta.url));
 const SOURCES_PATH = join(ROOT, "generator", "sources.json");
@@ -177,7 +178,8 @@ Stil:
 - Für Zitate und Hervorhebungen nur deutsche Anführungszeichen „so“, nie gerade Anführungszeichen.
 - Titel: höchstens etwa zehn Wörter, konkret statt reißerisch. Teaser: ein bis zwei Sätze, die neugierig machen.
 
-Bausteine:
+Bausteine (jeder Baustein steht nur in seinem eigenen Feld):
+- sections: nur der Fließtext des Artikels. Glossar, Quiz, Antworten, Diskussionsfragen und Zusammenfassung gehören nicht in sections, sondern in ihre eigenen Felder.
 - tldr: genau drei Sätze mit dem Wichtigsten.
 - whyItMatters: zwei bis drei Sätze, warum das Thema für junge Menschen relevant ist.
 - glossary: zwei bis vier Begriffe aus dem Text mit einfacher Erklärung.
@@ -395,33 +397,14 @@ function writeArticle(category, item, sourceText) {
   return PROVIDER === "claude" ? writeWithClaude(prompt) : writeWithOllama(prompt);
 }
 
-/**
- * Kleine Modelle beenden einen Text manchmal mitten im Satz mit einem geraden Anführungszeichen,
- * dann landet ein Satz zerstückelt in mehreren Absätzen. Bruchstücke wieder zusammenfügen.
- */
-function mergeFragments(paragraphs) {
-  const out = [];
-  for (const raw of paragraphs) {
-    const p = raw.replace(/\s+/g, " ");
-    const prev = out.at(-1);
-    if (prev !== undefined && !/[.!?:)][“"»]?\s*$/.test(prev)) {
-      const quoted = !/[.!?,;:]$/.test(p.trim()) && p.trim().split(" ").length <= 3;
-      out[out.length - 1] = quoted
-        ? `${prev.trimEnd()} „${p.trim()}“`
-        : `${prev.trimEnd()}${/^[,;:]/.test(p.trim()) ? "" : " "}${p.trim()}`;
-    } else {
-      out.push(p.trim());
-    }
-  }
-  return out.filter(Boolean);
-}
-
 function isValid(a) {
   return Boolean(
     a.title && a.teaser && a.sections?.length >= 1 && a.tldr?.length >= 1 &&
     a.sections.every((s) => s.heading && s.paragraphs?.length) &&
-    a.discussion?.length >= 1 && a.quiz?.options?.length >= 2 &&
-    a.quiz.answerIndex >= 0 && a.quiz.answerIndex < a.quiz.options.length
+    a.discussion?.length >= 1 &&
+    // Das Quiz darf fehlen (die Aufräum-Stufe verwirft kaputte Quizze), muss aber sonst stimmen.
+    (a.quiz === null || (a.quiz?.options?.length >= 2 &&
+      a.quiz.answerIndex >= 0 && a.quiz.answerIndex < a.quiz.options.length))
   );
 }
 
@@ -524,30 +507,28 @@ async function main() {
         if (topic !== category) {
           console.log(`    umsortiert: ${CATEGORY_NAMES[category]} → ${CATEGORY_NAMES[topic]}`);
         }
-        if (!isValid(result)) {
-          console.warn("    ! unvollständiger Artikel – übersprungen");
-          continue;
-        }
-
-        let id = slugify(result.title) || `artikel-${Date.now()}`;
-        while (existingIds.has(id)) id = `${id}-${Math.random().toString(36).slice(2, 6)}`;
-        existingIds.add(id);
-
         const { suitable, reason, category: _, ...article } = result;
-        const finished = {
-          id,
+        const finished = cleanArticle({
+          id: "",
           category: topic,
           ...article,
-          sections: article.sections.map((s) => ({ ...s, paragraphs: mergeFragments(s.paragraphs) })),
-          // Doppelte Stichworte und den Themennamen selbst entfernen (kleine Modelle wiederholen sich gern).
-          tags: [...new Set(article.tags.map((t) => t.trim()).filter(Boolean))]
-            .filter((t) => t.toLowerCase() !== CATEGORY_NAMES[topic].toLowerCase()),
           readingMinutes: Math.max(1, article.readingMinutes),
           publishedAt: new Date().toISOString(),
           sources: [{ title: item.title, url: item.link, publisher: item.publisher }],
           aiGenerated: true,
           aiModel: MODEL_LABEL,
-        };
+        }, { categoryName: CATEGORY_NAMES[topic] });
+        if (!isValid(finished)) {
+          console.warn("    ! unvollständiger Artikel – übersprungen");
+          continue;
+        }
+        if (!finished.quiz) console.warn("    ! Quiz fehlerhaft – Artikel erscheint ohne Quiz");
+
+        let id = slugify(finished.title) || `artikel-${Date.now()}`;
+        while (existingIds.has(id)) id = `${id}-${Math.random().toString(36).slice(2, 6)}`;
+        existingIds.add(id);
+        finished.id = id;
+
         // Sofort speichern: bricht ein langer Lauf ab, sind die fertigen Artikel nicht verloren.
         await saveArticle(finished);
         created.push(finished);

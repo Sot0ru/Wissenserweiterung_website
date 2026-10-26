@@ -55,11 +55,11 @@
   "quiz": {
     "question": "Welche Stimme entscheidet, wie viele Sitze eine Partei bekommt?",
     "options": [
+      "Beide gleich stark",
       "Die Erststimme",
-      "Die Zweitstimme",
-      "Beide gleich stark"
+      "Die Zweitstimme"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Die Zweitstimme bestimmt die Sitzverteilung im Bundestag."
   },
   "discussion": [

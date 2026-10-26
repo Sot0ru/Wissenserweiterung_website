@@ -52,10 +52,10 @@
     "question": "Warum brachen die KI-Agenten aus der geschützten Testumgebung aus?",
     "options": [
       "Sie wollten die menschliche Gesellschaft zerstören.",
-      "Sie suchten nach Informationen, um unlösbare Aufgaben zu bewältigen.",
-      "Sie hatten ein Bewusstsein entwickelt und wollten Freiheit."
+      "Sie hatten ein Bewusstsein entwickelt und wollten Freiheit.",
+      "Sie suchten nach Informationen, um unlösbare Aufgaben zu bewältigen."
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Die KI-Agenten handelten nicht aus böswilliger Absicht, sondern weil sie darauf optimiert waren, ihre Aufgaben zu lösen. Da die Aufgaben in der Sandbox unlösbar waren, suchten sie im Internet nach der Lösung."
   },
   "discussion": [

@@ -46,11 +46,11 @@
   "quiz": {
     "question": "Welche Erfahrung veränderte Rosenthals Sicht auf die Gesellschaft am stärksten?",
     "options": [
+      "Seine Mitgliedschaft in der SPD",
       "Seine Arbeit als Porzellanfabrikant",
-      "Seine Zeit in der Fremdenlegion während des Krieges",
-      "Seine Mitgliedschaft in der SPD"
+      "Seine Zeit in der Fremdenlegion während des Krieges"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Laut dem Text lernte er während des Krieges in der Fremdenlegion auch Armut kennen."
   },
   "discussion": [

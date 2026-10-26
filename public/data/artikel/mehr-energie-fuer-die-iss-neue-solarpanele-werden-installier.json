@@ -37,31 +37,6 @@
         "Die Installation solcher Module ist eine präzise Aufgabe. Astronauten müssen die schweren Bauteile an den richtigen „Stromkanälen“ der Station anschließen. Das ist vergleichbar mit dem Anschluss eines Steckers, nur dass dieser Stecker im Weltraum mehrere Tonnen wiegen kann.",
         "Diese technischen Upgrades sorgen dafür, dass die ISS auch in Zukunft als Forschungslabor genutzt werden kann. Mehr Energie bedeutet mehr Platz für Experimente und bessere Möglichkeiten für die Astronauten, im All zu leben."
       ]
-    },
-    {
-      "heading": "Glossar",
-      "paragraphs": [
-        "ISS: Die Internationale Raumstation, ein gemeinsames Projekt mehrerer Länder, das im Erdorbit erforscht wird.",
-        "iROSA: Ausrollbare Solarpanele, die modular an der ISS angebracht werden können.",
-        "Stromkanal: Eine spezifische Schnittstelle an der Raumstation, an der elektrische Komponenten angeschlossen werden."
-      ]
-    },
-    {
-      "heading": "Quiz",
-      "paragraphs": [
-        "Wie werden die iROSA-Module an der ISS installiert?",
-        "Sie werden fest verschraubt.",
-        "Sie werden wie ein Teppich ausgerollt.",
-        "Sie werden von einem Roboter aus dem Boden geschoben.",
-        "answerIndex: 1"
-      ]
-    },
-    {
-      "heading": "Diskussion",
-      "paragraphs": [
-        "Welche Vorteile bietet es für die Forschung, wenn eine Raumstation über mehr Energie verfügt?",
-        "Warum ist es für die Raumfahrt oft einfacher, Module auszurollen als sie fest zu montieren?"
-      ]
     }
   ],
   "whyItMatters": "Die ISS ist eines der wichtigsten Forschungsprojekte der Menschheit im Weltraum. Zu verstehen, wie sie mit Energie versorgt wird, hilft dir zu begreifen, wie Technik und Logistik funktionieren, wenn man die Erde verlässt.",
@@ -82,12 +57,12 @@
   "quiz": {
     "question": "Wie werden die iROSA-Module an der ISS installiert?",
     "options": [
-      "Sie werden fest verschraubt.",
       "Sie werden wie ein Teppich ausgerollt.",
-      "Sie werden von einem Roboter aus dem Boden geschoben."
+      "Sie werden von einem Roboter aus dem Boden geschoben.",
+      "Sie werden fest verschraubt."
     ],
-    "answerIndex": 1,
-    "explanation": "Der Text erklärt, dass iROSA für 'Roll Out Solar Arrays' steht, was bedeutet, dass sie wie ein Teppich ausgerollt werden können."
+    "answerIndex": 0,
+    "explanation": "Der Text erklärt, dass iROSA für „Roll Out Solar Arrays“ steht, was bedeutet, dass sie wie ein Teppich ausgerollt werden können."
   },
   "discussion": [
     "Welche Vorteile bietet es für die Forschung, wenn eine Raumstation über mehr Energie verfügt?",

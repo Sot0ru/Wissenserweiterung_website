@@ -20,8 +20,8 @@
       "heading": "Wenn Bewegung und Sichtbarkeit aufeinandertreffen",
       "paragraphs": [
         "Stell dir vor, du bist ein sehr eiliger Manager. Du steigst eine Rolltreppe hinauf. Das Rätsel spielt mit der Illusion: Wir sehen nur einen Teil der Treppe, und die Bewegung der Rolltreppe verändert, wie schnell wir die Stufen sehen.",
-        "Im ersten Szenario steigt der Manager mit einer Geschwindigkeit von einer Stufe pro Sekunde hinauf. Er benötigt 20 Sekunden, um die oberste Stufe zu erreichen. Das bedeutet, er betritt 20 Stufen. Wenn die Rolltreppe sich bewegt, verschwinden Stufen aus dem Blickfeld, bevor er sie erreicht. Die mathematische Herausforderung liegt darin, diese 'Verlustrate' der sichtbaren Stufen zu berechnen.",
-        "Die Forscher des Rätsels führen eine Variable 'n' ein. 'n' steht für die tatsächliche Gesamtzahl der Stufen, wenn die Rolltreppe stillsteht. Im ersten Fall verschwinden in 20 Sekunden Stufen, die oberhalb seiner Reichweite liegen. Die Rate, mit der diese Stufen verschwinden, muss also berechnet werden."
+        "Im ersten Szenario steigt der Manager mit einer Geschwindigkeit von einer Stufe pro Sekunde hinauf. Er benötigt 20 Sekunden, um die oberste Stufe zu erreichen. Das bedeutet, er betritt 20 Stufen. Wenn die Rolltreppe sich bewegt, verschwinden Stufen aus dem Blickfeld, bevor er sie erreicht. Die mathematische Herausforderung liegt darin, diese „Verlustrate“ der sichtbaren Stufen zu berechnen.",
+        "Die Forscher des Rätsels führen eine Variable „n“ ein. „n“ steht für die tatsächliche Gesamtzahl der Stufen, wenn die Rolltreppe stillsteht. Im ersten Fall verschwinden in 20 Sekunden Stufen, die oberhalb seiner Reichweite liegen. Die Rate, mit der diese Stufen verschwinden, muss also berechnet werden."
       ]
     },
     {
@@ -47,16 +47,16 @@
   "quiz": {
     "question": "Wie viele Stufen hat die Rolltreppe laut der Lösung des Rätsels?",
     "options": [
-      "20",
       "80",
-      "32"
+      "32",
+      "20"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Die mathematische Gleichung, die die konstante Rate des Stufenverlusts herleitet, führt zur Zahl 80."
   },
   "discussion": [
     "Inwiefern unterscheidet sich die Anwendung von mathematischen Modellen in der Physik (z.B. Bewegung) von ihrer Anwendung in der Logik (wie in diesem Rätsel)?",
-    "Wenn wir die Annahme der 'konstanten Geschwindigkeit' der Stufenverluste verändern würden, wie würde sich die Lösung des Rätsels ändern?"
+    "Wenn wir die Annahme der „konstanten Geschwindigkeit“ der Stufenverluste verändern würden, wie würde sich die Lösung des Rätsels ändern?"
   ],
   "publishedAt": "2026-10-25T11:27:01.115Z",
   "sources": [

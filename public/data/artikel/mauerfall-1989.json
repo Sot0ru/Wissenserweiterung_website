@@ -50,9 +50,9 @@
   "quiz": {
     "question": "Wann wurde Deutschland wiedervereinigt?",
     "options": [
-      "9. November 1989",
-      "3. Oktober 1990",
-      "13. August 1961"
+      "13. August 1961",
+      "Oktober 1990",
+      "9. November 1989"
     ],
     "answerIndex": 1,
     "explanation": "Die Mauer fiel am 9. November 1989, die Wiedervereinigung folgte am 3. Oktober 1990 – heute der Tag der Deutschen Einheit."

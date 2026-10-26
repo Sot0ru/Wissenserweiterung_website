@@ -55,11 +55,11 @@
   "quiz": {
     "question": "Was ist ein Lichtjahr?",
     "options": [
-      "Eine Zeitspanne",
       "Eine Entfernung",
-      "Eine Helligkeit"
+      "Eine Helligkeit",
+      "Eine Zeitspanne"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Ein Lichtjahr ist die Strecke, die Licht in einem Jahr zurücklegt – also eine Entfernung."
   },
   "discussion": [

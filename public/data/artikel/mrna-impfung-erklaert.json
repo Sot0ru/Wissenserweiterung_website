@@ -55,11 +55,11 @@
   "quiz": {
     "question": "Was liefert ein mRNA-Impfstoff dem Körper?",
     "options": [
-      "Ein abgeschwächtes Virus",
       "Eine Bauanleitung für ein Erreger-Eiweiß",
+      "Ein abgeschwächtes Virus",
       "Fertige Antikörper"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Die mRNA ist eine Bauanleitung. Die Körperzellen bauen damit kurzzeitig ein Eiweiß, an dem das Immunsystem trainiert."
   },
   "discussion": [

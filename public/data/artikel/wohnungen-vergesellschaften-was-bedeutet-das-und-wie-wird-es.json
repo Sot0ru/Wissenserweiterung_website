@@ -59,10 +59,10 @@
     "question": "Welche Bedingung muss laut den Plänen der Bundesregierung für eine Vergesellschaftung erfüllt sein?",
     "options": [
       "Die Stadt muss eine politische Mehrheit für die Enteignung haben.",
-      "Es muss eine zwingende Notwendigkeit nachgewiesen werden, nachdem alle anderen Mittel ausgeschöpft sind.",
-      "Die Eigentümer müssen sich freiwillig zur Übernahme bereit erklären."
+      "Die Eigentümer müssen sich freiwillig zur Übernahme bereit erklären.",
+      "Es muss eine zwingende Notwendigkeit nachgewiesen werden, nachdem alle anderen Mittel ausgeschöpft sind."
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Die Pläne sehen vor, dass eine Übernahme nur möglich ist, wenn eine zwingende Notwendigkeit besteht und die Regierung alle anderen Mittel ausgeschöpft hat."
   },
   "discussion": [

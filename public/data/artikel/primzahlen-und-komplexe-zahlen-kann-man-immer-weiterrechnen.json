@@ -28,7 +28,7 @@
       "paragraphs": [
         "Mathematiker haben diese Idee auf eine komplexere Ebene übertragen: die Gaußschen Zahlen. Diese Zahlen sind eine Art Verallgemeinerung der normalen ganzen Zahlen und können auf einer zweidimensionalen Ebene (der komplexen Ebene) als Gitterpunkte dargestellt werden.",
         "Man kann hier auch Primzahlen definieren, die sogenannten Gaußschen Primzahlen. Der Unterschied ist, dass man hier nicht nur horizontal oder vertikal springen kann, sondern auch diagonal.",
-        "Die Forscher fragten sich: Gibt es auch hier eine maximale Sprungweite D? Können wir mit einer festen Schrittweite immer weiter in die Unendlichkeit gelangen, oder stoßen wir auf einen 'Gaußschen Graben'?"
+        "Die Forscher fragten sich: Gibt es auch hier eine maximale Sprungweite D? Können wir mit einer festen Schrittweite immer weiter in die Unendlichkeit gelangen, oder stoßen wir auf einen „Gaußschen Graben“?"
       ]
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "term": "Komplexe Ebene",
-      "definition": "Eine zweidimensionale Ebene, auf der Zahlen der Form a + bi dargestellt werden können, wobei 'i' die imaginäre Einheit ist."
+      "definition": "Eine zweidimensionale Ebene, auf der Zahlen der Form a + bi dargestellt werden können, wobei „i“ die imaginäre Einheit ist."
     },
     {
       "term": "Gaußsche Zahlen",
@@ -58,11 +58,11 @@
   "quiz": {
     "question": "Was besagt der aktuelle KI-Beweis zum Gaußschen Grabenproblem?",
     "options": [
-      "Es gibt keine Grenze, die man mit einer festgelegten Sprungweite D überwinden kann.",
       "Es gibt eine allgemeine Grenze für die Anzahl der erreichbaren Primzahlen, aber der genaue Wert ist unbekannt.",
-      "Die Lücken zwischen Gaußschen Primzahlen sind immer kleiner als die Lücken bei normalen Primzahlen."
+      "Die Lücken zwischen Gaußschen Primzahlen sind immer kleiner als die Lücken bei normalen Primzahlen.",
+      "Es gibt keine Grenze, die man mit einer festgelegten Sprungweite D überwinden kann."
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Der Beweis deutet auf die Existenz einer Grenze hin, liefert aber keinen konkreten Wert für diese Grenze."
   },
   "discussion": [

@@ -50,11 +50,11 @@
   "quiz": {
     "question": "Wo begann die Industrielle Revolution?",
     "options": [
-      "In Deutschland",
       "In Großbritannien",
-      "In den USA"
+      "In den USA",
+      "In Deutschland"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Sie begann im 18. Jahrhundert in Großbritannien und breitete sich dann über Europa und die Welt aus."
   },
   "discussion": [

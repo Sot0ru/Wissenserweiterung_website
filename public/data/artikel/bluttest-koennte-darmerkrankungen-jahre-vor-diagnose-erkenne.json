@@ -59,12 +59,12 @@
   "quiz": {
     "question": "Was ist der Hauptunterschied zwischen den Mustern bei Morbus Crohn und Colitis ulcerosa, den die Forscher fanden?",
     "options": [
-      "Die Menschen mit Morbus Crohn zeigten generell eine höhere Antikörpervielfalt als alle anderen Gruppen.",
       "Die Muster der Antikörperreaktionen waren bei den beiden Erkrankungen unterschiedlich.",
-      "Bei beiden Erkrankungen waren die Antikörperreaktionen immer gleich stark, nur die Symptome unterschieden sich."
+      "Bei beiden Erkrankungen waren die Antikörperreaktionen immer gleich stark, nur die Symptome unterschieden sich.",
+      "Die Menschen mit Morbus Crohn zeigten generell eine höhere Antikörpervielfalt als alle anderen Gruppen."
     ],
-    "answerIndex": 1,
-    "explanation": "Die Forscher fanden, dass Morbus Crohn und Colitis ulcerosa unterschiedliche 'Immunsignaturen' aufwiesen."
+    "answerIndex": 0,
+    "explanation": "Die Forscher fanden, dass Morbus Crohn und Colitis ulcerosa unterschiedliche „Immunsignaturen“ aufwiesen."
   },
   "discussion": [
     "Wie denkst du, sollte die Medizin mit neuen, sehr empfindlichen Tests umgehen, die Krankheiten Jahre vorher erkennen? Sollten diese Tests sofort im Routine-Screening eingesetzt werden?",

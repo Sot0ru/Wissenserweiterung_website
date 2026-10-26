@@ -49,13 +49,13 @@
     }
   ],
   "quiz": {
-    "question": "Welche Art von Wahlen sollen laut Artikel helfen, einen Teil des politischen 'Wahnsinns' einzudämmen?",
+    "question": "Welche Art von Wahlen sollen laut Artikel helfen, einen Teil des politischen „Wahnsinns“ einzudämmen?",
     "options": [
-      "Die Präsidentschaftswahlen",
       "Die Zwischenwahlen (Midterms)",
+      "Die Präsidentschaftswahlen",
       "Die lokalen Kommunalwahlen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Obama sieht die Zwischenwahlen als Gelegenheit, die politische Richtung zu beeinflussen."
   },
   "discussion": [

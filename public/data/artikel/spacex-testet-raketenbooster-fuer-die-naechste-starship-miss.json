@@ -37,31 +37,6 @@
         "In der Raumfahrt ist jedes Detail lebenswichtig. Ein Fehler bei der Rakete kann zum Totalverlust der Fracht oder der Crew führen. Deshalb ist die Testphase von Starship so intensiv.",
         "Durch die Kombination aus Bodentests (wie dem Static Fire) und echten Testflügen baut SpaceX schrittweise Erfahrung auf. Jede erfolgreiche Prüfung bringt die Technik einen Schritt näher an das Ziel, dauerhaft und kostengünstig Menschen zum Mond oder zum Mars zu bringen."
       ]
-    },
-    {
-      "heading": "Glossar",
-      "paragraphs": [
-        "Booster: Ein Teil einer Rakete, der den ersten Teil des Fluges übernimmt und den Hauptkörper der Rakete aus der dichten Atmosphäre abhebt.",
-        "Static Fire: Ein Testverfahren, bei dem die Triebwerke einer Rakete am Boden gezündet werden, während die Rakete fest fixiert ist.",
-        "Starship: Ein vollkommen neuartiges, riesiges Raumschiff von SpaceX, das für den Transport von großen Mengen an Fracht und Menschen im Weltraum konzipiert ist."
-      ]
-    },
-    {
-      "heading": "Quiz",
-      "paragraphs": [
-        "Was passiert bei einem „Static Fire“?",
-        "Die Rakete startet mit voller Kraft in den Weltraum.",
-        "Die Triebwerke werden am Boden gezündet, während die Rakete fest verankert bleibt.",
-        "Die Rakete wird mit einem Kran in die Luft gehoben.",
-        "answerIndex: 1"
-      ]
-    },
-    {
-      "heading": "Diskussion",
-      "paragraphs": [
-        "Welche Risiken sind deiner Meinung nach am größten, wenn man neue Technologien wie das Starship zum ersten Mal testet?",
-        "Glaubst du, dass private Firmen wie SpaceX die Raumfahrt schneller voranbringen als staatliche Organisationen wie die NASA?"
-      ]
     }
   ],
   "whyItMatters": "Die Entwicklung von Starship könnte die Art und Weise, wie wir den Weltraum nutzen, grundlegend verändern. Es ist ein technologischer Wettlauf, der beeinflusst, wie wir in Zukunft Reisen zum Mond oder zum Mars planen.",
@@ -83,10 +58,10 @@
     "question": "Was passiert bei einem „Static Fire“?",
     "options": [
       "Die Rakete startet mit voller Kraft in den Weltraum.",
-      "Die Triebwerke werden am Boden gezündet, während die Rakete fest verankert bleibt.",
-      "Die Rakete wird mit einem Kran in die Luft gehoben."
+      "Die Rakete wird mit einem Kran in die Luft gehoben.",
+      "Die Triebwerke werden am Boden gezündet, während die Rakete fest verankert bleibt."
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Ein Static Fire ist ein Testlauf, bei dem die Rakete fest am Boden fixiert bleibt, damit die Triebwerke unter Last geprüft werden können, ohne dass die Rakete abhebt."
   },
   "discussion": [

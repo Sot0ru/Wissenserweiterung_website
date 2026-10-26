@@ -50,11 +50,11 @@
   "quiz": {
     "question": "Wer schlägt in der EU neue Gesetze vor?",
     "options": [
-      "Das Europäische Parlament",
       "Die Europäische Kommission",
-      "Der Europäische Gerichtshof"
+      "Der Europäische Gerichtshof",
+      "Das Europäische Parlament"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Das Vorschlagsrecht liegt in der Regel bei der Kommission. Parlament und Rat entscheiden dann gemeinsam."
   },
   "discussion": [

@@ -52,11 +52,11 @@
   "quiz": {
     "question": "Was ist das Hauptziel von Forderungen nach Zollerlassungen durch Politiker wie Trump?",
     "options": [
-      "Die Preise für importierte Autos zu senken.",
       "Die heimische Wirtschaft anzukurbeln und Jobs zu schaffen.",
+      "Die Preise für importierte Autos zu senken.",
       "Die Umweltstandards in den USA zu verschärfen."
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Der Text erwähnt, dass Trump mit Zollerlassungen die heimische Wirtschaft ankurbeln und Industriejobs schaffen will."
   },
   "discussion": [

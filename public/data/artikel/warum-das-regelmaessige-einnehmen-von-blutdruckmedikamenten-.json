@@ -35,29 +35,6 @@
         "Die Forscher betonen, dass es nicht an der Qualität der Medikamente liegt, sondern an der Umsetzung im Alltag. Selbst in streng kontrollierten Studien sank die Therapietreue über einen Zeitraum von fünf Jahren merklich ab.",
         "Um zu helfen, schlagen Experten verschiedene Ansätze vor: Ärzte sollten das Thema offen und ohne Vorwürfe ansprechen, um herauszufinden, warum Patienten Schwierigkeiten haben. Praktische Lösungen könnten sein, Medikamente zu kombinieren, damit man weniger Tabletten nehmen muss, oder länger wirksame Präparate zu verschreiben, die weniger empfindlich auf eine einzelne vergessene Dosis reagieren."
       ]
-    },
-    {
-      "heading": "Glossar",
-      "paragraphs": [
-        "Hypertonie: Der medizinische Fachbegriff für Bluthochdruck.",
-        "Therapietreue (Adhärenz): Das Maß dafür, wie genau ein Patient die Anweisungen und Behandlungen seines Arztes befolgt.",
-        "Systolischer Blutdruck: Der obere Wert bei einer Blutdruckmessung; er gibt an, wie hoch der Druck ist, wenn das Herz die Kammern zusammendrückt.",
-        "Kardiovaskulär: Ein Begriff, der alles umfasst, was mit dem Herz-Kreislauf-System zu tun hat."
-      ]
-    },
-    {
-      "heading": "Quiz",
-      "paragraphs": [
-        "Wie stark sank das Risiko für schwere Herz-Kreislauf-Ereignisse bei Patienten, die ihre Medikamente regelmäßig einnahmen?",
-        "Um 5,2 % „Um 11 %“ „Um 80 %“ „answerIndex\": 1“"
-      ]
-    },
-    {
-      "heading": "Diskussion",
-      "paragraphs": [
-        "Warum fällt es vielen Menschen schwer, Medikamente über einen langen Zeitraum hinweg jeden Tag genau zur gleichen Zeit einzunehmen?",
-        "Welche Strategien könnten helfen, die Therapietreue zu verbessern, ohne dass der Patient sich unter Druck gesetzt fühlt?"
-      ]
     }
   ],
   "whyItMatters": "Obwohl Bluthochdruck oft keine akuten Symptome zeigt, ist die konsequente Behandlung entscheidend für die langfristige Gesundheit. Das Verständnis dafür, wie wichtig die Regelmäßigkeit ist, kann helfen, die Bedeutung von Prävention besser einzuschätzen.",
@@ -83,10 +60,10 @@
     "question": "Wie stark sank das Risiko für schwere Herz-Kreislauf-Ereignisse bei Patienten, die ihre Medikamente regelmäßig einnahmen?",
     "options": [
       "Um 5,2 %",
-      "Um 11 %",
-      "Um 80 %"
+      "Um 80 %",
+      "Um 11 %"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Laut der Studie hatten Patienten mit hoher Therapietreue eine um 11 % geringere Rate an schweren Herz-Kreislauf-Ereignissen im Vergleich zur Kontrollgruppe."
   },
   "discussion": [
