@@ -52,6 +52,7 @@ const OLLAMA_HOST = (process.env.OLLAMA_HOST || "http://127.0.0.1:11434").replac
 // Lokale Modelle lesen auf dem Prozessor langsam – dort bekommt die KI weniger Quelltext.
 // 8000 Zeichen reichen für den Kern einer Meldung und halten die Lesezeit pro Artikel klein.
 const MAX_SOURCE_CHARS = PROVIDER === "claude" ? 40_000 : 8_000;
+const MIN_SOURCE_CHARS = 800;
 
 /* ---------- Feeds lesen ---------- */
 
@@ -105,22 +106,29 @@ async function fetchText(url) {
 }
 
 async function loadCandidates(category, feeds, usedLinks) {
-  const items = [];
+  // Meinungsbeiträge auslassen: Ein Erklär-Artikel daraus würde eine Meinung als Tatsache wiedergeben.
+  const OPINION = /^(kommentar|meinung|leitartikel|kolumne|essay|glosse|gastbeitrag)\b/i;
+  const perFeed = [];
   for (const feed of feeds) {
     try {
-      const parsed = parseFeed(await fetchText(feed.url));
-      for (const item of parsed) items.push({ ...item, publisher: feed.publisher });
+      const items = parseFeed(await fetchText(feed.url))
+        .map((item) => ({ ...item, publisher: feed.publisher }))
+        .filter((i) => !usedLinks.has(i.link) && !OPINION.test(i.title))
+        .sort((a, b) => b.date - a.date);
+      perFeed.push(items);
     } catch (err) {
       console.warn(`  ! Feed nicht erreichbar (${feed.publisher}): ${err.message}`);
     }
   }
-  // Meinungsbeiträge auslassen: Ein Erklär-Artikel daraus würde eine Meinung als Tatsache wiedergeben.
-  const OPINION = /^(kommentar|meinung|leitartikel|kolumne|essay|glosse|gastbeitrag)\b/i;
-  return items
-    .filter((i) => !usedLinks.has(i.link))
-    .filter((i) => !OPINION.test(i.title))
-    .sort((a, b) => b.date - a.date)
-    .slice(0, CANDIDATES_PER_CATEGORY);
+  // Feeds abwechselnd ziehen (jeweils die neueste Meldung), damit ein täglich erscheinender Feed
+  // nicht alle Plätze belegt und ausführlichere Quellen ebenfalls drankommen.
+  const candidates = [];
+  for (let round = 0; candidates.length < CANDIDATES_PER_CATEGORY; round++) {
+    const batch = perFeed.map((items) => items[round]).filter(Boolean);
+    if (!batch.length) break;
+    candidates.push(...batch.sort((a, b) => b.date - a.date));
+  }
+  return candidates.slice(0, CANDIDATES_PER_CATEGORY);
 }
 
 /** Holt den Haupttext der Originalseite, damit die KI mehr hat als den Feed-Anreißer. */
@@ -167,9 +175,12 @@ Du bekommst eine Meldung aus einer Nachrichten- oder Wissenschaftsquelle. Schrei
 
 Inhalt und Genauigkeit:
 - Stütze dich auf die Fakten der Quelle. Hintergrundwissen, das gut gesichert und allgemein bekannt ist, darfst du ergänzen, damit das Thema verständlich wird. Erfinde keine Zahlen, Zitate, Namen oder Studienergebnisse.
-- Mach klar, was gesichert ist und was nicht: „laut einer Studie“, „Forschende vermuten“, „noch nicht abschließend geklärt“. Einzelne Studien sind kein Beweis; sag das, wenn es wichtig ist.
-- Ist die Quelle englisch, übersetze sinngemäß und erkläre Fachbegriffe.
-- Bei Politik: neutral und ausgewogen. Stell die wichtigsten Positionen fair dar, ohne selbst Partei zu ergreifen und ohne Wahlempfehlungen. Bei Geschichte: ordne ein, warum das Ereignis heute noch eine Rolle spielt.
+- Sei konkret: Nenne die wichtigsten Zahlen, Namen und Ergebnisse aus der Quelle (z. B. wie viele Menschen eine Studie untersucht hat, was genau herauskam, Umfragewerte) statt vager Formulierungen wie „Studien zeigen“ oder „Forscher fanden heraus“.
+- Mach klar, was gesichert ist und was nicht: „laut einer Studie“, „Forschende vermuten“, „noch nicht abschließend geklärt“. Formuliere nie stärker als die Quelle: Ein „Zusammenhang“ ist kein „Schutz“, ein „könnte“ kein „wird“. Einzelne Studien sind kein Beweis; sag das, wenn es wichtig ist.
+- Ist die Quelle englisch, übersetze sinngemäß, verwende die deutschen Fachbegriffe und erkläre sie.
+- Bei Politik: neutral und ausgewogen. Stell die wichtigsten Positionen fair dar, ohne selbst Partei zu ergreifen und ohne Wahlempfehlungen. Nennt die Quelle Reaktionen oder Kritik, gib sie mit wieder.
+- Bei Geschichte: ordne ein, warum das Ereignis heute noch eine Rolle spielt. Berichte über Täter, Diktaturen und Verbrechen sachlich, ohne sie mit Wörtern wie „tragisch“ zu bewerten, die Mitgefühl mit den Tätern nahelegen.
+- Rätsel und Rechenaufgaben: Zeig den Lösungsweg mit den konkreten Zahlen und der Gleichung, nicht nur das Ergebnis.
 
 Stil:
 - Sprich die Lesenden mit „du“ an, aber nicht anbiedernd. Keine Jugendsprache, kein Marketing-Ton.
@@ -467,6 +478,13 @@ async function main() {
         if (DRY_RUN) { made++; continue; }
 
         const sourceText = await loadSourceText(item);
+        // Aus drei Sätzen lässt sich kein guter Erklär-Artikel machen; das Modell füllt die Lücken
+        // sonst mit Allgemeinplätzen oder erfundenen Details.
+        if (sourceText.length + item.description.length < MIN_SOURCE_CHARS) {
+          console.log(`    übersprungen: zu wenig Quelltext (${sourceText.length + item.description.length} Zeichen)`);
+          seen.add(item.link);
+          continue;
+        }
         let result;
         try {
           result = await writeArticle(category, item, sourceText);

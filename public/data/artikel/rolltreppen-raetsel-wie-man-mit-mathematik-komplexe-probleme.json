@@ -21,15 +21,15 @@
       "paragraphs": [
         "Stell dir vor, du bist ein sehr eiliger Manager. Du steigst eine Rolltreppe hinauf. Das Rätsel spielt mit der Illusion: Wir sehen nur einen Teil der Treppe, und die Bewegung der Rolltreppe verändert, wie schnell wir die Stufen sehen.",
         "Im ersten Szenario steigt der Manager mit einer Geschwindigkeit von einer Stufe pro Sekunde hinauf. Er benötigt 20 Sekunden, um die oberste Stufe zu erreichen. Das bedeutet, er betritt 20 Stufen. Wenn die Rolltreppe sich bewegt, verschwinden Stufen aus dem Blickfeld, bevor er sie erreicht. Die mathematische Herausforderung liegt darin, diese „Verlustrate“ der sichtbaren Stufen zu berechnen.",
-        "Die Forscher des Rätsels führen eine Variable „n“ ein. „n“ steht für die tatsächliche Gesamtzahl der Stufen, wenn die Rolltreppe stillsteht. Im ersten Fall verschwinden in 20 Sekunden Stufen, die oberhalb seiner Reichweite liegen. Die Rate, mit der diese Stufen verschwinden, muss also berechnet werden."
+        "Die Lösung führt eine Variable „n“ ein. „n“ steht für die tatsächliche Gesamtzahl der Stufen, wenn die Rolltreppe stillsteht. Am ersten Tag betritt der Manager 20 Stufen in 20 Sekunden. In dieser Zeit verschwinden oben n − 20 Stufen im Boden, also (n − 20) / 20 Stufen pro Sekunde."
       ]
     },
     {
       "heading": "Die Gleichung als Schlüssel zur Lösung",
       "paragraphs": [
-        "Im zweiten Szenario wird es noch schneller. Der Manager steigt nun mit doppelt so hoher Geschwindigkeit auf – zwei Stufen pro Sekunde. Er benötigt 16 Sekunden für dieselbe Strecke. Auch hier verschwinden Stufen aus dem Sichtfeld, aber diesmal in 16 Sekunden.",
+        "Am zweiten Tag steigt der Manager doppelt so schnell, mit zwei Stufen pro Sekunde, und ist nach 32 Stufen oben. Dafür braucht er 16 Sekunden. In dieser Zeit verschwinden n − 32 Stufen, also (n − 32) / 16 Stufen pro Sekunde.",
         "Der Trick des Rätsels ist die Annahme der Konstanz: Die Geschwindigkeit, mit der Stufen aus dem Blickfeld verschwinden, muss in beiden Szenarien gleich sein. Das ist der wichtigste mathematische Gedanke.",
-        "Man stellt also eine Gleichung auf: Die Rate der Stufenverluste aus Szenario 1 muss der Rate aus Szenario 2 entsprechen. Wenn man diese Gleichung löst, kommt man zur Antwort: Die Rolltreppe hat 80 Stufen. Dieses Beispiel zeigt, wie man komplexe Alltagssituationen mithilfe von algebraischen Gleichungen analysieren kann."
+        "Daraus ergibt sich die Gleichung (n − 20) / 20 = (n − 32) / 16. Löst man sie nach n auf, erhält man n = 80: Bei stillstehender Rolltreppe müsste der Manager 80 Stufen steigen. Dieses Beispiel zeigt, wie man komplexe Alltagssituationen mithilfe von algebraischen Gleichungen analysieren kann."
       ]
     }
   ],

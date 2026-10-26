@@ -25,6 +25,7 @@
     { "publisher": "Deutschlandfunk", "url": "https://www.deutschlandfunk.de/politikportal-100.rss" }
   ],
   "geschichte": [
+    { "publisher": "MDR Geschichte", "url": "https://www.mdr.de/geschichte/index-rss.xml" },
     { "publisher": "Deutschlandfunk Kalenderblatt", "url": "https://www.deutschlandfunk.de/kalenderblatt-100.rss" }
   ]
 }
