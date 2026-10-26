@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node server.mjs",
     "generate": "node --env-file-if-exists=.env generator/generate.mjs",
-    "generate:dry": "node generator/generate.mjs --dry-run"
+    "generate:dry": "node generator/generate.mjs --dry-run",
+    "index": "node generator/rebuild-index.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.3.0"

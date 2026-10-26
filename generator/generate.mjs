@@ -17,6 +17,8 @@
 
 import Anthropic from "@anthropic-ai/sdk";
 import { readFile, writeFile } from "node:fs/promises";
+import { request as httpRequest } from "node:http";
+import { request as httpsRequest } from "node:https";
 import { existsSync } from "node:fs";
 import { homedir } from "node:os";
 import { fileURLToPath } from "node:url";
@@ -47,7 +49,8 @@ const OLLAMA_MODEL = option("--model", process.env.OLLAMA_MODEL || "gemma4:e4b")
 const OLLAMA_HOST = (process.env.OLLAMA_HOST || "http://127.0.0.1:11434").replace(/\/$/, "");
 
 // Lokale Modelle lesen auf dem Prozessor langsam – dort bekommt die KI weniger Quelltext.
-const MAX_SOURCE_CHARS = PROVIDER === "claude" ? 40_000 : 12_000;
+// 8000 Zeichen reichen für den Kern einer Meldung und halten die Lesezeit pro Artikel klein.
+const MAX_SOURCE_CHARS = PROVIDER === "claude" ? 40_000 : 8_000;
 
 /* ---------- Feeds lesen ---------- */
 
@@ -269,40 +272,67 @@ Schreib daraus den Artikel.`;
 
 class OllamaError extends Error {}
 
+/** Ein Fehler, nach dem weitere Artikel keinen Sinn haben (Ollama weg, Modell fehlt). */
+class FatalOllamaError extends OllamaError {}
+
+/**
+ * POST an Ollama über node:http statt fetch: fetch bricht ab, wenn nach 5 Minuten noch keine
+ * Antwort begonnen hat – so lange braucht ein großes Modell auf dem Prozessor schon zum Lesen.
+ */
+function postToOllama(path, body) {
+  const url = new URL(path, OLLAMA_HOST);
+  const send = url.protocol === "https:" ? httpsRequest : httpRequest;
+  return new Promise((resolve, reject) => {
+    const req = send(url, { method: "POST", headers: { "Content-Type": "application/json" } }, resolve);
+    req.on("error", reject);
+    req.end(JSON.stringify(body));
+  });
+}
+
+async function readAll(stream) {
+  let s = "";
+  for await (const part of stream) s += part;
+  return s;
+}
+
+async function checkOllama() {
+  try {
+    const res = await fetch(`${OLLAMA_HOST}/api/version`, { signal: AbortSignal.timeout(10_000) });
+    if (res.ok) return;
+  } catch { /* unten */ }
+  throw new FatalOllamaError(`Ollama ist nicht erreichbar (${OLLAMA_HOST}). Läuft die Ollama-App?`);
+}
+
 async function writeWithOllama(prompt) {
   let res;
   try {
-    res = await fetch(`${OLLAMA_HOST}/api/chat`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        model: OLLAMA_MODEL,
-        stream: true,
-        think: false,
-        format: ARTICLE_SCHEMA, // Ollama erzwingt damit gültiges JSON nach Schema
-        options: { temperature: 0.5, num_ctx: 16384, num_predict: 4096 },
-        messages: [
-          { role: "system", content: SYSTEM_PROMPT },
-          { role: "user", content: prompt },
-        ],
-      }),
+    res = await postToOllama("/api/chat", {
+      model: OLLAMA_MODEL,
+      stream: true,
+      think: false,
+      format: ARTICLE_SCHEMA, // Ollama erzwingt damit gültiges JSON nach Schema
+      options: { temperature: 0.5, num_ctx: 16384, num_predict: 4096 },
+      messages: [
+        { role: "system", content: SYSTEM_PROMPT },
+        { role: "user", content: prompt },
+      ],
     });
-  } catch {
-    throw new OllamaError(`Ollama ist nicht erreichbar (${OLLAMA_HOST}). Läuft die Ollama-App?`);
+  } catch (err) {
+    throw new FatalOllamaError(`Ollama ist nicht erreichbar (${OLLAMA_HOST}): ${err.message}`);
   }
-  if (res.status === 404) {
-    throw new OllamaError(`Modell „${OLLAMA_MODEL}“ fehlt. Lade es mit: ollama pull ${OLLAMA_MODEL}`);
+  if (res.statusCode === 404) {
+    throw new FatalOllamaError(`Modell „${OLLAMA_MODEL}“ fehlt. Lade es mit: ollama pull ${OLLAMA_MODEL}`);
   }
-  if (!res.ok) throw new OllamaError(`Ollama-Fehler ${res.status}: ${await res.text()}`);
+  if (res.statusCode !== 200) throw new OllamaError(`Ollama-Fehler ${res.statusCode}: ${await readAll(res)}`);
 
-  // Antwort kommt Stück für Stück (NDJSON); so sieht man den Fortschritt und es gibt keine Timeouts.
+  // Antwort kommt Stück für Stück (NDJSON); so sieht man den Fortschritt.
   const decoder = new TextDecoder();
   let buffer = "";
   let text = "";
   let doneReason = "";
   let chunks = 0;
   process.stdout.write("    schreibt ");
-  for await (const part of res.body) {
+  for await (const part of res) {
     buffer += decoder.decode(part, { stream: true });
     const lines = buffer.split("\n");
     buffer = lines.pop();
@@ -428,101 +458,113 @@ async function main() {
     if (!hasEnv && !hasProfile) throw new Error(`Kein API-Schlüssel gefunden. ${KEY_HINT}`);
     client = new Anthropic();
   }
+  if (!DRY_RUN && PROVIDER === "ollama") await checkOllama();
 
   const categories = Object.keys(sources).filter((c) => !ONLY_CATEGORY || c === ONLY_CATEGORY);
   if (!categories.length) throw new Error(`Unbekanntes Thema: ${ONLY_CATEGORY}`);
 
-  for (const category of categories) {
-    console.log(`\n${CATEGORY_NAMES[category] ?? category}`);
-    const candidates = await loadCandidates(category, sources[category], usedLinks);
-    if (!candidates.length) {
-      console.log("  keine neuen Meldungen");
-      continue;
-    }
+  // Ein Fehler bei einer Meldung kostet nur diese Meldung. Erst nach mehreren Fehlern in Folge
+  // stimmt grundsätzlich etwas nicht und der Lauf endet.
+  const MAX_FAILURES_IN_A_ROW = 3;
+  let failuresInARow = 0;
 
-    let made = 0;
-    for (const item of candidates) {
-      if (made >= PER_CATEGORY) break;
-      console.log(`  → ${item.title} (${item.publisher})`);
-      if (DRY_RUN) { made++; continue; }
+  try {
+    for (const category of categories) {
+      console.log(`\n${CATEGORY_NAMES[category] ?? category}`);
+      const candidates = await loadCandidates(category, sources[category], usedLinks);
+      if (!candidates.length) {
+        console.log("  keine neuen Meldungen");
+        continue;
+      }
 
-      const sourceText = await loadSourceText(item);
-      let result;
-      try {
-        result = await writeArticle(category, item, sourceText);
-      } catch (err) {
-        if (err instanceof OllamaError) {
-          throw err;
-        } else if (err instanceof Anthropic.AuthenticationError) {
-          throw new Error(`Der API-Schlüssel wurde abgelehnt. ${KEY_HINT}`);
-        } else if (err instanceof Anthropic.RateLimitError) {
-          console.warn("  ! Rate-Limit erreicht – breche dieses Thema ab");
-          break;
-        } else if (err instanceof Anthropic.APIError) {
-          console.warn(`  ! API-Fehler ${err.status}: ${err.message}`);
-          continue;
-        } else if (err instanceof SyntaxError) {
-          console.warn("  ! Antwort war kein gültiges JSON – übersprungen");
+      let made = 0;
+      for (const item of candidates) {
+        if (made >= PER_CATEGORY) break;
+        console.log(`  → ${item.title} (${item.publisher})`);
+        if (DRY_RUN) { made++; continue; }
+
+        const sourceText = await loadSourceText(item);
+        let result;
+        try {
+          result = await writeArticle(category, item, sourceText);
+        } catch (err) {
+          if (err instanceof FatalOllamaError) {
+            throw err;
+          } else if (err instanceof Anthropic.AuthenticationError) {
+            throw new Error(`Der API-Schlüssel wurde abgelehnt. ${KEY_HINT}`);
+          } else if (err instanceof Anthropic.RateLimitError) {
+            console.warn("  ! Rate-Limit erreicht – breche dieses Thema ab");
+            break;
+          } else if (err instanceof SyntaxError) {
+            console.warn("  ! Antwort war kein gültiges JSON – übersprungen");
+          } else if (err instanceof Anthropic.APIError) {
+            console.warn(`  ! API-Fehler ${err.status}: ${err.message}`);
+          } else {
+            console.warn(`  ! Fehler bei dieser Meldung – übersprungen: ${err.message}`);
+          }
+          if (++failuresInARow >= MAX_FAILURES_IN_A_ROW) {
+            throw new Error(`${MAX_FAILURES_IN_A_ROW} Fehler in Folge – Lauf beendet.`);
+          }
           continue;
         }
-        throw err;
-      }
+        failuresInARow = 0;
 
-      seen.add(item.link);
-      if (!result) continue;
-      if (!result.suitable) {
-        console.log(`    übersprungen: ${result.reason}`);
-        continue;
-      }
-      // Themenprüfung: Die KI entscheidet, wohin der Artikel wirklich gehört.
-      const topic = result.category;
-      if (!CATEGORY_NAMES[topic]) {
-        console.log("    übersprungen: passt zu keinem Thema");
-        continue;
-      }
-      if (topic !== category) {
-        console.log(`    umsortiert: ${CATEGORY_NAMES[category]} → ${CATEGORY_NAMES[topic]}`);
-      }
-      if (!isValid(result)) {
-        console.warn("    ! unvollständiger Artikel – übersprungen");
-        continue;
-      }
+        seen.add(item.link);
+        if (!result) continue;
+        if (!result.suitable) {
+          console.log(`    übersprungen: ${result.reason}`);
+          continue;
+        }
+        // Themenprüfung: Die KI entscheidet, wohin der Artikel wirklich gehört.
+        const topic = result.category;
+        if (!CATEGORY_NAMES[topic]) {
+          console.log("    übersprungen: passt zu keinem Thema");
+          continue;
+        }
+        if (topic !== category) {
+          console.log(`    umsortiert: ${CATEGORY_NAMES[category]} → ${CATEGORY_NAMES[topic]}`);
+        }
+        if (!isValid(result)) {
+          console.warn("    ! unvollständiger Artikel – übersprungen");
+          continue;
+        }
 
-      let id = slugify(result.title) || `artikel-${Date.now()}`;
-      while (existingIds.has(id)) id = `${id}-${Math.random().toString(36).slice(2, 6)}`;
-      existingIds.add(id);
+        let id = slugify(result.title) || `artikel-${Date.now()}`;
+        while (existingIds.has(id)) id = `${id}-${Math.random().toString(36).slice(2, 6)}`;
+        existingIds.add(id);
 
-      const { suitable, reason, category: _, ...article } = result;
-      const finished = {
-        id,
-        category: topic,
-        ...article,
-        sections: article.sections.map((s) => ({ ...s, paragraphs: mergeFragments(s.paragraphs) })),
-        // Doppelte Stichworte und den Themennamen selbst entfernen (kleine Modelle wiederholen sich gern).
-        tags: [...new Set(article.tags.map((t) => t.trim()).filter(Boolean))]
-          .filter((t) => t.toLowerCase() !== CATEGORY_NAMES[topic].toLowerCase()),
-        readingMinutes: Math.max(1, article.readingMinutes),
-        publishedAt: new Date().toISOString(),
-        sources: [{ title: item.title, url: item.link, publisher: item.publisher }],
-        aiGenerated: true,
-        aiModel: MODEL_LABEL,
-      };
-      // Sofort speichern: bricht ein langer Lauf ab, sind die fertigen Artikel nicht verloren.
-      await saveArticle(finished);
-      created.push(finished);
-      made++;
-      console.log(`    ✓ „${result.title}“`);
+        const { suitable, reason, category: _, ...article } = result;
+        const finished = {
+          id,
+          category: topic,
+          ...article,
+          sections: article.sections.map((s) => ({ ...s, paragraphs: mergeFragments(s.paragraphs) })),
+          // Doppelte Stichworte und den Themennamen selbst entfernen (kleine Modelle wiederholen sich gern).
+          tags: [...new Set(article.tags.map((t) => t.trim()).filter(Boolean))]
+            .filter((t) => t.toLowerCase() !== CATEGORY_NAMES[topic].toLowerCase()),
+          readingMinutes: Math.max(1, article.readingMinutes),
+          publishedAt: new Date().toISOString(),
+          sources: [{ title: item.title, url: item.link, publisher: item.publisher }],
+          aiGenerated: true,
+          aiModel: MODEL_LABEL,
+        };
+        // Sofort speichern: bricht ein langer Lauf ab, sind die fertigen Artikel nicht verloren.
+        await saveArticle(finished);
+        created.push(finished);
+        made++;
+        console.log(`    ✓ „${result.title}“`);
+      }
+    }
+  } finally {
+    // Auch nach einem Abbruch: Index und Merkliste aktualisieren, damit gespeicherte Artikel erscheinen.
+    if (!DRY_RUN) {
+      const index = await rebuildIndex();
+      await writeFile(SEEN_PATH, JSON.stringify([...seen].slice(-2000), null, 2) + "\n", "utf8");
+      console.log(`\n${created.length} neue Artikel gespeichert, insgesamt ${index.count}.`);
     }
   }
 
-  if (DRY_RUN) {
-    console.log("\nProbelauf – nichts gespeichert.");
-    return;
-  }
-
-  const index = await rebuildIndex();
-  await writeFile(SEEN_PATH, JSON.stringify([...seen].slice(-2000), null, 2) + "\n", "utf8");
-  console.log(`\n${created.length} neue Artikel gespeichert, insgesamt ${index.count}.`);
+  if (DRY_RUN) console.log("\nProbelauf – nichts gespeichert.");
 }
 
 main().catch((err) => {
