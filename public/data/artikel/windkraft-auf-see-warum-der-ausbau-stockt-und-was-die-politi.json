@@ -1,0 +1,74 @@
+{
+  "id": "windkraft-auf-see-warum-der-ausbau-stockt-und-was-die-politi",
+  "category": "wissenschaft",
+  "title": "Windkraft auf See: Warum der Ausbau stockt und was die Politik ändern will",
+  "teaser": "Die Energiewende braucht Windparks in der Nordsee, aber die Umsetzung läuft auf holprige Weise. Wir erklären, was die Probleme sind und welche Lösung die Regierung sucht.",
+  "tags": [
+    "Energiewende",
+    "Klimaschutz",
+    "Technik",
+    "Industrie",
+    "Energie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Ausbau von Offshore-Windparks in Deutschland stagniert, weil Investoren Risiken sehen und die ursprünglichen Vergabeausschreibungen Mängel aufweisen.",
+    "Die Wirtschaftsministerin will eine Reform einführen, die es Unternehmen erlaubt, Flächen zurückzugeben, wenn sie die Projekte nicht umsetzen können.",
+    "Ohne diese Flexibilität drohen laut Experten massive Jobverluste und Umsatzausfälle in der Windenergiebranche."
+  ],
+  "sections": [
+    {
+      "heading": "Die Energiewende braucht Wind, aber die Umsetzung ist schwierig",
+      "paragraphs": [
+        "Windenergie auf See, also Offshore-Windkraft, ist ein Schlüssel zur Energiewende. Sie soll helfen, Deutschland unabhängiger von fossilen Brennstoffen zu machen. Doch der Ausbau dieser Anlagen vor der Küste läuft ins Stocken. Das Interesse an den Flächen, die für neue Windparks ausgeschrieben werden, ist stark gesunken.",
+        "Experten warnen vor einem „Fadenriss“ bei diesem wichtigen Ausbau. Wenn die Projekte nicht realisiert werden, drohen massive wirtschaftliche Folgen. Laut Warnungen von acht Ministerpräsidenten könnte ein Stillstand in den nächsten vier Jahren rund 23.000 Arbeitsplätze in der Offshore-Windindustrie gefährden. Das würde zudem einen Umsatzausfall von rund 24 Milliarden Euro bedeuten."
+      ]
+    },
+    {
+      "heading": "Was sind die Probleme bei den Windpark-Ausschreibungen?",
+      "paragraphs": [
+        "Die Ursache liegt unter anderem in den Rahmenbedingungen. Die Bundeswirtschaftsministerin Katherina Reiche hat festgestellt, dass das bisherige Ausschreibungssystem Mängel hatte. Sie gibt an, dass bei der Vergabe von rund 16 Gigawatt Offshore-Flächen in den Jahren 2023 und 2024 „bekannte wirtschaftliche und technische Risiken“ nicht beachtet wurden. Es entstand eine Lücke zwischen der Vergabe und der tatsächlichen Umsetzung der Projekte.",
+        "Um diese Lücke zu schließen, plant die Ministerin eine Reform. Die zentrale Forderung der Länder lautet: Investoren müssen die Möglichkeit bekommen, Flächen zurückzugeben, wenn sie die Windpark-Projekte aus wirtschaftlichen Gründen nicht umsetzen können. Dabei soll eine „geordnete Rückgabe und Neuvergabe“ stattfinden, ohne dass die Unternehmen aus ihren finanziellen Verpflichtungen entlassen werden."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Energiewende ist ein zentrales Thema für die Zukunft Deutschlands und Europas. Wenn der Ausbau erneuerbarer Energien stockt, wirkt sich das direkt auf die Klimaziele und die zukünftige Energieversorgung aus. Es zeigt, wie komplex der Übergang zu einer nachhaltigen Wirtschaft ist.",
+  "glossary": [
+    {
+      "term": "Offshore-Windkraft",
+      "definition": "Windenergie, die von Windturbinen, die auf See installiert sind, erzeugt wird."
+    },
+    {
+      "term": "Energiewende",
+      "definition": "Der Übergang von fossilen Brennstoffen (wie Kohle oder Gas) hin zu erneuerbaren Energien (wie Wind oder Sonne)."
+    },
+    {
+      "term": "Gigawatt (GW)",
+      "definition": "Eine Maßeinheit für Leistung, die 1 Milliarde Watt entspricht. Sie wird hier zur Angabe der Größe der vergebenen Flächen verwendet."
+    }
+  ],
+  "quiz": {
+    "question": "Was forderten die Ministerpräsidenten in ihrem Brandbrief an die Wirtschaftsministerin?",
+    "options": [
+      "Eine „einmalige, klar konditionierte und rechtssichere Rückgabemöglichkeit“ für betroffene Windflächen.",
+      "Die Verlagerung des gesamten Ausbaus von Land auf See.",
+      "Eine sofortige Abschaffung aller Windpark-Ausschreibungen."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Ministerpräsidenten forderten eine klare Möglichkeit, Flächen zurückzugeben, wenn die Projekte nicht umsetzbar sind."
+  },
+  "discussion": [
+    "Welche Rolle sehen wir beim Übergang zu erneuerbaren Energien: Ist die schnelle Umsetzung wichtiger als die perfekte Planung der einzelnen Projekte?",
+    "Wie kann eine Politik sicherstellen, dass große Industrieanlagen (wie Windparks) auch dann noch funktionieren, wenn sich die wirtschaftlichen Rahmenbedingungen stark ändern?"
+  ],
+  "publishedAt": "2026-10-27T08:31:08.900Z",
+  "sources": [
+    {
+      "title": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
+      "url": "https://www.tagesschau.de/inland/windkraft-reiche-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

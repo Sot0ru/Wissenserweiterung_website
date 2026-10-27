@@ -1,0 +1,87 @@
+{
+  "id": "der-riesige-pilz-d-rex-was-er-ueber-dinosaurier-endzeit-verr",
+  "category": "wissenschaft",
+  "title": "Der riesige Pilz „D-rex“: Was er über Dinosaurier-Endzeit verrät",
+  "teaser": "Forscher fanden einen gigantischen Pilz in China, der älter ist als die Dinosaurier. Er gibt uns Einblicke in die Natur nach einer globalen Katastrophe.",
+  "tags": [
+    "Biologie",
+    "Evolution",
+    "Naturgeschichte",
+    "Mikrobiologie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Wissenschaftler entdeckten in China einen riesigen Pilz namens Dianjunus rex, der zu den größten bekannten Exemplaren seiner Art gehört.",
+    "Die DNA-Analyse zeigt, dass die Familie dieses Pilzes vor etwa 65 Millionen Jahren entstand, kurz nach dem Aussterben der Dinosaurier.",
+    "Dies deutet darauf hin, dass die dramatischen Umweltveränderungen nach der Massensterben neue Lebensbedingungen für diese Pilz-Ahnen schufen."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Pilz, der beeindruckt: Die Entdeckung von „D-rex“",
+      "paragraphs": [
+        "In den Wäldern Chinas wurde ein außergewöhnlich großer Pilz entdeckt. Er trägt den Spitznamen „D-rex“ und gehört zur Art Dianjunus rex. Dieser Pilz ist einer der größten bekannten Fruchtkörper innerhalb der Pilzgruppe Ascomycota.",
+        "Die wachsenden Strukturen können bis zu 50 Zentimeter hoch werden und wiegen fast fünf Kilogramm. Die Forscher identifizierten ihn als Teil einer neuen Pilzfamilie, der Dianjunaceae.",
+        "Die Entdeckung ist wichtig, weil sie zeigt, wie viel Biodiversität in den Wäldern Ostasiens noch unbekannt ist. Die Wissenschaftler fanden den Pilz, während sie verschiedene Waldtypen in der Provinz Yunnan untersuchten."
+      ]
+    },
+    {
+      "heading": "Ein Blick in die Vergangenheit: Die Verbindung zu Dinosauriern",
+      "paragraphs": [
+        "Das Faszinierende an Dianjunus rex ist nicht nur seine Größe, sondern auch seine Geschichte. Mithilfe einer Methode namens „molekulare Uhr“ verglichen die Wissenschaftler die DNA des Pilzes mit der von Hunderten anderer Pilzarten.",
+        "Diese Analyse lieferte einen Schätzwert: Die Vorfahren dieser Pilzfamilie entstanden vor rund 65 Millionen Jahren. Das ist kurz nach dem Kreide-Paläogen-Massensterben, dem Ereignis, das die nicht-vogelartigen Dinosaurier auslöschte.",
+        "Die Forscher vermuten, dass die massiven Umwälzungen nach diesem Aussterben ideale Bedingungen für die Entwicklung der Vorfahren dieses Pilzes geschaffen haben könnten. Plötzlich gab es riesige Mengen an totem Pflanzenmaterial, das Pilze zersetzen können."
+      ]
+    },
+    {
+      "heading": "Wie wächst so ein Gigant?",
+      "paragraphs": [
+        "Die Art, wie Dianjunus rex so groß wird, ist ebenfalls ein Rätsel. Normalerweise sind die höchsten Fruchtkörper dieser Pilzgruppe nur 20 bis 30 Zentimeter groß. Der neue Pilz bricht diesen Rekord.",
+        "Eine mögliche Erklärung liegt in der Sporenverbreitung. Indem die Fruchtkörper so hoch in die Luft ragen, könnten sie leichter vom Wind erfasst werden und Sporen durch dichte Vegetation verteilen.",
+        "Allerdings kostet ein so großer Aufbau viel Energie. Die Forscher vermuten, dass diese Strategie nur dort funktioniert, wo der Vorteil der besseren Sporenverteilung die hohen Energiekosten überwiegt."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieser Fund zeigt, wie stark die Natur nach großen Krisen wie Massensterben neu beginnt. Er erinnert uns daran, dass wir in der Natur noch extrem viel über unbekannte Lebensformen wissen müssen.",
+  "glossary": [
+    {
+      "term": "Ascomycota",
+      "definition": "Eine große Hauptgruppe von Pilzen, die Sporen in kleinen, sackartigen Strukturen bilden, anstatt typische Pilzkappen zu haben."
+    },
+    {
+      "term": "Fruchtkörper",
+      "definition": "Die sichtbare Struktur eines Pilzes, die dazu dient, Sporen zu bilden und zu verbreiten."
+    },
+    {
+      "term": "Rhizosphäre",
+      "definition": "Der Bodenbereich direkt um die Wurzeln einer Pflanze, in dem viele Mikroorganismen leben."
+    },
+    {
+      "term": "Molekulare Uhr",
+      "definition": "Eine Methode in der Genetik, mit der Forscher anhand von DNA-Änderungen die ungefähre Zeit bestimmen können, wann sich eine Lebensform entwickelt hat."
+    }
+  ],
+  "quiz": {
+    "question": "Wann schätzen die Wissenschaftler, dass die Familie des Pilzes Dianjunaceae erstmals auftauchte?",
+    "options": [
+      "Kurz nach der Entdeckung in Yunnan",
+      "Vor etwa 65 Millionen Jahren, nach dem Massensterben",
+      "Vor etwa einem Million Jahren vor der Entdeckung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Analyse deutet darauf hin, dass die Linie vor etwa 65 Millionen Jahren entstand, was kurz nach dem Kreide-Paläogen-Massensterben liegt."
+  },
+  "discussion": [
+    "Wie könnten die extremen Umweltbedingungen nach einem globalen Massensterben die Evolution neuer, ungewöhnlicher Lebensformen beschleunigen?",
+    "Welche Rolle spielt die Biodiversität in einem Ökosystem, wenn wir die Lebenszyklen von Mikroorganismen wie Pilzen betrachten?"
+  ],
+  "publishedAt": "2026-10-27T08:02:48.171Z",
+  "sources": [
+    {
+      "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

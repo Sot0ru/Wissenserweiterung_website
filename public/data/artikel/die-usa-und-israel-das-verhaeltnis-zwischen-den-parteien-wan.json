@@ -1,0 +1,82 @@
+{
+  "id": "die-usa-und-israel-das-verhaeltnis-zwischen-den-parteien-wan",
+  "category": "politik",
+  "title": "Die USA und Israel: Das Verhältnis zwischen den Parteien wandelt sich",
+  "teaser": "Der enge Verbündete Israels, die USA, erlebt einen tiefen Riss. Besonders jüngere Bürger hinterfragen die traditionelle Unterstützung der politischen Parteien.",
+  "tags": [
+    "Außenpolitik",
+    "USA",
+    "Israel",
+    "Wahlen",
+    "Gesellschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die traditionelle, starke Unterstützung der US-Parteien für Israel ändert sich. Besonders junge Wähler zeigen eine kritischere Haltung gegenüber der israelischen Regierung.",
+    "In New York zeigt sich dieser Konflikt deutlich, wo Bürgermeister Mamdani zwischen pro-israelischen und pro-palästinensischen Kräften zerrieben wird.",
+    "Auch innerhalb der Republikanischen Partei spaltet die Debatte über Israel die Basis, wobei jüngere Mitglieder eine Reduzierung der Militärhilfe fordern."
+  ],
+  "sections": [
+    {
+      "heading": "Ein wackeliges Bündnis: Was passiert mit der US-Unterstützung für Israel?",
+      "paragraphs": [
+        "Die Vereinigten Staaten gelten seit langem als Israels wichtigster Verbündeter. Dieses Verhältnis steht aber unter Druck. Die Kritik kommt nicht nur von außen, sondern auch aus dem Inneren der US-Politik. Insbesondere jüngere Bürger sehen die israelische Regierung Netanjahu kritisch.",
+        "Diese Stimmung beeinflusst direkt die Wahlkämpfe der Demokraten und Republikaner. Es zeigt sich, dass die Unterstützung für Israel nicht mehr als selbstverständlich angesehen wird. Die Debatte ist komplex und polarisiert stark, was sich auch in Städten wie New York zeigt."
+      ]
+    },
+    {
+      "heading": "Polarisierung im Mikrokosmos New York",
+      "paragraphs": [
+        "In New York lebt dieser Konflikt besonders sichtbar. Der Bürgermeister Mamdani wird von verschiedenen Seiten angegriffen. Während einige ihn als Unterstützer Israels sehen, werfen ihm andere vor, eine pro-palästinensische Seite zu bedienen. Er gerät in eine schwierige Lage zwischen den gegensätzlichen Meinungen.",
+        "Diese Spannung spiegelt sich auch in den politischen Parteien wider. Innerhalb der Demokratischen Partei gibt es einen wachsenden Graben. Ein Antrag, alle Waffenlieferungen an Israel zu stoppen, erhielt unter den Demokraten erstmals mehr Ja-Stimmen (103) als Nein-Stimmen (99).",
+        "Auch in der Republikanischen Partei gibt es Spannungen. Historiker beobachten eine Verschiebung: Während ältere Wähler die Partei oft als stark pro-Israel sehen, fordert eine Mehrheit der unter 50-Jährigen eine deutliche Reduzierung der Militärhilfe für Israel."
+      ]
+    },
+    {
+      "heading": "Die Ideologie im Fokus der Debatte",
+      "paragraphs": [
+        "Die politische Diskussion wird auch von ideologischen Strömungen geprägt. Innerhalb der MAGA-Bewegung gibt es zwei Hauptlager. Auf der einen Seite stehen „christliche Zionisten“, die die Siedlerbewegung und eine weitreichende Unterstützung für Israel befürworten. Auf der anderen Seite steht das „America First“-Lager, das oft von Kritikern wie Tucker Carlson geprägt wird.",
+        "Manche Stimmen in dieser Bewegung kritisieren die US-Politik und Israel, indem sie behaupten, Israel würde die US-Politik manipulieren. Diese Kritik kann schnell in Verschwörungserzählungen münden. Die Debatte zeigt, dass die Loyalität der amerikanischen Wähler zu Israel zunehmend hinterfragt wird, insbesondere wenn globale Krisen wie der Iran-Krieg die Stimmung beeinflussen."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es zeigt, wie sich die politische Landschaft in den USA verändert. Du lernst, dass Meinungen nicht mehr einfach sind und dass gesellschaftliche Debatten stark von Generationen und Ideologien geteilt werden.",
+  "glossary": [
+    {
+      "term": "Demokratische Partei",
+      "definition": "Eine der beiden größten politischen Parteien in den USA, die oft progressive und sozialliberale Positionen vertritt."
+    },
+    {
+      "term": "Republikanische Partei",
+      "definition": "Die andere große politische Partei in den USA, die oft konservative und rechte Positionen vertritt."
+    },
+    {
+      "term": "Militärhilfe",
+      "definition": "Die finanzielle und materielle Unterstützung, die ein Land (hier die USA) einem anderen Land (hier Israel) für seine Streitkräfte bereitstellt."
+    }
+  ],
+  "quiz": {
+    "question": "Laut der Quelle, wie viele Stimmen gab es bei dem Antrag unter den Demokraten, alle Waffenlieferungen an Israel zu stoppen?",
+    "options": [
+      "103 Ja und 99 Nein",
+      "Nur 50 Ja und 50 Nein",
+      "99 Ja und 103 Nein"
+    ],
+    "answerIndex": 0,
+    "explanation": "Der Antrag erhielt erstmals mehr Unterstützer als Gegner, nämlich 103 Ja und 99 Nein."
+  },
+  "discussion": [
+    "Wie beeinflussen globale Konflikte und Krisen die politische Meinung junger Menschen in deinem Heimatland?",
+    "Was bedeutet es für eine Demokratie, wenn sich die Unterstützung für internationale Verbündete stark verändert?"
+  ],
+  "publishedAt": "2026-10-27T08:35:53.555Z",
+  "sources": [
+    {
+      "title": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

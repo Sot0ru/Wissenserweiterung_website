@@ -1,0 +1,75 @@
+{
+  "id": "klimawandel-und-gesundheit-was-aerzte-fuer-politische-massna",
+  "category": "politik",
+  "title": "Klimawandel und Gesundheit: Was Ärzte für politische Maßnahmen fordern",
+  "teaser": "Ärzte fordern dringend mehr staatliches Handeln gegen die gesundheitlichen Folgen des Klimawandels. Welche konkreten Gesetze sollen auf die Agenda kommen?",
+  "tags": [
+    "Klimawandel",
+    "Gesundheitspolitik",
+    "Prävention",
+    "Umwelt"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Ärzte fordern, dass der Staat verbindliche Leitlinien für den Hitzeschutz – etwa im Schulsport und bei Gebäuden – festlegt.",
+    "Sie betonen, dass der Klimawandel eine gesundheitspolitische Herausforderung ist und fordern einen konsequenteren Ausstieg aus fossilen Energieträgern.",
+    "Darüber hinaus drängen sie auf strengere Regeln gegen die Werbung für ungesunde Lebensmittel, besonders für Kinder und Jugendliche."
+  ],
+  "sections": [
+    {
+      "heading": "Hitzeschutz und Bauen: Konkrete Forderungen für den Alltag",
+      "paragraphs": [
+        "Die gesundheitlichen Folgen des Klimawandels stehen im Fokus der medizinischen Fachwelt. Auf dem 85. Bayerischen Ärztinnen- und Ärztetag wurden Forderungen laut, die direkt in den Alltag und in die Städte eingreifen sollen. Die Delegierten des Ärzteparlaments fordern unter anderem eine landesweite Leitlinie zum Hitzeschutz im Schulsport.",
+        "Das bedeutet konkret, dass klare Regeln festgelegt werden sollen, wann Sportveranstaltungen im Freien wegen Hitze angepasst, verschoben oder ganz abgesagt werden müssen. Auch beim Bauen und Sanieren sehen die Ärzte dringenden Handlungsbedarf. Sie appellieren an die Politik, verbindliche Kriterien für den baulichen Hitzeschutz in Förderrichtlinien zu verankern.",
+        "Diese Kriterien müssten sowohl Neubauten als auch energetische Sanierungen umfassen. Besonders wichtig seien dabei öffentliche Gebäude, aber auch Krankenhäuser, Pflegeheime und Schulen. Die Forderung zielt darauf ab, die Infrastruktur klimasicher zu machen."
+      ]
+    },
+    {
+      "heading": "Von der Energie bis zum Teller: Mehr als nur Hitze",
+      "paragraphs": [
+        "Die Ärzte sehen den Klimawandel nicht nur als Wetterphänomen, sondern als tiefgreifende gesundheitspolitische Herausforderung. Sie betonen, dass die Verbrennung fossiler Energieträger gesundheitsschädliche Luftschadstoffe wie Feinstaub und Stickoxide freisetzt. Auch bodennahes Ozon belastet die Gesundheit.",
+        "Ein weiterer wichtiger Punkt betrifft die Ernährung. Die Delegierten rufen die Politik auf, Kinder und Jugendliche wirksam vor Werbung für ungesunde Lebensmittel zu schützen. Sie fordern einheitliche Kriterien, die auf dem Nährwertprofilmodell der Weltgesundheitsorganisation (WHO) basieren sollen. Ein Werbeverbot für „Junk-Food“ in bestimmten Zeiten und auf bestimmten Plattformen wird ebenfalls gefordert.",
+        "Zusammenfassend drängen die Vertreter der Ärzteschaft auf eine konsequente Klimaanpassung und eine stärkere Verbindung zwischen Prävention und Klimaschutz. Sie lehnen eine Abschwächung der EU-Klimaziele ab und fordern damit ein entschlossenes politisches Handeln."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist für dich relevant, weil es zeigt, dass Gesundheit nicht nur im Arztzimmer entschieden wird. Die Lebensumstände – wie die Hitze in der Stadt oder die Werbung, die du siehst – beeinflussen deine Gesundheit direkt. Es geht darum, wie Politik und Umwelt dein tägliches Leben prägen.",
+  "glossary": [
+    {
+      "term": "Prävention",
+      "definition": "Maßnahmen, die dazu dienen, Krankheiten von vornherein zu verhindern oder deren Auftreten zu verzögern."
+    },
+    {
+      "term": "Baulicher Hitzeschutz",
+      "definition": "Maßnahmen an Gebäuden (z.B. bessere Isolierung, Verschattung), um sie vor Überhitzung durch das Klima zu schützen."
+    },
+    {
+      "term": "One-Health-Ansatz",
+      "definition": "Ein Ansatz, der die Gesundheit von Mensch, Tier und Umwelt als untrennbar miteinander verbunden betrachtet."
+    }
+  ],
+  "quiz": {
+    "question": "Was fordern die Delegierten der Ärzteparlaments bezüglich der Sportveranstaltungen im Freien bei Hitze?",
+    "options": [
+      "Eine landesweite Leitlinie, die festlegt, wann Sportveranstaltungen angepasst, verschoben oder abgesagt werden müssen.",
+      "Dass nur noch Indoor-Sportarten erlaubt sein dürfen.",
+      "Dass sie immer stattfinden müssen, um die sportliche Betätigung zu fördern."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Delegierten fordern eine landesweite Leitlinie, die verbindliche Kriterien für das Vorgehen bei Hitzebelastung festlegt."
+  },
+  "discussion": [
+    "Wie glaubst du, könnte eine Stadt durch bessere Bauvorschriften (z.B. mehr Grünflächen, bessere Isolierung) die gesundheitlichen Auswirkungen des Klimawandels für ihre Bewohner reduzieren?",
+    "Welche Rolle sollte die Werbung für Lebensmittel spielen, wenn es um die öffentliche Gesundheit geht? Wo ziehst du die Grenze zwischen freier Meinungsäußerung und gesundheitlichem Schutz?"
+  ],
+  "publishedAt": "2026-10-27T07:53:32.999Z",
+  "sources": [
+    {
+      "title": "Bayerischer Ärztetag: Klimawandel, Prävention und Reformgesetze im Fokus",
+      "url": "https://www.aerzteblatt.de/news/bayerischer-arztetag-klimawandel-pravention-und-reformgesetze-im-fokus-ae649c03-fa23-4e2d-83f3-7d8df4cadae6",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}
