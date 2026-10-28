@@ -71,5 +71,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/todesopfer-an-der-grenze-warum-die-zahlen-zur-ddr-grenztote-.jpg",
+    "width": 960,
+    "height": 635,
+    "alt": "Ostdeutsche Soldaten bewachen die innerdeutsche Grenze während des Kalten Krieges.",
+    "credit": {
+      "title": "East German Soldiers at the inner German border.JPEG",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_German_Soldiers_at_the_inner_German_border.JPEG"
+    }
+  }
 }

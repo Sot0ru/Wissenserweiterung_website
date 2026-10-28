@@ -63,5 +63,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wann-war-hitler-offiziell-tot-die-geschichte-hinter-dem-tode.jpg",
+    "width": 960,
+    "height": 1369,
+    "alt": "Titelseite der US-Soldatenzeitung „Stars and Stripes“ von 1945 mit der Schlagzeile „Hitler Dead“",
+    "credit": {
+      "title": "Stars & Stripes & Hitler Dead2.jpg",
+      "author": "US Army",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stars_%26_Stripes_%26_Hitler_Dead2.jpg"
+    }
+  }
 }

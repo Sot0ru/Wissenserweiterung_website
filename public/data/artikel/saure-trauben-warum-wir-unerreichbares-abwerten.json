@@ -74,5 +74,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/saure-trauben-warum-wir-unerreichbares-abwerten.jpg",
+    "width": 960,
+    "height": 646,
+    "alt": "Zeichnung von Léopold Chauveau: Ein Fuchs reckt sich vergeblich nach Trauben, die oben in einem Bogen hängen",
+    "credit": {
+      "title": "La Fontaine - Léopold Chauveau - Le Renard et les Raisins.png",
+      "author": "Léopold Chauveau",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Fontaine_-_L%C3%A9opold_Chauveau_-_Le_Renard_et_les_Raisins.png"
+    }
+  }
 }

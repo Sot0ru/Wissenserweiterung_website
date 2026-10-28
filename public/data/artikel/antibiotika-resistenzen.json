@@ -79,5 +79,18 @@
       "publisher": "The Lancet"
     }
   ],
-  "aiGenerated": true
+  "aiGenerated": true,
+  "image": {
+    "src": "data/bilder/antibiotika-resistenzen.jpg",
+    "width": 960,
+    "height": 498,
+    "alt": "Zwei Petrischalen mit Bakterienkulturen und Antibiotika-Plättchen; wo ein Mittel wirkt, bildet sich ein heller Ring",
+    "credit": {
+      "title": "Antibiotic sensitivity and resistance.jpg",
+      "author": "Dr Graham Beards",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antibiotic_sensitivity_and_resistance.jpg"
+    }
+  }
 }

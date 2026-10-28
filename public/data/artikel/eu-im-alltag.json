@@ -73,5 +73,18 @@
       "publisher": "Bundeszentrale für politische Bildung"
     }
   ],
-  "aiGenerated": true
+  "aiGenerated": true,
+  "image": {
+    "src": "data/bilder/eu-im-alltag.jpg",
+    "width": 960,
+    "height": 542,
+    "alt": "Plenarsaal des Europäischen Parlaments in Straßburg mit voll besetzten Sitzreihen",
+    "credit": {
+      "title": "European Parliament Strasbourg Hemicycle - Diliff.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg"
+    }
+  }
 }

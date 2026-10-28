@@ -71,5 +71,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/sternentstehung-in-nebeln-wie-entstehen-sterne-in-riesigen-g.jpg",
+    "width": 960,
+    "height": 1032,
+    "alt": "Dramatische Aufnahme von kosmischen Wolken und Sternentstehung im Orionnebel.",
+    "credit": {
+      "title": "APEX view of star formation and cosmic clouds in the Orion Nebula.jpg",
+      "author": "ESO/Digitized Sky Survey 2",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:APEX_view_of_star_formation_and_cosmic_clouds_in_the_Orion_Nebula.jpg"
+    }
+  }
 }

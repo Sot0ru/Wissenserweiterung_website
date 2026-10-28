@@ -77,5 +77,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/studentenliste-gewinnt-in-serbien-was-bedeutet-ein-machtwech.jpg",
+    "width": 960,
+    "height": 670,
+    "alt": "Menschenmenge bei einem Protest in Serbien nach dem Einsturz des Bahnhofsvordachs in Novi Sad",
+    "credit": {
+      "title": "Protests in Serbia regarding the fall of a concrete canopy (54296637340).jpg",
+      "author": "Dejan Krsmanovic",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_(54296637340).jpg"
+    }
+  }
 }

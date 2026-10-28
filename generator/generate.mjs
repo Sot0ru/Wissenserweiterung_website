@@ -25,6 +25,7 @@ import { fileURLToPath } from "node:url";
 import { join } from "node:path";
 import { loadArticles, saveArticle, rebuildIndex } from "./store.mjs";
 import { cleanArticle } from "./clean.mjs";
+import { findImage } from "./images.mjs";
 
 const ROOT = fileURLToPath(new URL("..", import.meta.url));
 const SOURCES_PATH = join(ROOT, "generator", "sources.json");
@@ -43,6 +44,7 @@ const option = (name, fallback) => {
   return i >= 0 && args[i + 1] ? args[i + 1] : fallback;
 };
 const DRY_RUN = flag("--dry-run");
+const WITH_IMAGES = !flag("--ohne-bilder");
 const PER_CATEGORY = Math.max(1, Number(option("--per-category", 1)) || 1);
 const ONLY_CATEGORY = option("--category", null);
 const PROVIDER = option("--provider", process.env.KI_ANBIETER || "ollama");
@@ -198,6 +200,7 @@ Bausteine (jeder Baustein steht nur in seinem eigenen Feld):
 - discussion: zwei offene Fragen, über die man in der Schule, Uni oder mit Freunden diskutieren kann. Keine Suggestivfragen.
 - tags: drei bis fünf verschiedene kurze Stichworte (z. B. „Klima“, „EU“, „Genetik“), damit verwandte Artikel gefunden werden. Verwende bevorzugt allgemeine, wiederverwendbare Begriffe, aber nicht den Namen des Themas selbst.
 - readingMinutes: geschätzte Lesezeit in Minuten.
+- imageQuery: englischer Suchbegriff (zwei bis vier Wörter) für ein Foto in Wikimedia Commons, der das konkrete, fotografierbare Hauptmotiv benennt, z. B. "solar eclipse corona" oder "Leipzig Völkerschlachtdenkmal". Leer lassen, wenn es kein sinnvolles Motiv gibt.
 
 Themenprüfung (Feld category):
 Der Feed hat die Meldung einem Thema zugeordnet, das stimmt aber nicht immer. Entscheide selbst, wohin der Artikel gehört:
@@ -216,13 +219,14 @@ const ARTICLE_SCHEMA = {
   type: "object",
   additionalProperties: false,
   required: [
-    "suitable", "reason", "category", "title", "teaser", "tags", "readingMinutes", "tldr",
+    "suitable", "reason", "category", "imageQuery", "title", "teaser", "tags", "readingMinutes", "tldr",
     "sections", "whyItMatters", "glossary", "quiz", "discussion",
   ],
   properties: {
     suitable: { type: "boolean" },
     category: { type: "string", enum: [...Object.keys(CATEGORY_NAMES), "keins"] },
     reason: { type: "string" },
+    imageQuery: { type: "string" },
     title: { type: "string" },
     teaser: { type: "string" },
     tags: { type: "array", items: { type: "string" } },
@@ -408,6 +412,34 @@ function writeArticle(category, item, sourceText) {
   return PROVIDER === "claude" ? writeWithClaude(prompt) : writeWithOllama(prompt);
 }
 
+/** Kleine JSON-Anfrage an die KI (z. B. für die Bildauswahl), für beide Anbieter. */
+async function askJSON(system, user, schema) {
+  if (PROVIDER === "claude") {
+    const response = await client.beta.messages.create({
+      model: CLAUDE_MODEL,
+      max_tokens: 2000,
+      betas: ["server-side-fallback-2026-07-01"],
+      fallbacks: "default",
+      output_config: { effort: "low", format: { type: "json_schema", schema } },
+      system,
+      messages: [{ role: "user", content: user }],
+    });
+    if (response.stop_reason !== "end_turn") return null;
+    return JSON.parse(response.content.filter((b) => b.type === "text").map((b) => b.text).join(""));
+  }
+  const res = await postToOllama("/api/chat", {
+    model: OLLAMA_MODEL,
+    stream: false,
+    think: false,
+    format: schema,
+    options: { temperature: 0.2, num_ctx: 8192, num_predict: 400 },
+    messages: [{ role: "system", content: system }, { role: "user", content: user }],
+  });
+  const body = await readAll(res);
+  if (res.statusCode !== 200) throw new OllamaError(`Ollama-Fehler ${res.statusCode}: ${body}`);
+  return JSON.parse(JSON.parse(body).message.content);
+}
+
 function isValid(a) {
   return Boolean(
     a.title && a.teaser && a.sections?.length >= 1 && a.tldr?.length >= 1 &&
@@ -434,6 +466,23 @@ async function readJson(path, fallback) {
   try { return JSON.parse(await readFile(path, "utf8")); } catch { return fallback; }
 }
 
+/** Sucht für alle Artikel, die noch nie geprüft wurden (kein Feld `image`), ein Bild. */
+async function addMissingImages(articles) {
+  const todo = articles.filter((a) => !("image" in a));
+  console.log(`Bilder nachtragen für ${todo.length} Artikel`);
+  for (const article of todo) {
+    console.log(`\n  → ${article.title}`);
+    try {
+      article.image = await findImage(article, askJSON);
+      await saveArticle(article);
+    } catch (err) {
+      console.warn(`    ! Bildsuche fehlgeschlagen: ${err.message}`);
+    }
+  }
+  const index = await rebuildIndex();
+  console.log(`\nFertig. ${index.articles.length} Artikel im Index.`);
+}
+
 async function main() {
   const sources = await readJson(SOURCES_PATH, {});
   const existing = await loadArticles();
@@ -453,6 +502,8 @@ async function main() {
     client = new Anthropic();
   }
   if (!DRY_RUN && PROVIDER === "ollama") await checkOllama();
+
+  if (flag("--bilder-nachtragen")) return addMissingImages(existing);
 
   const categories = Object.keys(sources).filter((c) => !ONLY_CATEGORY || c === ONLY_CATEGORY);
   if (!categories.length) throw new Error(`Unbekanntes Thema: ${ONLY_CATEGORY}`);
@@ -526,7 +577,7 @@ async function main() {
         if (topic !== category) {
           console.log(`    umsortiert: ${CATEGORY_NAMES[category]} → ${CATEGORY_NAMES[topic]}`);
         }
-        const { suitable, reason, category: _, ...article } = result;
+        const { suitable, reason, category: _, imageQuery, ...article } = result;
         const finished = cleanArticle({
           id: "",
           category: topic,
@@ -547,6 +598,16 @@ async function main() {
         while (existingIds.has(id)) id = `${id}-${Math.random().toString(36).slice(2, 6)}`;
         existingIds.add(id);
         finished.id = id;
+
+        // Bild aus Wikimedia Commons; ein Fehler dabei kostet nur das Bild, nicht den Artikel.
+        if (WITH_IMAGES) {
+          try {
+            const image = await findImage(finished, askJSON, { query: imageQuery?.trim() ?? "" });
+            finished.image = image; // null heißt: geprüft, kein passendes Bild
+          } catch (err) {
+            console.warn(`    ! Bildsuche fehlgeschlagen: ${err.message}`);
+          }
+        }
 
         // Sofort speichern: bricht ein langer Lauf ab, sind die fertigen Artikel nicht verloren.
         await saveArticle(finished);

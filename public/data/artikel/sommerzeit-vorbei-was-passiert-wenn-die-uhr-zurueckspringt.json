@@ -72,5 +72,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/sommerzeit-vorbei-was-passiert-wenn-die-uhr-zurueckspringt.jpg",
+    "width": 960,
+    "height": 911,
+    "alt": "Historisches Foto: Eine Frau stellt ihre Uhr nach einem Zeitsignal aus dem Radio",
+    "credit": {
+      "title": "Woman setting clock using radio time signals.jpg",
+      "author": "Unknown photographer",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woman_setting_clock_using_radio_time_signals.jpg"
+    }
+  }
 }

@@ -73,5 +73,18 @@
       "publisher": "Deutsches Historisches Museum"
     }
   ],
-  "aiGenerated": true
+  "aiGenerated": true,
+  "image": {
+    "src": "data/bilder/industrielle-revolution.jpg",
+    "width": 960,
+    "height": 642,
+    "alt": "Gemälde von Léonard Defrance, das einen Besuch in einer Nagelfabrik im 18. Jahrhundert zeigt.",
+    "credit": {
+      "title": "Defrance, Visiting a nail factory (18th c).jpg",
+      "author": "Léonard Defrance",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Defrance,_Visiting_a_nail_factory_(18th_c).jpg"
+    }
+  }
 }

@@ -202,6 +202,15 @@ function story(item, { lead = false } = {}) {
     </article>`;
 }
 
+/** Bildnachweis nach den Vorgaben der CC-Lizenzen: Urheber, Lizenz mit Link, Quelle. */
+function imageCredit(img) {
+  const c = img.credit;
+  const link = (href, text) => href
+    ? `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${esc(text)}</a>`
+    : esc(text);
+  return `${esc(c.author)}, ${link(c.licenseUrl, c.license)}, via ${link(c.sourceUrl, "Wikimedia Commons")}`;
+}
+
 function chips(active) {
   const all = [["", "Alle"], ...CAT_KEYS.map((k) => [k, CATEGORIES[k].name])];
   return `<div class="chips" role="toolbar" aria-label="Nach Thema filtern">
@@ -339,6 +348,12 @@ async function renderArticle(id) {
         </section>
       </header>
 
+      ${a.image ? `
+        <figure class="article-image">
+          <img src="${esc(a.image.src)}" alt="${esc(a.image.alt)}" width="${a.image.width}" height="${a.image.height}" loading="lazy" decoding="async">
+          <figcaption><span class="caption">${esc(a.image.alt)}</span> Bild: ${imageCredit(a.image)}</figcaption>
+        </figure>` : ""}
+
       <div class="article-body">
         ${a.sections.map((s) => `
           <section class="article-section">
@@ -389,7 +404,8 @@ async function renderArticle(id) {
         <h2 class="heading">Quellen</h2>
         <ul>${a.sources.map((s) =>
           `<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)}</a>, ${esc(s.publisher)}</li>`
-        ).join("")}</ul>
+        ).join("")}
+        ${a.image ? `<li>Bild: ${imageCredit(a.image)}</li>` : ""}</ul>
         ${a.aiGenerated ? `<p class="disclaimer">Dieser Artikel wurde mit KI auf Grundlage der genannten Quellen geschrieben. KI kann Fehler machen. Prüf wichtige Fakten in den Originalquellen.</p>` : ""}
       </section>
     </article>`;
@@ -502,8 +518,11 @@ function renderDatenschutz() {
       und die <a href="https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">Datenschutzerklärung von GitHub</a>.</p>
 
       <h2>3. Keine Cookies, kein Tracking, keine fremden Inhalte</h2>
-      <p>Wir setzen keine Cookies und keine Analyse- oder Werbedienste ein. Schriften und Symbole liegen
-      auf dieser Website selbst; beim Aufruf werden keine Inhalte von Drittanbietern wie Google geladen.</p>
+      <p>Wir setzen keine Cookies und keine Analyse- oder Werbedienste ein. Schriften, Symbole und Bilder
+      liegen auf dieser Website selbst; beim Aufruf werden keine Inhalte von Drittanbietern wie Google
+      geladen. Die Bilder stammen aus Wikimedia Commons und stehen unter freien Lizenzen; Urheber und
+      Lizenz stehen jeweils unter dem Bild. Erst wenn du einen dieser Links antippst, öffnet sich die
+      Seite von Wikimedia.</p>
 
       <h2>4. Speicherung auf deinem Gerät</h2>
       <p>Damit die Like-Funktion und die Markierung „Gelesen“ funktionieren, speichert die Website in

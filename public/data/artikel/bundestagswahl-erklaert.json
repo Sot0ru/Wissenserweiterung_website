@@ -78,5 +78,18 @@
       "publisher": "Die Bundeswahlleiterin"
     }
   ],
-  "aiGenerated": true
+  "aiGenerated": true,
+  "image": {
+    "src": "data/bilder/bundestagswahl-erklaert.jpg",
+    "width": 960,
+    "height": 1308,
+    "alt": "Stimmzettel der Bundestagswahl 2025 mit Spalten für Erststimme und Zweitstimme",
+    "credit": {
+      "title": "Bundestagswahl 2025 Wahlkreis 63 Stimmzettel.jpg",
+      "author": "Marcus Cyron",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundestagswahl_2025_Wahlkreis_63_Stimmzettel.jpg"
+    }
+  }
 }

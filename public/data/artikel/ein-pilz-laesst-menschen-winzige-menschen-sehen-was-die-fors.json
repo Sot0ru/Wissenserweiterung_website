@@ -78,5 +78,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/ein-pilz-laesst-menschen-winzige-menschen-sehen-was-die-fors.jpg",
+    "width": 906,
+    "height": 963,
+    "alt": "Zwei Fruchtkörper des Pilzes Lanmaoa asiatica mit rötlichem Hut auf Laub",
+    "credit": {
+      "title": "Lanmaoa asiatica.jpg",
+      "author": "Ruanxian Dai, Zhantao Duan, Bin Han, Yating Peng, Lan Zhu, Yuan Shen, Qiang Meng",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lanmaoa_asiatica.jpg"
+    }
+  }
 }

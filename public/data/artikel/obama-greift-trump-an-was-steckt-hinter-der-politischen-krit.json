@@ -71,5 +71,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/obama-greift-trump-an-was-steckt-hinter-der-politischen-krit.jpg",
+    "width": 960,
+    "height": 594,
+    "alt": "Barack Obama trifft Donald Trump im Oval Office des Weißen Hauses.",
+    "credit": {
+      "title": "Barack Obama and Donald Trump in the Oval Office.jpg",
+      "author": "Pete Souza",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barack_Obama_and_Donald_Trump_in_the_Oval_Office.jpg"
+    }
+  }
 }

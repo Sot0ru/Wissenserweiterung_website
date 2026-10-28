@@ -81,5 +81,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/mmx-die-mission-zum-marsmond-phobos-erklaert.jpg",
+    "width": 960,
+    "height": 897,
+    "alt": "Der Marsmond Phobos, aufgenommen von der europäischen Raumsonde Mars Express",
+    "credit": {
+      "title": "Mars Express views Phobos-Grunt proposed landing sites (4437614053).jpg",
+      "author": "European Space Agency",
+      "license": "CC BY-SA 3.0 igo",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mars_Express_views_Phobos-Grunt_proposed_landing_sites_(4437614053).jpg"
+    }
+  }
 }

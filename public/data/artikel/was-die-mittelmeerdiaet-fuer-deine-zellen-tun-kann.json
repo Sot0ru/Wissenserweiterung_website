@@ -79,5 +79,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/was-die-mittelmeerdiaet-fuer-deine-zellen-tun-kann.jpg",
+    "width": 960,
+    "height": 666,
+    "alt": "Tisch mit Olivenöl, Obst, Gemüse, Brot und Tomaten, typischen Zutaten der Mittelmeerküche",
+    "credit": {
+      "title": "DIETA MEDITERRANEA ITALIA.JPG",
+      "author": "G.steph.rocket",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DIETA_MEDITERRANEA_ITALIA.JPG"
+    }
+  }
 }

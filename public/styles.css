@@ -502,6 +502,29 @@ main {
 .article-head .lead { font-size: var(--step-lead); line-height: 1.35; color: var(--cat-muted); max-width: 34ch; }
 .article-head .meta { margin-top: 16px; color: var(--cat-muted); }
 
+/* Artikelbild: unbeschnitten in voller Breite, Bildnachweis direkt darunter */
+.article-image {
+  margin: 4px calc(var(--gutter) * -1) 0;
+  background: var(--ground-2);
+}
+@media (min-width: 720px) { .article-image { margin-left: 0; margin-right: 0; } }
+.article-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 72svh;
+  object-fit: contain;
+}
+.article-image figcaption {
+  padding: 8px var(--gutter) 10px;
+  font-family: var(--sans);
+  font-size: var(--step-small);
+  color: var(--muted);
+  line-height: 1.4;
+}
+.article-image figcaption a { color: inherit; }
+.article-image .caption { display: block; color: var(--ink); font-weight: 500; margin-bottom: 2px; }
+
 .tldr { margin-top: 28px; }
 .tldr h2 { font-size: var(--step-body); letter-spacing: -0.01em; margin-bottom: 10px; }
 .tldr ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }

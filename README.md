@@ -33,6 +33,11 @@ Auf einem Laptop ohne eigene Grafikkarte dauert ein Artikel einige Minuten. Klei
 machen öfter Fehler als große; lies die Artikel vor dem Veröffentlichen gegen. Ein anderes Modell
 wählst du mit `--model qwen3.5:9b` oder `OLLAMA_MODEL` in der `.env`.
 
+Zu jedem Artikel sucht der Generator ein frei lizenziertes Foto in Wikimedia Commons und speichert es
+mit Bildnachweis (Urheber, Lizenz, Link) in `public/data/bilder/`. Passt keins, bleibt der Artikel
+ohne Bild. Für ältere Artikel: `npm run generate -- --bilder-nachtragen`; ohne Bildsuche:
+`--ohne-bilder`.
+
 Optional geht auch Claude (kostenpflichtig, bessere Texte): `.env.example` nach `.env` kopieren,
 `ANTHROPIC_API_KEY` eintragen und `KI_ANBIETER=claude` setzen oder `--provider claude` anhängen.
 

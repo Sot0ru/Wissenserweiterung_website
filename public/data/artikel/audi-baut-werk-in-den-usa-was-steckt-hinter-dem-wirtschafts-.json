@@ -72,5 +72,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/audi-baut-werk-in-den-usa-was-steckt-hinter-dem-wirtschafts-.jpg",
+    "width": 960,
+    "height": 768,
+    "alt": "Audi TT (8S) in der Metropolregion Washington D.C., USA.",
+    "credit": {
+      "title": "Audi TT (8S) Washington DC Metro Area, USA.jpg",
+      "author": "OWS Photography",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Audi_TT_(8S)_Washington_DC_Metro_Area,_USA.jpg"
+    }
+  }
 }

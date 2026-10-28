@@ -39,6 +39,15 @@ Schriften werden selbst gehostet, nicht von Google geladen (DSGVO).
 - Flächen eckig, Bedienelemente (Chips, Buttons, Like) voll gerundet.
 - Hover nur hinter `@media (hover: hover) and (pointer: fine)`; Touch bekommt `:active`.
 
+## Bilder
+
+- Nur frei lizenzierte Fotos aus Wikimedia Commons (gemeinfrei, CC0, CC BY, CC BY-SA), ausgewählt
+  von der KI im Generator (`generator/images.mjs`); lieber kein Bild als ein unpassendes.
+- Die Bilder liegen in `public/data/bilder/` und werden nie von Wikimedia nachgeladen (Datenschutz).
+- Im Artikel direkt unter dem Farbkopf, unbeschnitten in voller Breite, darunter der Bildnachweis:
+  Urheber, Lizenz mit Link, „via Wikimedia Commons“ mit Link zur Dateiseite. Der Nachweis steht
+  zusätzlich unter „Quellen“.
+
 ## Bewegung
 
 - Ein Signatur-Moment: Die große Themenform im Artikelkopf setzt sich (700 ms, ease-out).

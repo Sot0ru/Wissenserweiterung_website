@@ -78,5 +78,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/kartoffelferien-wie-die-landwirtschaft-frueher-den-schulkale.jpg",
+    "width": 800,
+    "height": 592,
+    "alt": "Junge Erntehelfer machen 1979 bei der Kartoffelernte in der DDR eine Pause auf dem Feld",
+    "credit": {
+      "title": "Bundesarchiv Bild 183-P1012-0049, LPG Labus, Helfer bei Kartoffelernte, Pause.jpg",
+      "author": "Müller",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-P1012-0049,_LPG_Labus,_Helfer_bei_Kartoffelernte,_Pause.jpg"
+    }
+  }
 }

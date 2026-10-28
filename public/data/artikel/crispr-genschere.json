@@ -79,5 +79,18 @@
       "publisher": "Wikipedia"
     }
   ],
-  "aiGenerated": true
+  "aiGenerated": true,
+  "image": {
+    "src": "data/bilder/crispr-genschere.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Schematische Darstellung des CRISPR-Cas9-Systems zur präzisen Bearbeitung von DNA-Strängen.",
+    "credit": {
+      "title": "CRISPR-Cas9 Editing of the Genome (26453307604).jpg",
+      "author": "National Human Genome Research Institute (NHGRI) from Bethesda, MD, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CRISPR-Cas9_Editing_of_the_Genome_(26453307604).jpg"
+    }
+  }
 }

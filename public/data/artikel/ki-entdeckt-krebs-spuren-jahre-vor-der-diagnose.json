@@ -77,5 +77,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/ki-entdeckt-krebs-spuren-jahre-vor-der-diagnose.jpg",
+    "width": 960,
+    "height": 733,
+    "alt": "Histopathologie: Identifizierung von Tumoren durch menschliche und KI-Analyse in Gewebeschnitten.",
+    "credit": {
+      "title": "Histopathology of tumor identification by humans and AI.png",
+      "author": "Cruz-Roa A, Gilmore H, Basavanhally A, Feldman M, Ganesan S, Shih NNC",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Histopathology_of_tumor_identification_by_humans_and_AI.png"
+    }
+  }
 }

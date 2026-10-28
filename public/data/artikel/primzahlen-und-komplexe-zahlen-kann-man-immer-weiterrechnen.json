@@ -78,5 +78,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/primzahlen-und-komplexe-zahlen-kann-man-immer-weiterrechnen.jpg",
+    "width": 960,
+    "height": 932,
+    "alt": "Gitter der Gaußschen Zahlen, die Gaußschen Primzahlen sind rot markiert",
+    "credit": {
+      "title": "PrimiGaussiani.jpg",
+      "author": "Dr Zimbu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PrimiGaussiani.jpg"
+    }
+  }
 }

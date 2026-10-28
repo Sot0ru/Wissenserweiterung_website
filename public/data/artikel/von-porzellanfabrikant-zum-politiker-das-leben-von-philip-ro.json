@@ -66,5 +66,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/von-porzellanfabrikant-zum-politiker-das-leben-von-philip-ro.jpg",
+    "width": 960,
+    "height": 740,
+    "alt": "Firmensitz von Rosenthal am Philip-Rosenthal-Platz in Selb mit regenbogenfarbener Fassade",
+    "credit": {
+      "title": "Philip-Rosenthal-Platz 1, Selb 20250713 HOF9998 RAW-Export.png",
+      "author": "PantheraLeo1359531",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philip-Rosenthal-Platz_1,_Selb_20250713_HOF9998_RAW-Export.png"
+    }
+  }
 }

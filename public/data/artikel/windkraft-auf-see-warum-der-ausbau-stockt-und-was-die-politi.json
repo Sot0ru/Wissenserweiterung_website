@@ -70,5 +70,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/windkraft-auf-see-warum-der-ausbau-stockt-und-was-die-politi.jpg",
+    "width": 960,
+    "height": 699,
+    "alt": "Ansicht der Middelgrunden Offshore-Windfarm im Øresund.",
+    "credit": {
+      "title": "Middelgrunden wind farm 2009-07-01 edit filtered.jpg",
+      "author": "Photo by Kim Hansen . Postprocessing (crop, rotation, color adjustment, dust spot removal and noise reduction) by Richar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Middelgrunden_wind_farm_2009-07-01_edit_filtered.jpg"
+    }
+  }
 }

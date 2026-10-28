@@ -77,5 +77,18 @@
     }
   ],
   "aiGenerated": true,
-  "aiModel": "gemma4:e4b"
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/voelkerschlachtdenkmal-leipzig-wie-ein-mahnmal-eine-geschich.jpg",
+    "width": 960,
+    "height": 703,
+    "alt": "Außenansicht des Völkerschlachtdenkmals in Leipzig, Deutschland, erbaut 1913.",
+    "credit": {
+      "title": "Leipzig völkerschlachtdenkmal.jpg",
+      "author": "Palauenc05",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leipzig_v%C3%B6lkerschlachtdenkmal.jpg"
+    }
+  }
 }

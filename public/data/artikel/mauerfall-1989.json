@@ -73,5 +73,18 @@
       "publisher": "Bundeszentrale für politische Bildung"
     }
   ],
-  "aiGenerated": true
+  "aiGenerated": true,
+  "image": {
+    "src": "data/bilder/mauerfall-1989.jpg",
+    "width": 960,
+    "height": 643,
+    "alt": "Menschen gehen in Berlin an der Mauer entlang, aufgenommen kurz nach dem Mauerfall 1989",
+    "credit": {
+      "title": "Fall of the Berlin Wall 1989, people walking.jpg",
+      "author": "Raphaël Thiémard from Belgium.",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fall_of_the_Berlin_Wall_1989,_people_walking.jpg"
+    }
+  }
 }
