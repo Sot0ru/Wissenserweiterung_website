@@ -1,0 +1,81 @@
+{
+  "id": "jwst-entdeckt-vulkanischen-planeten-mit-sonnenschutz-aus-wol",
+  "category": "wissenschaft",
+  "title": "JWST entdeckt vulkanischen Planeten mit „Sonnenschutz“ aus Wolken",
+  "teaser": "Ein heißer, lavabedeckter Planet soll eine dicke Atmosphäre haben – und das dank einer unerwarteten Schutzschicht. Er erfährt, wie Wissenschaftler dieses Rätsel lösen.",
+  "tags": [
+    "Weltall",
+    "Planeten",
+    "Atmosphäre",
+    "Erkundung",
+    "Exoplaneten"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Das James Webb Space Telescope (JWST) beobachtete den heißen Exoplaneten TOI-561 b, der 280 Lichtjahre entfernt ist.",
+    "Forscher vermuten, dass mineralische Wolken auf dem Planeten wie ein „Sonnenschutz“ wirken und ihm helfen, eine Atmosphäre zu behalten.",
+    "Diese Atmosphäre könnte durch Gase aus dem globalen Ozean aus geschmolzenem Gestein ständig aufgefüllt werden."
+  ],
+  "sections": [
+    {
+      "heading": "Ein heißer Planet, der nicht verdampft",
+      "paragraphs": [
+        "Stell dir einen Planeten vor, der so heiß ist, dass er komplett aus geschmolzenem Gestein besteht. Das ist TOI-561 b, ein Exoplanet, den das James Webb Space Telescope (JWST) untersucht hat. Wissenschaftler dachten lange, dass solch extreme Bedingungen jede Atmosphäre innerhalb weniger Milliarden Jahre wegätzen würden. Doch neue Beobachtungen zeigen etwas ganz anderes.",
+        "Die Forscher entdeckten, dass dieser vulkanische Planet eine bemerkenswert dicke Atmosphäre zu haben scheint. Das ist ein großes Rätsel, denn die Hitze ist extrem. Die Beobachtungen zeigten, dass der Planet einen Großteil des Lichts seiner Mutterstern reflektiert. Dieser hohe Reflexionsgrad – etwa 75% – ist vergleichbar mit dem von Venus."
+      ]
+    },
+    {
+      "heading": "Die Theorie: Wolken als natürlicher Sonnenschutz",
+      "paragraphs": [
+        "Um zu erklären, warum der Planet so viel Licht zurückwirft, verglichen die Wissenschaftler die Teleskopdaten mit Computermodellen. Die Simulationen deuten darauf hin, dass sich Wolken aus Silikatmineralien bilden könnten. Diese Wolken würden das einfallende Licht abblocken, bevor es die Oberfläche erreicht. Man könnte sie als einen gigantischen, natürlichen Sonnenschutz bezeichnen.",
+        "Die Atmosphäre spielt auch eine wichtige Rolle bei der Wärmeverteilung. Sie scheint die Hitze von der ständig beleuchteten Tagesseite zur dunkleren Nachtseite zu transportieren. Dadurch wird die Temperatur auf der sonnenzugewandten Seite etwas reduziert. Die Forscher sind sich noch nicht einig, welche Gase diese Atmosphäre genau enthält – es wird von Kohlendioxid oder Schwefeldioxid spekuliert."
+      ]
+    },
+    {
+      "heading": "Wie bleibt die Atmosphäre erhalten?",
+      "paragraphs": [
+        "Das größte Rätsel ist die langfristige Existenz der Atmosphäre. Wie kann sie Milliarden von Jahren überstehen? Eine mögliche Erklärung liefern die Forscher selbst: Der Planet könnte einen riesigen Ozean aus geschmolzenem Gestein besitzen. Dieser Ozean könnte wie ein planetarischer Vulkan wirken und ständig neue Gase in die Atmosphäre abgeben, sodass diese kontinuierlich aufgefüllt wird.",
+        "Diese Entdeckung stellt aktuelle Theorien in Frage und wirft Fragen auf: Hat der Planet ursprünglich eine ungewöhnlich große Menge an Gasen gehabt, oder ist die vulkanische Aktivität der Schlüssel zur Atmosphärenerhaltung? Weitere Beobachtungen mit dem JWST sollen helfen, die chemische Zusammensetzung dieser Atmosphäre zu entschlüsseln."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie wir die Grenzen unseres Wissens über Planeten außerhalb unseres Sonnensystems erweitern. Es hilft uns zu verstehen, welche Bedingungen überhaupt nötig sind, damit eine Atmosphäre auf einem exotischen Himmelskörper überleben kann.",
+  "glossary": [
+    {
+      "term": "Exoplanet",
+      "definition": "Ein Planet, der außerhalb unseres Sonnensystems kreist."
+    },
+    {
+      "term": "Silikatmineralien",
+      "definition": "Mineralien, die Silizium und Sauerstoff enthalten und in der Erdkruste sowie in Lava vorkommen."
+    },
+    {
+      "term": "JWST",
+      "definition": "James Webb Space Telescope, ein Teleskop, das Infrarotstrahlung beobachten kann."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Prozentsatz des einfallenden Sternenlichts reflektiert der Planeten TOI-561 b laut den Beobachtungen?",
+    "options": [
+      "25%",
+      "100%",
+      "75%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut den Beobachtungen reflektiert TOI-561 b ungefähr 75% des einfallenden Sternenlichts."
+  },
+  "discussion": [
+    "Welche Auswirkungen hätte die Entdeckung einer stabilen Atmosphäre auf einem extrem heißen Planeten auf unsere Suche nach lebensfreundlichen Bedingungen?",
+    "Wie beeinflusst die Vorstellung eines planetarischen Ozeans aus geschmolzenem Gestein unsere Vorstellung von der Geologie von Planeten?"
+  ],
+  "publishedAt": "2026-10-28T09:00:17.207Z",
+  "sources": [
+    {
+      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

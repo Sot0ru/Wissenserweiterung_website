@@ -1,0 +1,85 @@
+{
+  "id": "mmx-die-mission-zum-marsmond-phobos-erklaert",
+  "category": "astronomie",
+  "title": "MMX: Die Mission zum Marsmond Phobos erklärt",
+  "teaser": "Ein Raumschiff startet auf dem Weg zu Phobos, dem Mond des Mars. Was genau soll diese Mission bewirken?",
+  "tags": [
+    "Mars",
+    "Weltraum",
+    "Mond",
+    "Raumfahrt",
+    "Planeten"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Marsian Moons eXploration (MMX) ist eine internationale Mission, die zum Marsmond Phobos fliegt.",
+    "Sie soll die erste sein, die Phobos umkreist, von seiner Oberfläche Proben sammelt und diese zur Erde zurückbringt.",
+    "Die Mission wird von der japanischen JAXA geleitet, unterstützt aber von ESA, NASA und anderen Partnern."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Blick auf die Mission MMX",
+      "paragraphs": [
+        "Die Mission MMX (Martian Moons eXploration) ist ein großes internationales Projekt im Bereich der Weltraumforschung. Sie wurde am 20. Oktober 2026 gestartet und hat das Ziel, den Mond des Mars, Phobos, genauer zu untersuchen.",
+        "MMX ist nicht nur eine weitere Reise zum Mars. Es ist ein ambitioniertes Vorhaben, da es mehrere Erstleistungen planen soll. Konkret wird es das erste Raumschiff sein, das Phobos in einer Umlaufbahn umkreist. Außerdem wird es die erste Mission sein, die Proben von der Oberfläche dieses Mondes einsammelt und diese schließlich zur Erde zurückbringt."
+      ]
+    },
+    {
+      "heading": "Wer steckt hinter der Reise zum Marsmond?",
+      "paragraphs": [
+        "Die Leitung der Mission liegt bei der japanischen Weltraumforschungsorganisation JAXA. Doch es ist eine internationale Zusammenarbeit. Auch die Europäische Weltraumorganisation (ESA), die NASA aus den USA, die französische Raumfahrtagentur CNES und das deutsche Luft- und Raumfahrtzentrum (DLR) sind beteiligt.",
+        "Die ESA leistet wichtige Beiträge, etwa durch die Bereitstellung von Geräten für die Kommunikation im tiefen Weltraum. Wissenschaftler aus Europa sind direkt in das wissenschaftliche Team eingebunden. Sie helfen dabei, die Beobachtungen zu planen, die Daten der Bordinstrumente zu analysieren und die gesammelten Proben zu untersuchen."
+      ]
+    },
+    {
+      "heading": "Was ist Phobos und warum ist er interessant?",
+      "paragraphs": [
+        "Phobos ist einer der beiden Monde des Mars, zusammen mit Deimos. Monden sind natürliche Körper, die von einem Planeten umkreist werden. Die Untersuchung dieser Monde ist wichtig, um mehr über die Entstehung des Mars und sein eigenes Sonnensystem zu erfahren.",
+        "Die Fähigkeit, Proben zu sammeln und sie zur Erde zurückzubringen, ist ein großer wissenschaftlicher Schritt. Sie ermöglicht es Forschern, Materie zu untersuchen, die sich in dieser extremen Umgebung gebildet hat. Die Mission soll im nächsten Sommer bei ihrer Ankunft am Mars beginnen, um die Monde Phobos und Deimos aus nächster Nähe zu erforschen."
+      ]
+    }
+  ],
+  "whyItMatters": "Weltraummissionen wie MMX zeigen, was moderne Technologie leisten kann. Sie geben uns tiefere Einblicke in die Entstehung von Planeten und Monde. Für junge Menschen ist das ein Beispiel dafür, dass wissenschaftliche Fragen große, internationale Projekte ermöglichen.",
+  "glossary": [
+    {
+      "term": "Phobos",
+      "definition": "Einer der beiden natürlichen Monde des Planeten Mars."
+    },
+    {
+      "term": "JAXA",
+      "definition": "Die japanische Agentur für Weltraumforschung (Japan Aerospace Exploration Agency)."
+    },
+    {
+      "term": "ESA",
+      "definition": "Die Europäische Weltraumorganisation, die Forschungsprojekte mit anderen Nationen koordiniert."
+    },
+    {
+      "term": "Orbit",
+      "definition": "Die festgelegte Bahn, die ein Himmelskörper um einen anderen Körper zieht."
+    }
+  ],
+  "quiz": {
+    "question": "Welche der folgenden Aufgaben soll MMX als erste durchführen?",
+    "options": [
+      "Die Oberfläche des Jupiter untersuchen",
+      "Phobos umkreisen und Proben sammeln",
+      "Einen neuen Planeten entdecken"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut Quelle wird MMX die erste Mission sein, die Phobos umkreist und Proben von seiner Oberfläche sammelt."
+  },
+  "discussion": [
+    "Welche Rolle spielt internationale Zusammenarbeit bei großen wissenschaftlichen Projekten? Welche Vorteile bietet sie?",
+    "Wie könnte die Untersuchung von Monden wie Phobos helfen, unser Wissen über die Entstehung von Planeten wie der Erde zu erweitern?"
+  ],
+  "publishedAt": "2026-10-28T09:05:29.324Z",
+  "sources": [
+    {
+      "title": "MMX lifts off to Mars’s moon Phobos",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "publisher": "ESA"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

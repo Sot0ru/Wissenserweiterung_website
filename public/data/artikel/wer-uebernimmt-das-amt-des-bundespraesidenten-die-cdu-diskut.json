@@ -1,0 +1,74 @@
+{
+  "id": "wer-uebernimmt-das-amt-des-bundespraesidenten-die-cdu-diskut",
+  "category": "politik",
+  "title": "Wer übernimmt das Amt des Bundespräsidenten? Die CDU diskutiert Nachfolger",
+  "teaser": "Die Nachfolge von Bundespräsident Steinmeier ist ein großes Thema. Aktuell diskutiert die CDU, wer das Staatsoberhaupt in Zukunft sein könnte.",
+  "tags": [
+    "Staatsführung",
+    "Parteien",
+    "Bundesrepublik"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die Diskussion um die Nachfolge von Bundespräsident Steinmeier nimmt Fahrt auf, da die Wahl für Januar 2027 stattfinden soll.",
+    "Friedrich Merz, CDU-Vorsitzender, sieht grundsätzlich das Vorschlagsrecht für das Amt bei der CDU.",
+    "Es gibt verschiedene mögliche Kandidatinnen, wobei die CDU eine Einigung mit anderen Parteien anstrebt."
+  ],
+  "sections": [
+    {
+      "heading": "Das Amt des Staatsoberhaupts: Wer soll nach Steinmeier kommen?",
+      "paragraphs": [
+        "Die Frage, wer den Bundespräsidenten Frank-Walter Steinmeier nachfolgen wird, beschäftigt die deutsche Politik. Die nächste Wahl für dieses Amt ist für den 30. Januar 2027 angesetzt.",
+        "Im Zentrum der aktuellen Debatte steht die Rolle der CDU. Friedrich Merz, der CDU-Vorsitzende, hat in seinem Umfeld betont, dass die CDU das Vorschlagsrecht für die Besetzung des Amtes sieht. Als größte Partei in der Bundesversammlung hat die Union diesen Anspruch."
+      ]
+    },
+    {
+      "heading": "Ein geordneter Prozess und mögliche Namen",
+      "paragraphs": [
+        "Merz strebt einen „geordneten Prozess“ für die Auswahl der Nachfolge an. Bevor eine Entscheidung fällt, plant er Gespräche mit den Ministerpräsidenten und Landesvorsitzenden der CDU sowie der Schwesterpartei CSU. Ziel ist es, einen Vorschlag zu erarbeiten, der von der „breiten demokratischen Mitte“ getragen wird.",
+        "Ein konkreter Termin für die Entscheidung ist die Präsidiumssitzung der CDU am 9. November. Sollte die Union intern eine Einigung erzielen, würde Merz anschließend mit dem Koalitionspartner SPD und den Grünen sprechen.",
+        "Als mögliche Kandidatin wird unter anderem Ilse Aigner, Präsidentin des bayerischen Landtages und Vertreterin der CSU, genannt. Auch Ines Claus, Fraktionschefin im hessischen Landtag, kursiert als Name.",
+        "Obwohl es intern Druck gibt, das höchste Amt aus den eigenen Reihen zu besetzen, ist unklar, ob ein Kandidat bereits am 9. November öffentlich vorgestellt wird oder ob weitere Gespräche mit anderen Parteien nötig sind."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Bundespräsidentenamt ist das Staatsoberhaupt Deutschlands. Auch wenn es weitgehend repräsentativ ist, beeinflusst die Besetzung dieses Amtes die politische Stabilität und das internationale Auftreten des Landes. Für junge Menschen ist es wichtig zu wissen, wie politische Prozesse ablaufen, wenn es um die Besetzung so wichtiger Ämter geht.",
+  "glossary": [
+    {
+      "term": "Bundespräsident",
+      "definition": "Das Staatsoberhaupt der Bundesrepublik Deutschland, das repräsentative und überwiegend zeremonielle Aufgaben wahrnimmt."
+    },
+    {
+      "term": "Vorschlagsrecht",
+      "definition": "Das Recht einer politischen Partei, einem Amt oder einer Position einen Kandidaten vorzuschlagen."
+    },
+    {
+      "term": "Bundesversammlung",
+      "definition": "Das Gremium, das in Deutschland den Bundespräsidenten wählt."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Datum ist für die nächste Bundespräsidentenwahl angesetzt?",
+    "options": [
+      "9. November 2026",
+      "30. Januar 2027",
+      "27. Oktober 2026"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut der Berichterstattung findet die Bundespräsidentenwahl am 30. Januar 2027 statt."
+  },
+  "discussion": [
+    "Wie wichtig ist es für die politische Stabilität eines Landes, dass das Staatsoberhaupt aus den Reihen der Regierungsparteien stammt, oder ist eine unabhängige Besetzung besser?",
+    "Welche Rolle sollte die größte Partei (in diesem Fall die CDU) bei der Auswahl des Staatsoberhauptes spielen, wenn andere Parteien ebenfalls Kandidaten vorschlagen könnten?"
+  ],
+  "publishedAt": "2026-10-28T09:30:27.059Z",
+  "sources": [
+    {
+      "title": "Nachfolge für Steinmeier: Merz beharrt auf CDU-Vorschlagsrecht",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

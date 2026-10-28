@@ -1,0 +1,80 @@
+{
+  "id": "benzinpreise-in-der-ddr-wie-der-staat-treibstoff-subventioni",
+  "category": "geschichte",
+  "title": "Benzinpreise in der DDR: Wie der Staat Treibstoff subventionierte",
+  "teaser": "Die DDR hatte über Jahrzehnte stabile Spritpreise. Aber wie konnte das funktionieren? Hinter der günstigen Tankfüllung steckten massive staatliche Subventionen.",
+  "tags": [
+    "Ostdeutschland",
+    "Wirtschaftsgeschichte",
+    "Sozialsystem",
+    "Planwirtschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In der DDR waren Benzin- und Dieselpreise von 1960 bis zur Wiedervereinigung gesetzlich festgelegt und blieben konstant.",
+    "Diese niedrigen Preise wurden durch massive staatliche Subventionen finanziert, da die tatsächlichen Weltmarktpreise viel höher waren.",
+    "Das System funktionierte über eine gezielte Querfinanzierung, bei der Gewinne aus Luxusgütern andere Bereiche verbilligten."
+  ],
+  "sections": [
+    {
+      "heading": "Ein fester Preis an der Minol-Tankstelle",
+      "paragraphs": [
+        "Wer in der DDR unterwegs war, kannte die Tankpreise. Von 1960 bis zum Ende der Republik kostete ein Liter Normalbenzin durchgehend 1,50 DDR-Mark. Diesel lag bei 1,40 Mark, und Super bei 1,65 Mark. Diese Preise waren nicht verhandelbar, sondern im Gesetzblatt der DDR festgelegt.",
+        "Doch diese staatliche Preisgarantie war ein teures Geschäft für den Staat. Die DDR musste die Differenz zum echten Weltmarktpreis durch riesige Subventionen aus dem Staatshaushalt ausgleichen. Historiker analysieren, dass dies jährlich dreistellige Millionenbeträge verschlang."
+      ]
+    },
+    {
+      "heading": "Was das für den Alltag bedeutete",
+      "paragraphs": [
+        "Um zu verstehen, wie groß diese Subventionen waren, lohnt sich ein Blick auf den Alltag. Ein Arbeiter in den 1970er-Jahren verdiente im Schnitt 750 bis 800 Mark pro Monat. Ein Trabant 601, der typische DDR-Wagen, tankte etwa 26 Liter. Eine Volltankung kostete demnach exakt 39 Mark – also rund ein Zwanzigstel des gesamten Monatslohns.",
+        "Dieser Preis war im Vergleich zu anderen Lebenshaltungskosten sehr hoch. Zum Beispiel kostete ein Kilo Brot etwa eine Mark, und die Kaltmiete für eine Dreizimmerwohnung lag oft zwischen 30 und 50 Mark. Wer sein Auto voll tankte, gab also auf einmal so viel Geld aus wie für einen ganzen Monat Wohnen."
+      ]
+    },
+    {
+      "heading": "Das System der Querfinanzierung",
+      "paragraphs": [
+        "Die DDR hatte keine Mineralölsteuer wie in westlichen Ländern. Stattdessen setzte die Staatliche Plankommission auf ein System namens „Preisausgleich“. Dieses basierte auf einer gezielten Querfinanzierung.",
+        "Das Prinzip war: Der Staat schlug hohe Gewinne auf Luxusgüter oder Technik wie Fernseher und Treibstoff für Privatleute auf. Mit diesem Geld wurde dann Grundnahrungsmittel, Mieten und Fahrkarten für Bus und Bahn verbilligt. Für volkseigene Betriebe (VEB) galten andere Regeln; gewerbliche Abnehmer bezogen Benzin zu Industriepreisen von teils nur 80 Pfennig pro Liter."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses System zeigt, wie stark staatliche Planung und Subventionen die Lebensrealität einer Gesellschaft bestimmen können. Es hilft zu verstehen, wie Wirtschaftssysteme funktionieren und welche Kosten hinter vermeintlich günstigen Preisen stecken.",
+  "glossary": [
+    {
+      "term": "Subvention",
+      "definition": "Eine staatliche finanzielle Unterstützung, die dazu dient, Preise niedrig zu halten oder die Produktion zu fördern."
+    },
+    {
+      "term": "Querfinanzierung",
+      "definition": "Ein Wirtschaftsprinzip, bei dem Einnahmen aus einem Bereich (z.B. Luxusgüter) zur Finanzierung eines anderen Bereichs (z.B. Grundnahrungsmittel) verwendet werden."
+    },
+    {
+      "term": "VEB",
+      "definition": "Volkseigener Betrieb; ein Betrieb, der in der DDR staatlich besessen und verwaltet wurde."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Zeitraum ist laut Quelle für die konstanten Benzinpreise in der DDR angegeben?",
+    "options": [
+      "Von 1950 bis 1970",
+      "Von 1973 bis zur Wiedervereinigung",
+      "Von 1960 bis zum Ende der Republik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Quelle gibt an, dass die Preise von 1960 bis zum Ende der Republik konstant blieben."
+  },
+  "discussion": [
+    "Welche langfristigen wirtschaftlichen Folgen hat es, wenn ein Staat über Jahrzehnte hinweg massive Subventionen zur Stabilisierung von Preisen nutzt?",
+    "Wie unterscheidet sich das Prinzip der Querfinanzierung in der DDR von modernen Steuersystemen, die auf allgemeiner Besteuerung beruhen?"
+  ],
+  "publishedAt": "2026-10-28T09:35:48.563Z",
+  "sources": [
+    {
+      "title": "Spritpreisbremse im Osten: So finanzierte die DDR Benzin und Diesel",
+      "url": "https://www.mdr.de/geschichte/ddr/wirtschaft/spritpreise-benzinpreise-staatliche-regulierung-sowjetunion-oelkrise-devisen-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}

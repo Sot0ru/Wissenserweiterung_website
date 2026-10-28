@@ -1,0 +1,82 @@
+{
+  "id": "treibhausgase-steigen-weiter-was-der-neueste-bericht-zur-erd",
+  "category": "wissenschaft",
+  "title": "Treibhausgase steigen weiter: Was der neueste Bericht zur Erderwärmung zeigt",
+  "teaser": "Die Konzentrationen von Treibhausgasen in unserer Atmosphäre nehmen weiter zu. Was bedeutet das für das Klima und welche Gase sind die größten Treiber?",
+  "tags": [
+    "Klimawandel",
+    "Atmosphäre",
+    "Energiewende",
+    "Umwelt"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Ein Bericht der Weltwetterorganisation (WMO) zeigt, dass die Konzentrationen von Treibhausgasen wie CO2, Methan und Lachgas weiter steigen.",
+    "Seit 1990 hat sich der Einfluss langlebiger Treibhausgase auf die Erderwärmung um 56 Prozent verstärkt.",
+    "Während CO2 der größte langfristige Treiber ist, gilt Methan als wichtiger Hebel für kurzfristige Klimaschutzmaßnahmen."
+  ],
+  "sections": [
+    {
+      "heading": "Atmosphärische Ansammlung: Was passiert mit den Treibhausgasen?",
+      "paragraphs": [
+        "In unserer Atmosphäre sammeln sich seit Jahrzehnten immer mehr Treibhausgase an. Das zeigt ein neuer Bericht der Weltwetterorganisation (WMO). Die Konzentrationen von Kohlendioxid (CO2), Methan und Lachgas sind auch 2025 weiter gestiegen. Dieser Trend hat sich seit 1990 verstärkt: Der Einfluss langlebiger Treibhausgase auf die Erderwärmung ist um 56 Prozent gestiegen. Das bedeutet, mehr Wärme bleibt im Klimasystem zurück.",
+        "Der mit Abstand größte Treiber für diese Erwärmung ist CO2. Seit 1990 war CO2 für etwa 80 Prozent des Klimaantriebs verantwortlich. Hauptursache dafür ist die Verbrennung fossiler Energieträger wie Kohle, Öl und Gas, wodurch Kohlenstoff in die Atmosphäre gelangt.",
+        "Doch die Entwicklung ist nicht nur eine Frage der Menge. Auch die Geschwindigkeit, mit der sich die Gase anreichern, nimmt zu. Experten warnen, dass dies darauf hindeutet, dass die aktuellen Maßnahmen nicht ausreichen, um den Anstieg zu stoppen."
+      ]
+    },
+    {
+      "heading": "Natürliche Puffer geraten unter Druck",
+      "paragraphs": [
+        "Die Natur versucht, einen Teil des zusätzlichen CO2 wieder aufzunehmen. Wälder und Ozeane sind hier wichtige „Kohlenstoffsenken“. Normalerweise absorbieren Landökosysteme – also Wälder, Böden und Pflanzen – etwa ein Viertel der menschlichen CO2-Emissionen. Dieses System gerät jedoch zunehmend unter Druck.",
+        "Besonders bei steigender Hitze und Trockenheit funktioniert diese Aufnahme schlechter. Extreme Wetterereignisse, wie sie durch das Klimaphänomen El Niño verstärkt werden können, belasten diese natürlichen Helfer. Wenn Wälder unter Hitze leiden oder Waldbrände entstehen, setzen sie zusätzlich Kohlenstoff frei.",
+        "Ein weiterer wichtiger Hebel für kurzfristigen Klimaschutz ist Methan. Während CO2 den langfristigen Verlauf bestimmt, erwärmt Methan in den nächsten zwei Jahrzehnten etwa 80-mal stärker als CO2. Etwa 65 Prozent der Methanemissionen sind menschengemacht, hauptsächlich durch die Erdgas- und Ölindustrie sowie die Landwirtschaft."
+      ]
+    },
+    {
+      "heading": "Herausforderungen bei der Transformation",
+      "paragraphs": [
+        "Die Umstellung auf erneuerbare Energien, die Energiewende, bringt eigene Herausforderungen mit sich. Beispielsweise steigt der Einsatz von Schwefelhexafluorid (SF6) in elektrischen Schaltanlagen, ein Gas, das rund 24.000-mal klimawirksamer ist als CO2. Forscher sehen hier aber keinen Grund zur Panik, da die CO2-Einsparungen die zusätzlichen Klimawirkungen überwiegen sollten.",
+        "Die globale Wirtschaft und Industrialisierung steigen weltweit weiter an, was den Energieverbrauch erhöht. Obwohl regenerative Energien zunehmen, sind sie noch nicht weit genug, um den gesamten Anstieg aufzufangen. Um das Problem zu lösen, müssen alle Hebel – von der Energieversorgung über den Verkehr bis zur Landwirtschaft – schneller und konsequenter umgesetzt werden."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist für dich relevant, weil Klimawandel und Umweltpolitik direkt deinen Alltag und die Zukunft der Welt beeinflussen. Du lernst, welche wissenschaftlichen Fakten hinter den Schlagzeilen stehen und kannst fundiert darüber diskutieren.",
+  "glossary": [
+    {
+      "term": "Treibhausgase",
+      "definition": "Gase in der Atmosphäre, die Wärme aus der Sonne zurückhalten und so zur Erderwärmung beitragen (z.B. CO2 und Methan)."
+    },
+    {
+      "term": "Kohlenstoffsenke",
+      "definition": "Ein natürliches System (wie ein Wald), das große Mengen an CO2 aus der Atmosphäre aufnimmt und speichert."
+    },
+    {
+      "term": "Klimaantrieb",
+      "definition": "Die Kraft oder der Prozess, der die Erwärmung des Klimas verursacht."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Gas wird laut Bericht als wichtiger Hebel für kurzfristige Klimaschutzmaßnahmen genannt, da es in den nächsten zwei Jahrzehnten sehr stark erwärmend wirkt?",
+    "options": [
+      "Methan",
+      "Schwefelhexafluorid (SF6)",
+      "Kohlendioxid (CO2)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Methan erwärmt die Erde in den nächsten zwei Jahrzehnten etwa 80-mal stärker als Kohlenstoffdioxid."
+  },
+  "discussion": [
+    "Welche Rolle siehst du bei der Lösung des Klimaproblems: liegt der Fokus eher auf der schnellen Reduktion von Methan oder auf der langfristigen Transformation der Energieversorgung hin zu CO2-freien Quellen?",
+    "Wie kann die wissenschaftliche Erkenntnis über die Belastung natürlicher Senken (Wälder, Moore) in politische Entscheidungen übersetzt werden, ohne dass die Umsetzung zu langsam erfolgt?"
+  ],
+  "publishedAt": "2026-10-28T08:53:51.504Z",
+  "sources": [
+    {
+      "title": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
+      "url": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b"
+}
