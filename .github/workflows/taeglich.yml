@@ -38,7 +38,8 @@ jobs:
   generate:
     name: Artikel schreiben
     if: github.event_name != 'push'
-    runs-on: ubuntu-latest
+    # Feste Version statt ubuntu-latest: Der Wechsel auf Ubuntu 26 (Okt. 2026) brach die Ollama-Installation.
+    runs-on: ubuntu-24.04
     timeout-minutes: 330 # GitHub erlaubt höchstens 360; fertige Artikel werden auch bei Abbruch gespeichert
     steps:
       - uses: actions/checkout@v7
@@ -54,9 +55,24 @@ jobs:
 
       - name: Ollama installieren und Modell laden
         run: |
-          curl -fsSL https://ollama.com/install.sh | sh
+          # Jeder Teil wird bis zu dreimal versucht; kurze Aussetzer beim Download sollen den Lauf nicht kosten.
+          retry() { for n in 1 2 3; do "$@" && return 0; echo "::warning::Versuch $n fehlgeschlagen: $*"; sleep 20; done; return 1; }
+
+          echo "::group::Ollama installieren"
+          retry sh -c 'curl -fsSL https://ollama.com/install.sh | sh'
+          echo "::endgroup::"
+
+          # Läuft Ollama nicht als Dienst (z. B. ohne systemd), selbst starten.
+          if ! curl -sf http://127.0.0.1:11434/api/version; then
+            echo "Ollama-Dienst läuft nicht – starte ollama serve"
+            nohup ollama serve > "$RUNNER_TEMP/ollama.log" 2>&1 &
+          fi
           for i in $(seq 1 30); do curl -sf http://127.0.0.1:11434/api/version && break; sleep 2; done
-          ollama pull "$OLLAMA_MODEL"
+          curl -sf http://127.0.0.1:11434/api/version || { echo "::error::Ollama startet nicht"; cat "$RUNNER_TEMP/ollama.log" 2>/dev/null; exit 1; }
+
+          echo "::group::Modell $OLLAMA_MODEL laden"
+          retry ollama pull "$OLLAMA_MODEL" || { echo "::error::Modell $OLLAMA_MODEL konnte nicht geladen werden"; exit 1; }
+          echo "::endgroup::"
 
       - name: Artikel generieren
         run: npm run generate -- --per-category "${{ github.event.inputs.per_category || '2' }}"
