@@ -1,0 +1,95 @@
+{
+  "id": "moeglicher-neuer-zwergplanet-am-rand-unseres-sonnensystems",
+  "category": "astronomie",
+  "title": "Möglicher neuer Zwergplanet am Rand unseres Sonnensystems",
+  "teaser": "Astronomen haben einen neuen, eisigen Himmelskörper am äußeren Rand unseres Sonnensystems entdeckt. Was macht einen Zwergplaneten aus?",
+  "tags": [
+    "Weltall",
+    "Sonnensystem",
+    "Himmelskörper",
+    "Entdeckung"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Astronomen haben einen möglichen neuen Zwergplaneten namens „2026 ED138“ am äußeren Rand des Sonnensystems entdeckt.",
+    "Ein Zwergplanet ist rund, weil er durch seine eigene Schwerkraft geformt wurde, aber er hat die umliegenden Objekte in seiner Umlaufbahn nicht freigeräumt.",
+    "Die Entdeckung erfolgte mithilfe des Vera-C.-Rubin-Observatoriums in Chile, das ständig den Himmel überwacht."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist ein Zwergplanet?",
+      "paragraphs": [
+        "Wenn wir von Planeten sprechen, denken wir oft an die großen, bekannten Körper wie Erde oder Jupiter. Aber im Sonnensystem gibt es auch kleinere Objekte, die als Zwergplaneten bezeichnet werden. Der neue Kandidat, „2026 ED138“, passt genau in diese Kategorie.",
+        "Was unterscheidet einen Zwergplaneten von einem normalen Asteroiden? Es kommt auf die Form an. Ein Zwergplanet muss so viel Masse haben, dass er sich unter seiner eigenen Schwerkraft zu einer runden Kugel geformt hat. Ein Asteroid hingegen bleibt oft unförmig.",
+        "Ein wichtiger Punkt, der Zwergplaneten definiert, ist aber auch die Umlaufbahn. Um ein vollwertiger Planet zu werden, muss ein Körper die Bahn um die Sonne von kleineren Brocken freigeräumt haben. Zwergplaneten haben diese Aufgabe bisher nicht erfüllt."
+      ]
+    },
+    {
+      "heading": "Die Entdeckung am äußeren Rand",
+      "paragraphs": [
+        "Der neue Himmelskörper wurde im äußeren Bereich unseres Sonnensystems gefunden. Seine Bahn verläuft noch weiter außen als die von Pluto, dem bekanntesten Zwergplaneten.",
+        "Die Astronomen haben ihn als wandernden Lichtfleck auf Aufnahmen des Vera-C.-Rubin-Observatoriums in Chile entdeckt. Dieses Observatorium wird wegen seiner riesigen Größe – es ist so groß wie ein Auto – und seiner Fähigkeit, den gesamten Himmel in hoher Auflösung zu beobachten, geschätzt.",
+        "Die Entdeckung war besonders schwierig, da der kleine Lichtpunkt vor einer sehr sternreichen Region der Milchstraße hindurchwandert und im Sternenlicht fast unterging. Die riesigen Datenmengen, die das Teleskop liefert, werden mithilfe von spezialisierter Software analysiert, um solche geringfügigen Veränderungen am Nachthimmel zu erkennen."
+      ]
+    },
+    {
+      "heading": "Was bedeutet dieser Fund?",
+      "paragraphs": [
+        "Sollte die Entdeckung bestätigt werden, würde die Zahl der bekannten Zwergplaneten auf sechs steigen. Der Kandidat „2026 ED138“ wird wahrscheinlich aus Eis bestehen und hat eine geschätzte Größe zwischen 600 und 1.500 Kilometern.",
+        "Die Forschung an diesen äußeren Objekten hilft Astronomen dabei, mehr über die Entstehung des Sonnensystems zu erfahren. Diese eisigen Körper am Rand geben Aufschluss über die Bedingungen, unter denen sich das Sonnensystem vor Milliarden von Jahren gebildet hat."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis der Planeten und Himmelskörper hilft uns, unseren Platz im Universum einzuordnen. Diese Entdeckungen zeigen, wie vielfältig und komplex unser Sonnensystem ist, auch abseits der großen, bekannten Planeten.",
+  "glossary": [
+    {
+      "term": "Zwergplanet",
+      "definition": "Ein Himmelskörper, der rund ist, weil seine Schwerkraft ihn formt, aber nicht genug Masse hat, um seine Umlaufbahn von anderen Objekten freizuräumen."
+    },
+    {
+      "term": "Schwerkraft",
+      "definition": "Die Anziehungskraft, die alle massereichen Objekte im Universum aufeinander ausüben. Sie sorgt dafür, dass sich Planeten und Sterne bilden und umherkreisen."
+    },
+    {
+      "term": "Kuiper Gürtel",
+      "definition": "Ein Bereich jenseits der Umlaufbahn des Neptun, der viele Eisplaneten und andere Himmelskörper beherbergt, zu denen auch Zwergplaneten gehören."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Eigenschaft muss ein Körper erfüllen, um als Zwergplanet zu gelten, die ihn von einem einfachen Asteroiden unterscheidet?",
+    "options": [
+      "Er muss eine runde Kugelform angenommen haben.",
+      "Er muss in der Nähe der Erde kreisen.",
+      "Er muss aus Eis bestehen."
+    ],
+    "answerIndex": 0,
+    "explanation": "Ein Zwergplanet muss so viel Masse haben, dass er sich unter seiner eigenen Schwerkraft zu einer runden Kugel geformt hat."
+  },
+  "discussion": [
+    "Welche Rolle spielen Teleskope wie das Vera-C.-Rubin-Observatorium bei der Entdeckung von Objekten, die so weit von der Erde entfernt sind?",
+    "Wenn wir die Definition eines „Planeten“ ändern müssten, welche Kriterien wären für dich am wichtigsten: Größe, Form oder die Fähigkeit, eine Bahn freizuräumen?"
+  ],
+  "publishedAt": "2026-10-30T00:08:58.170Z",
+  "sources": [
+    {
+      "title": "Möglicher neuer Zwergplanet im Sonnensystem entdeckt",
+      "url": "https://www.tagesschau.de/wissen/weltraum/zwergplanet-entdeckung-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/moeglicher-neuer-zwergplanet-am-rand-unseres-sonnensystems.jpg",
+    "width": 960,
+    "height": 560,
+    "alt": "Zwei weit entfernte Kuipergürtelobjekte am äußeren Rand des Sonnensystems.",
+    "credit": {
+      "title": "Beyond the Kuiper Belt Edge (noaoann16012a).jpg",
+      "author": "Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute (JHUAPL/SwRI) & S. Sheppard, et. al.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beyond_the_Kuiper_Belt_Edge_(noaoann16012a).jpg"
+    }
+  }
+}

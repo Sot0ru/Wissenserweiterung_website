@@ -1,0 +1,87 @@
+{
+  "id": "wie-astronomen-galaxien-im-all-messen-die-geschichte-der-ent",
+  "category": "astronomie",
+  "title": "Wie Astronomen Galaxien im All messen: Die Geschichte der Entdeckung",
+  "teaser": "Wusstest du, dass die Vorstellung von Galaxien schon lange vor modernen Teleskopen bestand? Erfahre, wie Edwin Hubble die Entfernung zum Andromedanebel bestimmen konnte.",
+  "tags": [
+    "Kosmos",
+    "Weltall",
+    "Galaxien",
+    "Entfernungsmessung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Idee, dass es außerhalb unserer Milchstraße andere Galaxien gibt, stammt bereits von Immanuel Kant im 18. Jahrhundert.",
+    "Edwin Hubble nutzte das große Teleskop am Mount-Wilson-Observatorium, um den Andromedanebel zu beobachten.",
+    "Dank der Periodizität von sogenannten Cepheiden konnte Hubble die Entfernung zum Nebel auf rund 930.000 Lichtjahre bestimmen."
+  ],
+  "sections": [
+    {
+      "heading": "Vorweg: Die Idee von Galaxien",
+      "paragraphs": [
+        "Die Vorstellung, dass es jenseits unserer Heimatgalaxie, der Milchstraße, noch andere riesige Ansammlungen von Sternen gibt, ist nicht neu. Bereits der Philosoph Immanuel Kant äußerte diese Vermutung. Zu seiner Zeit war die Astronomie noch nicht so weit entwickelt, dass man die Spiralstruktur im Andromedanebel sehen konnte oder einzelne Sterne dort auflösen konnte.",
+        "Kant schrieb in seiner Arbeit „Allgemeine Naturgeschichte und Theorie des Himmels“, dass diese nebligen Flecken am Himmel nicht einfach Löcher in der Himmelskugel seien oder riesige Sterne, sondern eigenständige „Milchstraßen“ – also Galaxien weit entfernt von uns."
+      ]
+    },
+    {
+      "heading": "Hubble und die Entfernungsmessung",
+      "paragraphs": [
+        "Die Bestätigung dieser Idee kam später. Ein wichtiger Wendepunkt war das Mount-Wilson-Observatorium bei Los Angeles. Dort nutzte der Astronom Edwin Hubble ein damals sehr großes optisches Teleskop mit einem Spiegeldurchmesser von 2,54 Metern.",
+        "Hubble beobachtete den Andromedanebel. Er fokussierte sich dabei auf einen speziellen Stern in diesem Nebel: einen Cepheiden. Cepheiden sind Sterne, deren Helligkeit in regelmäßigen Abständen schwankt. Diese regelmäßige Schwankung ist ein wichtiges Messinstrument für Astronomen.",
+        "Dank dieser Beobachtungen konnte Hubble die Entfernung des Andromedanebels zur Erde bestimmen. Sein Ergebnis ergab eine Entfernung von 285.000 Parsec, was ungefähr 930.000 Lichtjahre entspricht. Diese Messung bestätigte die Vorstellung, dass der Andromedanebel eine eigenständige Galaxie ist."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Entdeckungen zeigen uns, wie Wissenschaftler mit neuen Werkzeugen das Unbekannte im Universum entschlüsseln. Das Verständnis für Galaxien ist grundlegend, um zu verstehen, wie sich das gesamte Universum entwickelt hat und wo wir in diesem riesigen Kosmos stehen.",
+  "glossary": [
+    {
+      "term": "Galaxie",
+      "definition": "Eine riesige Ansammlung von Sternen, Gas und Staub, die durch die Schwerkraft zusammengehalten wird."
+    },
+    {
+      "term": "Cepheiden",
+      "definition": "Ein spezielle Typ von Stern, dessen Helligkeit in einem sehr regelmäßigen Zyklus auf und ab geht. Sie dienen als „Standardkerzen“ zur Entfernungsmessung."
+    },
+    {
+      "term": "Parsec",
+      "definition": "Eine astronomische Einheit, die eine bestimmte Entfernung im Weltall beschreibt (etwa 3,26 Lichtjahre)."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Astronom nutzte das Teleskop am Mount-Wilson-Observatorium, um die Entfernung zum Andromedanebel zu messen?",
+    "options": [
+      "Franziska Konitzer",
+      "Immanuel Kant",
+      "Edwin Hubble"
+    ],
+    "answerIndex": 2,
+    "explanation": "Edwin Hubble nutzte das Teleskop am Mount-Wilson-Observatorium, um die Entfernung zu bestimmen."
+  },
+  "discussion": [
+    "Welche Rolle spielen historische Theorien, die auf Beobachtungen basieren, bei der Entwicklung der modernen Wissenschaft?",
+    "Wie könnte sich das Verständnis von „Entfernungsmessung“ im Kosmos ändern, wenn wir neue Technologien entwickeln?"
+  ],
+  "publishedAt": "2026-10-30T00:21:52.587Z",
+  "sources": [
+    {
+      "title": "AstroGeo Podcast: Spiralnebel – ein Universum voller Welteninseln?",
+      "url": "https://www.raumfahrer.net/astrogeo-podcast-spiralnebel-ein-universum-voller-welteninseln/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-astronomen-galaxien-im-all-messen-die-geschichte-der-ent.jpg",
+    "width": 960,
+    "height": 631,
+    "alt": "Die Andromedagalaxie (M31) als spiralförmige Galaxie mit Messier-Objekten 32 und 110.",
+    "credit": {
+      "title": "Andromeda Galaxy (with h-alpha).jpg",
+      "author": "Adam Evans",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andromeda_Galaxy_(with_h-alpha).jpg"
+    }
+  }
+}

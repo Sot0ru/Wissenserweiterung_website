@@ -1,0 +1,78 @@
+{
+  "id": "voelkerschlachtdenkmal-leipzig-ein-monument-der-deutschen-id",
+  "category": "geschichte",
+  "title": "Völkerschlachtdenkmal Leipzig: Ein Monument der deutschen Identität",
+  "teaser": "Dieses riesige Bauwerk erzählt mehr über die deutsche Geschichte als über die Schlacht selbst. Erfahre, warum es so gewaltig ist und was es symbolisieren sollte.",
+  "tags": [
+    "Deutschland",
+    "Architektur",
+    "Nationalismus",
+    "Kultur"
+  ],
+  "readingMinutes": 5,
+  "tldr": [
+    "Das Völkerschlachtdenkmal in Leipzig ist Deutschlands größtes Monument und wurde aus einer privaten Initiative des Deutschen Patriotenbundes errichtet.",
+    "Es sollte nicht nur an die Schlacht erinnern, sondern eine "
+  ],
+  "sections": [
+    {
+      "heading": "Ein Koloss aus Stein: Was steckt hinter dem Denkmal?",
+      "paragraphs": [
+        "Stell dir ein Bauwerk vor, das 300.000 Tonnen wiegt und über 90 Meter hoch ist. Das ist das Völkerschlachtdenkmal in Leipzig. Es ist nicht einfach nur ein Gedenkstein, sondern ein gigantisches Statement. Die Idee für dieses Monument kam nicht von staatlicher Seite, sondern von einer Privatinitiative des Deutschen Patriotenbundes (DPB).",
+        "Der DPB wollte mit dem Bauwerk mehr als nur an eine Schlacht erinnern. Sie strebten danach, eine neue deutsche Identität zu finden. In der sogenannten Gründerzeit, einer Zeit, in der Deutschland nach innen festigen musste, sollte das Denkmal ein"
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Denkmal ist ein spannendes Beispiel dafür, wie große Bauwerke politische und gesellschaftliche Ideen transportieren. Es zeigt, wie sich Nationen in bestimmten historischen Phasen selbst definieren wollten.",
+  "glossary": [
+    {
+      "term": "Gründerzeit",
+      "definition": "Eine Epoche in der deutschen Geschichte (Mitte des 19. Jahrhunderts), in der Deutschland seine staatliche und nationale Identität festigte."
+    },
+    {
+      "term": "Germanische Architektur",
+      "definition": "Ein architektonischer Stil, der sich an vermeintlich urzeitlichen oder vorchristlichen Formen orientierte, um ein Gefühl von Ursprünglichkeit zu vermitteln."
+    },
+    {
+      "term": "Stampfbeton",
+      "definition": "Ein Baumaterial, bei dem Beton durch Stampfen verdichtet wird, was ihm eine besonders wuchtige Textur verleiht."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Organisation initiierte den Bau des Völkerschlachtdenkmals?",
+    "options": [
+      "Die Leipziger Stadtverwaltung",
+      "Der Deutsche Patriotenbund (DPB)",
+      "Die Kaiserliche Regierung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut dem Text kam die Idee primär durch die Privatinitiative des Deutschen Patriotenbundes zustande."
+  },
+  "discussion": [
+    "Wie kann ein Bauwerk, das von einer privaten Gruppe initiiert wurde, gleichzeitig ein so starkes nationales Symbol werden?",
+    "Welche Rolle spielt die Architektur dabei, wie wir uns über die eigene Kultur und Geschichte definieren?"
+  ],
+  "publishedAt": "2026-10-30T01:08:31.294Z",
+  "sources": [
+    {
+      "title": "Völkerschlachtdenkmal: Das Monument in Leipzig",
+      "url": "https://www.mdr.de/geschichte/mitteldeutschland/orte/leipzig/voelkerschlachtdenkmal-monument-denkmal-architektur-deutscher-patriotenbund-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/voelkerschlachtdenkmal-leipzig-ein-monument-der-deutschen-id.jpg",
+    "width": 960,
+    "height": 703,
+    "alt": "Außenansicht des Völkerschlachtdenkmals in Leipzig, Deutschland, ein Monument der deutschen Geschichte.",
+    "credit": {
+      "title": "Leipzig völkerschlachtdenkmal.jpg",
+      "author": "Palauenc05",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leipzig_v%C3%B6lkerschlachtdenkmal.jpg"
+    }
+  }
+}

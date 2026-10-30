@@ -1,0 +1,100 @@
+{
+  "id": "der-wahre-beginn-des-zweiten-weltkriegs-mehr-als-nur-westerp",
+  "category": "geschichte",
+  "title": "Der wahre Beginn des Zweiten Weltkriegs: Mehr als nur Westerplatte",
+  "teaser": "Wir kennen den 1. September 1939 als Startschuss des Zweiten Weltkriegs. Aber die Ereignisse zeigen, dass die Kämpfe schon viel früher begannen.",
+  "tags": [
+    "Weltkrieg",
+    "Zweiter Weltkrieg",
+    "Polen",
+    "1939"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Obwohl der Beschuss der Westerplatte am 1. September 1939 oft als Beginn des Zweiten Weltkriegs gilt, zeigen historische Details, dass die Kampfhandlungen schon früher stattfanden.",
+    "Die ersten Bomben über Polen fielen am 26. August 1939, bevor Hitler offiziell den Angriff auf Polen erklärte.",
+    "Die Ereignisse von 1939 zeigen, dass Polen bereits gewarnt war, bevor die großen militärischen Operationen am 1. September stattfanden."
+  ],
+  "sections": [
+    {
+      "heading": "Wann begann der Konflikt wirklich?",
+      "paragraphs": [
+        "Der 1. September 1939 ist in der Geschichtsschreibung ein zentrales Datum. Hier wurde der Überfall des Deutschen Reiches auf Polen von Adolf Hitler offiziell proklamiert. Der Beschuss der Westerplatte bei Danzig durch das deutsche Kriegsschiff „Schleswig-Holstein“ gilt heute als der symbolische Auftakt zum Zweiten Weltkrieg.",
+        "Doch die Fakten zeigen ein anderes Bild. Die ersten tatsächlichen Schießereien in Polen fanden bereits am 26. August 1939 statt. Auch die ersten Bomben über Polen fielen schon an diesem Datum, lange bevor die großen militärischen Operationen am 1. September begannen.",
+        "Die ursprünglichen Pläne der deutschen Wehrmacht sahen vor, am 1. September 1939 um 4:45 Uhr MEZ zwei Hauptziele gleichzeitig anzugreifen: das polnische Munitionsdepot auf der Westerplatte und die Eisenbahn- und Straßenbrücken bei Dirschau. Diese synchronisierten Angriffe sollten die Polen überraschen."
+      ]
+    },
+    {
+      "heading": "Zwei Fronten: Westerplatte und Dirschau",
+      "paragraphs": [
+        "Die Situation rund um Danzig war komplex. Die Freie Stadt Danzig war ein teilsouveräner Staat, und Polen besaß dort Sonderrechte, darunter die Nutzung des Munitionsdepots auf der Westerplatte.",
+        "Am 1. September 1939 feuerten deutsche Schiffe von der Westerplatte aus gegen das polnische Lager. Obwohl die polnischen Verteidiger zäh Widerstand leisteten, gelang es den deutschen Truppen nicht, das Depot schnell einzunehmen, wie es Hitler sich für seine Propaganda gewünscht hatte.",
+        "Gleichzeitig sollte das zweite Kommandounternehmen die Brücken über die Weichsel bei Dirschau erobern. Doch die Polen hatten Vorkehrungen getroffen. Sie konnten die Brücken sprengen, und die deutschen Pioniere scheiterten daran, die Anlagen zu neutralisieren. Die polnischen Verteidiger konnten die Brücken letztendlich zerstören, wodurch auch dieser Teil des Angriffs scheiterte."
+      ]
+    },
+    {
+      "heading": "Die Warnung, die ignoriert wurde",
+      "paragraphs": [
+        "Ein wichtiger Punkt, der oft übersehen wird, ist, dass Polen bereits vor dem 1. September gewarnt war. Hitler hatte bereits am 25. August einen Angriffsbefehl erteilt. Dieser Plan sah vor, dass der Feldzug am 26. August beginnen sollte.",
+        "Die deutschen Pläne wurden jedoch durch die politische Entwicklung geändert. Als Großbritannien am Nachmittag des 25. August einen Beistandspakt mit Polen schloss, zog Hitler seinen Angriffsbefehl gegen 22 Uhr zurück.",
+        "Ein irregulärer Militärgeheimdiensttrupp, der bereits marschierte, erhielt diese Änderung nicht mit. Diese Truppe sollte strategisch wichtige Punkte wie den Jablunkapass besetzen, was zeigt, dass die militärische Planung bereits Tage vor dem offiziellen Kriegsbeginn lief."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis, wie historische Ereignisse ablaufen, hilft dir, kritisch zu denken. Es zeigt, dass offizielle Darstellungen oft vereinfacht sind und dass die Wahrheit oft komplexer ist. Dieses Wissen hilft dir, Medienberichte besser einzuordnen.",
+  "glossary": [
+    {
+      "term": "Westerplatte",
+      "definition": "Ein polnisches Fort an der Danziger Bucht, das am 1. September 1939 von deutschen Kriegsschiffen beschossen wurde."
+    },
+    {
+      "term": "Wehrmacht",
+      "definition": "Die Streitkräfte des Deutschen Reiches in der Zeit vor und während des Zweiten Weltkriegs."
+    },
+    {
+      "term": "OKW",
+      "definition": "Oberkommando der Wehrmacht, die oberste militärische Führung des Deutschen Reiches."
+    },
+    {
+      "term": "Stuka",
+      "definition": "Kurz für Junkers Ju 87, eine deutsche Sturzkampfbomber, die im Krieg eingesetzt wurde."
+    }
+  ],
+  "quiz": {
+    "question": "Wann fanden laut der Quelle die ersten Bombenüberfälle auf Polen statt?",
+    "options": [
+      "Am 26. August 1939",
+      "Am 1. September 1939",
+      "Am 7. September 1939"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Quelle besagt, dass die ersten Bomben beim Überfall auf Polen bereits am 26. August fielen."
+  },
+  "discussion": [
+    "Wie beeinflussen offizielle Jubiläen oder Gedenktage die historische Wahrnehmung eines Konflikts?",
+    "Welche Rolle spielt die Propaganda einer Regierung bei der Darstellung von Kriegsanfängen?"
+  ],
+  "publishedAt": "2026-10-30T01:17:31.121Z",
+  "sources": [
+    {
+      "title": "Polen 1939: Wo und wann der Zweite Weltkrieg in Wahrheit begann",
+      "url": "https://www.mdr.de/geschichte/ns-zeit/zweiter-weltkrieg/verlauf/ueberfall-auf-polen-danzig-hitler-wehrmacht,polenfeldzug-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/der-wahre-beginn-des-zweiten-weltkriegs-mehr-als-nur-westerp.jpg",
+    "width": 960,
+    "height": 663,
+    "alt": "Kriegerdenkmal in Duisburg, das an den Ersten und Zweiten Weltkrieg erinnert.",
+    "credit": {
+      "title": "Duisburg, Aldenrade, Friedhof, 2012-05 CN-01.jpg",
+      "author": "kaʁstn Disk / Cat",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duisburg,_Aldenrade,_Friedhof,_2012-05_CN-01.jpg"
+    }
+  }
+}

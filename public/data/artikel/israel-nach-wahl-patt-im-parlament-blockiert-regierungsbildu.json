@@ -1,0 +1,93 @@
+{
+  "id": "israel-nach-wahl-patt-im-parlament-blockiert-regierungsbildu",
+  "category": "politik",
+  "title": "Israel nach Wahl: Patt im Parlament blockiert Regierungsbildung",
+  "teaser": "Die Parlamentswahl in Israel ist ausgetragen, aber es gibt keinen klaren Gewinner. Ein Patt droht, und es gibt Vorwürfe über gestohlene Wahlen.",
+  "tags": [
+    "Nahost",
+    "Demokratie",
+    "Parlament",
+    "Koalition"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Auszählung der israelischen Parlamentswahl zeigt, dass weder die Regierungskoalition noch die Opposition eine absolute Mehrheit erreichen konnten.",
+    "Um eine Mehrheit zu bilden, müsste die Opposition auf die Unterstützung arabischer Parteien angewiesen sein, was zu politischen Spannungen führt.",
+    "Gleichzeitig gibt es starke Anschuldigungen der Regierungskoalition, die Wahlen seien gestohlen worden."
+  ],
+  "sections": [
+    {
+      "heading": "Kein klarer Sieger: Das Patt im Parlament",
+      "paragraphs": [
+        "In Israel steht nach der Parlamentswahl eine extrem schwierige Regierungsbildung bevor. Die zentrale Wahlkommission hat bestätigt, dass weder die bisherige Regierungskoalition von Benjamin Netanjahu noch das Oppositionslager von Gadi Eisenkot eine absolute Mehrheit im Parlament erreicht hat.",
+        "Für eine Mehrheit im Parlament (Knesset) werden 61 Mandate benötigt. Laut den vorläufigen amtlichen Endergebnissen erreichte die bisherige Koalition aus rechten, rechtsextremen und religiösen Parteien 53 Sitze. Die von Eisenkot geführte Mitte-Partei Jaschar ist mit 21 Sitzen die zweitstärkste Kraft, ihr gesamtes Oppositionsbündnis zieht insgesamt 48 Mandate an."
+      ]
+    },
+    {
+      "heading": "Die Abhängigkeit von arabischen Parteien",
+      "paragraphs": [
+        "Dieses Ergebnis führt zu einem Patt, da die Opposition rechnerisch die Unterstützung der arabischen Parteien benötigen würde, um die nötigen 61 Sitze zu erreichen. Diese arabischen Parteien haben mit zusammen 19 Mandaten ein historisch starkes Ergebnis erzielt. Allerdings könnten Teile der jüdischen Parteien im Oppositionsbündnis eine Zusammenarbeit mit diesen Vertretern ablehnen.",
+        "Eisenkot selbst stellt strikte Bedingungen für mögliche Partner. Diese müssen ein Bekenntnis zum jüdischen und demokratischen Charakter Israels ablegen, eine allgemeine Dienstpflicht anerkennen und die islamistische Hamas als Terrororganisation einstufen. Der Staatspräsident Jitzchak Herzog wird in der kommenden Woche den Auftrag zur Regierungsbildung erteilen."
+      ]
+    },
+    {
+      "heading": "Vorwürfe der Delegitimierung",
+      "paragraphs": [
+        "Parallel zu den Verhandlungen über die Koalition entbrannte ein politischer Streit über das Wahlergebnis selbst. Die Likud-Partei und Netanjahu werfen der Opposition vor, die Wahlen zu delegitimieren. Die Likud-Partei erklärte sogar, die Wahlen seien „gestohlen“ worden und gehe von einem „Anschlag auf die Demokratie“ aus.",
+        "Netanjahu wurde von Eisenkot vorgeworfen, das Ergebnis infrage stellen zu wollen. Zudem forderte der rechtsextreme Sicherheitsminister Itamar Ben-Gvir die Festnahme der Chefs der israelisch-arabischen Parteien, da sie angeblich „Geld aus Katar“ erhalten hätten. Der Inlandsgeheimdienst Shin Bet hat bestätigt, dass Untersuchungen zu diesen Vorwürfen laufen, betonte aber, dass es nicht darum gehe, „eine ganze Gemeinschaft zu beschuldigen, die auf demokratische und legale Weise gewählt hat“."
+      ]
+    }
+  ],
+  "whyItMatters": "Politische Prozesse wie Regierungsbildungen zeigen, wie komplex demokratische Systeme sein können. Du lernst hier, dass selbst klare Wahlergebnisse nicht automatisch zu stabilen Regierungen führen müssen.",
+  "glossary": [
+    {
+      "term": "Knesset",
+      "definition": "Das Parlament Israels, das die gesetzgebende Gewalt ausübt."
+    },
+    {
+      "term": "Absolute Mehrheit",
+      "definition": "In einem Parlament bedeutet das, dass mehr als die Hälfte aller Sitze erreicht werden muss, um Gesetze zu verabschieden oder eine Regierung zu bilden."
+    },
+    {
+      "term": "Koalition",
+      "definition": "Eine politische Zusammenarbeit mehrerer Parteien, um eine Mehrheit im Parlament zu erreichen und regieren zu können."
+    }
+  ],
+  "quiz": {
+    "question": "Wie viele Mandate benötigt man in der Knesset, um eine absolute Mehrheit zu erreichen?",
+    "options": [
+      "53",
+      "61",
+      "48"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut dem Artikel benötigt man 61 Mandate für eine Mehrheit."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Abhängigkeit von kleinen Parteien in der Regierungsbildung? Ist dies ein Zeichen für Stabilität oder für politische Instabilität?",
+    "Wenn große Parteien Anschuldigungen von Wahlbetrug erheben, wie kann die demokratische Legitimität eines Wahlergebnisses dann gewahrt bleiben?"
+  ],
+  "publishedAt": "2026-10-30T00:53:39.387Z",
+  "sources": [
+    {
+      "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/israel-nach-wahl-patt-im-parlament-blockiert-regierungsbildu.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Reuven Rivlin erhält die offiziellen Wahlergebnisse der israelischen Knesset-Wahl.",
+    "credit": {
+      "title": "Reuven Rivlin receiving the official results of the 24th Knesset election in Israel, March 2021 (GPOABG 8054).jpg",
+      "author": "Amos Ben Gershom",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_receiving_the_official_results_of_the_24th_Knesset_election_in_Israel,_March_2021_(GPOABG_8054).jpg"
+    }
+  }
+}

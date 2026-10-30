@@ -1,0 +1,76 @@
+{
+  "id": "soll-ki-besteuert-werden-die-debatte-um-neue-steuern-in-deut",
+  "category": "politik",
+  "title": "Soll KI besteuert werden? Die Debatte um neue Steuern in Deutschland",
+  "teaser": "Künstliche Intelligenz verändert die Arbeitswelt rasant. Darf man die Umsätze, die KI generiert, besteuern? Die politische Diskussion dreht sich um diesen wichtigen Punkt.",
+  "tags": [
+    "Wirtschaft",
+    "Technologie",
+    "Arbeitsmarkt",
+    "Steuern",
+    "Zukunft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In Deutschland wird diskutiert, ob Umsätze, die durch Künstliche Intelligenz (KI) erzielt werden, besteuert werden sollten.",
+    "Befürworter sehen darin einen Weg, den Umbau der Arbeitswelt und potenzielle Jobverluste zu finanzieren, während Kritiker zunächst die wirtschaftlichen Chancen nutzen wollen.",
+    "Die Diskussion spiegelt globale Bedenken wider, etwa die Forderungen von Technologiegründern, KI zu regulieren."
+  ],
+  "sections": [
+    {
+      "heading": "Der Kern der Debatte: KI und Besteuerung",
+      "paragraphs": [
+        "Künstliche Intelligenz (KI) ist ein riesiger Motor für wirtschaftlichen Fortschritt. Aber sie verändert auch grundlegend, wie wir arbeiten. Genau diese Veränderung führt in Deutschland zu einer politischen Debatte: Soll man Umsätze, die mithilfe von KI generiert werden, besteuern?",
+        "Verschiedene Politikerinnen und Politiker äußern sich zu diesem Thema. Zum Beispiel plädierte Bundesdigitalminister Karsten Wildberger (CDU) für eine solche KI-Steuer. Sein Argument ist, dass die extrem hohen Umsätze, die diese Technologie schafft, besteuert werden müssten. Das Geld soll dann helfen, den notwendigen Umbau der Arbeitswelt zu finanzieren."
+      ]
+    },
+    {
+      "heading": "Pro und Contra: Chancen versus Risiken",
+      "paragraphs": [
+        "Die Argumente sind unterschiedlich. Befürworter, wie Familienministerin Karin Prien, sehen in der Besteuerung eine Reaktion auf die Veränderungen. Sie betonen, dass es darüber gesprochen werden müsse, was KI für die Berufslaufbahn junger Menschen bedeutet.",
+        "Andere, wie Wirtschaftsministerin Katherina Reiche (CDU), mahnen zur Vorsicht. Sie argumentieren, dass Deutschland zunächst die wirtschaftlichen Chancen der Technologie nutzen sollte, bevor man sie besteuert. Die SPD unterstützt eher eine „gerechte Besteuerung der Profite“ und befürchtet, dass Maschinen nur noch niedrig entlohnte Tätigkeiten für Menschen übriglassen könnten.",
+        "Auch internationale Stimmen befeuern die Diskussion. Der Microsoft-Gründer Bill Gates fordert bereits seit Längerem, Roboter und KI zu besteuern. Sein Ziel ist es, den Anreiz zu verringern, Menschen durch Maschinen zu ersetzen, da er ebenfalls Jobverluste befürchtet."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema betrifft dich direkt, weil KI die Art und Weise verändert, wie du später arbeiten wirst. Die Diskussion über Steuern ist ein Versuch der Politik, sicherzustellen, dass dieser technologische Wandel fair für alle ist und nicht nur wenigen zugutekommt.",
+  "glossary": [
+    {
+      "term": "Künstliche Intelligenz (KI)",
+      "definition": "Fähigkeit von Computersystemen, menschenähnliche Aufgaben wie Lernen, Problemlösen oder Entscheidungsfindung zu übernehmen."
+    },
+    {
+      "term": "Wertschöpfung",
+      "definition": "Der Mehrwert, den ein Unternehmen durch seine Produkte oder Dienstleistungen für den Markt schafft."
+    },
+    {
+      "term": "Koalition",
+      "definition": "Eine politische Regierung, die aus mehreren Parteien besteht, die zusammen regieren."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist eines der Hauptziele der Befürworter einer KI-Steuer, laut der Quelle?",
+    "options": [
+      "Die Einführung neuer Uni-Studiengänge finanzieren.",
+      "Den Umbau der Arbeitswelt und potenzielle Jobverluste finanzieren.",
+      "Die weltweiten KI-Forschungsprojekte komplett stoppen."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Befürworter sehen die Steuer als Mittel, um den Umbau der Arbeitswelt und die Folgen von Jobverlusten zu finanzieren."
+  },
+  "discussion": [
+    "Wie balanciert man den Innovationsdrang (neue Technologien einführen) mit dem sozialen Schutz (Arbeitsplätze und gerechte Verteilung des Wohlstands)?",
+    "Wenn KI viele Aufgaben übernimmt, welche neuen Fähigkeiten oder Berufe glaubst du, werden in den nächsten zehn Jahren besonders wichtig sein?"
+  ],
+  "publishedAt": "2026-10-30T01:02:19.383Z",
+  "sources": [
+    {
+      "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+      "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

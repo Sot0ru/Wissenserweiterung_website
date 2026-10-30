@@ -1,0 +1,82 @@
+{
+  "id": "krankenkassen-verluste-was-passiert-bei-riskanten-immobilien",
+  "category": "politik",
+  "title": "Krankenkassen-Verluste: Was passiert bei riskanten Immobilieninvestitionen?",
+  "teaser": "Krankenkassen haben in Immobilienfonds Verluste gemacht. Die Aufarbeitung dieser finanziellen Probleme zieht sich hin und betrifft die Politik.",
+  "tags": [
+    "Finanzen",
+    "Sozialversicherung",
+    "Regierung",
+    "Investitionen",
+    "Gesetzgebung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Krankenkassen und Kassenärztliche Vereinigungen haben Verluste bei Anlagegeschäften in bestimmte Immobilienfonds erlitten.",
+    "Die Bundesregierung untersucht nun, wie diese Verluste trotz strenger Regeln des Sozialgesetzbuchs (SGB) IV zustande kamen.",
+    "Die Aufarbeitung dauert an, und es werden weitere Wertberichtigungen bei den Krankenkassen erwartet."
+  ],
+  "sections": [
+    {
+      "heading": "Finanzielle Risiken im Sozialsystem",
+      "paragraphs": [
+        "Krankenkassen und Kassenärztliche Vereinigungen (KVen) haben in bestimmten Fonds, die zur Immobilienfinanzierung dienen, Verluste gemacht. Dies ist ein Thema, das die Bundesregierung derzeit untersucht. Die Aufarbeitung dieser finanziellen Sachverhalte zieht sich hin und erfordert eine gründliche Analyse.",
+        "Die Regierung muss klären, wie es trotz der bestehenden strengen Regelungen des Sozialgesetzbuchs (SGB) IV zu diesen Verlusten kommen konnte. Es wird betont, dass eine sorgfältige Aufklärung der konkreten Sachverhalte durch die Selbstverwaltung sowie die zuständigen Bundes- und Landesbehörden notwendig ist."
+      ]
+    },
+    {
+      "heading": "Die Zahlen und die Aufsicht",
+      "paragraphs": [
+        "Die finanzielle Situation ist komplex. Allein bei den bundesunmittelbaren Krankenkassen beläuft sich der Gesamtrestbuchwert der Anlagen auf knapp über 700 Millionen Euro zum 31. Dezember 2025. Die Krankenkassen selbst haben angekündigt, für das Jahr 2026 weitere Wertberichtigungen vorzunehmen, wobei die Höhe dieser Buchungen noch nicht feststeht.",
+        "Ein Beispiel dafür ist eine Pflegekasse, deren Anlage einen Nennwert von rund einer Million Euro hat. Bis Ende 2025 wurden dort etwa 400 Millionen Euro an Wertberichtigungen vorgenommen.",
+        "Das Bundesministerium für Gesundheit (BMG) führt aktuell eine Abfrage bei den Aufsichtsbehörden der Länder durch. Dabei geht es um leistungsgestörte Vermögensanlagen von landesunmittelbaren Kranken- und Pflegekassen sowie Kassenärztlichen Vereinigungen. Die Ergebnisse dieser Abfrage liegen noch nicht vollständig vor."
+      ]
+    },
+    {
+      "heading": "Was kommt als Nächstes?",
+      "paragraphs": [
+        "Die Politik plant einen Erfahrungsaustausch, um aus diesen Fällen zu lernen. Auf einer Aufsichtsbehördentagung im November werden die Anforderungen an das Anlage- und Risikomanagement von Krankenkassen und KVen diskutiert. Die Aufsichtsbehörden betonen dabei die zentrale Bedeutung der Einhaltung von Anlagegrundsätzen: Sicherheit, Liquidität und ein angemessener Ertrag."
+      ]
+    }
+  ],
+  "whyItMatters": "Da das deutsche Sozialsystem auf die Finanzkraft dieser Institutionen angewiesen ist, zeigen solche Verluste, wie wichtig ein solides Risikomanagement ist. Für junge Menschen ist es relevant zu wissen, wie staatliche und halbstaatliche Systeme finanziell abgesichert sind.",
+  "glossary": [
+    {
+      "term": "Sozialgesetzbuch (SGB) IV",
+      "definition": "Das SGB IV regelt die Gesetzliche Krankenversicherung in Deutschland und enthält die Rahmenbedingungen für die Finanzierung und Verwaltung der Krankenkassen."
+    },
+    {
+      "term": "Wertberichtigung",
+      "definition": "Ein buchhalterischer Vorgang, bei dem der Wert eines Vermögenswertes (hier: einer Anlage) reduziert wird, weil dessen tatsächlicher Wert als geringer eingeschätzt wird."
+    },
+    {
+      "term": "Liquidität",
+      "definition": "Die Fähigkeit einer Organisation, kurzfristig alle ihre finanziellen Verpflichtungen ausführen zu können, also schnell Geld verfügbar zu haben."
+    }
+  ],
+  "quiz": {
+    "question": "Welche drei Anlagegrundsätze sollen von Krankenkassen eingehalten werden?",
+    "options": [
+      "Sicherheit, Liquidität und angemessener Ertrag",
+      "Innovation, Wachstum, Marktanteil",
+      "Schnelligkeit, Effizienz, Nachhaltigkeit"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Aufsichtsbehörden betonen die Einhaltung von Sicherheit, Liquidität und angemessenem Ertrag."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Aufsicht durch staatliche Behörden bei der Risikobewertung von Finanzanlagen von Institutionen wie Krankenkassen?",
+    "Wie kann ein Gleichgewicht zwischen der Notwendigkeit eines angemessenen Ertrags und der Sicherstellung hoher Liquidität bei großen Finanzinvestitionen erreicht werden?"
+  ],
+  "publishedAt": "2026-10-29T23:52:34.666Z",
+  "sources": [
+    {
+      "title": "Anlagegeschäfte: Aufarbeitung nach Verlusten von Krankenkassen dauert an",
+      "url": "https://www.aerzteblatt.de/news/anlagegeschafte-aufarbeitung-nach-verlusten-von-krankenkassen-dauert-an-aae46e22-23a4-4b79-8a93-9001ecb27b78",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
