@@ -1,0 +1,88 @@
+{
+  "id": "ki-rennen-wie-eu-und-kanada-unabhaengiger-von-tech-giganten-",
+  "category": "wissenschaft",
+  "title": "KI-Rennen: Wie EU und Kanada unabhängiger von Tech-Giganten werden wollen",
+  "teaser": "Die großen US-Tech-Konzerne dominieren den KI-Markt. Deshalb wollen die EU und Kanada gemeinsam neue Wege gehen, um technologisch souveräner zu werden.",
+  "tags": [
+    "Technologie",
+    "Digitalisierung",
+    "Innovation",
+    "Daten",
+    "Wirtschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die EU und Kanada wollen durch eine verstärkte Zusammenarbeit im Bereich Künstliche Intelligenz (KI) die Abhängigkeit von wenigen großen US-Unternehmen reduzieren.",
+    "Kanada investiert massiv in sein heimisches KI-Unternehmen Cohere, um eine unabhängige, nach EU-Recht konforme KI-Infrastruktur aufzubauen.",
+    "Das Ziel beider Seiten ist es, durch gemeinsame Kompetenzaufbau und Investitionen eine eigene technologische Souveränität zu erreichen."
+  ],
+  "sections": [
+    {
+      "heading": "Warum die KI-Dominanz ein Problem ist",
+      "paragraphs": [
+        "Künstliche Intelligenz (KI) verändert unsere Welt rasant. Dennoch wird der globale Markt von wenigen großen Technologieunternehmen, hauptsächlich aus den USA, dominiert. Sowohl die Europäische Union (EU) als auch Kanada sehen darin eine große Herausforderung.",
+        "Die EU warnt davor, dass eine solche Abhängigkeit gefährlich sein kann. Wenn lebenswichtige Dienste und Industrien von Entscheidungen abhängen, die außerhalb der eigenen Kontrolle getroffen werden, kann das die eigene Wirtschaft gefährden. Kanadas Premierminister teilt diese Sorge: Er möchte nicht warten, bis die Zukunft der KI von Unbekannten entschieden wird."
+      ]
+    },
+    {
+      "heading": "Der Weg zur digitalen Unabhängigkeit",
+      "paragraphs": [
+        "Um dieser Abhängigkeit entgegenzuwirken, planen EU und Kanada eine engere Allianz. Ein zentraler Punkt ist die gemeinsame Entwicklung von KI-Lösungen, die den europäischen und kanadischen Standards entsprechen. Dabei geht es nicht nur um die Technologie selbst, sondern auch um die Datenhoheit.",
+        "Viele Regierungen und Firmen fordern die Kontrolle darüber, wo ihre Daten gespeichert werden und wie die KI-Systeme funktionieren. Hier setzt das kanadische Unternehmen Cohere an. Es entwickelt KI-Lösungen, die den strengen Regeln der EU genügen.",
+        "Kanada zeigt seinen Einsatz: Die Regierung investiert 1,6 Milliarden kanadische Dollar in Cohere. Dies soll nicht nur das Unternehmen im Land halten, sondern auch die Entwicklung neuer IT-Infrastruktur fördern. Durch solche Bündnisse wollen die Partner ihre eigenen Kompetenzen stärken und Start-ups im globalen Wettbewerb unterstützen."
+      ]
+    }
+  ],
+  "whyItMatters": "KI wird bald überall Teil deines Alltags sein – von Lernprogrammen bis hin zu Gesundheits-Apps. Wer die Technologie kontrolliert, beeinflusst, wie unsere Gesellschaft funktioniert. Deshalb ist es wichtig zu verstehen, wer diese Systeme entwickelt und welche Regeln dafür gelten.",
+  "glossary": [
+    {
+      "term": "Künstliche Intelligenz (KI)",
+      "definition": "Fähigkeit von Computersystemen, Aufgaben auszuführen, die normalerweise menschliche Intelligenz erfordern, wie Lernen oder Problemlösen."
+    },
+    {
+      "term": "Souveränität",
+      "definition": "Das Recht und die Fähigkeit eines Staates, unabhängig eigene Entscheidungen zu treffen, ohne sich von externen Mächten abhängig machen zu müssen."
+    },
+    {
+      "term": "KI-Infrastruktur",
+      "definition": "Die gesamte technische Grundlage (Server, Rechenzentren, Software), die notwendig ist, um KI-Systeme zu betreiben und zu entwickeln."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut Quelle ein Hauptgrund für die verstärkte Zusammenarbeit zwischen EU und Kanada im KI-Bereich?",
+    "options": [
+      "Die Angst, dass Entscheidungen über lebenswichtige Dienste von wenigen großen Unternehmen getroffen werden könnten.",
+      "Die Notwendigkeit, die globale KI-Marktführerschaft der USA zu übernehmen.",
+      "Die gemeinsame Entwicklung von KI-Lösungen für den Weltraum."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die EU befürchtet, dass die Abhängigkeit von wenigen großen Unternehmen Entscheidungen beeinflussen kann, die eigene Dienste gefährden."
+  },
+  "discussion": [
+    "Welche ethischen Leitplanken (Regeln) glaubst du, sind am wichtigsten, damit KI fair und sicher für alle Menschen eingesetzt wird?",
+    "Wie kann ein Land technologisch unabhängig werden, wenn die Forschung und die besten Chips oft bei wenigen globalen Konzernen konzentriert sind?"
+  ],
+  "publishedAt": "2026-10-30T09:13:49.022Z",
+  "sources": [
+    {
+      "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+      "url": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/ki-rennen-wie-eu-und-kanada-unabhaengiger-von-tech-giganten-.jpg",
+    "width": 960,
+    "height": 510,
+    "alt": "Chart, der den steigenden Trainingskosten großer KI-Modelle vergleicht.",
+    "credit": {
+      "title": "Estimated training cost of some AI models - 2024 AI index.jpg",
+      "author": "Stanford Institute for Human-Centered Artificial Intelligence (permission obtained by email from the AI index research m",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estimated_training_cost_of_some_AI_models_-_2024_AI_index.jpg"
+    }
+  }
+}

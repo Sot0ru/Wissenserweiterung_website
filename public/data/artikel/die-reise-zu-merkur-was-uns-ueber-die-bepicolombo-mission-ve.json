@@ -1,0 +1,87 @@
+{
+  "id": "die-reise-zu-merkur-was-uns-ueber-die-bepicolombo-mission-ve",
+  "category": "astronomie",
+  "title": "Die Reise zu Merkur: Was uns über die BepiColombo-Mission verrät",
+  "teaser": "Eine internationale Mission nähert sich dem kleinsten Planeten unseres Sonnensystems. Wir erklären, was BepiColombo ist und warum diese Reise so wichtig ist.",
+  "tags": [
+    "Sonnensystem",
+    "Raumfahrt",
+    "Planeten",
+    "ESA",
+    "Weltraum"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die BepiColombo-Mission ist eine internationale Raumfahrtmission der ESA und JAXA, die Merkur untersuchen soll.",
+    "Nach einem Start im Oktober 2018 wird das Raumschiff Ende 2026 Merkur erreichen.",
+    "Die Mission wird als komplex, kollaborativ und transformativ beschrieben, was den internationalen Charakter und die wissenschaftliche Bedeutung unterstreicht."
+  ],
+  "sections": [
+    {
+      "heading": "Einblicke in die Merkur-Erkundung",
+      "paragraphs": [
+        "Die BepiColombo-Mission ist ein großes Projekt zur Erforschung des Merkur. Merkur, der kleinste Planet in unserem Sonnensystem, ist ein faszinierendes Ziel für Wissenschaftler. Das Raumschiff wurde am 20. Oktober 2018 gestartet.",
+        "Die Reise durch das innere Sonnensystem ist lang und anspruchsvoll. Nach acht Jahren Reise wird BepiColombo am 9. Dezember 2026 seinen Zielplaneten erreichen. Diese Ankunft markiert einen wichtigen Meilenstein für die Wissenschaft."
+      ]
+    },
+    {
+      "heading": "Was bedeutet diese Mission für die Wissenschaft?",
+      "paragraphs": [
+        "BepiColombo ist eine Zusammenarbeit zwischen der Europäischen Weltraumorganisation (ESA) und der Japan Aerospace Exploration Agency (JAXA). Solche internationalen Kooperationen sind typisch für große Raumfahrtprojekte, da sie unterschiedliches Fachwissen bündeln.",
+        "Die Teammitglieder der Mission haben die Mission in nur drei Worten zusammengefasst. Sie wählten Begriffe wie „komplex“, „kollaborativ“ und „transformativ“. Diese Worte spiegeln sowohl die schwierige Reise zu Merkur wider als auch die internationale Teamarbeit, die dieses Projekt erst möglich gemacht hat. Die Mission soll tiefere Einblicke in die Geologie und Physik dieses Planeten geben."
+      ]
+    }
+  ],
+  "whyItMatters": "Raumfahrtmissionen helfen uns, unser Verständnis des Universums zu erweitern. Durch die Erforschung von Planeten wie Merkur lernen wir mehr über die Entstehung von Planeten und die Bedingungen, unter denen Leben entstehen könnte.",
+  "glossary": [
+    {
+      "term": "ESA",
+      "definition": "European Space Agency. Eine europäische Organisation, die Weltraumforschung und -technologie vorantreibt."
+    },
+    {
+      "term": "JAXA",
+      "definition": "Japan Aerospace Exploration Agency. Die japanische Agentur für Weltraumforschung und -technologie."
+    },
+    {
+      "term": "Sonnensystem",
+      "definition": "Das System, das unsere Sonne und alle umlaufenden Himmelskörper wie Planeten und Monde umfasst."
+    }
+  ],
+  "quiz": {
+    "question": "Wann ist die Ankunft der BepiColombo-Mission am Merkur geplant?",
+    "options": [
+      "20. Oktober 2018",
+      "8 Jahre nach dem Start",
+      "9. Dezember 2026"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Ankunft ist für den 9. Dezember 2026 geplant."
+  },
+  "discussion": [
+    "Welche Rolle spielt internationale Zusammenarbeit bei Großprojekten wie der Raumfahrt, und welche Herausforderungen ergeben sich dabei?",
+    "Wenn wir mehr über Planeten wie Merkur lernen, welche Fragen stellst du dir dann am meisten über die Entstehung unseres eigenen Sonnensystems?"
+  ],
+  "publishedAt": "2026-10-30T08:58:33.062Z",
+  "sources": [
+    {
+      "title": "Celebrating BepiColombo, three words at a time",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+      "publisher": "ESA"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-reise-zu-merkur-was-uns-ueber-die-bepicolombo-mission-ve.jpg",
+    "width": 960,
+    "height": 695,
+    "alt": "Die BepiColombo-Raumsonde in ihrer Startkonfiguration, Mission zum Planeten Merkur.",
+    "credit": {
+      "title": "BepiColombo spacecraft stack ESA380846.jpg",
+      "author": "European Space Agency",
+      "license": "CC BY-SA 3.0 igo",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BepiColombo_spacecraft_stack_ESA380846.jpg"
+    }
+  }
+}

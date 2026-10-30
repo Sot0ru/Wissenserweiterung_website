@@ -1,0 +1,94 @@
+{
+  "id": "wie-entsteht-die-faltenstruktur-unseres-gehirns-forscher-sch",
+  "category": "wissenschaft",
+  "title": "Wie entsteht die Faltenstruktur unseres Gehirns? Forscher schauen auf Affen.",
+  "teaser": "Dein Gehirn ist faltig – aber warum haben manche Primaten glatte Hirne? Neue Forschungen zeigen, welche zellulären Prozesse das bestimmen.",
+  "tags": [
+    "Biologie",
+    "Entwicklung",
+    "Evolution",
+    "Nervensystem"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher verglichen das Gehirn von Marmosetten mit dem Menschen und fanden Unterschiede auf zellulärer Ebene.",
+    "Diese Unterschiede betreffen die sogenannten neuralen Progenitorzellen, die die Nervenzellen bilden.",
+    "Langsamere Zellteilung und einfachere Zellstrukturen bei Marmosetten führen zu weniger Neuronen und einem glatteren Gehirn."
+  ],
+  "sections": [
+    {
+      "heading": "Warum ist unser Gehirn so faltig?",
+      "paragraphs": [
+        "Unser menschliches Gehirn ist stark gefaltet. Diese Falten, die man als Furchen und Windungen beschreiben kann, sind kein Zufall. Sie dienen dazu, die Oberfläche des Gehirns massiv zu vergrößern. Diese große Oberfläche bietet Platz für Milliarden von Nervenzellen, also Neuronen. Diese Neuronen sind die Grundlage für unser komplexes Denken und unsere fortgeschrittenen Fähigkeiten.",
+        "Nicht alle Primaten haben diese ausgeprägte Faltung. Ein interessantes Beispiel dafür sind die Gemeinen Marmosetten. Diese kleinen Affen haben im Vergleich dazu ein fast vollständig glattes Gehirn. Um zu verstehen, wie dieser Unterschied entsteht, haben Wissenschaftler am Deutschen Primatenzentrum (DPZ) in Göttingen untersucht."
+      ]
+    },
+    {
+      "heading": "Die Geheimnisse in den Stammzellen",
+      "paragraphs": [
+        "Die Forschung nutzte sogenannte Organoide. Das sind winzige, dreidimensionale Strukturen, die aus Zellen gezüchtet werden und wichtige Merkmale der frühen Gehirnentwicklung nachbilden. Die Wissenschaftler verglichen Organoide, die aus menschlichen und Marmosettenzellen entstanden sind.",
+        "Ihr Fokus lag auf den neuralen Progenitorzellen. Das sind die Stammzellen, die während der Gehirnentwicklung die Neuronen erzeugen. Die Forscher entdeckten, dass sich diese Zellen bei Marmosetten anders entwickeln als beim Menschen. Es ist kein einzelner Faktor verantwortlich, sondern eine Kombination von Veränderungen.",
+        "Konkret stellten sie fest, dass bestimmte Progenitorzellen bei Marmosetten deutlich langsamer teilwachsen als beim Menschen. Hinzu kommt, dass andere Zellen eine einfachere Struktur haben und weniger aktiv sind. Diese Faktoren führen zusammen dazu, dass weniger Nervenzellen entstehen, was das kleinere und glattere Gehirn der Marmosetten erklärt."
+      ]
+    },
+    {
+      "heading": "Was sagt das über uns aus?",
+      "paragraphs": [
+        "Die Ergebnisse zeigen, wie schon geringfügige Unterschiede im Verhalten und in der zeitlichen Abfolge der Gehirn-bildenden Zellen große Unterschiede in Größe und Faltung zwischen verschiedenen Primatenspezies verursachen können. Man kann daraus Rückschlüsse auf die evolutionäre Entwicklung der Gehirne ziehen.",
+        "Darüber hinaus ist die Forschung sehr wichtig für die Medizin. Ein besseres Verständnis der zellulären Mechanismen, die die Neuronenproduktion steuern, könnte zukünftig helfen, Entwicklungsstörungen des menschlichen Gehirns besser zu untersuchen."
+      ]
+    }
+  ],
+  "whyItMatters": "Da unser Gehirn ständig neue Verbindungen knüpft und sich entwickelt, ist es wichtig zu verstehen, wie diese Entwicklung gesteuert wird. Diese Erkenntnisse helfen uns, die Grundlagen unseres eigenen komplexen Denkens besser zu verstehen.",
+  "glossary": [
+    {
+      "term": "Neuronen",
+      "definition": "Die spezialisierten Zellen im Gehirn, die elektrische Signale übertragen und für das Denken zuständig sind."
+    },
+    {
+      "term": "Organoide",
+      "definition": "Miniatur-Organe, die im Labor aus Stammzellen gezüchtet werden und die Struktur eines realen Organs nachahmen."
+    },
+    {
+      "term": "Progenitorzellen",
+      "definition": "Stammzellen, die sich teilen und zu spezialisierten Zellen, wie Nervenzellen, werden können."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Eigenschaft der Marmosetten-Progenitorzellen trägt laut Studie zur reduzierten Neuronenzahl bei?",
+    "options": [
+      "Sie haben eine komplexere Zellstruktur als die menschlichen Zellen.",
+      "Sie teilen sich signifikant langsamer als die menschlichen Zellen.",
+      "Sie entwickeln sich in einem viel längeren Zeitfenster."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Studie zeigte, dass die Progenitorzellen bei Marmosetten deutlich langsamer teilwachsen als beim Menschen."
+  },
+  "discussion": [
+    "Wie beeinflusst die Größe und die Komplexität der Gehirnstruktur unsere Fähigkeit, komplexe soziale Beziehungen einzugehen?",
+    "Wenn wir die Entwicklung von Krankheiten im Gehirn besser verstehen, welche ethischen Fragen ergeben sich dann bezüglich genetischer Eingriffe?"
+  ],
+  "publishedAt": "2026-10-30T09:06:19.526Z",
+  "sources": [
+    {
+      "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-entsteht-die-faltenstruktur-unseres-gehirns-forscher-sch.jpg",
+    "width": 960,
+    "height": 1173,
+    "alt": "Vergleich der Gehirngröße von Nagetier, Primaten und Menschen, zeigt Faltenbildung.",
+    "credit": {
+      "title": "Size proportion of mature rodent and non-human primate brain as well as developing and mature human brains fnana-08-00050-g004.jpg",
+      "author": "Ana Hladnik, Domagoj Džaja, Sanja Darmopil, Nataša Jovanov-Milošević and Zdravko Petanjek",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Size_proportion_of_mature_rodent_and_non-human_primate_brain_as_well_as_developing_and_mature_human_brains_fnana-08-00050-g004.jpg"
+    }
+  }
+}

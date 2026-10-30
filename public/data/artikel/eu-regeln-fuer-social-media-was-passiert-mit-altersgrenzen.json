@@ -1,0 +1,83 @@
+{
+  "id": "eu-regeln-fuer-social-media-was-passiert-mit-altersgrenzen",
+  "category": "politik",
+  "title": "EU-Regeln für Social Media: Was passiert mit Altersgrenzen?",
+  "teaser": "Die Europäische Union versucht, einheitliche Regeln für Social Media zu schaffen. Aber was bedeutet das für nationale Gesetze in Deutschland oder Österreich?",
+  "tags": [
+    "EU-Recht",
+    "Jugendschutz",
+    "Digitale Medien",
+    "Gesetzgebung"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die EU plant eine europaweite Altersgrenze für Social Media, die den Zugang erst ab 13 Jahren und die Kontenerstellung erst ab 15 Jahren erlauben soll.",
+    "Die Europäische Kommission hält nationale Gesetzesvorhaben, die sich damit überschneiden, zurück, um eine einheitliche Regelung zu gewährleisten.",
+    "Dies führt zu Verzögerungen, da die Mitgliedsstaaten sich auf die Verhandlungen auf europäischer Ebene einigen müssen."
+  ],
+  "sections": [
+    {
+      "heading": "Warum eine einheitliche Regelung wichtig ist",
+      "paragraphs": [
+        "Wenn es um die Regeln für soziale Medien geht, spielt die Europäische Union (EU) eine große Rolle. Aktuell plant Brüssel eine europaweite Altersgrenze. Konkret soll der Zugang zu Social Media erst ab 13 Jahren erlaubt sein, und die Erstellung eigener Konten erst ab 15 Jahren.",
+        "Die EU-Kommission drängt auf diese einheitliche Regelung. Ein Hauptgrund dafür ist die Vermeidung von „Fragmentierung“. Das bedeutet, es soll nicht passieren, dass in verschiedenen Mitgliedsstaaten unterschiedliche Altersgrenzen und verschiedene Gesetze gelten.",
+        "Die EU-Kommission warnt davor, dass diese Uneinheitlichkeit nicht durchsetzbar sei und die Online-Plattformen dadurch Probleme bekommen würden."
+      ]
+    },
+    {
+      "heading": "Nationale Gesetze im Aufwind der EU-Regeln",
+      "paragraphs": [
+        "Viele Länder haben eigene Pläne entwickelt, um junge Menschen zu schützen. Beispielsweise hatte Österreich einen Gesetzesentwurf, der Video-Sharing-Plattformen wie TikTok oder Instagram erst ab 14 Jahren erlauben sollte.",
+        "Doch die EU-Kommission hat entschieden, diese nationalen Vorhaben zunächst zu bremsen. Es wird eine sogenannte „Stillhaltefrist“ eingerichtet. Das bedeutet, dass nationale Gesetze, die sich mit dem EU-Vorschlag überschneiden, vorerst aufgeschoben werden.",
+        "Diese Entscheidung gilt auch als Signal an andere Länder, wie Deutschland, damit diese nicht sofort eigene Gesetze einführen, sondern stattdessen den EU-Vorschlag vorantreiben. Die Umsetzung der EU-Regeln erfordert aber noch eine lange Verhandlung auf europäischer Ebene."
+      ]
+    },
+    {
+      "heading": "Wer kann trotzdem eigene Regeln einführen?",
+      "paragraphs": [
+        "Nicht alle Länder müssen warten. Einige Staaten, wie Italien, Frankreich und Griechenland, konnten ihre länderspezifischen Vorschläge früher einreichen. Weil sie dies getan haben, gab es bereits eine Rückmeldung der EU-Kommission, weshalb diese Länder ihre Verbote nun einführen dürfen.",
+        "Griechenland hat beispielsweise angekündigt, den Zugang zu sozialen Medien für Kinder und Jugendliche unter 15 Jahren ab dem 1. Januar 2027 zu verbieten. Die Verhandlungen auf EU-Ebene, die nötig sind, um eine gemeinsame Regelung zu schaffen, könnten Monate oder sogar Jahre dauern."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Debatte zeigt, wie stark internationale Abkommen das Leben in deinem Alltag beeinflussen können. Es geht darum, wie viel Freiheit du online hast und welche Regeln in deinem Land gelten.",
+  "glossary": [
+    {
+      "term": "Fragmentierung",
+      "definition": "Die Zerstreuung oder Aufspaltung in viele kleine, unterschiedliche Teile oder Systeme."
+    },
+    {
+      "term": "EU-Kommission",
+      "definition": "Die Verwaltungsorganisation der Europäischen Union, die Gesetzesvorschläge macht und überwacht."
+    },
+    {
+      "term": "Stillhaltefrist",
+      "definition": "Eine festgelegte Zeitspanne, während der keine bestimmten Maßnahmen oder Entscheidungen getroffen werden dürfen."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Alter soll laut dem Vorschlag der EU-Kommission für die Erstellung eigener Social-Media-Konten gelten?",
+    "options": [
+      "13 Jahre",
+      "15 Jahre",
+      "14 Jahre"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut dem Vorschlag der EU-Kommission soll die Erstellung eigener Konten erst ab 15 Jahren erlaubt sein."
+  },
+  "discussion": [
+    "Wie balanciert man den Schutz von Jugendlichen vor negativen Einflüssen im Netz mit dem Recht auf freie Meinungsäußerung und Nutzung digitaler Medien?",
+    "Ist es sinnvoll, dass die EU einen einheitlichen Standard für alle Mitgliedsstaaten festlegt, oder sollte jeder Staat eigene Regeln bestimmen können?"
+  ],
+  "publishedAt": "2026-10-30T08:40:20.588Z",
+  "sources": [
+    {
+      "title": "Social-Media-Verbot: Brüssel bremst nationale Vorhaben aus",
+      "url": "https://www.aerzteblatt.de/news/social-media-verbot-brussel-bremst-nationale-vorhaben-aus-f2a65eff-20d4-4a4a-aa6e-10e8d446208c",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

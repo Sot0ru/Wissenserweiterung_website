@@ -1,0 +1,75 @@
+{
+  "id": "wie-profiling-in-den-60ern-zur-kriminalgeschichte-wurde",
+  "category": "psychologie",
+  "title": "Wie Profiling in den 60ern zur Kriminalgeschichte wurde",
+  "teaser": "Ein alter Fall aus der DDR zeigte, wie man psychologische Methoden einsetzte, um Serienmörder zu fassen. Er erforschte die Anfänge der modernen Kriminalistik.",
+  "tags": [
+    "Verhalten",
+    "Kriminalistik",
+    "Sozialwissenschaft",
+    "Geschichte"
+  ],
+  "readingMinutes": 5,
+  "tldr": [
+    "Der Fall des Serienmörders Erwin Hagedorn in der DDR gilt als Wendepunkt der Kriminalistik, da hier erstmals psychologische Methoden wie das Profiling angewendet wurden.",
+    "Experten nutzten forensische Psychiatrie, um das Muster des Täters zu analysieren, was damals eine sehr neue wissenschaftliche Herangehensweise darstellte.",
+    "Obwohl die Ermittlungen lange dauerten, zeigen diese Fälle, wie wichtig das Verstehen des menschlichen Verhaltens für die Aufklärung ist."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Blick in die frühe Kriminalistik",
+      "paragraphs": [
+        "Der Fall des Serienmörders Erwin Hagedorn aus den 1960er Jahren ist ein wichtiger Meilenstein für die Kriminalistik. Was heute als „Profiling“ bekannt ist – also die psychologische Erstellung eines Täterprofils – wurde in Deutschland schon 1969 angewendet. Das geschah in der DDR, was auf den ersten Blick überraschend wirkt, aber damals ein großer Druck bestand, solche schweren Verbrechen aufzuklären.",
+        "Als im Juni 1969 die ersten Opfer gefunden wurden, war die Tat zunächst schwer zu entschlüsseln. Die Opfer zeigten tiefe Schnittwunden und Stiche im Brustkorb. Gerichtsmedizinerinnen stellten fest, dass der Täter offensichtlich Erfahrung im Töten hatte. Angesichts der minderjährigen Opfer und der Art der Verletzungen wurde ein pädophiler „Lustmörder“ vermutet."
+      ]
+    },
+    {
+      "heading": "Die Rolle der Psychologen bei Ermittlungen",
+      "paragraphs": [
+        "Da es sich um ein besonders sensibles Verbrechen handelte, wurde die Staatssicherheit (MfS) eingeschaltet. Die Polizei und das MfS arbeiteten eng zusammen, um den Fall zu lösen. Anfangs wurden alle möglichen Spuren gesucht – von Krankenhäusern bis zu Behördenakten. Doch die entscheidende Hilfe kamen die forensischen Psychiater und Psychologen.",
+        "Experten begannen, das Verhalten des Täters zu analysieren. Ein wichtiger Ansatzpunkt war die Untersuchung des „Modus Operandi“ – also der Art und Weise, wie der Täter handelt. Wissenschaftler untersuchten, ob der Täter rein sadistisch motiviert war oder ob andere psychische Faktoren eine Rolle spielten. Diese Analyse war damals sehr neu und führte zu einer massiven Ausweitung der Ermittlungen.",
+        "Später wurden sogar Großrechner genutzt, um Daten aus Tausenden von Fallgutachten maschinell zu analysieren. Diese Kombination aus traditioneller Ermittlungsarbeit und neuartiger, wissenschaftlicher Datenanalyse markierte einen Wendepunkt in der deutschen Kriminalgeschichte."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, dass Verbrechen nicht nur Fakten sind, sondern auch tief in menschlichem Verhalten verwurzelt sind. Es verdeutlicht, wie wichtig es ist, komplexe Situationen nicht nur nach äußeren Spuren, sondern auch nach psychologischen Mustern zu untersuchen.",
+  "glossary": [
+    {
+      "term": "Profiling",
+      "definition": "Die Erstellung eines psychologischen Profils eines Täters, um dessen mögliche Eigenschaften, Motivationen und Lebensumstände abzuleiten."
+    },
+    {
+      "term": "Forensische Psychiatrie",
+      "definition": "Die Anwendung psychologischer und psychiatrischer Methoden im Rahmen von Gerichtsverfahren, um Verhalten zu analysieren."
+    },
+    {
+      "term": "Modus Operandi (MO)",
+      "definition": "Die charakteristische Arbeitsweise eines Täters; die spezifischen Methoden, die er bei der Begehung von Straftaten anwendet."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Methode wurde im Fall Hagedorn erstmals angewendet, um das Verhalten des Täters zu analysieren?",
+    "options": [
+      "Die DNA-Analyse",
+      "Die Wettervorhersage",
+      "Das Profiling"
+    ],
+    "answerIndex": 2,
+    "explanation": "Das Profiling war eine der ersten wissenschaftlichen Methoden, die in diesem Fall eingesetzt wurden."
+  },
+  "discussion": [
+    "Wie glaubst du, verändert die Anwendung wissenschaftlicher Methoden wie Psychologie die Art und Weise, wie wir Verbrechen aufklären sollten?",
+    "Welche ethischen Grenzen gibt es, wenn staatliche Stellen tief in die Psyche von Menschen eingreifen, um Kriminalität aufzuklären?"
+  ],
+  "publishedAt": "2026-10-30T09:20:55.334Z",
+  "sources": [
+    {
+      "title": "Der Fall Erwin Hagedorn: Meilenstein der Kriminalgeschichte",
+      "url": "https://www.mdr.de/geschichte/ddr/politik-gesellschaft/erwin-hagedorn-serienmoerder-eberswalde-profiling-paedophil-mord-kriminalfaelle-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

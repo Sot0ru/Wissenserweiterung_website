@@ -1,0 +1,76 @@
+{
+  "id": "stasi-leak-1992-helden-der-aufklaerung-oder-gesetzesbrecher",
+  "category": "geschichte",
+  "title": "Stasi-Leak 1992: Helden der Aufklärung oder Gesetzesbrecher?",
+  "teaser": "Eine anonyme Liste enthüllte Tausende Stasi-Spitzel. Was geschah, als diese Daten 1992 veröffentlicht wurden?",
+  "tags": [
+    "DDR",
+    "Nachwendezeit",
+    "Geheimdienst",
+    "Aufarbeitung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Im Sommer 1992 veröffentlichten sieben DDR-Bürgerrechtler eine anonyme Liste mit rund 4.500 Namen mutmaßlicher Stasi-Spitzel im Bezirk Halle.",
+    "Diese Aktion löste einen großen Skandal aus, da sie streng geschützte Daten enthüllte und Fragen nach Rechtsbruch und Wahrheit aufwarf.",
+    "Die Urheber dieser „Liste von Halle“ treten heute erstmals öffentlich auf, um über ihre Entscheidung zu sprechen."
+  ],
+  "sections": [
+    {
+      "heading": "Der Skandal: Wie eine Liste das neue Deutschland erschütterte",
+      "paragraphs": [
+        "Stell dir vor, du bist in einem gerade wiedervereinigten Deutschland. Plötzlich taucht eine anonyme Liste auf, die Tausende von Namen enthält. Das war im Sommer 1992 in Halle passiert. Sie war Teil eines großen Datenskandals, der die Gesellschaft tief erschütterte.",
+        "Auf 112 Seiten waren die Klar- und Decknamen von mutmaßlich 4.500 inoffiziellen Mitarbeitern (IM) des Ministeriums für Staatssicherheit (MfS) im Bezirk Halle aufgelistet. Die Stasi war der Geheimdienst der DDR und überwachte Bürger intensiv. Diese Daten waren streng geheim.",
+        "Die Liste wurde an Ministerien und Medien geschmuggelt. Plötzlich stand die Wahrheit über die Überwachung da. Die Frage, die sofort aufkam, war: Wer hat diese Daten veröffentlicht? Wie konnten die Verfasser das codierte Verschlüsselungssystem der Stasi knacken?"
+      ]
+    },
+    {
+      "heading": "Moral gegen Gesetz: Die Debatte um die Listenschreiber",
+      "paragraphs": [
+        "Wer war hinter dieser beispiellosen Aktion? Über Jahrzehnte kursierten Gerüchte, aber niemand wusste es genau. Die sieben Personen, die die „Liste von Halle“ erstellten, stehen heute im Rampenlicht. Sie sind Bürgerrechtler, die beschlossen, die Wahrheit ans Licht zu bringen.",
+        "Ihre Tat wurde als ziviler Ungehorsam gewertet. Sie wollten Transparenz und Gerechtigkeit nach dem Ende der DDR. Doch die Aktion war hoch umstritten. Durften sie Gesetze brechen, um eine vermeintliche Wahrheit aufzudecken? Wo endet der Kampf für Aufklärung und wo beginnt der Rechtsbruch?",
+        "Die Beteiligten sprechen heute über die konspirativen Aktionen, die geheimen Treffen und die Entscheidung, Tausende Namen öffentlich zu machen. Ihr Handeln zeigt den schmalen Grat zwischen dem Wunsch nach Aufrichtigkeit und den juristischen Grenzen."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Geschichte zeigt, wie stark das Bedürfnis nach Wahrheit in einer Gesellschaft sein kann. Sie wirft wichtige Fragen auf: Wann ist es richtig, Regeln zu brechen, um etwas Größeres zu erreichen? Das ist eine Debatte, die uns auch heute noch beschäftigt.",
+  "glossary": [
+    {
+      "term": "Stasi",
+      "definition": "Das Ministerium für Staatssicherheit der DDR; der Geheimdienst der Deutschen Demokratischen Republik."
+    },
+    {
+      "term": "IM (Inoffizieller Mitarbeiter)",
+      "definition": "Personen, die für den Geheimdienst der DDR arbeiteten, oft heimlich und ohne offizielle Befehlskette."
+    },
+    {
+      "term": "Ziviler Ungehorsam",
+      "definition": "Die bewusste und öffentliche Verletzung eines Gesetzes, um auf eine Ungerechtigkeit aufmerksam zu machen."
+    }
+  ],
+  "quiz": {
+    "question": "Was enthielt die anonyme Liste, die 1992 veröffentlicht wurde?",
+    "options": [
+      "Eine Liste von Personen, die bei der Wiedervereinigung protestierten.",
+      "Die Klar- und Decknamen von mutmaßlich 4.500 inoffiziellen Mitarbeitern der Stasi.",
+      "Eine Auflistung aller ehemaligen DDR-Politiker."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Liste enthielt die Klar- und Decknamen von mutmaßlich 4.500 inoffiziellen Mitarbeitern (IM) des MfS."
+  },
+  "discussion": [
+    "Wie würdest du die Entscheidung bewerten, ein Gesetz zu brechen, wenn du glaubst, dass dieses Gesetz eine große Ungerechtigkeit verschleiert?",
+    "Welche Rolle sollte die Öffentlichkeit bei der Aufarbeitung historischer Verbrechen oder Missstände spielen – soll sie informieren oder eingreifen?"
+  ],
+  "publishedAt": "2026-10-30T09:17:15.152Z",
+  "sources": [
+    {
+      "title": "Der große Stasi-Leak - Helden oder Verräter",
+      "url": "https://www.mdr.de/geschichte/ddr/politik-gesellschaft/stasi/stasi-leaks-staatssicherheit-liste-halle-verantwortliche-erstmals-vor-kamera-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
