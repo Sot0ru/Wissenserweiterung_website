@@ -1,0 +1,94 @@
+{
+  "id": "meteorschauer-im-november-2026-was-du-ueber-leoniden-und-tau",
+  "category": "astronomie",
+  "title": "Meteorschauer im November 2026: Was du über Leoniden und Tauriden wissen musst",
+  "teaser": "Der November ist eine Zeit für Sternschnuppen. Wir erklären dir, welche Meteorschauer wann aktiv sind und wie du sie am besten beobachten kannst.",
+  "tags": [
+    "Himmel",
+    "Weltall",
+    "Sternenbeobachtung",
+    "Meteoriten"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Im November 2026 gibt es mehrere Meteorschauer, darunter die Leoniden, deren Maximum in der Nacht vom 17. auf den 18. November liegt.",
+    "Die Tauriden sind zu Beginn des Monats aktiv und können gute Beobachtungen ermöglichen, besonders wenn der Mond nicht zu hell ist.",
+    "Obwohl der Mond die Sicht teilweise einschränkt, bieten die verschiedenen Meteorschauer die Möglichkeit, das nächtliche Firmament zu beobachten."
+  ],
+  "sections": [
+    {
+      "heading": "Was sind Meteorschauer überhaupt?",
+      "paragraphs": [
+        "Wenn du am Nachthimmel schnell ziehende Lichtpunkte siehst, handelt es sich wahrscheinlich um Meteore, besser bekannt als Sternschnuppen. Meteorschauer sind keine einzelnen Ereignisse, sondern Perioden, in denen die Erde durch Staubpartikel fliegt, die von Kometen oder Asteroiden stammen. Diese Trümmerpartikel brennen bei ihrer schnellen Passage in der Erdatmosphäre auf und erzeugen dabei das leuchtende Licht.",
+        "Jeder Schauer hat einen sogenannten Radiant. Das ist der scheinbare Punkt am Himmel, von dem aus die Meteore zu kommen scheinen. Dieser Punkt bewegt sich im Laufe des Schauers über den Himmel."
+      ]
+    },
+    {
+      "heading": "Die Hauptakteure im November 2026",
+      "paragraphs": [
+        "Im November 2026 stehen mehrere Meteorschauer auf dem Plan. Einer der wichtigsten ist der Leoniden-Schauer. Sein Maximum wird in der Nacht vom 17. auf den 18. November gegen 00:45 Uhr MEZ erwartet. Modellrechnungen prognostizieren hier eine stündliche Fallrate von etwa 15 Meteoren.",
+        "Zu Beginn des Monats ist der Tauridenkomplex aktiv. Dieser Schauer stammt von Trümmern eines zerbrochenen Kometen. Die südliche Komponente erreicht ihr Maximum am 5. November, während der nördliche Teil am 12. November seinen Höhepunkt erreicht. Hier werden stündlich fünf bis zehn Meteore erwartet.",
+        "Auch andere Schauer spielen eine Rolle: Die November-Orioniden sind vom 15. November bis in den Dezember aktiv und haben ihr Maximum am 28. November. Die Alpha-Monocerotiden zeigen ihre Aktivität ab dem 15. November, mit einem erwarteten Maximum von etwa fünf Meteoren pro Stunde am 22. November."
+      ]
+    },
+    {
+      "heading": "Beste Beobachtungsbedingungen nutzen",
+      "paragraphs": [
+        "Die Beobachtungsbedingungen hängen stark von der Mondhelligkeit ab. Zum Beispiel bieten die Tauriden-Maxima am 9. November gute Bedingungen, da der Neumond an diesem Tag ist. Bei anderen Schauern, wie den Orioniden oder Alpha-Monocerotiden, wird die Beobachtung durch das helle Mondlicht stark erschwert.",
+        "Auch wenn der Mond scheint, gibt es immer noch Chancen. Wenn du einen geeigneten Ausschnitt des Himmels wählst, können die Meteore sichtbar sein. Es ist wichtig zu wissen, dass diese Prognosen Schätzungen sind und die tatsächliche Aktivität immer schwanken kann."
+      ]
+    }
+  ],
+  "whyItMatters": "Als Mensch sind wir fasziniert vom Unbekannten, und der Nachthimmel bietet eine riesige Bühne für Naturphänomene. Das Verständnis, wie Meteore entstehen und wann sie sichtbar sind, gibt dir ein konkretes Wissen über unser Sonnensystem.",
+  "glossary": [
+    {
+      "term": "Meteore",
+      "definition": "Lichtspuren, die entstehen, wenn kleine Trümmerpartikel bei sehr hoher Geschwindigkeit in der Erdatmosphäre verglühen."
+    },
+    {
+      "term": "Radiant",
+      "definition": "Der scheinbare Ursprungsort eines Meteorschauers am Himmel, von dem aus die Meteore zu kommen scheinen."
+    },
+    {
+      "term": "Komet",
+      "definition": "Ein eisiger Himmelskörper, der oft Trümmer hinterlässt, die die Grundlage für Meteorschauer bilden."
+    }
+  ],
+  "quiz": {
+    "question": "Wann liegt das Maximum des Leoniden-Schauers im November 2026?",
+    "options": [
+      "Am 5. November",
+      "In der Nacht vom 17. auf den 18. November",
+      "Am 28. November"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut der Quelle tritt das Maximum der Leoniden in der Nacht vom 17. auf den 18. November ein."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Atmosphäre bei der Sichtbarkeit von Meteoren? Wie beeinflussen Dichte und Temperatur die Leuchtkraft?",
+    "Wie unterscheidet sich die wissenschaftliche Beobachtung eines Naturphänomens wie einem Meteorschauer von der reinen Freizeitbeobachtung?"
+  ],
+  "publishedAt": "2026-10-31T09:11:39.277Z",
+  "sources": [
+    {
+      "title": "Meteore im November 2026: Leoniden eingeschränkt zu beobachten",
+      "url": "https://www.spektrum.de/news/meteore-im-november-2026-leoniden-eingeschraenkt-zu-beobachten/2333145",
+      "publisher": "Sterne und Weltraum"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/meteorschauer-im-november-2026-was-du-ueber-leoniden-und-tau.jpg",
+    "width": 960,
+    "height": 641,
+    "alt": "Himmel mit einem hellen Meteor, der über einer nächtlichen Landschaft von Flagstaff zieht.",
+    "credit": {
+      "title": "Night sky near Flagstaff with meteor.jpg",
+      "author": "Coconino National Forest",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night_sky_near_Flagstaff_with_meteor.jpg"
+    }
+  }
+}

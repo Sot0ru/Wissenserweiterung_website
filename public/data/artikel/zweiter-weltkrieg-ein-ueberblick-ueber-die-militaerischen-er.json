@@ -1,0 +1,95 @@
+{
+  "id": "zweiter-weltkrieg-ein-ueberblick-ueber-die-militaerischen-er",
+  "category": "geschichte",
+  "title": "Zweiter Weltkrieg: Ein Überblick über die militärischen Ereignisse",
+  "teaser": "Der Zweite Weltkrieg war ein globales Ereignis mit unfassbarer Tragweite. Wir erklären dir die wichtigsten Phasen und Schlachten von 1939 bis 1945.",
+  "tags": [
+    "Militärgeschichte",
+    "Weltkrieg",
+    "Mitteleuropa",
+    "20. Jahrhundert",
+    "Kriegsgeschichte"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Zweite Weltkrieg begann im Herbst 1939 mit dem Überfall auf Polen und war ein globaler Konflikt mit Millionen Soldaten beteiligt.",
+    "Wichtige Wendepunkte waren die Invasion der Sowjetunion (Unternehmen Barbarossa) und die Schlacht von Stalingrad, die den militärischen Verlauf entscheidend veränderten.",
+    "Der Krieg endete 1945 mit der Kapitulation der Wehrmacht und führte zur Teilung Deutschlands."
+  ],
+  "sections": [
+    {
+      "heading": "Wie begann der globale Konflikt?",
+      "paragraphs": [
+        "Der Zweite Weltkrieg dauerte von 1939 bis 1945. Er begann offiziell mit dem Überfall der Wehrmacht auf Polen im Herbst 1939. Einige Quellen sehen den Beginn des Krieges bereits am 1. September 1939, als das deutsche Kriegsschiff Schleswig-Holstein die Westerplatte bei Danzig beschoss.",
+        "Bereits zu Beginn waren weltweit schätzungsweise 110 Millionen Soldaten im Krieg involviert. Die militärischen Operationen waren komplex und umfassten große Feldzüge, wie den „Sichelschnitt“ im Jahr 1940, bei dem die Wehrmacht in Westeuropa vorgedrungen war."
+      ]
+    },
+    {
+      "heading": "Die großen Wendepunkte des Krieges",
+      "paragraphs": [
+        "Die Kriegsführung änderte sich dramatisch, als Deutschland 1941 mit „Unternehmen Barbarossa“ die Sowjetunion angriff. Dieser Angriff führte zu riesigen Konflikten, wie der Leningrader Blockade, bei der die Stadt durch Hunger vernichtet wurde.",
+        "Ein entscheidender Punkt war die Schlacht von Stalingrad im Jahr 1942. Hier wurde die 6. Armee der Wehrmacht eingekesselt und vernichtet. Auch die Schlacht im Atlantik, in der deutsche U-Boote kämpften, spielte eine wichtige Rolle.",
+        "Weitere wichtige Schlachten waren die Ardennenoffensive 1944, die als Hitlers letzter großer Angriff galt, und die alliierte Invasion in der Normandie, bekannt als D-Day, im Jahr 1944. Die Ostfront erlebte ab 1944 einen Zusammenbruch der deutschen Heeresgruppe Mitte."
+      ]
+    },
+    {
+      "heading": "Das Ende und die Nachwirkungen",
+      "paragraphs": [
+        "Der Krieg endete in Europa 1945. In Leipzig fand das Kriegsende in der Stadt statt. Am 8. Mai 1945 kapitulierten die Wehrmachtsoldaten bedingungslos. Ungefähr zwei Millionen Bomben fielen auf Deutschland in dieser Zeit.",
+        "Nach dem Ende des Krieges übernahmen die Alliierten die Kontrolle über Deutschland. Diese Zeit führte schließlich zur Teilung des Landes und zur Gründung der deutschen Teilung im Jahr 1949."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis dieser historischen Ereignisse hilft dir, komplexe Zusammenhänge in der modernen Welt zu erkennen. Viele politische und gesellschaftliche Strukturen, die wir heute kennen, haben ihre Wurzeln in den Nachkriegszeit. Es zeigt auch, wie schnell sich militärische Strategien und Technologien entwickeln können.",
+  "glossary": [
+    {
+      "term": "Wehrmacht",
+      "definition": "Der Name der Streitkräfte der deutschen Wehrmacht während des Zweiten Weltkriegs."
+    },
+    {
+      "term": "Unternehmen Barbarossa",
+      "definition": "Der militärische Name für den Überfall der Wehrmacht auf die Sowjetunion im Jahr 1941."
+    },
+    {
+      "term": "Alliierte",
+      "definition": "Die Bündnispartner, die gegen die Achsenmächte (darunter Deutschland) kämpften."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Ereignis gilt laut der Quelle als ein Wendepunkt im Krieg, bei dem die 6. Armee eingekesselt wurde?",
+    "options": [
+      "Der Überfall auf Polen 1939",
+      "Die Schlacht von Stalingrad 1942",
+      "Die Ardennenoffensive 1944"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Schlacht von Stalingrad 1942 ist als der entscheidende Punkt genannt, an dem sich der Ring um die 6. Armee schloss."
+  },
+  "discussion": [
+    "Welche Rolle spielten militärische Innovationen (wie die Panzerfaust) im Verlauf des Krieges und wie beeinflussen solche Entwicklungen moderne Kriegsführung?",
+    "Wie hat die Besatzungszeit der Alliierten und die anschließende Teilung Deutschlands die politische Landschaft Europas nachhaltig geprägt?"
+  ],
+  "publishedAt": "2026-10-31T10:00:39.713Z",
+  "sources": [
+    {
+      "title": "2. Weltkrieg",
+      "url": "https://www.mdr.de/geschichte/ns-zeit/zweiter-weltkrieg/verlauf",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/zweiter-weltkrieg-ein-ueberblick-ueber-die-militaerischen-er.jpg",
+    "width": 960,
+    "height": 733,
+    "alt": "Karte der Alliierten Korpsformationen und deutscher Verteidigungslinien in Italien 1944.",
+    "credit": {
+      "title": "Ww2 europe map italy june until december 1944.jpg",
+      "author": "The History Department of the United States Military Academy",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ww2_europe_map_italy_june_until_december_1944.jpg"
+    }
+  }
+}

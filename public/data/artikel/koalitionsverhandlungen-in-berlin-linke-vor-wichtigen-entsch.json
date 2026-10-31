@@ -1,0 +1,93 @@
+{
+  "id": "koalitionsverhandlungen-in-berlin-linke-vor-wichtigen-entsch",
+  "category": "politik",
+  "title": "Koalitionsverhandlungen in Berlin: Linke vor wichtigen Entscheidungen",
+  "teaser": "Die Berliner Linke steht vor einem entscheidenden Parteitag. Es geht um mögliche Koalitionsverhandlungen mit SPD und Grünen, aber auch um interne Debatten.",
+  "tags": [
+    "Berlin",
+    "Parteien",
+    "Regierungsbildung",
+    "Sozialpolitik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Berliner Linke entscheidet auf einem Parteitag über den Start von Koalitionsverhandlungen mit SPD und Grünen.",
+    "Die Regierungsbildung wird zusätzlich von internen Debatten über Antisemitismus und die Haltung zur Palästina-Solidarität überschattet.",
+    "Politiker wie Bodo Ramelow unterstützen die Spitzenkandidatin Elif Eralp und betonen die Wichtigkeit sozialer Themen."
+  ],
+  "sections": [
+    {
+      "heading": "Der politische Knotenpunkt in Berlin",
+      "paragraphs": [
+        "Die politische Zukunft Berlins steht aktuell im Fokus. Die Berliner Linke plant einen wichtigen Parteitag, bei dem über den Beginn von Koalitionsverhandlungen mit der SPD und den Grünen abgestimmt wird. Diese Gespräche könnten zur Bildung einer neuen Landesregierung führen.",
+        "Allerdings ist die Regierungsbildung nicht nur von diesen Verhandlungen geprägt. Die Debatte wird stark von internen Spannungen und politischen Vorwürfen überschattet. Insbesondere Diskussionen um Antisemitismus in der Partei und der Stadt spielen eine große Rolle."
+      ]
+    },
+    {
+      "heading": "Herausforderungen: Innenpolitische Debatten und Kritik",
+      "paragraphs": [
+        "Die Linke steht unter Beobachtung, da interne Diskussionen, etwa in Bezirksverbänden, zu Vorwürfen geführt haben. Die Parteileitung betont die Notwendigkeit, eine Balance zu finden: Einerseits soll die palästinensolidarische Haltung beibehalten werden, andererseits müssen „Grenzüberschreitungen“ vermieden werden, die die Legitimität dieser Solidarität untergraben könnten.",
+        "Politische Akteure aus anderen Parteien, wie Bundeskanzler Friedrich Merz (CDU), äußern sich kritisch zu der Richtung, in die sich die Linke entwickelt. Sie sehen in der aktuellen Ausrichtung eine Gefahr für die Demokratie."
+      ]
+    },
+    {
+      "heading": "Zukunftspläne und soziale Themen im Fokus",
+      "paragraphs": [
+        "Trotz des politischen Gegenwinds wird die ambitionierte Zielsetzung der Spitzenkandidatin Elif Eralp unterstützt. Bodo Ramelow, ein ehemaliger Ministerpräsident, bekräftigt sein Vertrauen in die Partei. Er hebt hervor, dass die Linke wichtige soziale Themen wie bezahlbare Mieten in die öffentliche Debatte gebracht hat.",
+        "Ein zentrales Thema in den möglichen Koalitionsverträgen ist die geplante Vergesellschaftung von Wohnungen in Berlin. Diese Forderung stößt auf Widerstand seitens der Bundesregierung und der Union, die eigene Gesetze zum Thema prüfen möchten."
+      ]
+    }
+  ],
+  "whyItMatters": "Politische Entscheidungen in Großstädten wie Berlin betreffen direkt deinen Alltag, etwa durch Mietpreise oder öffentliche Dienstleistungen. Zu verstehen, wie Koalitionen entstehen und welche internen Konflikte Parteien haben, hilft dir, die politische Landschaft zu lesen.",
+  "glossary": [
+    {
+      "term": "Koalitionsverhandlungen",
+      "definition": "Gespräche zwischen verschiedenen politischen Parteien, um eine gemeinsame Regierung zu bilden und einen Koalitionsvertrag auszuhandeln."
+    },
+    {
+      "term": "Antisemitismus",
+      "definition": "Feindseligkeit, Diskriminierung oder Hass gegen Juden."
+    },
+    {
+      "term": "Vergesellschaftung",
+      "definition": "Der Prozess, bei dem private Vermögenswerte oder Unternehmen in öffentliches oder gemeinschaftliches Eigentum überführt werden."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Thema wird von der Linken in Berlin als wichtiges soziales Anliegen in die öffentliche Debatte eingebracht?",
+    "options": [
+      "Bezahlbare Mieten",
+      "Die Abschaffung der Bundeswehr",
+      "Die Einführung eines neuen Währungssystems"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bodo Ramelow hebt hervor, dass die Linke soziale Themen wie bezahlbare Mieten in die öffentliche Debatte gebracht hat."
+  },
+  "discussion": [
+    "Wie kann eine politische Partei eine eigene Identität bewahren, während sie gleichzeitig in eine größere Regierungskoalition eingebunden wird?",
+    "Welche Rolle spielen interne Konflikte und Wertvorstellungen einer Partei für ihre Fähigkeit, politische Ziele in der Praxis umzusetzen?"
+  ],
+  "publishedAt": "2026-10-31T09:53:01.086Z",
+  "sources": [
+    {
+      "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/koalitionsverhandlungen-in-berlin-linke-vor-wichtigen-entsch.jpg",
+    "width": 960,
+    "height": 644,
+    "alt": "Außenansicht des Abgeordnetenhauses von Berlin, dem Landesparlament Berlins.",
+    "credit": {
+      "title": "Abgeordnetenhaus of Berlin vista lateral.jpg",
+      "author": "ProtoplasmaKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abgeordnetenhaus_of_Berlin_vista_lateral.jpg"
+    }
+  }
+}

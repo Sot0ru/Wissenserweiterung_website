@@ -1,0 +1,89 @@
+{
+  "id": "lucy-sonde-wie-wir-die-verborgenen-asteroiden-des-jupiters-e",
+  "category": "astronomie",
+  "title": "Lucy-Sonde: Wie wir die verborgenen Asteroiden des Jupiters erforschen",
+  "teaser": "Die NASA-Sonde Lucy ist auf einer Mission, die tiefer in unser Sonnensystem blickt. Erfahre, was die Jupiter-Trojaner sind und welche Rolle sie für die Planetenentstehung spielen.",
+  "tags": [
+    "Sonnensystem",
+    "Raumfahrt",
+    "Jupiter",
+    "Asteroiden",
+    "NASA"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die NASA-Sonde Lucy ist auf dem Weg zu den Jupiter-Trojanern, einer Region mit Asteroiden, die die Umlaufbahn des Jupiters teilen.",
+    "Diese Asteroiden sind durch die gemeinsame Anziehungskraft von Sonne und Jupiter stabilisiert und geben Einblicke in die Entstehung unseres Sonnensystems.",
+    "Lucy wird mehrere dieser Asteroiden besuchen, um mehr über die frühe Geschichte der Planeten zu erfahren."
+  ],
+  "sections": [
+    {
+      "heading": "Was sind Jupiter-Trojaner?",
+      "paragraphs": [
+        "Stell dir vor, du beobachtest einen großen Planeten wie Jupiter. Um diesen Planeten herum gibt es spezielle Bereiche, die als sogenannte „Inseln der Stabilität“ bekannt sind. In diesen Regionen, nahe den sogenannten Lagrange-Punkten, sammeln sich Tausende von Asteroiden.",
+        "Diese Asteroiden sind die Jupiter-Trojaner. Sie sind so weit vom Jupiter entfernt wie der Planet von der Sonne – etwa 779 Millionen Kilometer. Sie werden von der kombinierten Anziehungskraft von Sonne und Jupiter gehalten und bleiben dort stabil.",
+        "Die NASA-Raumsonde Lucy ist die erste Mission, die in diese faszinierende Region vorgedrungen ist. Sie hat seit ihrem Start im Oktober 2021 bereits über 3,5 Milliarden Kilometer zurückgelegt."
+      ]
+    },
+    {
+      "heading": "Mission Lucy: Ein Blick in die Vergangenheit",
+      "paragraphs": [
+        "Lucy ist speziell dafür gebaut, diese Asteroiden aus nächster Nähe zu untersuchen. Die Wissenschaftler hoffen, dass diese Beobachtungen helfen, Theorien zu verfeinern, wie sich die Planeten unseres Sonnensystems vor etwa 4,5 Milliarden Jahren gebildet haben und wie sie zu ihrer heutigen Anordnung gekommen sind.",
+        "Die Sonde nähert sich dabei dem Lagrange-Punkt 4 (L4) des Jupiter. In dieser Region fliegen Asteroiden vor dem Jupiter her. Lucy wird später auch die Region um den Lagrange-Punkt 5 (L5) besuchen, wo die Asteroiden dem Planeten folgen.",
+        "Die Reise ist extrem weit. Lucy operiert in einem Bereich, der mehr als fünfmal so weit von der Sonne entfernt ist wie die Erde. Trotz der sinkenden Temperaturen und des schwächer werdenden Lichts ist die Konstruktion der Sonde darauf optimiert, dass alle Instrumente weiterhin funktionieren."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Mission zeigt, wie Wissenschaftler mithilfe von Raumfahrttechnologie die Entstehungsgeschichte unseres eigenen Sonnensystems rekonstruieren können. Es geht darum, die Bausteine des Universums zu verstehen, aus denen wir alle stammen.",
+  "glossary": [
+    {
+      "term": "Lagrange-Punkt",
+      "definition": "Ein Punkt im Weltraum, an dem die Gravitationskräfte von zwei Himmelskörpern (wie Sonne und Jupiter) im Gleichgewicht sind."
+    },
+    {
+      "term": "Trojaner",
+      "definition": "Asteroiden, die in der Nähe großer Planeten kreisen, da sie durch die gemeinsame Gravitation stabilisiert werden."
+    },
+    {
+      "term": "Gravitationsassist",
+      "definition": "Ein Manöver, bei dem ein Raumschiff die Schwerkraft eines Planeten nutzt, um seine eigene Geschwindigkeit oder Richtung zu ändern und weiter zu reisen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Kraft hält die Jupiter-Trojaner in ihrer Umlaufbahn stabil?",
+    "options": [
+      "Ein spezielles elektromagnetisches Feld",
+      "Nur die Anziehungskraft des Jupiter",
+      "Die kombinierte Anziehungskraft von Sonne und Jupiter"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Trojaner werden durch die gemeinsame Anziehungskraft von Sonne und Jupiter gehalten."
+  },
+  "discussion": [
+    "Welche Rolle spielen Asteroiden und Planetesimale (die kleinen Vorläufer der Planeten) bei der Entstehung von Planeten? Wie verändert sich unser Verständnis davon, wenn wir diese Objekte aus nächster Nähe beobachten?",
+    "Wie wichtig ist es, dass Raumfahrzeuge wie Lucy extrem weit in den Weltraum vordringen, um grundlegende Fragen über unser Sonnensystem zu beantworten?"
+  ],
+  "publishedAt": "2026-10-31T09:18:37.960Z",
+  "sources": [
+    {
+      "title": "Lucy erreicht fünf Jahre nach ihrem Start die Trojaner",
+      "url": "https://www.raumfahrer.net/lucy-erreicht-fuenf-jahre-nach-ihrem-start-die-trojaner/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/lucy-sonde-wie-wir-die-verborgenen-asteroiden-des-jupiters-e.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Illustration der Lucy-Mission, die zu den Jupiter-Trojanern fliegt, Asteroiden der Planetenentstehung.",
+    "credit": {
+      "title": "Lucy Will Explore Asteroid Donaldjohanson (SVS14821 - Lucy DJ Preview Thumbnail ESP).jpg",
+      "author": "NASA's Scientific Visualization Studio - eMITS/Dan Gallagher, eMITS/Gloriana Wills, eMITS/Adriana Manrique Gutierrez, US",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucy_Will_Explore_Asteroid_Donaldjohanson_(SVS14821_-_Lucy_DJ_Preview_Thumbnail_ESP).jpg"
+    }
+  }
+}

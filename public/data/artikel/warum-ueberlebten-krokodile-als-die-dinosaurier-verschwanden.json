@@ -1,0 +1,78 @@
+{
+  "id": "warum-ueberlebten-krokodile-als-die-dinosaurier-verschwanden",
+  "category": "wissenschaft",
+  "title": "Warum überlebten Krokodile, als die Dinosaurier verschwanden?",
+  "teaser": "Ein Asteroid hat vor 66 Millionen Jahren die Dinosaurier ausgelöscht. Aber was ist mit den Krokodilen passiert? Neue Forschung liefert einen möglichen Grund.",
+  "tags": [
+    "Geologie",
+    "Evolution",
+    "Klima",
+    "Massenaussterben",
+    "Paläontologie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher vermuten, dass Krokodile durch ihre Präferenz für warme Klimazonen einen Vorteil während des Dinosaurier-Aussterbens hatten.",
+    "Simulationen zeigen, dass tropische und subtropische Regionen nach dem Asteroideneinschlag warm genug blieben, um Überlebende zu schützen.",
+    "Die Studie betont aber, dass die Fähigkeit, sich zu bewegen, heute durch menschliche Eingriffe eingeschränkt wird."
+  ],
+  "sections": [
+    {
+      "heading": "Der Klimavorteil der Reptilien",
+      "paragraphs": [
+        "Vor 66 Millionen Jahren traf ein Asteroid die Erde und löste eine der größten Massenaussterbungen der Erdgeschichte aus. Die meisten Dinosaurier verschwanden. Doch einige Reptilien, darunter die Vorfahren der heutigen Krokodile, überlebten. Neue Forschung aus London gibt einen möglichen Grund für dieses Überleben.",
+        "Wissenschaftler analysierten über 7.000 Fossilien und Klimamodelle. Sie fanden heraus, dass Krokodile und ihre alten Verwandten historisch gesehen warme Klimata bevorzugten. Anstatt sich an drastisch wechselnde Temperaturen anzupassen, bewegten sie sich in diesen bevorzugten Zonen.",
+        "Als die Erde wärmer wurde, breiteten sich die Krokodil-Verwandten in neue Gebiete aus. Als es kühler wurde, zogen sie zurück in die Tropen. Die Simulationen der Forscher deuten darauf hin, dass die tropischen und subtropischen Regionen nach dem Einschlag warm genug blieben, um Überlebende zu beherbergen.",
+        "Im Gegensatz dazu schrumpften die Lebensräume vieler Dinosaurier-Arten nach dem Asteroideneinschlag deutlich stärker. Die Forscher stellten fest, dass nur extrem starke Klimaszenarien diese potenziellen Rückzugsorte eliminierten."
+      ]
+    },
+    {
+      "heading": "Mehr als nur Klima: Die Überlebensstrategie",
+      "paragraphs": [
+        "Die Forscher betonten, dass die Vorliebe für Wärme wahrscheinlich nicht der einzige Grund war, warum die Krokodile überlebten. Andere Eigenschaften spielten ebenfalls eine Rolle. Dazu gehören relativ kleine Körpergrößen, die Fähigkeit, teilweise im Wasser zu leben, eine flexible Ernährung und geringe Energieanforderungen.",
+        "Als wechselwarme Tiere (also sogenannte Ektothermen) benötigen Krokodile weniger Nahrung, um ihren Körper warm zu halten, verglichen mit Tieren, die ihre eigene Körperwärme erzeugen.",
+        "Die Studie beleuchtet aber auch die heutige Relevanz dieser Erkenntnisse. Die Forschung zeigt, dass die Anpassungsstrategie vieler Arten über Millionen von Jahren hinweg darin bestand, auf geeignete Temperaturen zu reagieren, indem sie wanderten. Heute wird diese Bewegung jedoch durch Städte, landwirtschaftliche Flächen und Straßen immer stärker behindert."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie eng das Klima mit dem Leben auf der Erde verbunden ist. Es hilft dir zu verstehen, wie sich Tiere an große Umweltveränderungen anpassen – ein Prozess, der heute durch den Klimawandel immer präsenter wird.",
+  "glossary": [
+    {
+      "term": "Massenaussterben",
+      "definition": "Ein Ereignis, bei dem sehr viele Arten auf der Erde innerhalb kurzer Zeit aussterben."
+    },
+    {
+      "term": "Ektotherm",
+      "definition": "Ein Tier, das seine Körpertemperatur nicht selbst regulieren kann, sondern von der Umgebung abhängig ist (z. B. Krokodile)."
+    },
+    {
+      "term": "Refugium",
+      "definition": "Ein Lebensraum, der während einer großen Umweltveränderung stabil genug bleibt, um Arten zu schützen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Regionen blieben laut der Studie nach dem Asteroideneinschlag wahrscheinlich warm genug, um Krokodil-Verwandte zu beherbergen?",
+    "options": [
+      "Die tropischen und subtropischen Regionen",
+      "Die polaren Eiskappen",
+      "Die hohen nördlichen Breitengrade"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Simulationen zeigten, dass die tropischen und subtropischen Regionen warm genug blieben, um Rückzugsorte zu bieten."
+  },
+  "discussion": [
+    "Welche Rolle spielen neben klimatischen Faktoren auch andere biologische Eigenschaften (wie z.B. Ernährung oder Körpergröße) bei der Überlebensfähigkeit von Arten bei Umweltkatastrophen?",
+    "Wie beeinflussen anthropogene Faktoren (wie Städtebau oder Landwirtschaft) die Fähigkeit von Wildtieren, auf sich ändernde Klimabedingungen reagieren zu können?"
+  ],
+  "publishedAt": "2026-10-31T09:04:25.747Z",
+  "sources": [
+    {
+      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
