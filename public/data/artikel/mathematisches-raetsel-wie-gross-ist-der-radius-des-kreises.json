@@ -1,0 +1,75 @@
+{
+  "id": "mathematisches-raetsel-wie-gross-ist-der-radius-des-kreises",
+  "category": "wissenschaft",
+  "title": "Mathematisches Rätsel: Wie groß ist der Radius des Kreises?",
+  "teaser": "Ein Kreis, in dem drei Quadrate liegen. Klingt einfach, ist aber eine echte mathematische Herausforderung. Wir zeigen dir, wie man dieses Rätsel löst.",
+  "tags": [
+    "Mathematik",
+    "Geometrie",
+    "Rätsel",
+    "Formeln"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Das Rätsel verlangt, den Radius eines Kreises zu berechnen, in dem drei Quadrate mit Seitenlängen 2, 4 und 6 platziert sind.",
+    "Die Lösung basiert auf der Anwendung des Satzes des Pythagoras auf ein spezifisches Dreieck innerhalb der Figur.",
+    "Der Radius des Kreises beträgt ungefähr 9,487 Einheiten, was mathematisch als $3\text{√}10$ ausgedrückt wird."
+  ],
+  "sections": [
+    {
+      "heading": "Ein geometrisches Puzzle: Die Aufgabe",
+      "paragraphs": [
+        "Stell dir vor, du hast einen Kreis. In diesen Kreis sollen drei Quadrate hineinpassen. Diese Quadrate haben unterschiedliche Seitenlängen: 2, 4 und 6. Die Frage ist: Wie groß muss der Radius dieses Kreises sein, damit alle drei Quadrate hineinpassen?"
+      ]
+    },
+    {
+      "heading": "Der Lösungsweg: Pythagoras im Einsatz",
+      "paragraphs": [
+        "Dieses Problem ist ein klassisches mathematisches Rätsel, das tieferes geometrisches Wissen erfordert. Die Lösung wird durch eine genaue Analyse der Anordnung und die Anwendung des Satzes des Pythagoras gefunden.",
+        "Die Berechnung basiert darauf, dass die beiden kleineren Quadrate in Relation zu einem größeren 6x6-Quadrat stehen. Durch die Betrachtung bestimmter Punkte und Strecken – wie DE und EM – können wir die notwendigen Längen ermitteln.",
+        "Wenn wir ein Dreieck (DEM) betrachten, können wir die Seitenlängen mithilfe der Formel des Pythagoras angeben: $DM^2 = DE^2 + EM^2$. Hierbei ist $DM$ der Radius $r$ des Kreises.",
+        "Mit den ermittelten Werten $DE = 3$ und $EM = 9$ ergibt sich die Gleichung $r^2 = 3^2 + 9^2$. Das Auflösen dieser Gleichung liefert $r^2 = 9 + 81 = 90$. Daraus folgt der Radius $r = ext{√}90$, was vereinfacht als $3 ext{√}10$ oder ungefähr 9,487 entspricht."
+      ]
+    }
+  ],
+  "whyItMatters": "Geometrie und Mathematik sind nicht nur trockene Formeln. Rätsel wie dieses zeigen, wie man komplexe Probleme durch logische Schritte und bekannte mathematische Gesetze lösen kann. Das trainiert dein analytisches Denken.",
+  "glossary": [
+    {
+      "term": "Radius",
+      "definition": "Der Abstand vom Mittelpunkt eines Kreises zu seinem Rand."
+    },
+    {
+      "term": "Quadrat",
+      "definition": "Ein Viereck, bei dem alle vier Seiten gleich lang sind und alle Winkel 90 Grad betragen."
+    },
+    {
+      "term": "Satz des Pythagoras",
+      "definition": "Ein mathematischer Satz, der besagt, dass in einem rechtwinkligen Dreieck das Quadrat der Hypotenuse (die längste Seite) gleich der Summe der Quadrate der beiden anderen Seiten ist ($a^2 + b^2 = c^2$)."
+    }
+  ],
+  "quiz": {
+    "question": "Welche mathematische Formel wird verwendet, um den Radius des Kreises zu berechnen?",
+    "options": [
+      "Die Satz des Thales",
+      "Der Satz des Pythagoras",
+      "Die Flächenformel des Kreises"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Berechnung stützt sich auf das Dreieck DEM und den Satz des Pythagoras ($r^2 = 3^2 + 9^2$)."
+  },
+  "discussion": [
+    "Wie verändert sich die Komplexität eines geometrischen Problems, wenn man von einfachen Formen (wie einem Quadrat) zu komplexen Anordnungen (wie mehreren Quadraten in einem Kreis) übergeht?",
+    "Welche Rolle spielt die Fähigkeit, ein abstraktes Problem in eine konkrete, berechenbare Form (wie ein Dreieck) zu übersetzen, bei der Problemlösung?"
+  ],
+  "publishedAt": "2026-11-01T09:41:43.110Z",
+  "sources": [
+    {
+      "title": "Wie groß ist der Radius des Kreises?",
+      "url": "https://www.spektrum.de/raetsel/mathematisches-raetsel-wie-gross-ist-der-radius-des-kreises/2230019",
+      "publisher": "Spektrum der Wissenschaft"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

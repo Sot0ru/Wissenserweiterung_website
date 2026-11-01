@@ -1,0 +1,82 @@
+{
+  "id": "wohnungsnot-in-europa-warum-proteste-gegen-steigende-mieten-",
+  "category": "politik",
+  "title": "Wohnungsnot in Europa: Warum Proteste gegen steigende Mieten wachsen",
+  "teaser": "Von Lissabon bis zu anderen europäischen Städten: Junge Menschen gehen auf die Straße. Die Hauptforderung? Bezahlbarer Wohnraum.",
+  "tags": [
+    "Wohnen",
+    "Europäische Union",
+    "Sozialpolitik",
+    "Demokratie",
+    "Mietpreise"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In vielen europäischen Ländern, darunter Portugal, protestieren junge Menschen massiv gegen die Wohnungsnot.",
+    "Die Proteste richten sich gegen politische Pläne, die höhere Mieten oder schnellere Räumungen erlauben könnten.",
+    "Die Situation wird durch stark gestiegene Immobilien- und Mietpreise verschärft, besonders für junge Menschen."
+  ],
+  "sections": [
+    {
+      "heading": "Die Krise: Was treibt die Proteste an?",
+      "paragraphs": [
+        "In vielen Teilen Europas kämpfen junge Menschen mit einem zentralen Problem: der Wohnungsnot. Die Mieten und Immobilienpreise sind stark gestiegen. In Portugal ist diese Krise besonders akut. Seit 2017 haben sich die Immobilienpreise dort mehr als verdoppelt, und die Mieten für neue Mietverträge sind fast genauso stark angezogen.",
+        "Dieses finanzielle Problem betrifft vor allem junge Menschen. Als Reaktion darauf gehen sie auf die Straße. In Lissabon gab es kürzlich Demonstrationen, bei denen Hunderte von Menschen auf den Rossio-Platz gingen. Dort richteten sie ein Protestcamp mit über 50 Zelten ein."
+      ]
+    },
+    {
+      "heading": "Politische Auseinandersetzungen im Zentrum",
+      "paragraphs": [
+        "Die Proteste in Portugal sind direkt gegen Pläne der Mitte-Rechts-Minderheitsregierung gerichtet. Konkret geht es um einen Entwurf für ein Mietengesetz, das unter anderem schnellere Räumungen von Wohnungen ermöglichen und die Mietpreisbremse für Neuverträge aussetzen würde. Dieser Entwurf hat eine erste Lesung im Parlament bestanden.",
+        "Die Regierung, vertreten durch Premierminister Luís Montenegro, hat eine Rücknahme des Gesetzes ausgeschlossen, zeigte sich aber offen für Änderungen vor der kommenden Schlussabstimmung. Die Opposition fordert hingegen Gespräche zwischen Regierung, Opposition und Demonstranten, um eine Lösung zu finden."
+      ]
+    },
+    {
+      "heading": "Konfrontation auf der Straße",
+      "paragraphs": [
+        "Die Lage eskalierte, als die Polizei in Lissabon das Protestcamp geräumt hat. Die Einsatzkräfte setzten Schlagstöcke und Hunde ein, um die Demonstranten zu vertreiben. Ein ähnliches, kleineres Lager in Porto wurde ebenfalls aufgelöst. Kritiker haben die Polizei bereits dafür verurteilt, Schlagstöcke bei der Räumung einzusetzen und zahlreiche Menschen festzunehmen.",
+        "Die Situation ist nicht nur auf Portugal beschränkt. Ähnliche Forderungen nach einem bezahlbaren Leben hören wir auch in Spanien, Frankreich, Italien und Belgien. Die allgemeine Forderung in diesen Ländern ist ein bezahlbares Leben, was zeigt, dass die Wohnungsnot ein europaweites Thema ist."
+      ]
+    }
+  ],
+  "whyItMatters": "Wohnen ist eine Grundvoraussetzung für ein stabiles Leben. Wenn Mieten unerschwinglich werden, beeinflusst das die Bildung, die Karriereplanung und die allgemeine Lebensqualität junger Menschen enorm. Dieses Thema zeigt, wie soziale Ungleichheit politische Kämpfe auslösen kann.",
+  "glossary": [
+    {
+      "term": "Mietpreisbremse",
+      "definition": "Eine gesetzliche Regelung, die festlegt, wie stark die Miete bei Neuvermietungen steigen darf, um überhöhte Preissteigerungen zu verhindern."
+    },
+    {
+      "term": "Mitte-Rechts-Minderheitsregierung",
+      "definition": "Eine Regierungskoalition, die sich politisch in der Mitte bis leicht nach rechts positioniert und nicht die absolute Mehrheit der Sitze im Parlament besitzt."
+    },
+    {
+      "term": "Protestcamp",
+      "definition": "Ein temporär errichtetes Lager von Demonstranten an einem öffentlichen Ort, oft um einen politischen Druck aufzubauen."
+    }
+  ],
+  "quiz": {
+    "question": "Welches spezifische Element des Mietengesetzes wurde in Portugal von den Protestierenden stark kritisiert und soll die Mietpreisbremse für Neuverträge aussetzen?",
+    "options": [
+      "Die Senkung der Steuern für Immobilienbesitzer",
+      "Die Möglichkeit schnellerer Wohnungsräumungen",
+      "Die Einführung einer strengen Baupflicht für neue Wohnungen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Proteste richten sich gegen Pläne, schnellere Räumungen zu ermöglichen und die Mietpreisbremse für Neuverträge auszusetzen."
+  },
+  "discussion": [
+    "Wie kann der Staat eine Balance finden zwischen dem Schutz des Eigentums von Immobilienbesitzern und dem Sicherstellen, dass junge Menschen in einer Stadt bezahlbaren Wohnraum finden?",
+    "Inwiefern beeinflussen globale Wirtschaftstrends (wie z.B. steigende internationale Investitionen) die lokale Wohnungsnot in europäischen Städten?"
+  ],
+  "publishedAt": "2026-11-01T10:23:22.101Z",
+  "sources": [
+    {
+      "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+      "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

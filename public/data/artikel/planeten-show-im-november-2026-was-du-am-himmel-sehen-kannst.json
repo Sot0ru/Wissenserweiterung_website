@@ -1,0 +1,88 @@
+{
+  "id": "planeten-show-im-november-2026-was-du-am-himmel-sehen-kannst",
+  "category": "astronomie",
+  "title": "Planeten-Show im November 2026: Was du am Himmel sehen kannst",
+  "teaser": "Im November 2026 versammeln sich viele Planeten am Himmel. Wir zeigen dir, welche Besonderheiten du beobachten kannst.",
+  "tags": [
+    "Himmel",
+    "Planeten",
+    "Beobachtung",
+    "Weltraum"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Im November 2026 gibt es eine Fülle an Planetenbeobachtungen, darunter Merkur, Venus, Jupiter und Mars.",
+    "Besondere Ereignisse sind die größte westliche Elongation von Merkur und die ringförmige Verfinsterung von Ios durch Kallisto.",
+    "Planeten wie Jupiter und Saturn sind gut sichtbar, während Uranus und Neptun ebenfalls Beobachtungsgelegenheiten bieten."
+  ],
+  "sections": [
+    {
+      "heading": "Kurz vor Sonnenaufgang: Merkur und Venus glänzen",
+      "paragraphs": [
+        "Wenn du am Himmel nach den Planeten suchst, gibt es im November 2026 einige Highlights. Besonders früh am Morgen werden Merkur und Venus auffallen. Merkur erreicht am 21. November seine größte westliche Elongation, was bedeutet, dass er sich am weitesten von der Sonne vom Horizont entfernt. Dies sorgt für die beste Morgensichtbarkeit des innersten Planeten im ganzen Jahr.",
+        "Etwa eine Woche davor, also um den 12. oder 13. November, erscheint Merkur erstmals in der Morgendämmerung. Bei Beginn der bürgerlichen Dämmerung, wenn die Sonne noch sechs Grad unter dem Horizont ist, ist er am besten zu sehen. Seine scheinbare Helligkeit nimmt während dieser Sichtbarkeitsphase deutlich zu.",
+        "Venus kehrt ebenfalls schnell zurück und wird ab Mitte November ein strahlender Morgenplanet. Sie ist sehr hell und kann am frühen Morgen über dem Südosthorizont gesehen werden. Sie bleibt den ganzen Monat in der Nähe des hellen Sterns Spika (Alpha Virginis)."
+      ]
+    },
+    {
+      "heading": "Die großen Spieler: Jupiter, Mars und Saturn im Fokus",
+      "paragraphs": [
+        "Auch die äußeren Planeten liefern spannende Anblicke. Mars wandert im November ostwärts durch das Sternbild Löwe. Er ist am 1. November um 23:36 Uhr sichtbar und erreicht gegen Monatsende seine höchste Sichtbarkeit am Himmel.",
+        "Jupiter ist ebenfalls ein wichtiger Beobachtungspunkt. Er wird am 1. November um 00:13 Uhr sichtbar und kulminiert im Sternbild Löwe. Beobachter können seine etwa 38 Bogensekunden große Scheibe sowie die vier großen Monde – Ganymed, Kallisto, Io und Europa – sehen.",
+        "Ein besonderes Ereignis bei Jupiter ist die ringförmige Verfinsterung von Io durch Kallisto am 25. November. Dabei trifft Kallistos Schattenkegel Io, ist aber zu klein, um ihn vollständig zu verdunkeln.",
+        "Saturn entwickelt sich im November zum Objekt der ersten Nachthälfte. Er ist mit 0,6 mag hell zu sehen. Sein Ringsystem wird zu diesem Zeitpunkt zu sechs Grad geöffnet, und sein scheinbarer Durchmesser misst am Äquator etwa 19 Bogensekunden."
+      ]
+    },
+    {
+      "heading": "Die weiter entfernten Gäste: Uranus und Neptun",
+      "paragraphs": [
+        "Auch die weiter entfernten Planeten bieten Einblicke. Am 26. November steht Uranus in Opposition, was bedeutet, dass er uns direkt gegenüber von der Sonne erscheint. Dieser 5,6 mag helle Planet lässt sich mit bloßem Auge als schwaches Sternchen erkennen, und durch ein Fernglas fällt seine grünliche Färbung auf.",
+        "Neptun, der ferne Eisriese, hält sich in der Nähe von Saturn im Sternbild Fische auf. Er ist mit 7,8 mag hell zu sehen. Da er sehr weit entfernt ist, benötigt man ein Fernglas oder Teleskop, um sein kleines Scheibchen von 2,4 Bogensekunden zu erkennen."
+      ]
+    }
+  ],
+  "whyItMatters": "Astronomie hilft dir zu verstehen, wie unser Sonnensystem funktioniert und welche physikalischen Gesetze die Bewegungen der Planeten steuern. Diese Beobachtungen zeigen, wie weit und wie komplex unser Universum ist.",
+  "glossary": [
+    {
+      "term": "Elongation",
+      "definition": "Der Winkelabstand eines Planeten von der Sonne, gemessen vom Erdstandpunkt aus."
+    },
+    {
+      "term": "Opposition",
+      "definition": "Der Zeitpunkt, an dem ein Planet auf der gegenüberliegenden Seite der Erde zur Sonne steht und daher am längsten und hellsten am Himmel sichtbar ist."
+    },
+    {
+      "term": "Mag (Magnituden)",
+      "definition": "Ein Maß für die scheinbare Helligkeit eines Himmelskörpers; je kleiner die Zahl, desto heller ist der Körper."
+    },
+    {
+      "term": "Bogensekunde",
+      "definition": "Eine sehr kleine Einheit, die Winkelabstände im Himmel beschreibt (ein Grad besteht aus 60 Bogenminuten, und eine Bogenminute aus 60 Bogensekunden)."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Planetenereignis findet am 25. November statt?",
+    "options": [
+      "Die größte westliche Elongation von Merkur",
+      "Die Opposition von Uranus",
+      "Die ringförmige Verfinsterung von Io durch Kallisto"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die ringförmige Verfinsterung von Io durch Kallisto findet am 25. November statt."
+  },
+  "discussion": [
+    "Wie beeinflussen die unterschiedlichen Helligkeiten der Planeten (gemessen in Magnituden) unsere Fähigkeit, sie mit bloßem Auge zu beobachten?",
+    "Welche Rolle spielt die Entfernung von der Sonne bei der Sichtbarkeit und Helligkeit eines Planeten am Himmel?"
+  ],
+  "publishedAt": "2026-11-01T09:50:14.388Z",
+  "sources": [
+    {
+      "title": "Planetenlauf im November 2026: Reichlich Planeten am Morgen",
+      "url": "https://www.spektrum.de/news/planetenlauf-im-november-2026-reichlich-planeten-am-morgen/2330901",
+      "publisher": "Sterne und Weltraum"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

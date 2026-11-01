@@ -1,0 +1,88 @@
+{
+  "id": "das-shamonda-virus-was-wir-ueber-diesen-neuen-erreger-wissen",
+  "category": "wissenschaft",
+  "title": "Das Shamonda-Virus: Was wir über diesen neuen Erreger wissen",
+  "teaser": "Ein neues Virus, das bisher nur bei Tieren bekannt war, wurde erstmals beim Menschen gefunden. Was bedeutet das für uns und wie verbreitet es sich?",
+  "tags": [
+    "Infektionskrankheiten",
+    "Virologie",
+    "Epidemiologie",
+    "Gesundheitsrisiko"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Das Shamonda-Virus (SHAV) wurde erstmals bei einem stark immunsupprimierten Patienten in Frankreich nachgewiesen, der an schweren neurologischen Symptomen erkrankte.",
+    "Die wahrscheinlichste Übertragung erfolgt vektorell durch bestimmte Mückenarten (Gnitzen) in ländlichen Gebieten.",
+    "Das Robert-Koch-Institut (RKI) warnt Ärzte vor erhöhter Aufmerksamkeit bei unklaren, schweren neurologischen Krankheitsbildern, betont aber, dass das allgemeine Bevölkerungsrisiko bisher nicht geklärt ist."
+  ],
+  "sections": [
+    {
+      "heading": "Ein neues Virus: Die Entdeckung von SHAV",
+      "paragraphs": [
+        "Das Robert-Koch-Institut (RKI) ruft Ärzte in Deutschland zu erhöhter Aufmerksamkeit auf. Der Grund dafür ist die erstmalige Dokumentation einer menschlichen Erkrankung durch das Shamonda-Virus (SHAV). Dieser Fall ereignete sich in Frankreich und zeigte einen sehr schweren neurologischen Verlauf.",
+        "Der betroffene Patient war stark immunsupprimiert, was bedeutet, sein Immunsystem war geschwächt. Er zeigte zunächst Sehstörungen und Verwirrtheit, gefolgt von Fieber, Krampfanfällen und schließlich Koma. In seinem Gehirn (Enzephalitis) zeigte sich eine schwere Entzündung.",
+        "Das Virus, das zur Gattung Orthobunyavirus gehört, war bisher nur bei Tieren bekannt. Seit dem Sommer 2026 sind erste Infektionen auch bei Nutztieren in Europa, wie Schafen, Ziegen und Rindern, nachgewiesen worden. Diese Tiere zeigen Symptome wie Fieber oder Durchfall."
+      ]
+    },
+    {
+      "heading": "Wie kommt das Virus zum Menschen?",
+      "paragraphs": [
+        "Die Experten vermuten, dass die Übertragung durch Vektoren erfolgt. Konkret nennen sie Gnitzen der Gattung *Culicoides*, die in ländlichen Gebieten leben. Dies ist der wahrscheinlichste Übertragungsweg, da in der Region des Patienten bereits SHAV-Infektionen bei Tieren gefunden wurden.",
+        "Es wird betont, dass eine Übertragung durch kontaminierte Lebensmittel oder Bluttransfusionen als unwahrscheinlich gilt. Das RKI stellt klar: Dieser einzelne Fall erlaubt keine Rückschlüsse auf ein großes Risiko für die Allgemeinbevölkerung. Die starke Immunschwäche des Patienten spielte dabei wahrscheinlich eine große Rolle für den schweren Verlauf.",
+        "Für Ärzte in Deutschland bedeutet dies eine konkrete Aufforderung: Bei unklaren, schweren neurologischen Symptomen, besonders im Sommer und Frühherbst, sollte eine Abklärung auf SHAV erfolgen. Das RKI bietet hierfür spezialisierte Diagnostik an."
+      ]
+    }
+  ],
+  "whyItMatters": "Neue Viren stellen immer eine Herausforderung dar, weil wir oft erst lernen müssen, wie sie sich verbreiten und wie schwer sie sein können. Für junge Menschen ist es wichtig zu wissen, dass Gesundheitsthemen nicht immer sofort ein globales Risiko bedeuten, aber trotzdem Aufmerksamkeit erfordern.",
+  "glossary": [
+    {
+      "term": "Immunsupprimiert",
+      "definition": "Wenn das Immunsystem einer Person durch Medikamente oder Krankheiten geschwächt ist und nicht richtig gegen Krankheitserreger verteidigen kann."
+    },
+    {
+      "term": "Enzephalitis",
+      "definition": "Eine Entzündung des Gehirns, die zu neurologischen Symptomen wie Verwirrtheit oder Krampfanfällen führen kann."
+    },
+    {
+      "term": "Vektorielle Übertragung",
+      "definition": "Die Übertragung eines Krankheitserregers von einem Tier auf einen Menschen durch einen Zwischenorganismus, meist ein Insekt (wie eine Mücke)."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut dem RKI der wahrscheinlichste Übertragungsweg des Shamonda-Virus auf den Menschen?",
+    "options": [
+      "Vektorielle Übertragung durch Gnitzen",
+      "Bluttransfusionen",
+      "Kontaminierte Lebensmittel"
+    ],
+    "answerIndex": 0,
+    "explanation": "Das RKI nennt die vektorielle Übertragung durch Gnitzen als wahrscheinlichsten Weg."
+  },
+  "discussion": [
+    "Wie kann das Gesundheitswesen besser auf das Auftreten neuer, bisher unbekannter Erreger vorbereitet sein, bevor ein Fall beim Menschen dokumentiert ist?",
+    "Welche Rolle spielt die Immunschwäche eines Patienten bei der Schwere einer Infektion, und wie unterscheidet sich das von einer gesunden Person?"
+  ],
+  "publishedAt": "2026-11-01T09:28:31.004Z",
+  "sources": [
+    {
+      "title": "RKI empfiehlt Abklärung auf Shamonda bei schweren neurologischen Verläufen",
+      "url": "https://www.aerzteblatt.de/news/rki-empfiehlt-abklarung-auf-shamonda-bei-schweren-neurologischen-verlaufen-cb6c8cbb-03b7-4cff-9735-d7bdf8355863",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/das-shamonda-virus-was-wir-ueber-diesen-neuen-erreger-wissen.jpg",
+    "width": 960,
+    "height": 821,
+    "alt": "Transmissionselektronenmikroskopische Aufnahme eines Influenza-Viruspartikels.",
+    "credit": {
+      "title": "Influenza virus particle color.jpg",
+      "author": "Photo Credit: Cynthia Goldsmith Content Providers(s): CDC/ Dr. Erskine. L. Palmer; Dr. M. L. Martin",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Influenza_virus_particle_color.jpg"
+    }
+  }
+}
