@@ -1,0 +1,93 @@
+{
+  "id": "die-letzten-monate-des-zweiten-weltkriegs-in-mitteldeutschla",
+  "category": "geschichte",
+  "title": "Die letzten Monate des Zweiten Weltkriegs in Mitteldeutschland 1945",
+  "teaser": "Wie sah Mitteldeutschland kurz vor dem Ende des Zweiten Weltkriegs aus? Wir beleuchten die blutigen Kämpfe und die Ereignisse, die das Land veränderten.",
+  "tags": [
+    "Zweiter Weltkrieg",
+    "Deutschland",
+    "Kriegsende",
+    "Militär"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Mitte 1945 war Mitteldeutschland ein Hauptschauplatz brutaler Kämpfe, Bombenangriffe und Kriegsverbrechen kurz vor dem Ende des Zweiten Weltkriegs.",
+    "Am 8. Mai 1945 endete der Krieg in Europa mit der bedingungslosen Kapitulation der Wehrmacht, obwohl im Osten noch gekämpft wurde.",
+    "Nach Kriegsende übernahm die Alliierten das Kommando, was zur späteren Teilung Deutschlands führte."
+  ],
+  "sections": [
+    {
+      "heading": "Die letzten Tage vor dem Ende",
+      "paragraphs": [
+        "Die Monate vor Mai 1945 waren für Mitteldeutschland eine Zeit extremer Gewalt. Das Land war durch Bombenangriffe und blutige Landschlachten geprägt. Zehntausende Menschen starben in diesen Kämpfen oder durch Kriegs- und NS-Verbrechen.",
+        "Die Chronik der Kriegsmonate beschreibt die letzten Gefechte und auch die Befreiung von Konzentrationslagern. Ein besonders dramatisches Ereignis war die Befreiung von 2.500 jüdischen Häftlingen in der Nähe von Magdeburg im April 1945."
+      ]
+    },
+    {
+      "heading": "Der Waffenstillstand und die Folgen",
+      "paragraphs": [
+        "Der Wendepunkt kam am 8. Mai 1945. Um 23:01 Uhr schweigen in Europa die Waffen, als die bedingungslose Kapitulation der Wehrmacht in Kraft tritt. Obwohl der Krieg in Westeuropa beendet war, kämpfte man im Osten noch lange weiter.",
+        "Die militärische Bilanz des gesamten Krieges war gewaltig: Weltweit standen rund 110 Millionen Soldaten unter Waffen. Nach der Kapitulation übernahmen die Alliierten das Kommando in Deutschland. Dieser Übergang führte schließlich zur Teilung des Landes 1949."
+      ]
+    },
+    {
+      "heading": "Ereignisse, die die Welt prägten",
+      "paragraphs": [
+        "Neben den militärischen Auseinandersetzungen gab es Momente, die weltweit Beachtung fanden. Ein Beispiel ist der Handschlag zwischen US-Soldaten und Rotarmisten auf den Trümmern der Torgauer Elbbrücke am 25. April 1945, der bis heute als Mahnung zum Frieden gilt.",
+        "Auch die letzten Kämpfe waren hart: In Bautzen stoppte eine letzte deutsche Panzeroffensive den Vormarsch der polnisch-sowjetischen Truppen. Die Ereignisse dieser Zeit zeigen, wie tiefgreifend der Krieg die Lebensrealität in Mitteldeutschland zerstörte."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis dieser Zeit hilft dir zu sehen, wie schnell sich politische und gesellschaftliche Strukturen ändern können. Es zeigt auch, wie wichtig internationale Abkommen und die Vermeidung von Konflikten für die heutige Welt sind.",
+  "glossary": [
+    {
+      "term": "Wehrmacht",
+      "definition": "Die Streitkräfte der Deutschen Reich und des Deutschen Reiches während des Zweiten Weltkriegs."
+    },
+    {
+      "term": "Alliierte",
+      "definition": "Die Verbündeten der Westmächte, die gegen die Achsenmächte im Zweiten Weltkrieg kämpften."
+    },
+    {
+      "term": "Bedingungslose Kapitulation",
+      "definition": "Die vollständige und bedingungslose Aufgabe des Krieges durch eine militärische Seite."
+    }
+  ],
+  "quiz": {
+    "question": "Wann trat die bedingungslose Kapitulation der Wehrmacht in Europa in Kraft?",
+    "options": [
+      "September 1945",
+      "25. April 1945",
+      "8. Mai 1945"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die bedingungslose Kapitulation der Wehrmacht trat am 8. Mai 1945 in Kraft."
+  },
+  "discussion": [
+    "Welche langfristigen Auswirkungen hat die Teilung Deutschlands 1949 auf die heutige europäische Politik?",
+    "Wie kann die Erinnerung an die Kriegsverbrechen und die Opfer des Zweiten Weltkriegs dazu beitragen, zukünftige Konflikte zu verhindern?"
+  ],
+  "publishedAt": "2026-11-02T10:05:17.192Z",
+  "sources": [
+    {
+      "title": "1945",
+      "url": "https://www.mdr.de/geschichte/ns-zeit/zweiter-weltkrieg/1945",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-letzten-monate-des-zweiten-weltkriegs-in-mitteldeutschla.jpg",
+    "width": 960,
+    "height": 744,
+    "alt": "Ruinenansicht der bombardierten Stadt Nürnberg nach dem Zweiten Weltkrieg.",
+    "credit": {
+      "title": "Ruins of Nuremberg after World War II.jpg",
+      "author": "USAAF",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruins_of_Nuremberg_after_World_War_II.jpg"
+    }
+  }
+}

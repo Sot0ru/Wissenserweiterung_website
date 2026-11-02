@@ -1,0 +1,88 @@
+{
+  "id": "pestizide-und-parkinson-was-die-forschung-ueber-das-risiko-w",
+  "category": "medizin",
+  "title": "Pestizide und Parkinson: Was die Forschung über das Risiko weiß",
+  "teaser": "Ein häufig verwendetes Pflanzenschutzmittel wurde mit einem deutlich erhöhten Risiko für Parkinson in Verbindung gebracht. Die Wissenschaft hat auch herausgefunden, wie diese Chemikalie das Gehirn schädigt.",
+  "tags": [
+    "Neurodegeneration",
+    "Umweltgifte",
+    "Neurologie",
+    "Gesundheit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Eine Studie von UCLA zeigte, dass eine langfristige Exposition gegenüber dem Pestizid Chlorpyrifos das Risiko für Parkinson um mehr als 2,5-mal erhöhen kann.",
+    "Forscher fanden heraus, dass das Pestizid die Fähigkeit der Gehirnzellen beeinträchtigt, beschädigte Proteine zu entfernen.",
+    "In Labortests konnten sie zeigen, dass das Wiederherstellen dieses „Reinigungssystems“ die Zellen vor Schäden schützen kann."
+  ],
+  "sections": [
+    {
+      "heading": "Der Zusammenhang zwischen Pestiziden und Parkinson",
+      "paragraphs": [
+        "Parkinson ist eine fortschreitende neurologische Erkrankung. Sie schädigt Gehirnzellen, die für die Bewegung zuständig sind. Typische Symptome sind Zittern, Steifheit oder langsame Bewegungen. Ein zentrales Merkmal dieser Erkrankung ist der Verlust von Nervenzellen, die Dopamin produzieren. Dopamin ist ein Botenstoff, der hilft, Bewegungen kontrolliert zu steuern.",
+        "Obwohl genetische Faktoren eine Rolle spielen, konzentrieren sich Forscher zunehmend auf Umweltbelastungen. Pestizide, also Pflanzenschutzmittel, stehen hier im Fokus, da einige dieser Chemikalien das Nervensystem stören können.",
+        "Eine Untersuchung von Wissenschaftlern der UCLA Health hat einen klaren Zusammenhang gefunden. Teilnehmer, die über einen langen Zeitraum mit Chlorpyrifos – einem weit verbreiteten Pestizid – in Kontakt kamen, hatten ein Risiko für Parkinson, das mehr als 2,5-mal höher war als bei Personen ohne solche Exposition."
+      ]
+    },
+    {
+      "heading": "Wie schädigt die Chemikalie das Gehirn?",
+      "paragraphs": [
+        "Die Forschung ging über die reine Feststellung des Risikos hinaus. Im Labor untersuchten die Wissenschaftler, was genau in den betroffenen Gehirnzellen passiert. Sie stellten fest, dass Chlorpyrifos die Fähigkeit der Zelle zur Selbstreinigung stört. Dieses System, genannt Autophagie, funktioniert wie ein inneres Recycling: Es baut alte oder beschädigte Teile ab, damit giftige Stoffe nicht akkumulieren.",
+        "Wenn Chlorpyrifos dieses System blockiert, sammeln sich beschädigte Proteine in den Nervenzellen an. Dies führt zum Absterben der Zellen, was die Motorik beeinträchtigt. In Tiermodellen wurde zudem eine Entzündung im Gehirn und eine abnormale Ansammlung eines Proteins namens Alpha-Synuclein beobachtet, welches bei Parkinson eine Rolle spielt.",
+        "Die gute Nachricht ist, dass die Forscher einen Weg zur Abwehr gefunden haben. Als sie in ihren Experimenten das zelluläre Reinigungssystem wiederherstellten oder das Alpha-Synuclein entfernten, wurden die Nervenzellen geschützt. Dies deutet darauf hin, dass man zukünftig Therapien entwickeln könnte, die diesen natürlichen Schutzmechanismus stärken."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es zeigt, wie Umweltfaktoren unsere Gesundheit beeinflussen können. Es geht darum, Risiken frühzeitig zu erkennen und zu verstehen, wie unser Körper chemischen Belastungen begegnet.",
+  "glossary": [
+    {
+      "term": "Pestizid",
+      "definition": "Chemische Mittel, die in der Landwirtschaft eingesetzt werden, um Pflanzen vor Schädlingen oder Krankheiten zu schützen."
+    },
+    {
+      "term": "Dopamin",
+      "definition": "Ein chemischer Botenstoff im Gehirn, der für die Steuerung und Koordination von Bewegungen wichtig ist."
+    },
+    {
+      "term": "Autophagie",
+      "definition": "Ein natürlicher zellulärer Prozess, bei dem Zellen beschädigte oder überflüssige Bestandteile abbauen und recyceln."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Substanz wurde in der Studie mit dem erhöhten Parkinson-Risiko in Verbindung gebracht?",
+    "options": [
+      "Chlorpyrifos",
+      "Alpha-Synuclein",
+      "Dopamin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chlorpyrifos ist das spezifische Pestizid, das in der Studie untersucht wurde."
+  },
+  "discussion": [
+    "Welche Verantwortung haben Verbraucher, wenn sie wissen, dass bestimmte Chemikalien in der Landwirtschaft verwendet werden, die potenziell gesundheitliche Risiken bergen?",
+    "Wie könnte die Forschung dazu beitragen, präventive Maßnahmen gegen neurodegenerative Erkrankungen zu entwickeln, bevor Symptome auftreten?"
+  ],
+  "publishedAt": "2026-11-02T09:36:37.113Z",
+  "sources": [
+    {
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/pestizide-und-parkinson-was-die-forschung-ueber-das-risiko-w.jpg",
+    "width": 960,
+    "height": 636,
+    "alt": "Hypothetisches Modell zur Wechselwirkung zwischen α-Synuclein und Nanoplastik in Neuronen.",
+    "credit": {
+      "title": "Hypothetical model for the pathological interaction between α-synuclein and nanoplastic contaminants in neurons.jpg",
+      "author": "Authors of the study: Zhiyong Liu https://orcid.org/0000-0002-2959-5189 , Arpine Sokratian https://orcid.org/0000-0001-6",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hypothetical_model_for_the_pathological_interaction_between_%CE%B1-synuclein_and_nanoplastic_contaminants_in_neurons.jpg"
+    }
+  }
+}

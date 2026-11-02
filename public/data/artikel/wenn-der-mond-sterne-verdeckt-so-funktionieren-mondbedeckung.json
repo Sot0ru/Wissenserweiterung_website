@@ -1,0 +1,88 @@
+{
+  "id": "wenn-der-mond-sterne-verdeckt-so-funktionieren-mondbedeckung",
+  "category": "astronomie",
+  "title": "Wenn der Mond Sterne verdeckt: So funktionieren Mondbedeckungen",
+  "teaser": "Habe dir schon mal beobachtet, wie ein Stern plötzlich hinter dem Mond verschwindet? Wir erklären dir, wie diese nächtlichen Schauspiel funktionieren.",
+  "tags": [
+    "Himmel",
+    "Mond",
+    "Sternenbeobachtung",
+    "Weltall"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Mondbedeckungen passieren, wenn der Mond einen Stern oder ein Sternsystem vor seinem eigenen Rand verdeckt.",
+    "Obwohl der Mond einen Stern verdeckt, kann dieser bei hellen Objekten oder mit starker Vergrößerung noch erkennbar bleiben.",
+    "Diese Ereignisse sind gut planbar und zeigen die Wechselwirkung zwischen Erde, Mond und Sternen."
+  ],
+  "sections": [
+    {
+      "heading": "Was passiert, wenn der Mond einen Stern",
+      "paragraphs": [
+        "Wenn der Mond einen Stern verdeckt, spricht man von einer Mondbedeckung. Das ist kein mystisches Ereignis, sondern ein optischer Effekt, der durch die Position des Mondes entsteht. Der Mond fungiert dabei wie ein riesiger, sich bewegender Sichtblocker im Weltall.",
+        "Manche Sterne sind so hell, dass sie selbst wenn der Mond sie teilweise bedeckt, noch gut zu sehen sind. Bei anderen, lichtschwächeren Sternen, verschwindet der Stern komplett hinter dem Mondrand.",
+        "Die genaue Beobachtung hängt stark von der Mondphase ab. Wenn der Mond nur teilweise beleuchtet ist (zum Beispiel eine schmale Mondsichel), ist der Rand, an dem der Stern verschwindet, sehr schmal. Das macht die Beobachtung spannender, aber auch anspruchsvoller."
+      ]
+    },
+    {
+      "heading": "Doppelsterne und besondere Ereignisse",
+      "paragraphs": [
+        "Manchmal bedeckt der Mond nicht nur einen einzelnen Stern, sondern ein Doppelsternsystem. Ein Doppelsternsystem besteht aus zwei Sternen, die so nah beieinander stehen, dass sie für unser Auge als ein Punkt erscheinen. Wenn der Mond dieses Paar bedeckt, verschwinden die beiden Komponenten nacheinander, weil sie leicht voneinander getrennt sind. Das ist ein faszinierendes Detail, das man nur mit Teleskop sehen kann.",
+        "Darüber hinaus gibt es sogenannte streifende Bedeckungen. Dabei kann ein Stern aufgrund der unregelmäßigen Konturen des Mondrandes mehrfach verschwinden und wieder auftauchen. Diese Ereignisse sind oft an schmalen Korridoren direkt am Mondrand zu beobachten.",
+        "Für Hobbyastronomen sind diese Ereignisse gut planbar. Sie erfordern allerdings präzise Berechnungen, um die besten Beobachtungszeiten und Orte zu finden, da Faktoren wie der Mondstand über dem Horizont die Sichtbarkeit stark beeinflussen."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Beobachtungen zeigen uns, wie präzise die Bewegung von Himmelskörpern ist. Das Verständnis für solche Ereignisse hilft dir, die Physik des Sonnensystems besser zu verstehen. Es ist eine tolle Möglichkeit, die Astronomie praktisch auszuprobieren.",
+  "glossary": [
+    {
+      "term": "Mondbedeckung",
+      "definition": "Das Phänomen, bei dem der Mond einen Stern oder ein Sternsystem vor seinem eigenen Rand verdeckt."
+    },
+    {
+      "term": "Doppelsternsystem",
+      "definition": "Ein System, das aus zwei Sternen besteht, die so nah beieinander stehen, dass sie für das menschliche Auge als ein einziger Punkt erscheinen."
+    },
+    {
+      "term": "Mondphase",
+      "definition": "Der jeweilige Zustand des Mondes, der sich ändert, je nachdem, wie viel von seiner Oberfläche von der Sonne beleuchtet wird und wie wir ihn von der Erde sehen."
+    }
+  ],
+  "quiz": {
+    "question": "Was macht die Beobachtung einer Mondbedeckung besonders spannend, wenn der Mond nur teilweise beleuchtet ist?",
+    "options": [
+      "Der Rand, an dem der Stern verschwindet, ist sehr schmal.",
+      "Die Sterne werden dadurch heller.",
+      "Der Mond bewegt sich schneller als die Sterne."
+    ],
+    "answerIndex": 0,
+    "explanation": "Bei einer schmalen Mondsichel ist der Rand, an dem der Stern verschwindet, extrem schmal, was die Beobachtung präzise macht."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Technologie (z.B. Teleskope, spezielle Software) bei der Beobachtung solcher Himmelsereignisse im Vergleich zur bloßen Sichtbarkeit mit bloßem Auge?",
+    "Wie beeinflusst die Kenntnis über Mondphasen und die Position der Himmelskörper die Planung wissenschaftlicher Beobachtungen?"
+  ],
+  "publishedAt": "2026-11-02T09:47:43.570Z",
+  "sources": [
+    {
+      "title": "Beobachtungstipp: Sternbedeckungen durch den Mond im November 2026",
+      "url": "https://www.spektrum.de/news/beobachtungstipp-sternbedeckungen-durch-den-mond-im-november-2026/2333140",
+      "publisher": "Sterne und Weltraum"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wenn-der-mond-sterne-verdeckt-so-funktionieren-mondbedeckung.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Venus wird dabei gezeigt, wie sie hinter dem Mond verschwindet, während einer Mondbedeckung.",
+    "credit": {
+      "title": "Lunar Occultation of Venus.jpg",
+      "author": "NASA/Joel Kowsky",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lunar_Occultation_of_Venus.jpg"
+    }
+  }
+}

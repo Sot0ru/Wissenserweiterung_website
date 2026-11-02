@@ -1,0 +1,76 @@
+{
+  "id": "weniger-kinder-was-die-sinkenden-geburtenzahlen-fuer-deutsch",
+  "category": "politik",
+  "title": "Weniger Kinder: Was die sinkenden Geburtenzahlen für Deutschland bedeuten",
+  "teaser": "Die Geburtenrate ist in Deutschland deutlich gesunken. Was steckt dahinter und welche Folgen hat das für unsere Gesellschaft?",
+  "tags": [
+    "Demografie",
+    "Sozialsystem",
+    "Wirtschaft",
+    "Bevölkerung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Geburtenzahlen in Deutschland sind stark gesunken, wobei die Reduktion in Ostdeutschland besonders ausgeprägt ist.",
+    "Experten warnen, dass dieser Rückgang langfristig das Arbeitskräfteangebot und die Finanzierung der Sozialsysteme gefährden kann.",
+    "Politiker fordern, dass staatliche Unterstützung für Familien verstärkt wird, anstatt Kürzungen vorzunehmen."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Rückgang, der Zahlen macht",
+      "paragraphs": [
+        "Eine aktuelle Untersuchung zeigt, dass in Deutschland weniger Kinder geboren werden als vor zehn Jahren. Laut dem Institut der deutschen Wirtschaft sind im vergangenen Jahr elf Prozent weniger Kinder zur Welt gekommen als 2015.",
+        "Dieser Rückgang ist regional unterschiedlich ausgeprägt. In Ostdeutschland sind die Geburtenzahlen seit 2015 um ein Drittel gesunken. Besonders bei Müttern mit deutschem Pass ist dieser Rückgang dort sogar um 40 Prozent.",
+        "Im Gegensatz dazu ist der Rückgang in Westdeutschland geringer, mit sechs bis acht Prozent. Insgesamt kamen im letzten Jahr rund 654.000 Kinder zur Welt. Die Forscher sehen den Hauptgrund für den starken Einbruch in Ostdeutschland in der geringeren Zahl von Frauen im Alter zwischen 25 und 39 Jahren."
+      ]
+    },
+    {
+      "heading": "Folgen für die Zukunft und politische Forderungen",
+      "paragraphs": [
+        "Die sinkenden Geburtenraten sind nicht nur eine statistische Entwicklung; sie haben weitreichende gesellschaftliche Folgen. Die Wirtschaftsforscher sehen keine Entspannung in naher Zukunft. Bis zum Jahr 2035 könnte die Zahl der Frauen in der reproduktiven Altersgruppe um rund ein Zehntel sinken.",
+        "Ein Experte des Instituts der deutschen Wirtschaft fordert daher ein aktives Gegensteuern der Politik. Er argumentiert, dass die Entscheidungen von Familien beim Kinderkriegen erleichtert werden müssen.",
+        "Niedrige Geburtenzahlen bedeuten langfristig weniger Arbeitskräfte und stellen damit die Finanzierung des Sozialversicherungssystems in Frage. Die Experten betonen, dass staatliche Unterstützungsleistungen für Familien, wie das Elterngeld, eine Investition darstellen und sich langfristig für die Allgemeinheit rechnen, anstatt Kürzungen vorzunehmen."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Entwicklung ist wichtig, weil sie direkt die Zukunft unseres Arbeitsmarktes und unseres Sozialsystems betrifft. Wenn weniger junge Menschen aufwachsen, müssen wir als Gesellschaft überlegen, wie wir die Versorgung und die Pflege der älteren Generation sicherstellen.",
+  "glossary": [
+    {
+      "term": "Geburtenrate",
+      "definition": "Die Anzahl der Kinder pro Frau in einer bestimmten Bevölkerungsgruppe."
+    },
+    {
+      "term": "Sozialversicherungssystem",
+      "definition": "Ein System, das Bürgerinnen und Bürger durch Beiträge absichert, z.B. bei Krankheit oder im Alter."
+    },
+    {
+      "term": "Demografie",
+      "definition": "Die Lehre von der Bevölkerungsentwicklung, also wie sich die Anzahl und Struktur einer Bevölkerung verändert."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Region in Deutschland wird laut der Untersuchung besonders stark von dem Geburtenrückgang betroffen?",
+    "options": [
+      "Ostdeutschland",
+      "Westdeutschland",
+      "Norddeutschland"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Untersuchung des Instituts der deutschen Wirtschaft teilte mit, dass besonders die ostdeutschen Flächenländer betroffen seien."
+  },
+  "discussion": [
+    "Welche Rolle spielt die finanzielle Situation von jungen Familien bei der Entscheidung für oder gegen Kinder in Deutschland?",
+    "Wie kann die Politik so handeln, dass sie die langfristige Stabilität des Sozialversicherungssystems sichert, wenn die Geburtenraten sinken?"
+  ],
+  "publishedAt": "2026-11-02T09:30:13.460Z",
+  "sources": [
+    {
+      "title": "In Deutschland elf Prozent weniger Geburten als 2015",
+      "url": "https://www.aerzteblatt.de/news/in-deutschland-elf-prozent-weniger-geburten-als-2015-d1fa36ab-b382-4c66-ad8c-91b092094de8",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

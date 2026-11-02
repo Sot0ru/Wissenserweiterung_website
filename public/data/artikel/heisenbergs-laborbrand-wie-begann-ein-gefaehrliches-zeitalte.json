@@ -1,0 +1,87 @@
+{
+  "id": "heisenbergs-laborbrand-wie-begann-ein-gefaehrliches-zeitalte",
+  "category": "geschichte",
+  "title": "Heisenbergs Laborbrand: Wie begann ein gefährliches Zeitalter in Leipzig?",
+  "teaser": "Vor Tschernobyl gab es einen Reaktorunfall. Wir erzählen dir, wie das Experiment von Werner Heisenberg 1942 in Leipzig endete und welche Folgen das hatte.",
+  "tags": [
+    "Wissenschaftsgeschichte",
+    "Deutschland",
+    "Atomkraft",
+    "Leipzig",
+    "Nachkriegszeit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Im Jahr 1942 kam es in Leipzig zu einem Reaktorunfall beim Experiment von Werner Heisenberg, lange bevor Tschernobyl bekannt wurde.",
+    "Dieser Vorfall markierte den Beginn einer gefährlichen Ära der Kernforschung.",
+    "Die Meldung zeigt zudem, dass moderne Forschung auch alte Themen wie den Stein von Rosette digital analysiert."
+  ],
+  "sections": [
+    {
+      "heading": "Der erste Reaktorunfall in Leipzig",
+      "paragraphs": [
+        "Bevor man an das Katastrophenereignis in Tschernobyl denkt, gibt es eine frühere, bemerkenswerte Geschichte aus Leipzig. Im Jahr 1942 entzündete sich ein Experiment in einem Reaktor. Dies war der weltweit erste derartige Unfall.",
+        "Hinter diesem Ereignis stand Werner Heisenberg. Sein Forschungsprojekt führte zu einem dramatischen Einsatz der Feuerwehr. Dieser Vorfall gilt als Beginn einer gefährlichen Ära, in der die Kernforschung begann."
+      ]
+    },
+    {
+      "heading": "Mehr als nur ein Unfall: Forschung und Vergangenheit",
+      "paragraphs": [
+        "Die Meldung beleuchtet nicht nur diesen historischen Moment. Sie zeigt auch, wie moderne Forschung die Vergangenheit beleuchtet. Zum Beispiel arbeiten Forschende der Universität Leipzig daran, den Satzbau des Stein von Rosette digital zu analysieren.",
+        "Der Stein von Rosette war wichtig, weil er half, die Hieroglyphen zu entziffern. Die digitale Aufschlüsselung eröffnet dabei neue Möglichkeiten für Sprachwissenschaftler."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie schnell wissenschaftliche Entwicklungen – wie die Kernforschung – globale Auswirkungen haben können. Es hilft zu verstehen, dass wissenschaftliche Fortschritte oft mit großen Risiken verbunden sind.",
+  "glossary": [
+    {
+      "term": "Reaktor",
+      "definition": "Ein Gerät, das kontrollierte Kernreaktionen durchführt, um Energie zu gewinnen oder zu erforschen."
+    },
+    {
+      "term": "Hieroglyphen",
+      "definition": "Ein altes Schriftsystem Ägyptens, das aus Bildern und Symbolen bestand."
+    },
+    {
+      "term": "Entziffern",
+      "definition": "Die Bedeutung von verschlüsselten oder unbekannten Zeichen herausfinden."
+    }
+  ],
+  "quiz": {
+    "question": "Wann kam es laut der Quelle zum ersten Reaktorunfall in Leipzig?",
+    "options": [
+      "Nach dem Zweiten Weltkrieg",
+      "1942",
+      "Vor Tschernobyl"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Quelle nennt das Jahr 1942 für den Reaktorunfall in Leipzig."
+  },
+  "discussion": [
+    "Welche Verantwortung haben Wissenschaftler, wenn ihre Forschung potenziell gefährliche Technologien wie die Kernenergie entwickelt?",
+    "Wie kann digitale Technologie dabei helfen, historische Artefakte wie den Stein von Rosette besser zu verstehen?"
+  ],
+  "publishedAt": "2026-11-02T10:07:54.299Z",
+  "sources": [
+    {
+      "title": "Forschung",
+      "url": "https://www.mdr.de/geschichte/mitteldeutschland/forschung",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/heisenbergs-laborbrand-wie-begann-ein-gefaehrliches-zeitalte.jpg",
+    "width": 960,
+    "height": 775,
+    "alt": "Physikalisches Chemie-Labor an der Universität Leipzig mit wissenschaftlichem Gerät",
+    "credit": {
+      "title": "Physical chemistry laboratory at the University of Leipzig - DPLA - 8f202bf3ff93444dfb1cee6ff73405d9.jpg",
+      "author": "unbekannt",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Physical_chemistry_laboratory_at_the_University_of_Leipzig_-_DPLA_-_8f202bf3ff93444dfb1cee6ff73405d9.jpg"
+    }
+  }
+}

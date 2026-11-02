@@ -1,0 +1,94 @@
+{
+  "id": "zombie-sterne-wie-tote-sterne-noch-aktiv-sein-koennen",
+  "category": "astronomie",
+  "title": "Zombie-Sterne: Wie tote Sterne noch aktiv sein können",
+  "teaser": "Was ist ein Zombiesstern? Wir erklären dir, wie Sterne, die eigentlich längst tot sein sollten, immer noch Lebenszeichen zeigen.",
+  "tags": [
+    "Sternenentwicklung",
+    "Weltall",
+    "Astrophysik",
+    "Doppelsternsysteme"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Zombiesterne sind kein offizieller Sternentyp, sondern ein Spitzname für Sterne, die nach ihrem vermeintlichen Tod noch aktiv sind.",
+    "Hauptsächlich sind Weiße Zwerge betroffen, die zwar keine Kernfusion mehr betreiben, aber durch äußere Einflüsse Energie erzeugen können.",
+    "Auch bestimmte Supernova-Überreste zeigen dieses „zombiehafte“ Verhalten, da ein Teil des Sterns gravitativ gebunden bleibt."
+  ],
+  "sections": [
+    {
+      "heading": "Was macht einen Stern zu einem „Zombie“?",
+      "paragraphs": [
+        "Der Begriff „Zombiestern“ ist in der Astronomie ein populärwissenschaftlicher Spitzname. Er beschreibt Sterne, die nach ihrem vermeintlichen Ende noch Aktivität zeigen. Ein Stern ist eigentlich „tot“, wenn er seine Energie nicht mehr durch Kernfusion erzeugt, sondern langsam abkühlt.",
+        "Die Wissenschaft kennt diesen Phänomen noch nicht abschließend. Es gibt keine einheitliche Definition für Zombiesterne. Dennoch gibt es zwei Hauptszenarien, in denen Sterne dieses „lebendige“ Verhalten zeigen: Weiße Zwerge und Überreste von Supernovae."
+      ]
+    },
+    {
+      "heading": "Weiße Zwerge: Energie aus dem Magnetfeld",
+      "paragraphs": [
+        "Weiße Zwerge sind die heißen, dichten Kerne von Sternen, die ihre äußeren Schichten abgestoßen haben. Sie sind im Grunde schon tot, weil die Kernfusion eingestellt ist. Dennoch können sie durch äußere Einflüsse „wach“ bleiben.",
+        "Ein Beispiel dafür ist der stark magnetisierte Weiße Zwerg RXJ0528+2838. Dieser befindet sich in einem engen Doppelsternsystem und ist von einer sogenannten Bugstoßwelle umgeben. Diese Welle entsteht, wo ein Ausfluss geladener Teilchen auf das umgebende Gas trifft. Das Besondere daran: RXJ0528+2838 besitzt keine Akkretionsscheibe, was auf eine bisher unbekannte Energiequelle hindeutet, möglicherweise im starken Magnetfeld des Zwergs. Die Beobachtungen legen nahe, dass dieser Ausfluss schon mindestens etwa 1.000 Jahre andauern könnte."
+      ]
+    },
+    {
+      "heading": "Supernovae: Ein Tod, der nicht ganz abgeschlossen ist",
+      "paragraphs": [
+        "Ein weiterer Weg, wie ein Stern „zombiehaft“ weiterleben kann, ist durch eine bestimmte Art von Supernova. Wenn ein Weißer Zwerg in einem Doppelsternsystem Materie von seinem Begleiter ansammelt und dadurch zu schwer wird, kann im Inneren eine unkontrollierte Kernfusion zünden. Normalerweise würde dies den Stern komplett zerstören.",
+        "Bei einer sogenannten Typ-Iax-Supernova läuft das anders ab. Die thermonukleare Reaktion beginnt nicht überall gleichzeitig, sondern breitet sich langsam durch den Stern aus. Die Explosion schleudert zwar viel Material ins All, aber ein Teil des ursprünglichen Sterns bleibt durch die Schwerkraft gebunden. Dieser Überrest existiert also weiter und gibt vereinzelt noch Lebenszeichen von sich.",
+        "Ein historisches Beispiel ist der Überrest der Supernova SN 1181. Im Zentrum dieses Nebels befindet sich ein Weißer Zwerg, der die Explosion teilweise überstanden hat. Beobachtungen zeigen, dass von ihm ein schneller Sternwind ausgeht. Aktuelle Modelle vermuten, dass Material, das nach der unvollständigen Explosion zurückfiel, eine verzögerte erneute Zündung ausgelöst hat. Dies ist jedoch noch eine Hypothese."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis für diese extremen Phänomene hilft uns, die Grenzen unseres Wissens über Materie und Energie im Universum zu erkennen. Es zeigt, dass selbst scheinbar abgeschlossene Prozesse im Kosmos noch spannende Rätsel bergen.",
+  "glossary": [
+    {
+      "term": "Weißer Zwerg",
+      "definition": "Der heiße, dichte Kern eines Sterns, der nach dem Abstoßen seiner äußeren Schichten übrig bleibt und nicht mehr durch Kernfusion Energie erzeugt."
+    },
+    {
+      "term": "Kernfusion",
+      "definition": "Der Prozess, bei dem leichte Atomkerne im Inneren eines Sterns miteinander verschmelzen und dabei enorme Energiemengen freisetzen."
+    },
+    {
+      "term": "Supernova",
+      "definition": "Eine extrem helle und kurze Explosion eines Sterns, bei der ein großer Teil seines Materials ins All geschleudert wird."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Sternen ist hauptsächlich im Zusammenhang mit „Zombiestern“ im Fokus der wissenschaftlichen Diskussion?",
+    "options": [
+      "Weiße Zwerge",
+      "Rote Riesen",
+      "Neutronensterne"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Quelle nennt Weiße Zwerge als Hauptfokus für dieses Phänomen."
+  },
+  "discussion": [
+    "Wenn ein Stern nach seinem vermeintlichen Tod Energie erzeugt, welche physikalischen Gesetze müssten dann neu betrachtet werden, um diesen Zustand zu erklären?",
+    "Wie beeinflusst die populärwissenschaftliche Benennung wie „Zombiestern“ die wissenschaftliche Arbeit an einem Thema?"
+  ],
+  "publishedAt": "2026-11-02T09:44:17.742Z",
+  "sources": [
+    {
+      "title": "Zombiesterne: Wenn tote Sterne weiterleben",
+      "url": "https://www.raumfahrer.net/zombiesterne-wenn-tote-sterne-weiterleben/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/zombie-sterne-wie-tote-sterne-noch-aktiv-sein-koennen.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Illustration eines Weißen Zwergsterns, der Trümmer aus einem zerstörten Planetensystem ansaugt.",
+    "credit": {
+      "title": "Material Accreting onto the White Dwarf G238-44 (2022-026).jpg",
+      "author": "ILLUSTRATION: NASA, ESA, Joseph Olmsted (STScI)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Material_Accreting_onto_the_White_Dwarf_G238-44_(2022-026).jpg"
+    }
+  }
+}
