@@ -1,0 +1,81 @@
+{
+  "id": "us-wahlen-wie-amerikanische-politik-die-internationale-buehn",
+  "category": "politik",
+  "title": "US-Wahlen: Wie amerikanische Politik die internationale Bühne beeinflusst",
+  "teaser": "Die US-Kongresswahlen sind mehr als nur ein innenpolitischer Test. Sie bestimmen den Spielraum des Präsidenten und beeinflussen globale Beziehungen.",
+  "tags": [
+    "USA",
+    "Außenpolitik",
+    "Wahlen",
+    "Internationales Recht"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die US-Kongresswahlen entscheiden, wie stark Präsident Trump seine Politik durchsetzen kann, und beeinflussen damit die internationale Zusammenarbeit.",
+    "Experten erwarten, dass Trumps außenpolitische Kursführung auch nach diesen Wahlen volatil und konfrontativ bleiben könnte.",
+    "Die Beziehung zwischen Deutschland und den USA wird durch diese Entwicklungen auf die Probe gestellt."
+  ],
+  "sections": [
+    {
+      "heading": "Mehr als nur ein innenpolitischer Test",
+      "paragraphs": [
+        "Wenn in den USA die Kongresswahlen stattfinden, geht es nicht nur um die innenpolitische Stimmung. Diese Wahlen sind ein wichtiger Stimmungstest für den Präsidenten und seine Partei. Sie zeigen, wie viel politischer Spielraum der amtierende Präsident hat, um seine Politik umzusetzen.",
+        "Die Ergebnisse entscheiden, ob die Legislative, also das Repräsentantenhaus und der Senat, die Regierung stark kontrollieren kann. Eine Mehrheit der Opposition könnte beispielsweise Gesetze blockieren oder Untersuchungsausschüsse einsetzen. Dies beeinflusst direkt, wie ungehindert der Präsident handeln kann."
+      ]
+    },
+    {
+      "heading": "Globale Auswirkungen: Die transatlantische Beziehung",
+      "paragraphs": [
+        "Die Politik der USA hat weitreichende Folgen für andere Länder, besonders für Deutschland. Strategien wie Trumps „America first“-Ansatz in der Zollpolitik oder seine Haltung zur internationalen Sicherheit stellen die Bundesregierung vor Herausforderungen. Politiker betonen, dass Deutschland auf diese Entwicklungen genau achten muss.",
+        "Experten erwarten, dass sich die Außenpolitik der USA, unabhängig vom Wahlausgang, nicht grundlegend ändern wird. Einige Fachleute vermuten sogar, dass Trumps Kurs noch konfrontativer werden könnte. Dies führt dazu, dass europäische Staaten angehalten sind, sich unabhängiger zu machen, da die US-Verlässlichkeit in bestimmten Bereichen in Frage gestellt wird."
+      ]
+    },
+    {
+      "heading": "Vertrauen und Partnerschaft unter Druck",
+      "paragraphs": [
+        "Das Vertrauen in die USA als verlässlichen Partner ist teilweise stark belastet. Eine Erhebung der Bertelsmann Stiftung zeigt, dass in Deutschland nur noch jeder vierte die USA als vertrauenswürdigen Partner ansieht. Trotz dieser Zweifel wünschen sich zwei Drittel der Befragten eine engere Zusammenarbeit, wo es sinnvoll ist.",
+        "Aktuelle Themen wie die Unterstützung für die Ukraine oder die Sanktionen gegen Russland zeigen, wie sensibel die Beziehungen sind. Die US-Regierung bewertet zudem ihre militärische Präsenz in Europa neu. Dies zwingt europäische Länder dazu, ihre eigene Sicherheit und Unabhängigkeit stärker in den Fokus zu nehmen."
+      ]
+    }
+  ],
+  "whyItMatters": "Da die USA eine globale Supermacht sind, beeinflusst jede große politische Entscheidung dort die Wirtschaft und Sicherheit weltweit. Du solltest wissen, wie diese Entscheidungen auch dein Zuhause und deine Zukunft betreffen können.",
+  "glossary": [
+    {
+      "term": "Kongress",
+      "definition": "Die gesetzgebende Körperschaft der Vereinigten Staaten, bestehend aus dem Repräsentantenhaus und dem Senat."
+    },
+    {
+      "term": "Transatlantisch",
+      "definition": "Beschreibt Beziehungen oder Politik zwischen Nordamerika (USA) und Europa."
+    },
+    {
+      "term": "Legislative",
+      "definition": "Der Teil der Regierung, der Gesetze erlässt (in den USA der Kongress)."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Organisation hat laut dem Artikel eine Erhebung durchgeführt, die zeigt, dass nur jeder vierte die USA als vertrauenswürdigen Partner in Deutschland ansieht?",
+    "options": [
+      "Die CDU",
+      "Die AfD",
+      "Die Bertelsmann Stiftung"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Bertelsmann Stiftung hat die Erhebung durchgeführt, die dieses Vertrauensniveau in Deutschland festhielt."
+  },
+  "discussion": [
+    "Wie kann eine Nation ihre eigene Sicherheit stärken, wenn sie sich von internationalen Partnern wie den USA unabhängiger machen muss?",
+    "Welche Rolle spielen innenpolitische Prozesse in einem Land, wenn deren Entscheidungen weltweit große Auswirkungen haben?"
+  ],
+  "publishedAt": "2026-11-03T10:24:43.539Z",
+  "sources": [
+    {
+      "title": "US-Wahlen: Wie Trumps Kurs die Bundesregierung herausfordert",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

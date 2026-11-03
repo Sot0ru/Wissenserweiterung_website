@@ -1,0 +1,88 @@
+{
+  "id": "psychedelische-stoffe-beruhigen-aggressive-fische-was-das-be",
+  "category": "wissenschaft",
+  "title": "Psychedelische Stoffe beruhigen aggressive Fische – Was das bedeutet",
+  "teaser": "Ein Wirkstoff aus Magischampignons zeigt eine unerwartete Wirkung: Er kann aggressives Verhalten bei Fischen reduzieren. Wir erklären, was Forscher dabei herausgefunden haben.",
+  "tags": [
+    "Neurobiologie",
+    "Verhalten",
+    "Substanzwirkung",
+    "Forschung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher untersuchten, wie psilocybin, ein psychedelischer Stoff aus Magischampignons, das Verhalten von aggressiven Mangroven-Rivulus-Fischen beeinflusst.",
+    "Es wurde festgestellt, dass eine niedrige Dosis das aggressive Verhalten reduzierte, ohne die normalen sozialen Interaktionen der Fische zu unterbrechen.",
+    "Diese Ergebnisse geben erste Hinweise darauf, dass psilocybin spezifische, hochintensive Verhaltensweisen beeinflussen kann."
+  ],
+  "sections": [
+    {
+      "heading": "Was passiert, wenn du ein psychedelisches Mittel gibst?",
+      "paragraphs": [
+        "Psilocybin ist ein psychoaktiver Stoff, der in über 200 Arten von Magischampignons vorkommt. Wir kennen diesen Stoff oft aus Diskussionen über seine Wirkung auf den Menschen, wo er die Stimmung und Aggression beeinflussen kann. Doch Forscher haben eine überraschende Beobachtung gemacht: Psilocybin kann auch sehr aggressive Fische beruhigen.",
+        "In Kanada untersuchten Wissenschaftler diesen Effekt an Mangroven-Rivulus-Fischen. Diese Fische sind von Natur aus sehr kämpferisch, besonders wenn sie andere Exemplare ihrer Art treffen. Das macht sie für Experimente ideal, da ihr aggressives Verhalten gut messbar ist.",
+        "Die Forscher gaben den Fischen eine niedrige Dosis Psilocybin und beobachteten, wie sich ihr Verhalten änderte. Die Ergebnisse zeigen, dass bereits eine kurze Exposition die Aggressivität signifikant senkte, ohne dass die Fische ihre normalen sozialen Verhaltensweisen aufgaben."
+      ]
+    },
+    {
+      "heading": "Selektive Beruhigung statt kompletter Stopp-Knopf",
+      "paragraphs": [
+        "Das Besondere an dieser Studie ist die Selektivität der Wirkung. Psilocybin hat nicht einfach alle Bewegungen der Fische gedämpft. Vielmehr reduzierte es die sogenannten „Schwimm-Bursts“. Diese schnellen, energiereichen Schwimmattacken gelten als Anzeichen dafür, dass ein Konflikt eskaliert und kurz vor einem Angriff steht.",
+        "Gleichzeitig blieben andere, weniger energiefordernde soziale Signale – wie bestimmte Kopfhaltungen – weitgehend unverändert. Das deutet darauf hin, dass der Stoff gezielt die hochintensiven, konfliktsteigernden Verhaltensweisen beeinflusst, anstatt das gesamte Verhalten des Tieres abzuschalten.",
+        "Die Wissenschaftler betonen jedoch, dass diese Ergebnisse nur aus Tierstudien stammen. Sie sind kein Beweis dafür, dass Psilocybin in Menschen zur Behandlung von Aggression eingesetzt werden kann. Weitere Untersuchungen sind nötig, um zu verstehen, wie lange die Beruhigungswirkung anhält und welche biologischen Mechanismen dahinterstecken."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist relevant, weil es zeigt, wie komplexe Stoffe spezifische Verhaltensmuster beeinflussen können. Solche Erkenntnisse helfen, besser zu verstehen, wie unser Gehirn und das Verhalten anderer Lebewesen auf chemische Einflüsse reagieren.",
+  "glossary": [
+    {
+      "term": "Psilocybin",
+      "definition": "Ein psychoaktiver Stoff, der in bestimmten Pilzarten vorkommt und auf das zentrale Nervensystem wirkt."
+    },
+    {
+      "term": "Aggressiv",
+      "definition": "Ein Verhalten, das darauf abzielt, einen Konflikt zu beginnen oder Schaden zuzufügen."
+    },
+    {
+      "term": "Schwimm-Bursts",
+      "definition": "Kurze, hochintensive Schwimmattacken bei Fischen, die als Zeichen einer eskalierenden Aggression gelten."
+    }
+  ],
+  "quiz": {
+    "question": "Was war das auffälligste Ergebnis der Studie bezüglich der Wirkung von Psilocybin auf die Fische?",
+    "options": [
+      "Es stoppte alle Bewegungen der Fische vollständig.",
+      "Es führte dazu, dass die Fische sich selbst befruchteten.",
+      "Es reduzierte die energiereichen, eskalierenden Angriffe, während soziale Signale blieben."
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Forscher stellten fest, dass Psilocybin selektiv die hochintensiven Angriffe reduzierte, aber die weniger energiefordernden sozialen Interaktionen weitgehend unverändert ließ."
+  },
+  "discussion": [
+    "Wie unterscheidet sich die Forschung an Tierverhalten von der Forschung am Menschen, wenn es um die Wirkung von psychoaktiven Substanzen geht?",
+    "Welche ethischen Fragen entstehen, wenn wir Stoffe untersuchen, die starke Auswirkungen auf das Verhalten von Lebewesen haben?"
+  ],
+  "publishedAt": "2026-11-03T10:13:00.268Z",
+  "sources": [
+    {
+      "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/psychedelische-stoffe-beruhigen-aggressive-fische-was-das-be.jpg",
+    "width": 960,
+    "height": 702,
+    "alt": "Mangrove Killifish in einem tropischen Aquarium, das Thema der Forschungen.",
+    "credit": {
+      "title": "Mangrove Killifish.jpg",
+      "author": "Vassil Oregon State University",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mangrove_Killifish.jpg"
+    }
+  }
+}

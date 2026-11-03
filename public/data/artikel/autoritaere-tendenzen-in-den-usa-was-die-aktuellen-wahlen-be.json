@@ -1,0 +1,94 @@
+{
+  "id": "autoritaere-tendenzen-in-den-usa-was-die-aktuellen-wahlen-be",
+  "category": "politik",
+  "title": "Autoritäre Tendenzen in den USA: Was die aktuellen Wahlen bedeuten",
+  "teaser": "Ein Historiker warnt davor, dass die USA in eine autoritäre Phase geraten sein könnten. Welche Rolle spielen die nächsten Wahlen für die Zukunft der amerikanischen Demokratie?",
+  "tags": [
+    "USA",
+    "Demokratie",
+    "Wahlen",
+    "Politiksystem",
+    "Gewaltenteilung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Ein Historiker sieht unter Donald Trump autoritäre Merkmale in der US-Politik, die durch die Machtverschiebung zwischen Präsident und Kongress verstärkt wurden.",
+    "Die kommenden Wahlen werden entscheidend dafür sein, ob dieser autoritäre Weg gestoppt werden kann, obwohl der Präsident weiterhin weitreichende Befugnisse besitzt.",
+    "Die Diskussion dreht sich darum, ob die USA noch eine intakte Demokratie sind, in der der Verlierer einer Wahl das Ergebnis anerkennt."
+  ],
+  "sections": [
+    {
+      "heading": "Die Debatte um die US-Demokratie",
+      "paragraphs": [
+        "Die politische Landschaft in den USA wird intensiv diskutiert. Ein Historiker, Manfred Berg, äußert die Ansicht, dass die USA unter der Herrschaft von Donald Trump eine autoritäre Phase erreicht haben könnten. Die Frage, ob diese Entwicklung anhält, hängt laut Berg von den kommenden Wahlen ab.",
+        "Es wird hinterfragt, ob das politische System präsidentieller, autoritärer oder sogar monarchischer geworden ist, besonders wenn man die Einbindung der Trump-Familie in wirtschaftliche und diplomatische Bereiche mitzählt. Berg sieht hier keinen Zweifel an einer Tendenz hin zu mehr Autoritarismus."
+      ]
+    },
+    {
+      "heading": "Wie wird Macht in Washington verteilt?",
+      "paragraphs": [
+        "Die Machtbalance zwischen Präsident und Kongress ist ein zentrales Thema. Berg erklärt, dass Trump seine Macht durch eine Strategie der Einschüchterung erlangt hat. Er bedrohte republikanische Abgeordnete damit, dass er gegen alle Abweichler Wahlkampf in den Vorwahlen durchführen ließ.",
+        "Diese Taktik führte dazu, dass Kritiker innerhalb der Partei, wie Liz Cheney und Adam Kinzinger, aus der Partei gedrängt wurden. Die Befugnisse des Präsidenten, wie das Veto oder die Nutzung von Dekreten, bleiben auch bei einem Wechsel in der Mehrheit bestehen. Selbst wenn die Demokraten gewinnen, könnten sie zwar Untersuchungsausschüsse einrichten und Impeachment-Verfahren starten, doch die Überstimmung eines Vetos erfordert eine Zweidrittelmehrheit, die derzeit nicht in Sicht ist."
+      ]
+    },
+    {
+      "heading": "Checks and Balances unter Druck",
+      "paragraphs": [
+        "Die traditionellen Kontrollmechanismen („Checks and Balances“) der US-Demokratie stehen laut Berg unter Druck. Trump habe die weitreichenden präsidialen Befugnisse so interpretiert, dass er sich als gewählter Diktator sieht und dies durchsetzen wollte. Versuche, wie etwa die Verhinderung der Zählung bestimmter Wahlzettel in Kalifornien, zeigen diesen Versuch.",
+        "Experten weisen darauf hin, dass die USA bereits seit Jahren in Demokratieindizes herabgestuft werden. Manche sprechen von einer „elektoralen Demokratie“, in der zwar Wahlen stattfinden, aber Tendenzen zu autoritären Regimen sichtbar sind. Die Fähigkeit einer Demokratie, ihren Verlierern das Ergebnis anzuerkennen, gilt als kritischer Punkt für die Stabilität des Systems."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es zeigt, wie sich politische Systeme weltweit verändern können. Es geht darum zu verstehen, was eine stabile Demokratie ausmacht und warum Regeln wie die Gewaltenteilung so wichtig sind.",
+  "glossary": [
+    {
+      "term": "Autoritäres Regime",
+      "definition": "Ein Regierungssystem, bei dem die Macht stark zentralisiert ist und die Bürger wenig Einfluss auf politische Entscheidungen haben."
+    },
+    {
+      "term": "Checks and Balances",
+      "definition": "Das System der gegenseitigen Kontrolle zwischen den Staatsgewalten (Legislative, Exekutive, Judikative), um Machtmissbrauch zu verhindern."
+    },
+    {
+      "term": "Impeachment",
+      "definition": "Ein formelles Verfahren, mit dem ein Amtsträger (wie der Präsident) wegen schwerer Verfehlungen angeklagt und gegebenenfalls abgesetzt werden kann."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut Manfred Berg ein zentrales Problem für die Stabilität der US-Demokratie?",
+    "options": [
+      "Die Fähigkeit einer Demokratie, den Verlierern einer Wahl das Ergebnis anzuerkennen.",
+      "Die zu geringe Anzahl an Untersuchungsausschüssen im Kongress.",
+      "Die mangelnde Unterstützung des Präsidenten durch die Militärs."
+    ],
+    "answerIndex": 0,
+    "explanation": "Berg betont, dass eine Demokratie auf der Anerkennung des Wahlergebnisses durch alle Parteien beruht."
+  },
+  "discussion": [
+    "Welche Rolle spielt die öffentliche Meinung in einer Demokratie, wenn politische Führer versuchen, das Vertrauen in Wahlen zu unterminieren?",
+    "Wie kann ein politisches System die Macht eines einzelnen Präsidenten begrenzen, wenn dieser über weitreichende Befugnisse verfügt und die Opposition schwach ist?"
+  ],
+  "publishedAt": "2026-11-03T10:18:53.061Z",
+  "sources": [
+    {
+      "title": "Midterms: \"Entscheidende Wahl für Entwicklung der US-Demokratie\"",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/autoritaere-tendenzen-in-den-usa-was-die-aktuellen-wahlen-be.jpg",
+    "width": 960,
+    "height": 641,
+    "alt": "Gavin Newsom hält Pressekonferenz und spricht über eine Notlage für die Demokratie.",
+    "credit": {
+      "title": "Governor Newsom press conference.jpg",
+      "author": "Governor Newsom Press Office",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Governor_Newsom_press_conference.jpg"
+    }
+  }
+}

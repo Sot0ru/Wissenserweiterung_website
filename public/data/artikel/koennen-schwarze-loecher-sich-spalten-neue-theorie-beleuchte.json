@@ -1,0 +1,96 @@
+{
+  "id": "koennen-schwarze-loecher-sich-spalten-neue-theorie-beleuchte",
+  "category": "astronomie",
+  "title": "Können Schwarze Löcher sich spalten? Neue Theorie beleuchtet extreme Physik",
+  "teaser": "Schwarze Löcher verschmelzen, aber was wäre, wenn sie sich teilen könnten? Forscher haben eine theoretische Möglichkeit gefunden, die gegen gängige physikalische Regeln verstößt.",
+  "tags": [
+    "Weltall",
+    "Physik",
+    "Gravitation",
+    "Theorie",
+    "Kosmos"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Theoretische Studien legen nahe, dass unter extremen Bedingungen ein einzelnes Schwarzes Loch sich in zwei kleinere teilen könnte.",
+    "Die Hauptbarrieren sind die Thermodynamik (Entropie) und die Notwendigkeit, dass die beiden Teile sich voneinander trennen können.",
+    "Diese Phänomene sind extrem selten und müssten durch zukünftige Teleskope indirekt nachgewiesen werden."
+  ],
+  "sections": [
+    {
+      "heading": "Die Physik der Schwarzen Löcher: Mergen statt Spalten",
+      "paragraphs": [
+        "Schwarze Löcher sind bekannt dafür, dass sie kollidieren und zu einem größeren Objekt verschmelzen. Doch die Frage, ob das Gegenteil passieren könnte – ob ein einzelnes Schwarzes Loch sich teilen kann – ist ein faszinierendes theoretisches Problem der Physik. Eine neue Studie untersucht, welche physikalischen Gesetze normalerweise verhindern, dass diese gigantischen Objekte zerfallen.",
+        "Normalerweise verhindert die Thermodynamik, also die Lehre von Energie und Systemänderungen, eine Teilung. Ein zentraler Begriff hier ist die Entropie. Schwarze Löcher besitzen Entropie, und die Teilung in zwei kleinere Objekte würde die Gesamtentropie verringern. Dieser Rückgang ist thermodynamisch ungünstig und erklärt, warum sie normalerweise stabil bleiben."
+      ]
+    },
+    {
+      "heading": "Extremes Drehen als theoretischer Ausweg",
+      "paragraphs": [
+        "Die Forscher fanden jedoch eine mögliche Ausnahme: Wenn ein Schwarzes Loch extrem schnell rotiert, könnte dies eine Lücke in den physikalischen Regeln schaffen. Die Berechnungen deuten darauf hin, dass eine ausreichend schnelle Rotation die üblichen thermodynamischen Einschränkungen überwinden könnte.",
+        "Aber es gibt weitere Hürden. Selbst wenn eine Teilung möglich wäre, müssten die beiden entstehenden Schwarzen Löcher weit genug auseinanderdriften, um nicht sofort wieder zu kollidieren. Diese Bedingung schränkt die Möglichkeit stark ein und lässt nur noch Fälle zu, in denen das Loch nahe an seiner maximal möglichen Rotationsgeschwindigkeit ist.",
+        "Der ungewöhnliche Titel der Studie bezieht sich dabei auf die Form des Horizonts – der Grenze des Schwarzen Lochs. Bei einer hypothetischen Teilung würde diese Grenze wie ein Paar Hosen in zwei separate Teile zerfallen."
+      ]
+    },
+    {
+      "heading": "Exotische Szenarien und die Zukunft der Forschung",
+      "paragraphs": [
+        "Die Wissenschaftler untersuchten auch exotischere Szenarien, die Theorien beinhalten, bei denen unser Universum mehr als die drei bekannten Raumdimensionen besitzt. In diesen theoretischen Modellen sind Objekte, die Schwarzen Löchern ähneln, instabil und könnten zerfallen.",
+        "Aktuell gibt es keine bestätigte Beobachtung einer solchen Teilung. Die Wahrscheinlichkeit hängt davon ab, wie die Gravitation jenseits von Einsteins Theorie funktioniert. Die Forscher vermuten, dass kleinere, primordiale Schwarze Löcher eher zur Teilung neigen könnten als sehr große, astrophysikalische Objekte.",
+        "Mögliche Hinweise könnten indirekt gefunden werden: Gamma-Ray-Teleskope könnten nach Signalen von winzigen Fragmenten suchen, die bei Verschmelzungen entstehen könnten."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, dass die Naturgesetze an ihren Grenzen stoßen. Es geht darum zu verstehen, was passiert, wenn die extremsten Bedingungen im Universum – wie die Nähe zu einem Schwarzen Loch – herrschen. Solche Forschung hilft uns, die Grundlagen der Physik besser zu verstehen.",
+  "glossary": [
+    {
+      "term": "Thermodynamik",
+      "definition": "Die Wissenschaft, die beschreibt, wie Energie in physikalischen Systemen funktioniert und wie sich Systeme verändern."
+    },
+    {
+      "term": "Entropie",
+      "definition": "Ein Maß dafür, wie viele verschiedene mikroskopische Anordnungen ein System haben kann, während es von außen gleich aussieht."
+    },
+    {
+      "term": "Horizont",
+      "definition": "Die Grenze eines Schwarzen Lochs. Wenn etwas diesen Horizont überschreitet, kann es nicht mehr entkommen."
+    }
+  ],
+  "quiz": {
+    "question": "Welches physikalische Konzept erklärt, warum die Teilung eines Schwarzen Lochs normalerweise thermodynamisch ungünstig ist?",
+    "options": [
+      "Die zusätzlichen Raumdimensionen",
+      "Die Entropie",
+      "Die extreme Rotation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Entropie ist ein Maß, das bei der Teilung in kleinere Objekte eine Verringerung bedeuten würde, was thermodynamisch ungünstig ist."
+  },
+  "discussion": [
+    "Welche Rolle spielt die theoretische Physik im Vergleich zur beobachtbaren Wissenschaft, wenn es um extrem seltene Ereignisse im Universum geht?",
+    "Wenn wir unsere aktuellen physikalischen Gesetze erweitern müssten, um Phänomene wie die Teilung eines Schwarzen Lochs zu erklären, welche anderen Naturgesetze müssten wir vielleicht neu definieren?"
+  ],
+  "publishedAt": "2026-11-03T09:56:22.275Z",
+  "sources": [
+    {
+      "title": "Scientists just found a loophole that could let black holes split in two",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/koennen-schwarze-loecher-sich-spalten-neue-theorie-beleuchte.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Turbulenter Akkretionsscheibe um ein Schwarzes Loch, verzerrt durch extreme Gravitation.",
+    "credit": {
+      "title": "Black hole's accretion disk.jpg",
+      "author": "NASA’s Goddard Space Flight Center/Jeremy Schnittman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_hole%27s_accretion_disk.jpg"
+    }
+  }
+}

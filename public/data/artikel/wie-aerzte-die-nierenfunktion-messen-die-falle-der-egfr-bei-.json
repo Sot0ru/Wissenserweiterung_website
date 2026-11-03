@@ -1,0 +1,86 @@
+{
+  "id": "wie-aerzte-die-nierenfunktion-messen-die-falle-der-egfr-bei-",
+  "category": "medizin",
+  "title": "Wie Ärzte die Nierenfunktion messen: Die Falle der eGFR bei Krebspatienten",
+  "teaser": "Die gängige Methode zur Schätzung der Nierenleistung kann bei bestimmten Patienten irreführend sein. Wir erklären, was die eGFR ist und warum sie bei Krebsbehandlungen wichtig ist.",
+  "tags": [
+    "Nierenfunktion",
+    "Krebstherapie",
+    "Diagnostik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die geschätzte glomeruläre Filtrationsrate (eGFR) kann bei Patienten mit soliden Tumoren die tatsächliche Nierenfunktionsstörung unterschätzen.",
+    "Eine Studie mit 1.200 Erwachsenen zeigte, dass die eGFR, die auf Kreatinin basiert, ungenau ist, wenn Krebs vorliegt.",
+    "Diese Ungenauigkeit kann wichtige Entscheidungen bei der Krebstherapie beeinflussen, weshalb präzisere Messungen nötig sind."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist die Nierenfunktion und warum messen wir sie?",
+      "paragraphs": [
+        "Deine Nieren sind extrem wichtig für den Körper. Sie filtern ständig Blut und entfernen Abfallstoffe, überschüssiges Wasser und Salz. Um zu überprüfen, wie gut sie arbeiten, nutzen Ärzte verschiedene Methoden. Eine wichtige Kennzahl dafür ist die glomeruläre Filtrationsrate (GFR). Ganz einfach gesagt, die GFR gibt an, wie viel Blut pro Minute die Nieren reinigen können.",
+        "Oft wird die GFR nicht direkt gemessen, sondern geschätzt. Man nennt diese Schätzung die eGFR (geschätzte GFR). Dabei wird meistens der Kreatininspiegel im Blut gemessen. Kreatinin ist ein Abfallprodukt, das entsteht, wenn Muskeln arbeiten. Wenn die Nieren schlecht filtern, steigt der Kreatininwert im Blut an – und das signalisiert eine eingeschränkte Funktion."
+      ]
+    },
+    {
+      "heading": "Die eGFR-Falle bei Krebspatienten",
+      "paragraphs": [
+        "Doch diese einfache Berechnung hat eine Tücke. Laut einer Studie, die Forscher von der Universität São Paulo durchführten, kann die kreatininbasierte eGFR bei Menschen mit soliden Tumoren das wahre Ausmaß einer Nierenfunktionsstörung stark unterschätzen. Das ist ein ernstes Problem, denn die Nierenfunktion ist ein entscheidender Faktor bei der Planung und Durchführung einer Krebstherapie.",
+        "In dieser Studie verglichen Forscher die tatsächliche GFR (mGFR, gemessene GFR) mit der geschätzten GFR (eGFR). Die mGFR wurde sehr genau durch die Messung der Plasma-Clearance von 51 Cr-EDTA bestimmt. Die eGFR hingegen wurde wie gewohnt anhand von Kreatinin oder einer Kombination aus Kreatinin und Cystatin C berechnet.",
+        "Die Ergebnisse zeigten, dass die eGFR bei dieser Gruppe von 1.200 Erwachsenen mit soliden Tumoren nicht immer die Realität abbildet. Das bedeutet, ein Patient könnte auf Papier als besser funktionierend gelten, als er tatsächlich ist."
+      ]
+    }
+  ],
+  "whyItMatters": "Für dich ist es wichtig zu wissen, dass medizinische Diagnosen nicht immer perfekt sind. Dieses Beispiel zeigt, dass selbst etablierte Messmethoden unter bestimmten Bedingungen, wie zum Beispiel bei einer schweren Krankheit, ungenau werden können. Das hilft dir zu verstehen, warum Ärzte immer verschiedene Tests kombinieren.",
+  "glossary": [
+    {
+      "term": "GFR (Glomeruläre Filtrationsrate)",
+      "definition": "Der Wert, der angibt, wie viel Blut pro Minute die Nieren reinigen können."
+    },
+    {
+      "term": "eGFR (Geschätzte GFR)",
+      "definition": "Eine Schätzung der Nierenleistung, die meist anhand des Kreatininspiegels im Blut berechnet wird."
+    },
+    {
+      "term": "Kreatinin",
+      "definition": "Ein Abfallprodukt, das entsteht, wenn Muskeln arbeiten und das die Nieren ausscheiden."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Methode wurde in der Studie verwendet, um die tatsächliche GFR (mGFR) zu bestimmen?",
+    "options": [
+      "Die Berechnung anhand von Kreatinin und Cystatin C",
+      "Die einfache Blutuntersuchung des Kreatininspiegels",
+      "Die Messung der Plasma-Clearance von 51 Cr-EDTA"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die mGFR wurde durch die Messung der Plasma-Clearance von 51 Cr-EDTA ermittelt, was eine präzisere Methode ist als die reine Schätzung."
+  },
+  "discussion": [
+    "Wie glaubst du, sollte das medizinische System reagieren, wenn eine Standarddiagnose (wie die eGFR) bei einer speziellen Patientengruppe systematisch fehlerhaft ist?",
+    "Welche Rolle spielen im Gesundheitswesen die Unterschiede zwischen einer „Schätzung“ und einer „direkten Messung“?"
+  ],
+  "publishedAt": "2026-11-03T09:34:48.264Z",
+  "sources": [
+    {
+      "title": "Kreatininbasierte eGFR überschätzt Nierenfunktion bei Krebspatienten häufig",
+      "url": "https://www.aerzteblatt.de/news/kreatininbasierte-egfr-uberschatzt-nierenfunktion-bei-krebspatienten-haufig-a94a2bbe-bd90-4513-9c7e-decdaf5cdfdb",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-aerzte-die-nierenfunktion-messen-die-falle-der-egfr-bei-.jpg",
+    "width": 960,
+    "height": 1521,
+    "alt": "Holzschnitt, der die Nieren darstellt, illustriert ein medizinisches Konzept.",
+    "credit": {
+      "title": "Kidney (shen) and Portal of Life (mingmen), Chinese, Ming Wellcome L0034721.jpg",
+      "author": "unbekannt",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kidney_(shen)_and_Portal_of_Life_(mingmen),_Chinese,_Ming_Wellcome_L0034721.jpg"
+    }
+  }
+}
