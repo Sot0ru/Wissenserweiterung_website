@@ -1,0 +1,98 @@
+{
+  "id": "wenn-satelliten-fallen-was-passiert-wenn-ein-forschungsgerae",
+  "category": "wissenschaft",
+  "title": "Wenn Satelliten fallen: Was passiert, wenn ein Forschungsgerät aus dem Orbit gerät?",
+  "teaser": "Der NASA-Satellit Swift untersuchte gewaltige Energieausbrüche im All. Doch nach einem gescheiterten Rettungsversuch stürzte er in die Erdatmosphäre.",
+  "tags": [
+    "Weltraum",
+    "Technik",
+    "Astronomie",
+    "NASA",
+    "Orbit"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Der Forschungs-Satellit Swift, der gewaltige Energieausbrüche im Universum (Gammablitze) untersuchte, stürzte nach einem technischen Problem in die Erdatmosphäre.",
+    "Die NASA versuchte, das unbemannte Schiff mit einer Rettungsmission zurück in die Umlaufbahn zu bringen, doch die Steuerung des Schleppraumschiffs „Link“ funktionierte nicht.",
+    "Das Ereignis zeigt die Herausforderungen bei der Wartung und Rettung wichtiger Raumfahrtmissionen."
+  ],
+  "sections": [
+    {
+      "heading": "Was macht der Satellit Swift eigentlich?",
+      "paragraphs": [
+        "Stell dir ein Gerät vor, das tief in den Weltraum schaut und die heftigsten Energieereignisse des Universums aufzeichnet. Genau das war der Satellit Swift. Dieses unbemannte Himmelsobservatorium wurde 2004 von Cape Canaveral ins All gebracht.",
+        "Seine Hauptaufgabe war die Beobachtung von sogenannten Gammablitzen. Das sind gewaltige Energieausbrüche, die im Universum stattfinden. Die Daten, die Swift lieferte, waren für die Wissenschaft extrem wichtig."
+      ]
+    },
+    {
+      "heading": "Die Krise: Warum geriet der Satellit aus dem Orbit?",
+      "paragraphs": [
+        "Obwohl Swift in gutem Zustand war, geriet er durch äußere Einflüsse ins Taumeln. Insbesondere starke geomagnetische Stürme, die durch Sonnenausbrüche ausgelöst wurden, führten zu dieser Störung.",
+        "Weil die Forschungsdaten so zentral waren, beschloss die NASA, eine beispiellose Rettungsmission zu starten. Sie schickte das unbemannte Schleppraumschiff „Link“ in den Südpazifik, um sich dem Satelliten zu nähern."
+      ]
+    },
+    {
+      "heading": "Der Rettungsversuch scheitert",
+      "paragraphs": [
+        "Das rund 400 Kilogramm schwere Raumschiff „Link“ sollte Swift in seine ursprüngliche Umlaufbahn zurückbringen. Leider gab es bei der Steuerung dieses Schleppraumschiffs ein Problem. Der Rettungsversuch musste daher abgebrochen werden.",
+        "Als das Schiff nicht mehr stabil in der Bahn war, trat der Satellit Swift in die Erdatmosphäre ein und verglühte dort, ungefähr über Indonesien. Dieses Ereignis verdeutlicht die enormen technischen Herausforderungen, die bei der Wartung von Objekten im Weltraum entstehen können."
+      ]
+    }
+  ],
+  "whyItMatters": "Weltraummissionen sind extrem komplex. Dieses Ereignis zeigt, dass selbst hochentwickelte Technologie anfällig für Naturphänomene und technische Fehler sein kann. Es verdeutlicht, wie wichtig Forschung ist, auch wenn die Hardware manchmal versagt.",
+  "glossary": [
+    {
+      "term": "Gammablitze",
+      "definition": "Extrem energiereiche Ausbrüche im Universum, die von gewaltigen kosmischen Ereignissen stammen."
+    },
+    {
+      "term": "Umlaufbahn",
+      "definition": "Der feste, wiederkehrende Weg, den ein Satellit um einen Himmelskörper (wie die Erde) beschreibt."
+    },
+    {
+      "term": "Geomagnetische Stürme",
+      "definition": "Starke Schwankungen des Erdmagnetfeldes, oft ausgelöst durch Sonneneruptionen."
+    },
+    {
+      "term": "Schleppraumschiff",
+      "definition": "Ein Raumfahrzeug, das dazu dient, ein anderes, möglicherweise defektes Raumobjekt zu fangen und zu manövrieren."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Energieereignissen untersuchte der Satellit Swift?",
+    "options": [
+      "Meteoriteneinschläge",
+      "Gammablitze",
+      "Sonnenflecken"
+    ],
+    "answerIndex": 1,
+    "explanation": "Der Satellit Swift war dafür zuständig, gewaltige Energieausbrüche im Universum, die als Gammablitze bezeichnet werden, zu untersuchen."
+  },
+  "discussion": [
+    "Welche Prioritäten sollte die NASA setzen: die reine Forschung oder die Sicherung und Wartung der bereits bestehenden, wertvollen Instrumente im Weltraum?",
+    "Wie könnte die internationale Zusammenarbeit bei der Rettung von Satelliten aussehen, wenn ein Land die Technologie nicht besitzt, um ein fremdes Forschungsobjekt zu retten?"
+  ],
+  "publishedAt": "2026-11-05T09:52:07.102Z",
+  "sources": [
+    {
+      "title": "Rettungsmission gescheitert - NASA-Satellit stürzt auf Erde",
+      "url": "https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wenn-satelliten-fallen-was-passiert-wenn-ein-forschungsgerae.jpg",
+    "width": 960,
+    "height": 686,
+    "alt": "NASA's Swift Gamma Ray Burst Detecting Satellite, das Forschungsgerät.",
+    "credit": {
+      "title": "Nasa swift satellite.jpg",
+      "author": "NASA E/PO, Sonoma State University/Aurore Simonnet",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nasa_swift_satellite.jpg"
+    }
+  }
+}

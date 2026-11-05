@@ -1,0 +1,83 @@
+{
+  "id": "fuehrerschein-reform-wie-soll-der-fuehrerschein-guenstiger-u",
+  "category": "politik",
+  "title": "Führerschein-Reform: Wie soll der Führerschein günstiger und moderner werden?",
+  "teaser": "Die Kosten für den Führerschein steigen stark an. Neue Pläne im Bundestag sollen den Erwerb erleichtern und die Ausbildung modernisieren.",
+  "tags": [
+    "Verkehr",
+    "Gesetzgebung",
+    "Bildung",
+    "Kosten"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die geplante Führerscheinreform soll die Kosten für die Fahrerlaubnis senken und die Ausbildung flexibler gestalten.",
+    "Änderungen umfassen weniger Pflichtstunden, die Möglichkeit des digitalen Unterrichts und die Laienausbildung.",
+    "Die Reform wird vom Bundestag diskutiert, um den gestiegenen Kosten entgegenzuwirken."
+  ],
+  "sections": [
+    {
+      "heading": "Warum die Reform überhaupt nötig ist",
+      "paragraphs": [
+        "Der Erwerb eines Führerscheins der Klasse B wird immer teurer. Laut dem Bundesverkehrsministerium liegen die aktuellen Durchschnittskosten bei rund 3.400 Euro. Im Vergleich dazu sind die Kosten von 2021 bis 2024 laut Statistischem Bundesamt überdurchschnittlich stark gestiegen, stärker als die allgemeinen Verbraucherpreise.",
+        "Die geplante Reform zielt genau darauf ab, diesen Kostenanstieg abzumildern. Bundesverkehrsminister Steffen Bilger (CDU) gibt an, dass Fahrschüler durch die neuen Regeln mehrere hundert Euro, im besten Fall sogar bis zu 1.000 Euro sparen könnten."
+      ]
+    },
+    {
+      "heading": "Was ändert sich im Theorie- und Praxisunterricht?",
+      "paragraphs": [
+        "Die Änderungen betreffen sowohl den theoretischen als auch den praktischen Teil der Ausbildung. Im Theorieunterricht soll die Pflicht zum Präsenzunterricht entfallen. Fahrschulen können stattdessen vermehrt digitale Angebote, zum Beispiel über Apps, nutzen. Auch die Vorgaben zu Schulungsräumen und der Reihenfolge der Inhalte sollen abgeschafft werden.",
+        "Bei der theoretischen Prüfung soll die Bewertung vereinfacht werden: Jede Frage zählt nur noch einen Punkt, anstatt eine gewichtete Bewertung mit mehreren Fehlerpunkten zu haben. Allerdings bleiben sicherheitsrelevante Fragen weiterhin kritisch zu beantworten.",
+        "Auch bei den Sonderfahrten gibt es Lockerungen. Die feste Vorgabe von zwölf 45-minütigen Fahrten, etwa bei Dunkelheit oder auf Autobahnen, soll entfallen. Die Fahrschulen können die benötigte Stundenzahl künftig an die individuellen Fähigkeiten des Fahrschülers anpassen.",
+        "Ein wichtiger Punkt ist die sogenannte Laienausbildung. Ähnlich wie in Luxemburg oder Österreich könnte zukünftig die Übung mit einer nahestehenden Person, wie Eltern oder Großeltern, erlaubt sein. Dafür müssten die Theorieprüfung bestanden und sechs praktische Fahrstunden absolviert sein. Die genauen Regeln für Begleitpersonen sind noch im Entwurf unklar."
+      ]
+    },
+    {
+      "heading": "Mehr Transparenz für Fahrschüler",
+      "paragraphs": [
+        "Um die Preisgestaltung fairer zu machen, sollen künftig die Preise und Erfolgsquoten aller Fahrschulen online veröffentlicht werden. Das soll helfen, die oft komplizierte Preisstruktur, die von Grundgebühr bis zu Lernmaterial reicht, besser einschätzen zu können.",
+        "Zudem sollen Fahrschulen bei vielen Dokumentations- und Aufzeichnungspflichten entlastet werden. Die Reform soll Anfang 2027 in Kraft treten, sofern Bundestag und Bundesrat zustimmen."
+      ]
+    }
+  ],
+  "whyItMatters": "Da der Führerschein für viele den Zugang zum Arbeitsleben und zur Mobilität sichert, sind die Kosten und die Bedingungen für den Erwerb sehr relevant. Diese Reform könnte den Einstieg in das Autofahren für junge Menschen finanziell einfacher gestalten.",
+  "glossary": [
+    {
+      "term": "Bundestag",
+      "definition": "Das deutsche Parlament, in dem Gesetze diskutiert und beschlossen werden."
+    },
+    {
+      "term": "Klasse B",
+      "definition": "Die Führerscheinklasse, die das Fahren von PKWs erlaubt."
+    },
+    {
+      "term": "Laienausbildung",
+      "definition": "Die Möglichkeit, Übungsfahrten mit einer bestimmten, nahestehenden Person durchzuführen, anstatt nur mit einem professionellen Fahrlehrer."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Zahl gibt laut dem Bundesverkehrsministerium den aktuellen Durchschnittspreis für den Führerschein der Klasse B an?",
+    "options": [
+      "3.400 Euro",
+      "5,8 Prozent",
+      "1.000 Euro"
+    ],
+    "answerIndex": 0,
+    "explanation": "Das Bundesverkehrsministerium gibt die Kosten derzeit im Schnitt bei rund 3.400 Euro an."
+  },
+  "discussion": [
+    "Wie wirkt sich eine stärkere Digitalisierung der Ausbildung auf die Qualität des Fahrlehrers und die Sicherheit auf der Straße aus?",
+    "Ist es sinnvoll, staatliche Vorgaben für die Preise von Fahrschulen einzuführen, oder sollte der Markt frei bleiben?"
+  ],
+  "publishedAt": "2026-11-05T10:40:18.211Z",
+  "sources": [
+    {
+      "title": "Wie der Führerschein günstiger werden soll",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

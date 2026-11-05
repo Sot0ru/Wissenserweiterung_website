@@ -1,0 +1,89 @@
+{
+  "id": "bewegungsmangel-bei-jugendlichen-was-sagt-die-who-dazu",
+  "category": "medizin",
+  "title": "Bewegungsmangel bei Jugendlichen: Was sagt die WHO dazu?",
+  "teaser": "Nur ein kleiner Teil der jungen Menschen bewegt sich täglich intensiv genug. Wir erklären, warum das so ist und welche Folgen das hat.",
+  "tags": [
+    "Gesundheit",
+    "Jugend",
+    "Bewegung",
+    "WHO",
+    "Prävention"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Laut der WHO bewegen sich nur 14 Prozent der Jugendlichen täglich mindestens eine Stunde mäßig bis intensiv.",
+    "Gründe für diesen Mangel sind unter anderem schulischer Leistungsdruck und die starke Nutzung digitaler Medien.",
+    "Die WHO betont, dass das Jugendalter entscheidend ist, um lebenslange gesunde Verhaltensweisen zu etablieren."
+  ],
+  "sections": [
+    {
+      "heading": "Warum Bewegung so wichtig ist – und warum es oft fehlt",
+      "paragraphs": [
+        "Sport und körperliche Aktivität sind essenziell für unsere Gesundheit. Sie unterstützen nicht nur unseren Körper, sondern auch unsere Psyche. Doch die Weltgesundheitsorganisation (WHO) meldet einen besorgniserregenden Trend: Viele Kinder und Jugendliche bewegen sich deutlich zu wenig.",
+        "Ein Bericht der UN-Organisation zeigt, dass nur 14 Prozent der Jugendlichen in der Altersgruppe von 11 bis 17 Jahren angeben, täglich mindestens eine Stunde mäßig bis intensiv körperlich aktiv zu sein. Hinzu kommt, dass 25 Prozent dieser Altersgruppe nach eigener Angabe keinen Sport oder Aktivitäten machen, die das Herz-Kreislauf-System fordern.",
+        "Die WHO warnt, dass diesen Jugendlichen dadurch wichtige Vorteile entgehen. Das Jugendalter gilt als eine kritische Phase, in der sich lebenslange Gesundheitsgewohnheiten festigen. Wenn diese Phase verpasst wird, kann das die Gesundheit langfristig beeinflussen."
+      ]
+    },
+    {
+      "heading": "Was steckt hinter dem Bewegungsmangel?",
+      "paragraphs": [
+        "Die WHO nennt mehrere Ursachen für diesen Mangel. Dazu zählen unter anderem der hohe schulische Leistungsdruck, die intensive Nutzung digitaler Medien und ein Mangel an geeigneten Sportstätten in der Umgebung.",
+        "Interessanterweise zeigen die Umfrageergebnisse Unterschiede zwischen den Geschlechtern: In fast allen Ländern geben Mädchen häufiger an, weniger aktiv zu sein als Jungen. Insgesamt gaben 28 Prozent der Mädchen in der vorangegangenen Woche an, an keinem Tag körperlich aktiv gewesen zu sein, verglichen mit etwa 22 Prozent bei den Jungen.",
+        "Experten betonen, dass es nicht nur um das Aufzeigen negativer Folgen geht. Ein Fachmann für Kinder- und Jugendgesundheit merkt an, dass Bewegung – selbst einfache Dinge wie Treppensteigen – gut für die Seele sein kann. Er rät zudem, das Umfeld aktiv zu gestalten, etwa indem Schulwege zu Fuß bewältigt werden, anstatt kurze Strecken mit E-Scootern zu überbrücken."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist für dich relevant, weil deine Gewohnheiten jetzt die Basis für deine Gesundheit im Erwachsenenalter legen. Die WHO zeigt, dass Bewegung mehr als nur ein Hobby ist – sie ist ein wichtiger Teil der körperlichen und seelischen Gesundheit.",
+  "glossary": [
+    {
+      "term": "WHO",
+      "definition": "Die Weltgesundheitsorganisation, eine internationale Organisation der Vereinten Nationen, die sich für globale Gesundheitsthemen einsetzt."
+    },
+    {
+      "term": "Mäßige bis intensive Aktivität",
+      "definition": "Körperliche Betätigung, bei der die Herzfrequenz merklich ansteigt und die Atmung schneller wird, wie beim schnellen Gehen oder Radfahren."
+    },
+    {
+      "term": "Herz-Kreislauf-System",
+      "definition": "Das System, das Blut durch den Körper pumpt, um Sauerstoff und Nährstoffe zu verteilen. Regelmäßige Bewegung stärkt dieses System."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Prozentsatz der Jugendlichen in der Altersgruppe von 11 bis 17 Jahren gibt laut WHO täglich mindestens eine Stunde mäßig bis intensiv körperlich aktiv an?",
+    "options": [
+      "14 Prozent",
+      "28 Prozent",
+      "25 Prozent"
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut der WHO geben nur 14 Prozent der Menschen dieser Altersgruppe an, täglich mindestens eine Stunde körperlich aktiv zu sein."
+  },
+  "discussion": [
+    "Welche Rolle spielen digitale Medien in deinem Alltag? Wie könntest du die Nutzung so gestalten, dass sie dein Wohlbefinden nicht negativ beeinflusst?",
+    "Welche kleinen Veränderungen im Alltag (z. B. Treppen statt Aufzug) könnten helfen, mehr Bewegung in den eigenen Tagesablauf zu integrieren?"
+  ],
+  "publishedAt": "2026-11-05T09:43:10.675Z",
+  "sources": [
+    {
+      "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/bewegungsmangel-bei-jugendlichen-was-sagt-die-who-dazu.jpg",
+    "width": 960,
+    "height": 601,
+    "alt": "Jugendliche bei einem Sporttag in Taihoku, die sportliche Aktivitäten ausüben.",
+    "credit": {
+      "title": "Exercising youths at the sports day of the youth group in Taihoku 1940-1945.jpg",
+      "author": "鄧南光",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exercising_youths_at_the_sports_day_of_the_youth_group_in_Taihoku_1940-1945.jpg"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ist-der-mars-tot-neue-anzeichen-deuten-auf-innere-waerme-hin",
+  "category": "wissenschaft",
+  "title": "Ist der Mars tot? Neue Anzeichen deuten auf innere Wärme hin",
+  "teaser": "Forscher entdecken Gasausstöße an vulkanischen Spalten auf dem Mars. Das könnte bedeuten, dass der Planet nicht inaktiv ist, sondern nur schlummert.",
+  "tags": [
+    "Planetenforschung",
+    "Geologie",
+    "Weltraum",
+    "Mars"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Ein europäischer Orbiter entdeckte Gasausströmungen an vulkanischen Spalten auf dem Mars.",
+    "Diese Gase, insbesondere Chlorwasserstoff, deuten darauf hin, dass unter der Oberfläche möglicherweise magmatische Aktivität stattfindet.",
+    "Die Forschung vermutet, dass der Mars noch innere Wärme besitzt und somit nicht völlig geologisch "
+  ],
+  "sections": [
+    {
+      "heading": "Der Mars: Ein Planet im Schlaf?",
+      "paragraphs": [
+        "Der Mars ist für uns ein faszinierendes Ziel. Wir wissen, dass er riesige Vulkane besitzt und Marsbeben registriert wurden. Das deutet darauf hin, dass er geologisch aktiv sein könnte. Doch bisher gab es keine neuen Beobachtungen von Lavaströmen oder Eruptionen, weshalb man ihn oft als"
+      ]
+    }
+  ],
+  "whyItMatters": "Weil wir nach Lebensspuren suchen, ist die Frage nach der inneren Wärme des Mars entscheidend. Wenn er noch aktiv ist, könnten sich unter der Oberfläche Bedingungen für Leben ergeben, die wir heute noch nicht vollständig verstehen.",
+  "glossary": [
+    {
+      "term": "Orbiter",
+      "definition": "Ein Raumfahrzeug, das in einer festgelegten Umlaufbahn um einen Planeten kreist und diesen beobachtet."
+    },
+    {
+      "term": "Chlorwasserstoff (HCl)",
+      "definition": "Ein chemisches Gas, das von Forschern auf dem Mars als mögliches Anzeichen für vulkanische Aktivität untersucht wird."
+    },
+    {
+      "term": "Magma",
+      "definition": "Geschmolzenes Gestein, das sich unter der Erdkruste befindet und bei vulkanischen Ereignissen an die Oberfläche aufsteigen kann."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Gasausstößen führte die Forschung dazu, die innere Aktivität des Mars zu vermuten?",
+    "options": [
+      "Chlorwasserstoff über vulkanischen Spalten",
+      "Staubpartikel, die durch Sonneneinstrahlung entstehen",
+      "Wasserdampf, der durch globale Erwärmung entsteht"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Forscher stellten Chlorwasserstoff in den Spalten fest, was als Anzeichen für magmatische Aktivität interpretiert wurde."
+  },
+  "discussion": [
+    "Welche Auswirkungen hätte die Entdeckung aktiver vulkanischer Systeme auf die Suche nach außerirdischem Leben?",
+    "Wie kann die Wissenschaft sicherstellen, dass Beobachtungen von Planeten nicht durch reine Zufälle oder atmosphärische Prozesse erklärt werden?"
+  ],
+  "publishedAt": "2026-11-05T10:07:23.029Z",
+  "sources": [
+    {
+      "title": "Europäischer Orbiter entdeckt Anzeichen für vulkanische Aktivität auf dem Mars",
+      "url": "https://www.raumfahrer.net/europaeischer-orbiter-entdeckt-anzeichen-fuer-vulkanische-aktivitaet-auf-dem-mars/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/ist-der-mars-tot-neue-anzeichen-deuten-auf-innere-waerme-hin.jpg",
+    "width": 960,
+    "height": 875,
+    "alt": "Mars-Oberfläche mit vulkanischen Schloten, die Gasausstöße anzeigen könnten.",
+    "credit": {
+      "title": "Volcanic vents from around Mars 25.jpg",
+      "author": "Jim Secosky requested NASA take images through the HiWish program. He then used HiView program to modify images. The ima",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volcanic_vents_from_around_Mars_25.jpg"
+    }
+  }
+}

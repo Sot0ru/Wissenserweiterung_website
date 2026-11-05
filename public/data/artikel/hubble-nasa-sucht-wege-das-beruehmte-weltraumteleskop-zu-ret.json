@@ -1,0 +1,89 @@
+{
+  "id": "hubble-nasa-sucht-wege-das-beruehmte-weltraumteleskop-zu-ret",
+  "category": "astronomie",
+  "title": "Hubble: NASA sucht Wege, das berühmte Weltraumteleskop zu retten",
+  "teaser": "Das Hubble-Weltraumteleskop kämpft gegen die Schwerkraft. Was NASA plant, um das ikonische Observatorium noch länger am Himmel zu halten.",
+  "tags": [
+    "Weltraum",
+    "Teleskop",
+    "Orbit",
+    "NASA",
+    "Kosmos"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Das Hubble-Teleskop verliert langsam an Höhe, weil es durch den oberen Teil der Erdatmosphäre Widerstand erfährt.",
+    "Ohne Antrieb kann es seinen Orbit nicht halten und könnte zwischen 2033 und 2034 wieder in die Atmosphäre eintreten.",
+    "NASA prüft nun, ob private Firmen mit Technologien wie einem Orbit-Boost helfen können, Hubbles Lebensdauer zu verlängern."
+  ],
+  "sections": [
+    {
+      "heading": "Warum sinkt Hubble langsam in die Tiefe?",
+      "paragraphs": [
+        "Hubble ist ein wissenschaftliches Meisterwerk, das seit über 35 Jahren unser Verständnis des Universums verändert hat. Aber selbst in der scheinbar leeren Weite des Weltraums gibt es Kräfte, die auf das Teleskop wirken. Das Hauptproblem ist die Erdatmosphäre.",
+        "Obwohl Hubble in einer niedrigen Erdumlaufbahn (Low Earth Orbit) unterwegs ist, ist die Atmosphäre dort nicht komplett verschwunden. Es gibt winzige Mengen an Gas. Wenn das Teleskop durch diese Gase fliegt, entsteht ein sogenannter atmosphärischer Widerstand oder Drag.",
+        "Dieser Widerstand bremst das Teleskop minimal ab. Über viele Jahre hinweg führt dieser langsame Widerstand dazu, dass die Umlaufbahn schrumpft und die Höhe des Observatoriums sinkt. Hubble besitzt keinen eigenen Antrieb, um diesen Abfall aktiv auszugleichen. Ohne externe Hilfe kann es diesen natürlichen Rückgang nicht stoppen."
+      ]
+    },
+    {
+      "heading": "Die Rettungsaktion: Was NASA plant",
+      "paragraphs": [
+        "Die NASA sieht sich mit einer knappen Zeitspanne konfrontiert. Aktuelle Berechnungen deuten darauf hin, dass Hubble wahrscheinlich zwischen 2033 und 2034 wieder in die Erdatmosphäre eintreten wird. Um dies zu verhindern, müsste ein Eingriff bis 2032 stattfinden.",
+        "Die Agentur bittet nun private Raumfahrtunternehmen um Vorschläge. Das Ziel ist, herauszufinden, welche kommerziellen Technologien helfen können, Hubbles Lebensdauer zu verlängern oder seine Leistung zu verbessern. Eine Möglichkeit ist, ein Raumschiff zu schicken, das Hubble in einen höheren Orbit schiebt.",
+        "Neben dem Aufstocken des Orbits untersucht NASA auch Optionen für das sichere Ende der Mission. Das könnte bedeuten, Hubble kontrolliert in die Atmosphäre zu lenken oder es im Orbit zu entsorgen. Die NASA möchte sicherstellen, dass das wertvolle Instrument so lange wie möglich wissenschaftlich genutzt werden kann."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie komplex die Technik im Weltraum ist. Es geht nicht nur um riesige Teleskope, sondern auch um die ständigen Kämpfe gegen physikalische Gesetze wie den atmosphärischen Widerstand. Es verdeutlicht auch, wie wichtig die Zusammenarbeit zwischen staatlichen Agenturen und privaten Unternehmen für große wissenschaftliche Projekte ist.",
+  "glossary": [
+    {
+      "term": "Orbit",
+      "definition": "Die festgelegte Bahn, die ein Raumfahrzeug um einen Planeten oder ein anderes Himmelskörper herum beschreibt."
+    },
+    {
+      "term": "Atmosphärischer Widerstand (Drag)",
+      "definition": "Die Kraft, die durch die Reibung eines Objekts mit den Gasen einer Atmosphäre entsteht und es verlangsamt."
+    },
+    {
+      "term": "Umlaufbahn",
+      "definition": "Die Strecke, die ein Satellit oder Teleskop um die Erde zurücklegt."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher physikalische Effekt führt dazu, dass Hubbles Umlaufbahn langsam schrumpft?",
+    "options": [
+      "Die Gravitationskraft des Mondes",
+      "Der atmosphärische Widerstand durch die oberen Erdatmosphärenschichten",
+      "Der fehlende Antrieb des Teleskops"
+    ],
+    "answerIndex": 1,
+    "explanation": "Der atmosphärische Widerstand bremst das Teleskop ab, was zu einem langsamen Höhenverlust führt."
+  },
+  "discussion": [
+    "Welche ethischen oder praktischen Herausforderungen ergeben sich, wenn man versucht, ein jahrzehntealtes, hochkomplexes Weltraumobjekt durch neue, kommerzielle Technologien zu retten?",
+    "Wie verändert die zunehmende Beteiligung privater Unternehmen an Weltraummissionen die traditionelle Rolle staatlicher Forschungsorganisationen wie der NASA?"
+  ],
+  "publishedAt": "2026-11-05T10:14:39.810Z",
+  "sources": [
+    {
+      "title": "NASA is racing against time to save the Hubble Space Telescope",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/hubble-nasa-sucht-wege-das-beruehmte-weltraumteleskop-zu-ret.jpg",
+    "width": 960,
+    "height": 768,
+    "alt": "Das Hubble-Weltraumteleskop in seiner Umlaufbahn um die Erde, aufgenommen während einer Servicemission.",
+    "credit": {
+      "title": "Hubble Space Telescope in Earth Orbit (2024-025).jpg",
+      "author": "Image: NASA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hubble_Space_Telescope_in_Earth_Orbit_(2024-025).jpg"
+    }
+  }
+}

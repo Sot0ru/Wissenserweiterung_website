@@ -1,0 +1,94 @@
+{
+  "id": "der-erste-weltkrieg-ein-globaler-konflikt-mit-tiefgreifenden",
+  "category": "geschichte",
+  "title": "Der Erste Weltkrieg: Ein globaler Konflikt mit tiefgreifenden Folgen",
+  "teaser": "Wie veränderte der Erste Weltkrieg die Welt? Wir beleuchten die Schrecken des Krieges und seine politischen Nachwirkungen.",
+  "tags": [
+    "Weltgeschichte",
+    "Krieg",
+    "Russische Revolution",
+    "Friedensverträge",
+    "20. Jahrhundert"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Erste Weltkrieg, der am 11. November 1918 endete, war der erste industrielle und „totale“ Krieg der Menschheitsgeschichte.",
+    "Er forderte einen enormen Preis: Schätzungen sprechen von rund 17 Millionen Todesopfern.",
+    "Die Folgen des Krieges waren weitreichend und führten zu großen Umwälzungen, wie der Russischen Revolution."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Krieg von beispiellosem Ausmaß",
+      "paragraphs": [
+        "Der Erste Weltkrieg war ein Wendepunkt der modernen Geschichte. Er wird als der erste „totale“ und industriell geführte Krieg bezeichnet. Das bedeutet, dass er nicht nur militärisch, sondern auch gesellschaftlich und wirtschaftlich alle Bereiche der Gesellschaft erfasste.",
+        "Die menschliche Kosten dieser Konflikte waren gigantisch. Schätzungen zufolge verloren etwa 17 Millionen Menschen ihr Leben durch diesen Krieg. Die Kriegsführung war von neuen, industriellen Mitteln geprägt, was die Brutalität und den Umfang des Konflikts steigerte."
+      ]
+    },
+    {
+      "heading": "Von der Front zur Revolution",
+      "paragraphs": [
+        "Die Ereignisse des Krieges wirkten sich weltweit aus. Während die Fronten tobten, gab es auch menschliche Begegnungen, wie das gemeinsame Feiern an Weihnachten 1914 zwischen deutschen und britischen Soldaten im Niemandsland.",
+        "Doch die großen politischen Umwälzungen fanden auch abseits der Schützengräben statt. Ein wichtiges Beispiel ist Russland. Im Jahr 1917 floh Lenin vor der Geheimpolizei des Zaren in die Schweiz. Kurz darauf gelang ihm die Oktoberrevolution. Mit der Machtübernahme der Bolschewiki veränderte sich Russland grundlegend, und das alte Zarentum endete."
+      ]
+    },
+    {
+      "heading": "Nach dem Krieg: Friede, der Unfrieden säte",
+      "paragraphs": [
+        "Das Ende des Krieges brachte zwar einen Friedensvertrag, doch dieser war oft nicht friedlich. Der Friedensvertrag von Trianon gilt beispielsweise als ein Vertrag, der Unfrieden stiftete.",
+        "Die Nachkriegszeit war geprägt von tiefgreifenden politischen Veränderungen. Schon nach dem Ersten Weltkrieg legte das Leipziger Reichsgericht Grundlagen, die später für Prozesse wie die Nürnberger Prozesse relevant wurden. Diese Entwicklungen zeigen, wie ein globaler Konflikt die Rechts- und politische Ordnung für Jahrzehnte prägte."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis von großen historischen Konflikten hilft dir zu sehen, wie sich heutige politische und soziale Strukturen entwickelt haben. Es zeigt auch, wie schnell sich Gesellschaften durch globale Ereignisse verändern können.",
+  "glossary": [
+    {
+      "term": "Totaler Krieg",
+      "definition": "Ein Krieg, der nicht nur das Militär betrifft, sondern die gesamte Gesellschaft, Wirtschaft und Bevölkerung eines Landes mobilisiert."
+    },
+    {
+      "term": "Niemandsland",
+      "definition": "Ein Gebiet zwischen den Fronten eines Krieges, das von keiner Seite besetzt oder kontrolliert wurde."
+    },
+    {
+      "term": "Bolschewiki",
+      "definition": "Die radikalen Mitglieder der Partei, die die Oktoberrevolution in Russland 1917 zum Erfolg führten und die Macht übernahmen."
+    }
+  ],
+  "quiz": {
+    "question": "Was kennzeichnet den Ersten Weltkrieg als einen „totalen“ und industriell geführten Krieg?",
+    "options": [
+      "Er erfasste nicht nur das Militär, sondern die gesamte Gesellschaft und Wirtschaft.",
+      "Er endete durch einen schnellen Waffenstillstand ohne große Verluste.",
+      "Er war der erste Krieg, in dem nur kleine Truppen eingesetzt wurden."
+    ],
+    "answerIndex": 0,
+    "explanation": "Der Begriff „totaler Krieg“ beschreibt, dass alle Bereiche der Gesellschaft mobilisiert wurden, nicht nur das Militär."
+  },
+  "discussion": [
+    "Wie beeinflussen die Entscheidungen von politischen Führern in Krisenzeiten die langfristige Entwicklung einer Nation?",
+    "Welche Verantwortung tragen heutige Gesellschaften, um sicherzustellen, dass Konflikte nicht zu industriell und total werden?"
+  ],
+  "publishedAt": "2026-11-05T11:01:07.874Z",
+  "sources": [
+    {
+      "title": "1. Weltkrieg",
+      "url": "https://www.mdr.de/geschichte/weitere-epochen/erster-weltkrieg",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/der-erste-weltkrieg-ein-globaler-konflikt-mit-tiefgreifenden.jpg",
+    "width": 960,
+    "height": 690,
+    "alt": "Rumänische Soldaten in Schützengräben während des Ersten Weltkriegs.",
+    "credit": {
+      "title": "Romanian soldiers in trenches in World War One.jpg",
+      "author": "National Archives of Romania (NAR)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Romanian_soldiers_in_trenches_in_World_War_One.jpg"
+    }
+  }
+}

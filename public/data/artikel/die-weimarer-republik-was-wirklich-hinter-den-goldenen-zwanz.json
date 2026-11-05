@@ -1,0 +1,88 @@
+{
+  "id": "die-weimarer-republik-was-wirklich-hinter-den-goldenen-zwanz",
+  "category": "geschichte",
+  "title": "Die Weimarer Republik: Was wirklich hinter den „Goldenen Zwanzigern“ steckt",
+  "teaser": "Die Weimarer Republik war eine Zeit großer Umbrüche. Was machte die „Goldenen Zwanziger“ so besonders und welche dunklen Seiten gab es in dieser Ära?",
+  "tags": [
+    "Zwischenkriegszeit",
+    "Gesellschaft",
+    "Politik",
+    "Deutschland"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Weimarer Republik erlebte zwischen 1925 und 1929 eine Blütezeit, die als „Goldene Zwanziger“ bekannt ist, aber auch große soziale und politische Spannungen kennzeichnete.",
+    "In dieser Zeit gab es tiefgreifende Entwicklungen, wie die Einführung des allgemeinen Wahlrechts für Frauen 1919 und die Revolution des Radios als Massenmedium.",
+    "Trotz des kulturellen Aufschwungs war die Republik durch politische Krisen, wie den Kapp-Putsch, und die kommende Weltwirtschaftskrise stark gefährdet."
+  ],
+  "sections": [
+    {
+      "heading": "Zwischen Aufbruch und Krise: Die „Goldenen Zwanziger“",
+      "paragraphs": [
+        "Die Weimarer Republik war die erste parlamentarische Demokratie in Deutschland nach dem Ersten Weltkrieg. Die Jahre zwischen 1925 und 1929 gelten als ihre Blütezeit, oft als die „Goldenen Zwanziger“ bezeichnet. Diese Zeit war geprägt von radikalen gesellschaftlichen Umbrüchen und einem kulturellen Aufschwung.",
+        "Doch hinter dem glänzenden Bild der Popkultur verbarg sich eine komplexe politische Lage. Die Republik sah sich großen Herausforderungen gegenüber, darunter der rechte Terror, der bereits 1920 in Mechterstädt stattfand, und die ständige Bedrohung durch politische Extremisten.",
+        "Technologisch und gesellschaftlich gab es große Sprünge. Das Radio wurde zu einem Massenmedium, das ab 1923 aufsendete und später auch als mächtiges Instrument der politischen Kommunikation diente. Zudem erlangten deutsche Frauen am 12. November 1918 das allgemeine Wahlrecht und durften erstmals wählen und sich zur Wahl stellen."
+      ]
+    },
+    {
+      "heading": "Spannungen und geheime Abkommen",
+      "paragraphs": [
+        "Die politische Instabilität war ein ständiger Begleiter. Bereits 1932 erhielt Adolf Hitler die deutsche Staatsbürgerschaft, was ihm den Weg zur Kandidatur für den Reichspräsidenten ebnete. Schon zuvor war er kurzzeitig zum Thüringer geworden.",
+        "Ein bemerkenswertes, wenn auch kontroverses Kapitel war die geheime militärische Kooperation zwischen der deutschen Reichswehr und der sowjetischen Roten Armee. Nach dem Ersten Weltkrieg war Deutschland durch Verträge daran gehindert, moderne Waffen wie Panzer oder Flugzeuge zu besitzen. Diese Kooperation diente als Umgehung dieses Verbots.",
+        "Die Blütezeit endete abrupt. Die Finanzierung der Republik wurde 1924 durch die Einführung der Rentenmark stabilisiert, doch diese Stabilität zerbrach 1929 mit Beginn der Weltwirtschaftskrise. Ereignisse wie der Kapp-Putsch zeigten die anhaltende innere Zerrissenheit der Demokratie."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Weimarer Republik zeigt, wie schnell sich eine Demokratie unter Druck verändern kann. Dieses historische Beispiel hilft zu verstehen, wie wirtschaftliche Krisen und gesellschaftliche Polarisierung politische Systeme beeinflussen können.",
+  "glossary": [
+    {
+      "term": "Weimarer Republik",
+      "definition": "Die demokratische Republik Deutschland, die von 1919 bis 1933 existierte."
+    },
+    {
+      "term": "Goldene Zwanziger",
+      "definition": "Die Jahre zwischen 1925 und 1929, die als kulturell und wirtschaftlich besonders blühend für die Weimarer Republik galten."
+    },
+    {
+      "term": "Allgemeines Wahlrecht",
+      "definition": "Das Recht, an Wahlen teilzunehmen, das für alle Bürger unabhängig von Geschlecht oder sozialem Status gilt."
+    }
+  ],
+  "quiz": {
+    "question": "Wann begann die Blütezeit der Weimarer Republik, die als „Goldene Zwanziger“ bekannt wurde?",
+    "options": [
+      "1925",
+      "1919",
+      "1932"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Blütezeit begann 1924 mit der Einführung der Rentenmark und gilt als die Zeit der „Goldenen Zwanziger“."
+  },
+  "discussion": [
+    "Welche Rolle spielte die kulturelle Entwicklung (wie die Popkultur oder das Radio) in der gesellschaftlichen Wahrnehmung der Weimarer Republik?",
+    "Wie kann eine wirtschaftliche Krise die politische Stabilität einer Demokratie gefährden?"
+  ],
+  "publishedAt": "2026-11-05T10:54:48.315Z",
+  "sources": [
+    {
+      "title": "Weimarer Republik",
+      "url": "https://www.mdr.de/geschichte/weitere-epochen/weimarer-republik",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-weimarer-republik-was-wirklich-hinter-den-goldenen-zwanz.jpg",
+    "width": 960,
+    "height": 600,
+    "alt": "Museum der Weimarer Republik, das die Ära und ihre gesellschaftlichen Umbrüche dokumentiert.",
+    "credit": {
+      "title": "Museum of the Weimar Republic.jpg",
+      "author": "Player0052",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Weimar_Republic.jpg"
+    }
+  }
+}
