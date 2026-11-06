@@ -1,0 +1,81 @@
+{
+  "id": "von-luther-bis-bismarck-ein-blick-auf-die-deutsche-neuzeit",
+  "category": "geschichte",
+  "title": "Von Luther bis Bismarck: Ein Blick auf die deutsche Neuzeit",
+  "teaser": "Die deutsche Geschichte ist voller dramatischer Wendepunkte. Wir schauen uns wichtige Figuren und Konflikte der Neuzeit an.",
+  "tags": [
+    "Deutschland",
+    "Politik",
+    "Reformation",
+    "Krieg"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Neuzeit in Deutschland beginnt mit der Reformation Luthers und umfasst große Konflikte wie den Dreißigjährigen Krieg.",
+    "Wichtige Entwicklungen sind die Ära Napoleons, die Gründung des Deutschen Reiches durch Otto von Bismarck und kulturelle Höhepunkte wie Goethe.",
+    "Diese Epoche zeigt, wie sich Deutschland politisch, gesellschaftlich und militärisch veränderte."
+  ],
+  "sections": [
+    {
+      "heading": "Der Beginn der Neuzeit: Reformation und Konflikte",
+      "paragraphs": [
+        "Wenn wir über die Neuzeit in Deutschland sprechen, beginnt das Kapitel oft mit der Reformation Luthers. Dieses Ereignis markierte einen tiefgreifenden Wandel in religiösen und gesellschaftlichen Strukturen.",
+        "Ein weiterer prägender Moment dieser Zeit war der Dreißigjährige Krieg. Dieser Krieg war extrem blutig und führte zu großen Umwälzungen in Mitteleuropa. Eine der bekanntesten Schlachten war die Schlacht bei Lützen im November 1632, an der die Heere von Gustav II. Adolf und Albrecht von Wallenstein aufeinandertrafen."
+      ]
+    },
+    {
+      "heading": "Von Napoleon bis zum Kaiserreich",
+      "paragraphs": [
+        "Die Epoche wurde auch von der Ära Napoleons geprägt, die Europa tiefgreifend veränderte. Später sah sich Deutschland weiteren großen politischen Herausforderungen gegenüber.",
+        "Eine zentrale Figur der späteren Neuzeit war Otto von Bismarck. Er gilt als der „Eiserne Kanzler“ und spielte eine entscheidende Rolle bei der Gründung des Deutschen Reiches im Jahr 1871. Bismarck transformierte die politische Landschaft Deutschlands grundlegend."
+      ]
+    },
+    {
+      "heading": "Kultur und gesellschaftlicher Wandel",
+      "paragraphs": [
+        "Neben den großen politischen Kämpfen gab es auch enorme kulturelle Entwicklungen. Schriftsteller wie Goethe prägten das kulturelle Bild dieser Zeit maßgeblich.",
+        "Die Neuzeit war aber auch eine Zeit großer Umbrüche. Neben politischen Ereignissen gab es auch Entwicklungen im medizinischen Bereich, wie die Arbeit von Robert Koch, oder gesellschaftliche Debatten, die durch Ereignisse wie die Hexenverfolgung geprägt wurden. Diese verschiedenen Stränge zeigen, wie komplex und vielschichtig diese historische Periode war."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Geschichte der Neuzeit erklärt, wie moderne Staaten und Gesellschaften entstanden sind. Verstehst du diese Wendepunkte, verstehst du auch die heutigen politischen und kulturellen Strukturen.",
+  "glossary": [
+    {
+      "term": "Reformation",
+      "definition": "Eine religiöse Bewegung im 16. Jahrhundert, die durch Martin Luther ausgelöst wurde und das Christentum in Westeuropa veränderte."
+    },
+    {
+      "term": "Dreißigjähriger Krieg",
+      "definition": "Ein verheerender Religions- und Machtkampf in Mitteleuropa, der von 1618 bis 1648 dauerte."
+    },
+    {
+      "term": "Eiserner Kanzler",
+      "definition": "Ein Spitzname für Otto von Bismarck, der seine entschlossene und harte politische Führung beschreibt."
+    }
+  ],
+  "quiz": {
+    "question": "Wann wurde das Deutsche Reich unter Otto von Bismarck gegründet?",
+    "options": [
+      "1632",
+      "1871",
+      "1800"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut dem Text gründete Bismarck das Deutsche Reich im Jahr 1871."
+  },
+  "discussion": [
+    "Inwiefern beeinflussen historische Ereignisse wie die Reformation oder die Reichsgründung heutige politische Identitäten in Deutschland?",
+    "Welche Rolle spielen kulturelle Entwicklungen (wie die Literatur Goethes) im Vergleich zu militärischen Konflikten bei der Definition einer Epoche?"
+  ],
+  "publishedAt": "2026-11-06T10:30:58.204Z",
+  "sources": [
+    {
+      "title": "Neuzeit",
+      "url": "https://www.mdr.de/geschichte/weitere-epochen/neuzeit/neuzeit-ueberblick-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

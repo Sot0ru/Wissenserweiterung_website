@@ -1,0 +1,92 @@
+{
+  "id": "sonnenaktivitaet-was-passiert-wenn-die-sonne-wild-wird",
+  "category": "astronomie",
+  "title": "Sonnenaktivität: Was passiert, wenn die Sonne „wild“ wird?",
+  "teaser": "Die Sonne ist kein ruhiger Ball. Wir erklären dir, was Sonnenflecken, Flares und Polarlichter sind und wie die Aktivität schwankt.",
+  "tags": [
+    "Sonne",
+    "Weltraum",
+    "Magnetismus",
+    "Naturphänomene"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Sonnenaktivität schwankt stark: Perioden hoher Aktivität werden von ruhigeren Phasen gefolgt.",
+    "Ein Sonnenflare (Flare) ist eine plötzliche Energieentladung, die geomagnetische Stürme auslösen kann.",
+    "Diese Stürme können Polarlichter erzeugen, die manchmal auch in Deutschland sichtbar sind."
+  ],
+  "sections": [
+    {
+      "heading": "Von Flecken zu Flares: Was treibt die Sonne an?",
+      "paragraphs": [
+        "Die Sonne ist ein riesiger Energiekraftwerk, dessen Verhalten stark von ihrem Magnetfeld abhängt. Auf ihrer Oberfläche bilden sich sogenannte Sonnenflecken. Das sind Regionen, in denen das Magnetfeld besonders stark ist und die Sonnenaktivität konzentriert wird.",
+        "Diese Flecken sind nicht statisch. Sie können sich blitzschnell verändern und zu sogenannten bipolaren Gruppen heranwachsen. Wenn diese magnetisch aufgeladenen Gebiete instabil werden, kann es zu einer plötzlichen Energieentladung kommen – das ist ein Sonnenflare (Flare).",
+        "Ein Flare ist eine Explosion. Wenn diese Explosion stark genug ist, kann sie einen geomagnetischen Sturm auf der Erde auslösen. Solche Stürme sind die Ursache für die beeindruckenden Polarlichter, die wir manchmal am Nachthimmel sehen."
+      ]
+    },
+    {
+      "heading": "Aktivitätszyklen und ihre Auswirkungen",
+      "paragraphs": [
+        "Die Sonnenaktivität folgt einem Zyklus. Das bedeutet, sie ist nicht immer gleich stark. Nach Phasen hoher Aktivität geht sie meist wieder zurück in ruhigere Perioden. Die Wissenschaftler messen diese Aktivität mithilfe einer sogenannten Relativzahl.",
+        "Beispielsweise wurde im Oktober 2026 ein vorläufiger Wert von 61,5 für die Relativzahl ermittelt, nachdem der Wert im September bei 67,5 lag. Dieser Wert gibt einen Eindruck, wie aktiv die Sonne in diesem Zeitraum war.",
+        "Während ruhigerer Phasen ist die Dynamik geringer, aber die Sonne bleibt spannend. Durch spezielle Instrumente, wie Spektroheliographen, können Forscher die Chromosphäre – die äußere Schicht der Sonne – beobachten. Dort sind oft Filamente zu sehen, die auf die darunterliegenden Magnetfelder hinweisen, selbst wenn die Flares gering sind."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Sonne ist unsere Energiequelle und schützt uns vor dem Weltall. Zu verstehen, wie sie sich verhält, hilft uns, potenzielle Störungen zu erkennen, die unsere Kommunikationstechnik oder das Stromnetz beeinflussen könnten.",
+  "glossary": [
+    {
+      "term": "Sonnenflare (Flare)",
+      "definition": "Eine plötzliche, heftige Freisetzung von Energie aus der Sonnenatmosphäre."
+    },
+    {
+      "term": "Bipolare Gruppe",
+      "definition": "Eine Region auf der Sonne, in der das Magnetfeld in entgegengesetzte Richtungen zeigt."
+    },
+    {
+      "term": "Geomagnetischer Sturm",
+      "definition": "Eine Störung des Erdmagnetfelds, ausgelöst durch Teilchen, die von der Sonne abgestrahlt werden."
+    },
+    {
+      "term": "Chromosphäre",
+      "definition": "Die äußere, relativ dünne Gasschicht der Sonne, die oft durch spezielle Beobachtungen sichtbar wird."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Phänomen auf der Erde wird durch einen geomagnetischen Sturm ausgelöst?",
+    "options": [
+      "Die Sichtbarkeit von Polarlichtern",
+      "Die Bildung von Sonnenflecken",
+      "Die Abnahme der Sonnenaktivität"
+    ],
+    "answerIndex": 0,
+    "explanation": "Geomagnetische Stürme können zu Polarlichtern führen, da die Teilchen des Sonnensturms mit dem Erdmagnetfeld interagieren."
+  },
+  "discussion": [
+    "Wie könnte eine starke, unvorhergesehene Sonnenaktivitätswelle die moderne Infrastruktur (z.B. Satelliten, Stromnetze) beeinflussen?",
+    "Inwiefern hilft die wissenschaftliche Beobachtung von Phänomenen wie Sonnenflecken, unser Verständnis von physikalischen Prozessen im Weltall zu vertiefen?"
+  ],
+  "publishedAt": "2026-11-06T09:38:30.341Z",
+  "sources": [
+    {
+      "title": "Sonne aktuell: Rückblick und Prognose: Buntes Treiben im Herbst",
+      "url": "https://www.spektrum.de/news/sonnenaktivitaet-im-oktober-2026/2350541",
+      "publisher": "Spektrum der Wissenschaft"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/sonnenaktivitaet-was-passiert-wenn-die-sonne-wild-wird.jpg",
+    "width": 960,
+    "height": 960,
+    "alt": "Großer Sonnenflare, eine intensive Strahlungseruption auf der Oberfläche der Sonne.",
+    "credit": {
+      "title": "Largest Solar Flare Since 2017 Spotted on the Sun (49983663618).jpg",
+      "author": "NOAA Satellites",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Largest_Solar_Flare_Since_2017_Spotted_on_the_Sun_(49983663618).jpg"
+    }
+  }
+}

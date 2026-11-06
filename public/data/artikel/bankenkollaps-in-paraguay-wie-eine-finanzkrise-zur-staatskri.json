@@ -1,0 +1,81 @@
+{
+  "id": "bankenkollaps-in-paraguay-wie-eine-finanzkrise-zur-staatskri",
+  "category": "politik",
+  "title": "Bankenkollaps in Paraguay: Wie eine Finanzkrise zur Staatskrise wird",
+  "teaser": "Ein Finanzskandal erschüttert Paraguay und zwingt den Präsidenten zum Rücktritt. Was steckt hinter der Krise um die Ueno Bank?",
+  "tags": [
+    "Finanzkrise",
+    "Südamerika",
+    "Staatsführung",
+    "Wirtschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die paraguayische Regierung gerät in eine Staatskrise, nachdem die Digitalbank Ueno zusammengebrochen ist und der Präsident Santiago Peña zurückgetreten ist.",
+    "Die Krise wird durch den Verdacht auf Interessenkonflikte und mangelndes Eigenkapital der Bank verschärft, was zu Ermittlungen der Staatsanwaltschaft führt.",
+    "Der Kongress lehnt Peñas Rücktritt zunächst ab, um ihn vor Strafverfolgung zu schützen, was die politische Instabilität weiter erhöht."
+  ],
+  "sections": [
+    {
+      "heading": "Von der Bankenkrise zur politischen Bombe",
+      "paragraphs": [
+        "In Paraguay hat sich eine Finanzkrise schnell zu einer ernsthaften Staatskrise entwickelt. Im Zentrum steht der Zusammenbruch der Digitalbank Ueno. Die Bank, die schnell zu einem wichtigen Finanzinstitut aufgestiegen war und 2,9 Millionen Kunden hatte, konnte nicht mehr funktionieren. Dies führte dazu, dass Millionen von Bürgern keinen Zugang mehr zu ihren Ersparnissen hatten.",
+        "Die Krise traf das Land, das zuletzt für seine wirtschaftlichen Reformen gelobt wurde. Die Verunsicherung war so groß, dass der Präsident Santiago Peña seinen Rücktritt ankündigte. Er begründete diesen Schritt mit dem Wunsch, die Stabilität des Landes und den sozialen Frieden zu bewahren."
+      ]
+    },
+    {
+      "heading": "Vorwürfe gegen die Regierung und die Bank",
+      "paragraphs": [
+        "Die Probleme um Ueno gehen tiefer als nur ein Bankenpleite. Es gibt Vermutungen, dass der Aufstieg der Bank durch öffentliche Gelder und enge politische Verbindungen gefördert wurde. Präsident Peña hatte beispielsweise den ehemaligen Leiter von Ueno, Carlos Carvallo, an die Zentralbank ernannt.",
+        "Ein Soziologe erklärte, dass Peña Gesetze erlassen und Maßnahmen getroffen habe, die letztlich den Eigentümern und Aktionären der Bank zugutekamen. Obwohl Peña diese Vorwürfe stets zurückwies, wuchs das Misstrauen, da die Bank sehr nah an der Politik stand. Tatsächlich stellte sich heraus, dass die Bank nicht über das vorgeschriebene Eigenkapital verfügte, woraufhin die Zentralbank ein Abwicklungsverfahren einleitete."
+      ]
+    },
+    {
+      "heading": "Parlament und Justiz im Konflikt",
+      "paragraphs": [
+        "Die politische Reaktion auf die Krise war heftig. Kurz nachdem Peña seinen Rücktritt erklärt hatte, stimmten die Abgeordneten im Kongress einstimmig für ein Amtsenthebungsverfahren gegen ihn. Gleichzeitig protestierten wütende Bürger auf der Straße und forderten nicht nur Peñas, sondern auch andere Verantwortliche zur Rechenschaft.",
+        "Ein wichtiger Konfliktpunkt ist die Frage der strafrechtlichen Verfolgung. Der Kongress lehnte Peñas Rücktritt zunächst ab, weil er befürchtete, dass eine Annahme ihm parlamentarische Immunität verleihen würde und ihn vor Strafverfolgung schützen könnte. Sollte er jedoch durch ein Verfahren enthoben werden, sei er wie jeder andere Bürger zur Rechenschaft zu ziehen. Die Staatsanwaltschaft hat ebenfalls Ermittlungen eingeleitet."
+      ]
+    }
+  ],
+  "whyItMatters": "Finanzkrisen zeigen, wie eng Wirtschaft und Politik verbunden sind. Du lernst hier, wie politische Entscheidungen – oder deren Versäumnisse – ganze Gesellschaften und deren Ersparnisse gefährden können.",
+  "glossary": [
+    {
+      "term": "Staatskrise",
+      "definition": "Eine Situation, in der die grundlegende Funktionsfähigkeit eines Staates oder seiner Institutionen stark gefährdet ist."
+    },
+    {
+      "term": "Amtsenthebungsverfahren",
+      "definition": "Ein formelles Verfahren, mit dem das Parlament einen gewählten Amtsträger aus seinem Amt entfernen kann."
+    },
+    {
+      "term": "Eigenkapital",
+      "definition": "Der Anteil des Vermögens einer Firma, der nicht durch Schulden finanziert ist. Banken müssen einen bestimmten Mindestwert dafür haben."
+    }
+  ],
+  "quiz": {
+    "question": "Was führte letztendlich zur Einleitung eines Abwicklungsverfahrens durch die Zentralbank?",
+    "options": [
+      "Die Feststellung, dass die Bank nicht über das vorgeschriebene Eigenkapital verfügte.",
+      "Der Verdacht, dass Präsident Peña Gesetze zugunsten der Bank erlassen hatte.",
+      "Die massiven Proteste der Bürger auf der Straße."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Zentralbank leitete das Abwicklungsverfahren ein, weil die Bank nicht das vorgeschriebene Eigenkapital hatte."
+  },
+  "discussion": [
+    "Wie kann ein politischer Einfluss auf eine Finanzinstitution wie eine Bank zu einem systemischen Risiko für das ganze Land führen?",
+    "Welche Rolle sollte die Justiz spielen, wenn politische Akteure in wirtschaftlichen Krisen involviert sind – soll Immunität gewährt werden oder nicht?"
+  ],
+  "publishedAt": "2026-11-06T10:25:59.715Z",
+  "sources": [
+    {
+      "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
+      "url": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

@@ -1,0 +1,93 @@
+{
+  "id": "was-aiwangers-tod-fuer-die-bayerische-politik-bedeutet",
+  "category": "politik",
+  "title": "Was Aiwangers Tod für die bayerische Politik bedeutet",
+  "teaser": "Der Tod von Hubert Aiwanger erschüttert die bayerische Politik. Was bedeutet das für die Koalition und die Freien Wähler?",
+  "tags": [
+    "Bayern",
+    "Koalition",
+    "Landespolitik",
+    "Parteien"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Tod von Hubert Aiwanger, dem Spitzenmann der Freien Wähler, löste in Bayern Bestürzung aus und wirft Fragen für die politische Zukunft auf.",
+    "Obwohl die CSU und die Freien Wähler weiterhin zusammenarbeiten, könnte Aiwangers Präsenz für die Partei als „Gesicht“ und Zentrum entscheidend gewesen sein.",
+    "Experten sehen zwar keine sofortige Gefahr für die Regierungskoalition, aber eine mögliche Schwächung der Freien Wähler auf Landesebene."
+  ],
+  "sections": [
+    {
+      "heading": "Eine Lücke in der bayerischen Politik",
+      "paragraphs": [
+        "Der überraschende Tod von Hubert Aiwanger, dem Spitzenmann der Freien Wähler, hat in Bayern für große Anteilnahme gesorgt. Die Flaggen an staatlichen Dienstgebäuden wehten auf halbmast. Aiwanger war ein zentraler Akteur in der Regierungskoalition zwischen der CSU und den Freien Wählern.",
+        "Beide Parteien verfolgen einen bürgerlich-konservativen Kurs. Dennoch gab es zwischen CSU und Freien Wählern immer unterschiedliche Standpunkte. Aiwanger war bekannt dafür, auch unbequemer Partner zu sein und öffentlich mit den Parteichefs zu sticheln."
+      ]
+    },
+    {
+      "heading": "Die Rolle des „Gesichts“ der Freien Wähler",
+      "paragraphs": [
+        "Politikwissenschaftler betonen, dass Aiwanger für die Freien Wähler mehr war als nur ein Politiker. Er galt als das „Gesicht“ der Partei und verkörperte ein bestimmtes Markenversprechen: bodenständig und direkt, besonders für die Interessen des ländlichen Raums.",
+        "Seine Präsenz konnte der Partei auf Landesebene zusätzliche Stimmen bringen. Experten sehen die Gefahr, dass die Freien Wähler ohne ihn an Präsenz verlieren könnten. Einige Forscher sehen zudem eine Gefahr, dass die Partei in ihrer Landespolitik an Bedeutung verliert."
+      ]
+    },
+    {
+      "heading": "Was bedeutet das für die Koalition?",
+      "paragraphs": [
+        "Der Ministerpräsident der CSU äußerte, dass die Regierung ihren Kurs in Aiwangers Sinne fortsetzen werde. Die Stabilität der bayerischen Regierungskoalition wird von Politikwissenschaftlern nicht als gefährdet angesehen.",
+        "Dennoch müssen sich die Freien Wähler neu aufstellen. Es ist unklar, ob ein neuer Parteichef die gleiche Durchsetzungsfähigkeit und die gleiche öffentliche Präsenz wie Aiwanger erreichen wird. Experten warnen davor, dass man Aiwanger nicht einfach imitieren kann."
+      ]
+    }
+  ],
+  "whyItMatters": "Politik ist oft kompliziert, aber die Rolle einer einzelnen Person kann große Auswirkungen haben. Du lernst hier, wie wichtig eine starke Führungsfigur für eine politische Partei sein kann und was passiert, wenn diese fehlt.",
+  "glossary": [
+    {
+      "term": "Koalition",
+      "definition": "Zwei oder mehr Parteien, die zusammen regieren, um eine Mehrheit im Parlament zu erreichen und Gesetze zu verabschieden."
+    },
+    {
+      "term": "Bürgerlich-konservativ",
+      "definition": "Eine politische Ausrichtung, die traditionelle Werte schätzt und für eine marktwirtschaftliche Ordnung eintritt."
+    },
+    {
+      "term": "Landtagsebene",
+      "definition": "Die Ebene der Landesparlamente, also die Gesetzgebung auf Ebene eines Bundeslandes (wie Bayern)."
+    }
+  ],
+  "quiz": {
+    "question": "Welchen politischen Kurs verfolgen die CSU und die Freien Wähler in der Regierungskoalition?",
+    "options": [
+      "sozialistisch",
+      "bürgerlich-konservativ",
+      "radikal links"
+    ],
+    "answerIndex": 1,
+    "explanation": "Beide Parteien verfolgen einen bürgerlich-konservativen Kurs."
+  },
+  "discussion": [
+    "Wie wichtig ist in einer politischen Partei die öffentliche Präsenz und das „Gesicht“, im Vergleich zu den inhaltlichen Programmpunkten?",
+    "Welche Rolle spielen starke Persönlichkeiten in der Politik, und kann eine Partei ihre Identität ohne solche Figuren beibehalten?"
+  ],
+  "publishedAt": "2026-11-06T10:18:42.115Z",
+  "sources": [
+    {
+      "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/was-aiwangers-tod-fuer-die-bayerische-politik-bedeutet.jpg",
+    "width": 960,
+    "height": 1393,
+    "alt": "Hubert Aiwanger als Politiker der Freien Wähler in einer öffentlichen Veranstaltung.",
+    "credit": {
+      "title": "2021-07-15 Hubert Aiwanger 0051.JPG",
+      "author": "Michael Lucan",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2021-07-15_Hubert_Aiwanger_0051.JPG"
+    }
+  }
+}

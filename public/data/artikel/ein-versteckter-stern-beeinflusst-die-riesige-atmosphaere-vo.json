@@ -1,0 +1,88 @@
+{
+  "id": "ein-versteckter-stern-beeinflusst-die-riesige-atmosphaere-vo",
+  "category": "astronomie",
+  "title": "Ein versteckter Stern beeinflusst die riesige Atmosphäre von Betelgeuse",
+  "teaser": "Ein unbekannter Begleiter bewegt sich durch die äußeren Schichten des berühmten Roten Riesen. Neue Beobachtungen zeigen, wie dieser Stern die Form des gigantischen Sterns verändert.",
+  "tags": [
+    "Sternenentwicklung",
+    "Weltall",
+    "Sternsystem",
+    "Himmelskörper"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Wissenschaftler haben Hinweise darauf gefunden, dass ein kleiner, bisher verborgener Stern namens Siwarha durch die riesige Atmosphäre von Betelgeuse reist.",
+    "Diese Passage durch das Gas verursacht messbare Störungen, die die Form des Roten Riesen verändern.",
+    "Die Forschung nutzt Radiobeobachtungen, um diese indirekten Auswirkungen zu erkennen, da der Begleiter selbst zu schwach ist, um direkt sichtbar zu sein."
+  ],
+  "sections": [
+    {
+      "heading": "Was passiert mit dem Giganten Betelgeuse?",
+      "paragraphs": [
+        "Betelgeuse ist einer der bekanntesten Sterne am Nachthimmel und ein massiver Roter Riese. Dieser Stern hat Astronomen seit Generationen fasziniert. Vor Kurzem erregte er weltweit Aufsehen, als seine Helligkeit stark abfiel – ein Phänomen, das als „Große Verdunkelung“ bekannt ist und über 100 Jahre das niedrigste Niveau erreichte.",
+        "Mittlerweile hat sich die äußere Atmosphäre des Sterns wieder weitgehend beruhigt. Doch neue Beobachtungen liefern einen spannenden Hinweis: Etwas bewegt sich durch die äußeren Gaswolken und stört sie.",
+        "Die Forscher vermuten, dass der Übeltäter ein bisher kaum bekannter Begleiterstern namens Siwarha ist. Dieser kleinere Stern scheint direkt durch die riesige, ausgedehnte Atmosphäre von Betelgeuse zu pflügen."
+      ]
+    },
+    {
+      "heading": "Wie wird dieser unsichtbare Einfluss gemessen?",
+      "paragraphs": [
+        "Die Wissenschaftler nutzten leistungsstarke Teleskope wie das NSF VLA und ALMA, um die äußeren Schichten von Betelgeuse zu untersuchen. Durch die Analyse von Daten aus sieben verschiedenen Radiofrequenzen konnten sie die Struktur der Atmosphäre rekonstruieren.",
+        "Da Siwarha selbst zu schwach ist, um ihn direkt mit diesen Radioaufnahmen zu sehen, suchten die Astronomen nach indirekten Beweisen. Sie konzentrierten sich auf die Form des Sterns. Anstatt perfekt rund zu erscheinen, zeigt die Atmosphäre manchmal eine leicht gestreckte, ovale Form.",
+        "Diese Formänderungen korrelieren mit der erwarteten Position von Siwarha. Wenn der Begleiterstern in einer bestimmten Position ist, erscheint die Atmosphäre gestreckter. Dies liefert stichhaltigen Beweis dafür, dass der Stern durch die Gaswolken geht und diese beeinflusst."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis, wie Sterne in ihrem Lebensende interagieren, ist fundamental für die Astrophysik. Diese Forschung zeigt, dass selbst kleine Objekte in einem großen System enorme Auswirkungen haben können. Es hilft uns, die Prozesse zu verstehen, die zur Entstehung von Staub und Planeten im Universum führen.",
+  "glossary": [
+    {
+      "term": "Roter Riese",
+      "definition": "Ein sehr großer, alter Stern, der sich stark ausdehnt und dessen Oberfläche viel kühler ist als die eines jungen, heißen Sterns."
+    },
+    {
+      "term": "Atmosphäre",
+      "definition": "Die äußerste Gasschicht eines Sterns, die aus den äußeren, weniger dichten Gaswolken besteht."
+    },
+    {
+      "term": "Radiofrequenzen",
+      "definition": "Bestimmte Wellenlängen von elektromagnetischer Strahlung, die Teleskope nutzen, um die Materie in einem Stern zu untersuchen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Methode verwenden die Astronomen, um den Einfluss des Begleitersterns Siwarha nachzuweisen, da er selbst zu schwach ist?",
+    "options": [
+      "Sie messen die Temperatur des Begleiters direkt mit einem Infrarot-Teleskop.",
+      "Sie beobachten die Gravitationswellen, die durch den Stern entstehen.",
+      "Sie analysieren die Formänderungen der Atmosphäre von Betelgeuse."
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Forscher haben die elliptische Form der Atmosphäre gemessen, da diese Veränderungen mit der Position von Siwarha übereinstimmen."
+  },
+  "discussion": [
+    "Welche Rolle spielen indirekte Messungen in der modernen Wissenschaft, wenn ein untersuchtes Objekt selbst nicht direkt beobachtet werden kann?",
+    "Wie verändert die Erkenntnis über die äußeren Prozesse von Sternen unser Verständnis von deren Lebenszyklen und dem Schicksal des Universums?"
+  ],
+  "publishedAt": "2026-11-06T09:52:41.774Z",
+  "sources": [
+    {
+      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/ein-versteckter-stern-beeinflusst-die-riesige-atmosphaere-vo.jpg",
+    "width": 960,
+    "height": 571,
+    "alt": "VLT-Aufnahmen von Betelgeuse und seinem Begleitstern, der die Atmosphäre beeinflusst.",
+    "credit": {
+      "title": "VLT images of Betelgeuse and its companion (eso2611a).jpg",
+      "author": "ESO/M. Montargès et al. Background: N. Rissinger ( skysurvey.org )",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VLT_images_of_Betelgeuse_and_its_companion_(eso2611a).jpg"
+    }
+  }
+}

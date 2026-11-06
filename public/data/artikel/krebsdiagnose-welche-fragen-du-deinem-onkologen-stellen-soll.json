@@ -1,0 +1,80 @@
+{
+  "id": "krebsdiagnose-welche-fragen-du-deinem-onkologen-stellen-soll",
+  "category": "medizin",
+  "title": "Krebsdiagnose: Welche Fragen du deinem Onkologen stellen solltest",
+  "teaser": "Eine Krebsdiagnose ist überwältigend. Wir zeigen dir, welche Fragen du stellen kannst, um gut informiert in die Therapie zu starten.",
+  "tags": [
+    "Krebs",
+    "Onkologie",
+    "Patientenrechte",
+    "Gesundheit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Nach einer Krebsdiagnose sind Patienten oft von zu vielen Informationen überrollt, was Entscheidungen erschwert.",
+    "Forscher haben eine Fragenliste entwickelt, die Patienten, Angehörigen und Ärzten hilft, wichtige Punkte zu klären.",
+    "Es ist wichtig, aktiv am Gespräch teilzunehmen, um die Vorteile und Risiken der Behandlung zu verstehen."
+  ],
+  "sections": [
+    {
+      "heading": "Wenn die Informationen zu viel werden",
+      "paragraphs": [
+        "Eine Krebsdiagnose ist ein Schock. Daraufhin stehen viele Menschen vor Therapiedecisionen. Oftmals werden sie von einer Flut an medizinischen Informationen überrollt. Das kann es sehr schwer machen, den Überblick zu behalten und die richtigen Entscheidungen zu treffen.",
+        "In der Onkologie – dem Fachgebiet, das sich mit Krebs beschäftigt – ist es eine große Aufgabe der Ärzte, diesen Betroffenen die Behandlungsmöglichkeiten verständlich zu erklären. Sie müssen die relativen Vor- und Nachteile jeder Therapie auf eine Weise vermitteln, die jeder nachvollziehen kann."
+      ]
+    },
+    {
+      "heading": "Eine Liste, die hilft, Klarheit zu schaffen",
+      "paragraphs": [
+        "Um dieses Problem anzugehen, wurde eine spezielle Fragenliste entwickelt. Diese Liste wurde erstmals von Menschen mit Krebs, ihren Angehörigen und Pflegekräften sowie von Onkologen selbst bewertet. Christopher Booth von der Queens University in Kingston stellte diese Liste auf einem Kongress der European Society for Medical Oncology (ESMO) vor.",
+        "Diese Liste soll sicherstellen, dass Patienten alle wichtigen Punkte ansprechen können, bevor eine Therapie begonnen wird. Sie hilft dabei, die Kommunikation zwischen Patient und Arzt zu strukturieren und sicherzustellen, dass die Bedürfnisse des Patienten gehört werden."
+      ]
+    },
+    {
+      "heading": "Dein Recht auf umfassende Information",
+      "paragraphs": [
+        "Es ist dein gutes Recht, Fragen zu stellen. Selbst wenn die Ärzte versuchen, alles zu erklären, solltest du aktiv nachfragen. Die Fragenliste dient als Leitfaden, um sicherzustellen, dass du alle Aspekte der Diagnose und der möglichen Behandlungen verstehst. Es geht darum, dass du eine informierte Entscheidung triffst, die zu deinem Wohl passt."
+      ]
+    }
+  ],
+  "whyItMatters": "Wenn du oder jemand in deinem Umfeld eine solche Diagnose erhält, ist Wissen Macht. Dieses Thema zeigt, wie wichtig es ist, aktiv am eigenen Gesundheitsweg teilzunehmen und nicht nur Informationen zu passiv zu empfangen.",
+  "glossary": [
+    {
+      "term": "Onkologie",
+      "definition": "Das medizinische Fachgebiet, das sich mit der Diagnose und Behandlung von Krebserkrankungen beschäftigt."
+    },
+    {
+      "term": "Therapieentscheidungen",
+      "definition": "Die Auswahl der Behandlungsmethoden, wie z. B. Chemotherapie oder Strahlentherapie, nachdem eine Krankheit diagnostiziert wurde."
+    },
+    {
+      "term": "ESMO",
+      "definition": "Die European Society for Medical Oncology, eine große europäische Fachgesellschaft für Krebsbehandlung."
+    }
+  ],
+  "quiz": {
+    "question": "Wer hat die Fragenliste, die Patienten nach einer Krebsdiagnose stellen sollen, erstellt und vorgestellt?",
+    "options": [
+      "Die European Society for Medical Oncology (ESMO)",
+      "Das Deutsche Ärzteblatt",
+      "Christopher Booth von der Queens University in Kingston"
+    ],
+    "answerIndex": 2,
+    "explanation": "Christopher Booth von der Queens University in Kingston stellte die Liste auf dem Kongress der ESMO vor."
+  },
+  "discussion": [
+    "Wie kann das Gesundheitssystem sicherstellen, dass Patienten trotz Informationsüberflutung genügend Zeit für alle wichtigen Fragen haben?",
+    "Welche Rolle spielen Angehörige und Pflegekräfte dabei, wenn Patienten versuchen, komplexe medizinische Informationen zu verarbeiten?"
+  ],
+  "publishedAt": "2026-11-06T09:25:59.281Z",
+  "sources": [
+    {
+      "title": "Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten",
+      "url": "https://www.aerzteblatt.de/news/fragen-die-patienten-mit-krebs-nach-der-diagnose-den-onkologen-stellen-sollten-fa1625dc-71b4-48cb-beb1-0e58111e6b80",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

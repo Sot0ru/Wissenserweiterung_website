@@ -1,0 +1,81 @@
+{
+  "id": "ns-zeit-holocaust-und-zweiter-weltkrieg-was-du-wissen-musst",
+  "category": "geschichte",
+  "title": "NS-Zeit, Holocaust und Zweiter Weltkrieg: Was du wissen musst",
+  "teaser": "Die Zeit des Nationalsozialismus prägt die deutsche Geschichte. Wir beleuchten die wichtigsten Ereignisse vom Kriegsausbruch bis zum Ende 1945.",
+  "tags": [
+    "Weltkrieg",
+    "Diktatur",
+    "Massenmord",
+    "Politik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Zweite Weltkrieg begann offiziell am 1. September 1939 mit dem Angriff auf Polen. Das Unternehmen Barbarossa, der Überfall auf die Sowjetunion 1941, war ein Vernichtungskrieg.",
+    "Der Holocaust war ein System des Massenmordes, bei dem Millionen von Menschen, darunter Sinti und Roma, verfolgt und ermordet wurden.",
+    "Der Krieg endete für Europa am 8. Mai 1945 mit der bedingungslosen Kapitulation der Wehrmacht."
+  ],
+  "sections": [
+    {
+      "heading": "Der Beginn und die Kriegsziele",
+      "paragraphs": [
+        "Die Zeit des Nationalsozialismus ist ein prägendes Kapitel der deutschen Geschichte. Der Zweite Weltkrieg begann laut historischen Aufzeichnungen am 1. September 1939, als das deutsche Kriegsschiff Schleswig-Holstein die Westerplatte bei Danzig beschoss. Doch die ersten Bomben über Polen fielen an anderen Stellen.",
+        "Ein zentrales Ziel der NS-Führung war der sogenannte „Lebensraum im Osten“. Das Unternehmen Barbarossa, der deutsche Überfall auf die Sowjetunion am 22. Juni 1941, war darauf ausgelegt, die „Lebenskraft Russlands“ zu zerstören und diesen Raum zu gewinnen. Auch die Schlacht um Kursk im Juli 1943 zeigte, dass die letzte deutsche Großoffensive gegen die Sowjets scheiterte."
+      ]
+    },
+    {
+      "heading": "Holocaust und Terror im Reich",
+      "paragraphs": [
+        "Neben den großen Schlachten spielte sich im NS-Reich ein System des Terrors ab. Der Holocaust war ein Massenmord, bei dem unzählige Menschen Opfer wurden. Konzentrationslager wie Auschwitz wurden zu Orten des Mordes, wo Menschen durch systematische Verfolgung und Vernichtung getötet wurden. Auch zivile Firmen waren am Bau dieser Lager beteiligt.",
+        "Die Verfolgung betraf nicht nur Juden, sondern auch Sinti und Roma. Am 26. Februar 1943 wurden die ersten Sinti und Roma nach Auschwitz-Birkenau deportiert, wobei über 5.600 Menschen vergast wurden. Darüber hinaus gab es Opfer erzwungener Medizinforschung, denen Gehirne oder Augen entnommen wurden."
+      ]
+    },
+    {
+      "heading": "Das Ende des Krieges",
+      "paragraphs": [
+        "Die Kriegsjahre endeten mit einer Reihe gewaltiger Ereignisse. Am 8. Mai 1945 um 23:01 Uhr schweigten in Europa die Waffen, als die Wehrmacht ihre bedingungslose Kapitulation erklärte. In der Folgezeit kämpften Truppen bis zum Ende des Krieges weiter, etwa auf Spitzbergen, wo am 4. September 1945 die letzten Wehrmacht-Soldaten kapitulierten.",
+        "Nach dem Krieg trafen sich die alliierten Sieger in Potsdam. Dort wurde das Potsdamer Abkommen ausgehandelt, das Entscheidungen zu Reparationen, Grenzverschiebungen und der Vertreibung von Millionen Deutschen festlegte. Die Geschichte dieser Zeit ist komplex, und die Frage, wer Täter war, wird bis heute diskutiert."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Kapitel der Geschichte ist wichtig, weil es die Grundlagen vieler heutiger internationaler Gesetze und Menschenrechte definiert hat. Es hilft dir zu verstehen, wie extreme Ideologien zu kollektiven Gräueltaten führen können.",
+  "glossary": [
+    {
+      "term": "Holocaust",
+      "definition": "Der systematische und staatlich organisierte Massenmord an sechs Millionen europäischen Juden sowie an anderen verfolgten Gruppen durch das NS-Regime."
+    },
+    {
+      "term": "Vernichtungskrieg",
+      "definition": "Ein Krieg, dessen Ziel nicht nur der militärische Sieg, sondern die Zerstörung des gesamten Lebens und der Bevölkerung des Gegners ist."
+    },
+    {
+      "term": "SS",
+      "definition": "Eine paramilitärische Organisation des Nationalsozialismus, die maßgeblich an der Verfolgung und den Gräueltaten beteiligt war."
+    }
+  ],
+  "quiz": {
+    "question": "Wann wurde die bedingungslose Kapitulation der Wehrmacht in Europa bekannt gegeben?",
+    "options": [
+      "8. Mai 1945",
+      "22. Juni 1941",
+      "September 1939"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die bedingungslose Kapitulation der Wehrmacht trat am 8. Mai 1945 in Kraft."
+  },
+  "discussion": [
+    "Welche Rolle spielen historische Ereignisse wie der Zweite Weltkrieg bei der Gestaltung heutiger internationaler Gesetze und Menschenrechtsstandards?",
+    "Wie kann eine Gesellschaft verhindern, dass sich extreme Ideologien wie der Nationalsozialismus wieder durchsetzen?"
+  ],
+  "publishedAt": "2026-11-06T10:37:54.789Z",
+  "sources": [
+    {
+      "title": "NS-Zeit",
+      "url": "https://www.mdr.de/geschichte/ns-zeit",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

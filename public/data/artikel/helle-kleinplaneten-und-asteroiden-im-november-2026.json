@@ -1,0 +1,91 @@
+{
+  "id": "helle-kleinplaneten-und-asteroiden-im-november-2026",
+  "category": "astronomie",
+  "title": "Helle Kleinplaneten und Asteroiden im November 2026",
+  "teaser": "Bereit für den Sternenhimmel? Im November 2026 gibt es mehrere helle Objekte zu beobachten, von Zwergplaneten bis zu erdnahen Asteroiden.",
+  "tags": [
+    "Weltall",
+    "Himmel",
+    "Objektbeobachtung",
+    "Planeten"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Im November 2026 sind mehrere helle Kleinplaneten und zwei erdnahe Apollo-Asteroiden am Himmel sichtbar.",
+    "Objekte wie Ceres und Pallas sind gut zu beobachten, während Asteroiden wie Erato und Medusa in Opposition stehen.",
+    "Für die besten Sichtungen brauchst du ein Teleskop mit einer Öffnung von mindestens 20 Zentimetern."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist ein Kleinplanet und warum sind sie spannend?",
+      "paragraphs": [
+        "Wenn du in den Sternenhimmel blickst, siehst du viele Punkte. Manche sind Sterne, andere sind Planeten oder sogenannte Kleinplaneten. Kleinplaneten sind kleine Himmelskörper, die nicht die Größe eines großen Planeten haben, aber trotzdem um unsere Sonne kreisen. Dazu gehören auch Zwergplaneten wie Ceres.",
+        "Ein wichtiger Unterschied ist die Bahn. Die meisten Planeten kreisen relativ gleichmäßig um die Sonne. Kleinplaneten können aber sehr unterschiedliche Bahnen haben. Manche sind so nah an der Erde, dass man sie als „erdnahe“ bezeichnet. Diese können durch ihre Nähe besonders interessant sein."
+      ]
+    },
+    {
+      "heading": "Die Highlights des Novemberhimmels 2026",
+      "paragraphs": [
+        "Der November bietet eine gute Gelegenheit, verschiedene Objekte zu beobachten. Vier Kleinplaneten sind heller als die 10. Größenklasse und können bereits mit einem kleinen Teleskop gesehen werden. Dazu gehören Ceres, Pallas und Vesta. Ceres, ein Zwergplanet im Sternbild Zwillinge, erreicht im Spätherbst eine Helligkeit von 7,6 mag.",
+        "Zwei erdnahe Apollo-Asteroiden, Lugh und 2005 JE 46, sind für besser ausgestattete Amateure sichtbar. Asteroiden wie Erato und Medusa stehen in Opposition zur Sonne. Das bedeutet, sie stehen uns gegenüber und erscheinen dadurch besonders hell. Erato kann im November mit 12,2 mag erreicht werden, obwohl sie nicht ihren maximal möglichen Wert erreicht.",
+        "Auch andere Objekte wie Nausikaa oder Athamantis sind zu sehen, auch wenn sie lichtschwächer sind. Für eine erfolgreiche Beobachtung, besonders bei den lichtschwächeren Objekten, wird ein Teleskop mit mindestens 20 Zentimetern Öffnung empfohlen."
+      ]
+    }
+  ],
+  "whyItMatters": "Astronomie hilft dir zu verstehen, wie unser Sonnensystem funktioniert. Die Beobachtung dieser Objekte zeigt dir, dass unser Sonnensystem weit komplexer ist, als man oft denkt, und gibt dir einen Einblick in die physikalischen Gesetze, die unser Universum bestimmen.",
+  "glossary": [
+    {
+      "term": "Kleinplanet",
+      "definition": "Ein kleiner Himmelskörper, der um die Sonne kreist und nicht die Größe eines großen Planeten hat."
+    },
+    {
+      "term": "Opposition",
+      "definition": "Der Zeitpunkt, an dem ein Himmelskörper (wie ein Asteroid) von der Erde aus direkt gegenüber der Sonne steht und daher besonders hell erscheint."
+    },
+    {
+      "term": "Mag (Helligkeitsklasse)",
+      "definition": "Eine Einheit, die die scheinbare Helligkeit eines Himmelskörpers misst. Je kleiner die Zahl, desto heller ist das Objekt."
+    },
+    {
+      "term": "Teleskop-Öffnung",
+      "definition": "Der Durchmesser der Linsen oder Spiegel eines Teleskops, der bestimmt, wie viel Licht das Gerät sammeln kann."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Einheit wird verwendet, um die scheinbare Helligkeit eines Himmelskörpers zu messen?",
+    "options": [
+      "Mag",
+      "Astronomische Einheiten (AE)",
+      "Bogenminuten"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Mag-Skala (Helligkeitsklasse) wird verwendet. Je kleiner die Zahl, desto heller ist das Objekt."
+  },
+  "discussion": [
+    "Wie beeinflusst die Technologie (z.B. Teleskope) unsere Fähigkeit, das Universum zu beobachten und neue Erkenntnisse zu gewinnen?",
+    "Welche Bedeutung hat es, dass Astronomen Objekte wie Ceres als Zwergplaneten einstufen, anstatt sie als volle Planeten zu bezeichnen?"
+  ],
+  "publishedAt": "2026-11-06T09:59:10.726Z",
+  "sources": [
+    {
+      "title": "Kleinplaneten im November 2026: Zwei helle Apollo-Asteroiden in Erdnähe",
+      "url": "https://www.spektrum.de/news/kleinplaneten-im-november-2026-helle-apollo-asteroiden-in-erdnaehe/2333146",
+      "publisher": "Sterne und Weltraum"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/helle-kleinplaneten-und-asteroiden-im-november-2026.jpg",
+    "width": 960,
+    "height": 681,
+    "alt": "Aufnahme des Kleinplaneten (4015) Wilson-Harrington, aufgenommen am 19. November 1949.",
+    "credit": {
+      "title": "Minor planet (4015) (eso9212a).jpg",
+      "author": "ESO",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minor_planet_(4015)_(eso9212a).jpg"
+    }
+  }
+}
