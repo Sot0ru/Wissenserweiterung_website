@@ -1,0 +1,98 @@
+{
+  "id": "sternenmeer-im-november-meteoritenschauer-planeten-und-voyag",
+  "category": "astronomie",
+  "title": "Sternenmeer im November: Meteoritenschauer, Planeten und Voyager 1",
+  "teaser": "November verspricht spektakuläre Nächte am Nachthimmel. Er erfährst, welche astronomischen Ereignisse du nicht verpassen solltest.",
+  "tags": [
+    "Weltall",
+    "Planeten",
+    "Himmelsbeobachtung",
+    "Raumfahrt",
+    "Mond"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Im November 2026 gibt es mehrere geplante Himmelsereignisse, darunter drei Meteoritenschauer und eine besondere Begegnung von Mars und Jupiter.",
+    "NASA feiert zudem, dass die Voyager 1 Raumsonde einen historischen Meilenstein erreicht, indem sie einen Lichttag von der Erde entfernt ist.",
+    "Ein voller Supermond am 24. November leitet zudem eine Serie von drei aufeinanderfolgenden Supermonden ein."
+  ],
+  "sections": [
+    {
+      "heading": "Was erwartet dich am Nachthimmel?",
+      "paragraphs": [
+        "November ist ein Monat, an dem der Nachthimmel viele beeindruckende Schauspiele bietet. Für alle, die gerne durch das Teleskop schauen oder einfach nur den Himmel beobachten, gibt es einige Highlights. Dazu gehören mehrere Meteoritenschauer, eine seltene Nähe zwischen zwei Planeten und ein voller Supermond."
+      ]
+    },
+    {
+      "heading": "Von Sternschnuppen bis zu Planeten-Tanz",
+      "paragraphs": [
+        "Meteoritenschauer sind Ereignisse, bei denen viele Sternschnuppen gleichzeitig erscheinen. Im November stehen drei solche Schauer auf dem Programm. Der Southern Taurid erreicht seinen Höhepunkt um den 5. November, und der Northern Taurid folgt am 12. November. Der Leoniden-Schauer bietet seine besten Beobachtungszeiten am 17. und 18. November, besonders nach Sonnenuntergang.",
+        "Obwohl diese Schauer oft nur etwa fünf Sternschnuppen pro Stunde bringen, sind sie bekannt dafür, gelegentlich extrem helle „Feuerbälle“ zu produzieren. Ein weiteres Highlight ist die Begegnung von Mars und Jupiter am 15. und 16. November. Diese beiden Planeten erscheinen nur etwa 1,2 Grad voneinander entfernt, was optisch kaum mehr ist als die Breite zweier nebeneinander stehender Vollmonde. Du brauchst dafür kein Teleskop, um dieses Schauspiel zu genießen."
+      ]
+    },
+    {
+      "heading": "Die Reise von Voyager 1 und der Supermond",
+      "paragraphs": [
+        "Gleichzeitig zu den Ereignissen in unserem Sonnensystem findet weit außerhalb der Erde etwas Historisches statt. Die NASA feiert am 17. November den Meilenstein der Voyager 1 Raumsonde. Sie ist zu diesem Zeitpunkt einen Lichttag von der Erde entfernt. Ein Lichttag ist die Strecke, die Licht in 24 Stunden zurücklegt. Das bedeutet, dass ein Signal von der Erde an diese Sonde einen ganzen Tag braucht, um anzukommen."
+      ]
+    },
+    {
+      "heading": "Der Mond im Fokus",
+      "paragraphs": [
+        "Zum Abschluss des Monats steht der Supermond am 24. November an. Ein Supermond tritt auf, wenn ein Vollmond in der Nähe des nächstgelegenen Punktes seiner Umlaufbahn zur Erde stattfindet. Dadurch kann er größer und heller erscheinen als ein gewöhnlicher Vollmond. Dieser Termin markiert zudem den Beginn einer Serie von drei aufeinanderfolgenden Supermonden. Wenn du ihn am Abend beobachtest, beachte, dass die Mondillusion – ein optischer Effekt, der den Mond am Horizont größer erscheinen lässt – bei dieser Beobachtung eine Rolle spielt."
+      ]
+    }
+  ],
+  "whyItMatters": "Astronomie hilft dir zu verstehen, wie riesig und komplex unser Sonnensystem und das Universum sind. Solche Ereignisse zeigen dir, dass Wissenschaft nicht nur im Labor stattfindet, sondern auch direkt am Nachthimmel sichtbar ist. Es eröffnet dir einen Blick auf die Grenzen menschlicher Erforschung, wie bei der Voyager 1 Sonde.",
+  "glossary": [
+    {
+      "term": "Meteoritenschauer",
+      "definition": "Ein Ereignis, bei dem viele Sternschnuppen gleichzeitig erscheinen, da die Erde durch Staubwolken von Kometen fliegt."
+    },
+    {
+      "term": "Lichttag",
+      "definition": "Die Strecke, die Licht in genau 24 Stunden zurücklegt. Es dient als Maßstab für extrem große Entfernungen im Weltraum."
+    },
+    {
+      "term": "Supermond",
+      "definition": "Ein Vollmond, der in der Nähe des nächstgelegenen Punktes seiner Umlaufbahn zur Erde auftritt und dadurch größer und heller erscheinen kann."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist die ungefähre Anzahl von Sternschnuppen pro Stunde, die man unter idealen Bedingungen beim Leoniden-Schauer erwarten kann?",
+    "options": [
+      "30",
+      "5",
+      "15"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Quelle nennt für den Leoniden-Schauer unter idealen Bedingungen etwa 15 Meteore pro Stunde."
+  },
+  "discussion": [
+    "Wie beeinflusst die moderne Technik, wie Teleskope oder Satelliten, unsere Wahrnehmung und unser Verständnis von astronomischen Phänomenen?",
+    "Welche ethischen Überlegungen ergeben sich aus der Entsendung von Raumfahrzeugen wie Voyager 1 in solch extreme Tiefen des Weltraums?"
+  ],
+  "publishedAt": "2026-11-07T09:09:15.659Z",
+  "sources": [
+    {
+      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/sternenmeer-im-november-meteoritenschauer-planeten-und-voyag.jpg",
+    "width": 960,
+    "height": 1282,
+    "alt": "Ein Geminiden-Meteor leuchtet am 13. Dezember 2022 über einem Tal in China.",
+    "credit": {
+      "title": "The Geminid Fireball (ann23043v).jpg",
+      "author": "Jianfeng Dai/IAU OAE ( CC BY 4.0 )",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Geminid_Fireball_(ann23043v).jpg"
+    }
+  }
+}

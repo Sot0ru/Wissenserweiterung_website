@@ -1,0 +1,87 @@
+{
+  "id": "neue-raketentechnologie-wie-wird-der-raum-erreichbar",
+  "category": "wissenschaft",
+  "title": "Neue Raketentechnologie: Wie wird der Raum erreichbar?",
+  "teaser": "Blue Origin verbessert ihre Raketen New Glenn massiv. Erfahre, wie neue Triebwerke und zusätzliche Stufen die Grenzen des Weltraums verschieben.",
+  "tags": [
+    "Raumfahrt",
+    "Technik",
+    "Antrieb",
+    "Weltraummission"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Blue Origin modernisiert ihre Rakete New Glenn durch die Einführung der zusätzlichen Stufe GS3 und verbesserte Haupttriebwerke wie Northstar.",
+    "Diese Upgrades ermöglichen es der Rakete, deutlich mehr Nutzlasten in den geostationären Erdorbit oder in Richtung Mond zu befördern.",
+    "Die Entwicklungen zeigen einen Trend zu effizienteren und leichteren Triebwerken, die auch durch additive Fertigung hergestellt werden."
+  ],
+  "sections": [
+    {
+      "heading": "Mehr Kraft, mehr Reichweite: Was die Upgrades bewirken",
+      "paragraphs": [
+        "Blue Origin arbeitet kontinuierlich daran, ihre Raketen leistungsfähiger zu machen. Aktuell wurden zwei spezifische Updates für die Raketenvarianten New Glenn 7×2 und New Glenn 9×4 vorgestellt. Das wichtigste Element dieser Erweiterung ist die GS3, eine zusätzliche dritte Stufe für die New Glenn.",
+        "Die GS3 ist entscheidend für sehr anspruchsvolle Missionen. Sie ermöglicht nicht nur den direkten Einschuss in die geostationäre Bahn – also in eine bestimmte Umlaufbahn über dem Äquator – sondern auch Trajektorien, die den Erdbereich verlassen.",
+        "Die Leistung steigt dadurch spürbar. Die New Glenn 7×2 kann mit GS3 bis zu 8 Tonnen Nutzlast in den geostationären Erdorbit befördern. Die größere Variante, die New Glenn 9×4, erreicht mit dieser Erweiterung 14 Tonnen für diesen Orbit. Für eine Reise in Richtung Mond (translunare Übergangsbahn) steigt die Kapazität der 9×4 auf 20 Tonnen."
+      ]
+    },
+    {
+      "heading": "Die Triebwerke: Effizienz durch Innovation",
+      "paragraphs": [
+        "Neben der zusätzlichen Stufe werden auch die Haupttriebwerke verbessert. Das neue Triebwerk Northstar ist eine Weiterentwicklung des bisherigen BE-4 Triebwerks. Bei Northstar konnte die Masse um 30 Prozent reduziert werden, während der Schub von 2850 kilonewton (kN) auf 3180 kN angehoben wurde.",
+        "Diese Verbesserungen sind nicht nur eine Frage der Leistung. Ein großer Teil des Northstar-Triebwerks – etwa 65 Prozent – soll mittels additiver Fertigung hergestellt werden. Das bedeutet, dass Teile nicht mehr traditionell gefertigt, sondern"
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Entwicklungen sind wichtig, weil sie zeigen, wie die Raumfahrt immer präziser und leistungsfähiger wird. Für zukünftige Projekte, sei es Forschung oder Satelliten, bedeutet mehr Tragfähigkeit mehr Möglichkeiten.",
+  "glossary": [
+    {
+      "term": "Geostationäre Bahn",
+      "definition": "Eine Umlaufbahn über der Erde, auf der ein Satellit scheinbar immer an derselben Stelle am Himmel steht."
+    },
+    {
+      "term": "Translunare Übergangsbahn",
+      "definition": "Die Flugbahn, die ein Raumfahrzeug von der Erde zu einem anderen Himmelskörper, wie dem Mond, transportiert."
+    },
+    {
+      "term": "Additive Fertigung",
+      "definition": "Ein 3D-Druckverfahren, bei dem Objekte Schicht für Schicht aufgebaut werden, was oft zu leichteren und komplexeren Bauteilen führt."
+    }
+  ],
+  "quiz": {
+    "question": "Welche neue Stufe wird zur Erweiterung der New Glenn Rakete eingesetzt, um hochenergetische Missionen zu ermöglichen?",
+    "options": [
+      "BE-7",
+      "GS3",
+      "Northstar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die GS3 ist die zusätzliche dritte Stufe, die die Kapazitäten der New Glenn erweitert."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Reduzierung der Masse bei Triebwerken für die zukünftige Entwicklung von Raketensystemen?",
+    "Wie beeinflusst die Nutzung von additiver Fertigung die Geschwindigkeit und die Kosten von komplexen technischen Projekten?"
+  ],
+  "publishedAt": "2026-11-07T09:13:10.635Z",
+  "sources": [
+    {
+      "title": "Blue Origin verstärkt New Glenn mit Northstar und GS3",
+      "url": "https://www.raumfahrer.net/blue-origin-verstaerkt-new-glenn-mit-northstar-und-gs3/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/neue-raketentechnologie-wie-wird-der-raum-erreichbar.jpg",
+    "width": 960,
+    "height": 768,
+    "alt": "Kleiner Raketenmotor wird am Stennis Space Center für Plume-Diagnostik getestet.",
+    "credit": {
+      "title": "Small-Scale Rocket Engine (90-224-13A).jpeg",
+      "author": "NASA Stennis Space Center",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Small-Scale_Rocket_Engine_(90-224-13A).jpeg"
+    }
+  }
+}
