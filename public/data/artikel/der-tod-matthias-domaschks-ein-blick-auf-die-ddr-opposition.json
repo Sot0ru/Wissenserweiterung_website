@@ -1,0 +1,87 @@
+{
+  "id": "der-tod-matthias-domaschks-ein-blick-auf-die-ddr-opposition",
+  "category": "geschichte",
+  "title": "Der Tod Matthias Domaschks: Ein Blick auf die DDR-Opposition",
+  "teaser": "Wie ein junger Mann im Stasi-Gefängnis starb, prägte die DDR-Geschichte. Dieser Fall beleuchtet den Widerstand junger Menschen gegen staatliche Kontrolle.",
+  "tags": [
+    "DDR",
+    "Repression",
+    "Opposition",
+    "Politik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Matthias Domaschk starb 1981 im Untersuchungsgefängnis der Staatssicherheit (Stasi) der DDR. Seine Freunde vermuteten bis heute, dass es sich nicht um einen Selbstmord handelte, sondern um ein Opfer der Staatssicherheit.",
+    "Sein Tod wurde zu einem Wendepunkt für viele junge Oppositionelle, die sich noch entschiedener gegen die Diktatur engagierten.",
+    "Der Fall zeigt exemplarisch, wie staatliche Repressionen Widerstand auslösen können, auch wenn die Wahrheit über den Tod lange verschleiert wurde."
+  ],
+  "sections": [
+    {
+      "heading": "Ein junger Mann gegen das System",
+      "paragraphs": [
+        "Stell dir vor, du bist jung und willst anders leben als deine Eltern. Du möchtest reisen, moderne Musik hören und selbstbestimmt sein. Genau das wollten Matthias Domaschk und seine Freunde in der DDR. Weil sie andere Lebensentwürfe verfolgten, gerieten sie ins Visier der Staatssicherheit (Stasi).",
+        "Im April 1981 reiste der 23-jährige Matthias Domaschk mit seinem Freund Peter Rösch nach Ostberlin. Zwei Tage später war er tot. Er starb in einem Untersuchungsgefängnis der Stasi. Die offizielle Version besagte, er habe sich an seinem Hemd erhängt. Doch seine Familie und Freunde zweifeln bis heute an dieser Erklärung."
+      ]
+    },
+    {
+      "heading": "Die Wahrheit hinter dem Todesfall",
+      "paragraphs": [
+        "Nach seinem Tod versuchte die Stasi, die Tragödie mit allen Mitteln zu vertuschen und sogar seine Beerdigung geheim zu halten. Trotz dieser Versuche kamen am 16. April 1981 etwa 300 Menschen zu seiner Beerdigung. Unter ihnen war sein enger Freund Roland Jahn.",
+        "Der Fall wurde für viele Menschen ein politischer Wendepunkt. Anstatt sie zu brechen, trieb sein Tod sie noch entschiedener in die Opposition. Roland Jahn, der später ein wichtiger Bürgerrechtler wurde, sieht darin ein Beispiel dafür, wie staatliche Repression nicht jedes Aufbegehren erstickt.",
+        "Die Aufarbeitung des Falls zeigt auch, dass die Stasi nicht nur Andersdenkende verfolgte, sondern auch versuchte, die Aufklärung solcher Fälle zu verhindern. Die Diskussion um Domaschks Tod wirft bis heute Fragen auf: Wie viel individuelle Verantwortung haben wir in einer Gesellschaft, und wie weit gehen wir, um unsere Freiheit zu verteidigen?"
+      ]
+    }
+  ],
+  "whyItMatters": "Die Geschichte von Matthias Domaschk zeigt, wie wichtig es ist, sich kritisch mit Machtstrukturen auseinanderzusetzen. Sie lehrt uns, dass die Verteidigung von Freiheitsrechten oft große persönliche Risiken mit sich bringt.",
+  "glossary": [
+    {
+      "term": "Stasi",
+      "definition": "Abkürzung für Ministerium für Staatssicherheit, die Geheimpolizei der DDR."
+    },
+    {
+      "term": "Opposition",
+      "definition": "Gruppen oder Einzelpersonen, die sich gegen die herrschende politische Macht stellen."
+    },
+    {
+      "term": "Repression",
+      "definition": "Die gewaltsame Unterdrückung von politischen oder gesellschaftlichen Bewegungen durch den Staat."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Behauptung wird im Text über den Tod Matthias Domaschks von seinen Freunden erhoben?",
+    "options": [
+      "Er war ein Opfer der Staatssicherheit, und sie versuchten, dies zu verschleiern.",
+      "Er starb durch einen Unfall während einer Reise.",
+      "Er wurde im Gefängnis aufgrund von Krankheit befreit."
+    ],
+    "answerIndex": 0,
+    "explanation": "Seine Freunde zweifelten an dem offiziellen Selbstmord und vermuteten, er sei ein Opfer der Staatssicherheit."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Erinnerung an historische Ungerechtigkeiten bei der heutigen politischen Debatte?",
+    "Wie kann eine Gesellschaft sicherstellen, dass die Wahrheit über Verbrechen oder Unterdrückungen aufgearbeitet wird?"
+  ],
+  "publishedAt": "2026-11-09T10:42:08.374Z",
+  "sources": [
+    {
+      "title": "1981: Der Tod von Matthias Domaschk im Stasigefängnis",
+      "url": "https://www.mdr.de/geschichte/ddr/politik-gesellschaft/stasi/tod-im-stasi-knast-matthias-domaschk-roland-jahn-opposition-jena-jugend-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/der-tod-matthias-domaschks-ein-blick-auf-die-ddr-opposition.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Innenansicht eines Freigangbereichs in der ehemaligen Stasi-Gefängnisanlage.",
+    "credit": {
+      "title": "Tiger Cage in Stasi Prison.jpg",
+      "author": "Martin Owen",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_Cage_in_Stasi_Prison.jpg"
+    }
+  }
+}

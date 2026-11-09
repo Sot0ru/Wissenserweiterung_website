@@ -1,0 +1,88 @@
+{
+  "id": "wahl-des-bundespraesidenten-wer-waehlt-das-staatsoberhaupt-d",
+  "category": "politik",
+  "title": "Wahl des Bundespräsidenten: Wer wählt das Staatsoberhaupt Deutschlands?",
+  "teaser": "Die Wahl des Bundespräsidenten ist ein komplexer Prozess. Wir erklären dir, wer diese wichtige Person wählt und was das für Deutschland bedeutet.",
+  "tags": [
+    "Staatsrecht",
+    "Bundespräsident",
+    "Demokratie",
+    "Wahlprozess"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Bundespräsident wird nicht vom Volk, sondern von der Bundesversammlung gewählt. Diese besteht aus allen Bundestagsabgeordneten und Mitgliedern der Länderparlamente.",
+    "Die Bundesversammlung ist das höchste parlamentarische Gremium, das nur etwa alle fünf Jahre zusammenkommt, um die Nachfolge zu bestimmen.",
+    "Die Wahl ist ohne Aussprache festgelegt, und die Zusammensetzung der Versammlung wird durch die Bevölkerungszahlen und Mehrheitsverhältnisse der Länder bestimmt."
+  ],
+  "sections": [
+    {
+      "heading": "Wer bestimmt das Staatsoberhaupt Deutschlands?",
+      "paragraphs": [
+        "Wenn du an das Staatsoberhaupt Deutschlands denkst, fragst du dich vielleicht, wer diese wichtige Person wählt. Die Antwort ist nicht einfach: Es ist nicht die allgemeine Wahl, wie bei Bundestagswahlen. Der Bundespräsident wird von der Bundesversammlung gewählt.",
+        "Die Bundesversammlung ist ein spezielles, sehr großes Parlament. Sie hat nur eine Aufgabe: Sie wählt den Bundespräsidenten oder die Bundespräsidentin. Dieses Gremium tritt in der Regel nur alle fünf Jahre zusammen.",
+        "Wie sieht dieses Gremium aus? Es setzt sich aus zwei Gruppen zusammen: Erstens aus allen Abgeordneten des Bundestages. Zweitens aus einer gleichen Anzahl von Mitgliedern, die von den Parlamenten der einzelnen Bundesländer bestimmt werden. Insgesamt umfasst die Versammlung also 1.260 Mitglieder."
+      ]
+    },
+    {
+      "heading": "Wie setzt sich die Bundesversammlung zusammen?",
+      "paragraphs": [
+        "Die Zusammensetzung der Vertreter aus den Ländern ist nicht fest vorgeschrieben. Sie wird basierend auf den Bevölkerungszahlen der jeweiligen Bundesländer berechnet. Die Länder entscheiden dann, welche Personen sie entsenden dürfen.",
+        "Diese Mandate können oft Landtagsabgeordnete sein, aber es können auch andere Persönlichkeiten aus dem öffentlichen Leben teilnehmen – zum Beispiel Sportler oder Schauspieler. Die Art der Wahl dieser Vertreter hängt von den Mehrheitsverhältnissen der Fraktionen in den jeweiligen Landtagen ab.",
+        "Da die Wahl in der Bundesversammlung ohne Aussprache erfolgt, ist der Prozess sehr formalisiert. Die Kandidaten werden von den Parteien vorgeschlagen, und die Unterstützung der Koalitionsparteien, wie CDU, CSU und SPD, kann entscheidend sein, um eine Mehrheit zu erreichen."
+      ]
+    }
+  ],
+  "whyItMatters": "Das System der Bundesversammlung zeigt, wie komplex die deutsche Demokratie ist. Es ist wichtig zu verstehen, dass wichtige Staatsämter durch einen speziellen, mehrstufigen Prozess besetzt werden, der verschiedene Ebenen der Politik einbezieht.",
+  "glossary": [
+    {
+      "term": "Bundespräsident",
+      "definition": "Das Staatsoberhaupt der Bundesrepublik Deutschland, das repräsentative Amt."
+    },
+    {
+      "term": "Bundesversammlung",
+      "definition": "Das spezielle Gremium, das die Aufgabe hat, den Bundespräsidenten zu wählen."
+    },
+    {
+      "term": "Bundestag",
+      "definition": "Das Parlament der Bundesrepublik Deutschland, das direkt von den Bürgern gewählt wird."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist die Hauptaufgabe der Bundesversammlung?",
+    "options": [
+      "Den Bundespräsidenten oder die Bundespräsidentin zu wählen.",
+      "Die Gesetzgebung für alle Bundesländer zu bestimmen.",
+      "Die Regierung des Bundes zu kontrollieren."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Bundesversammlung hat laut Quelle nur eine einzige Aufgabe: den Bundespräsidenten oder die Bundespräsidentin zu wählen."
+  },
+  "discussion": [
+    "Welche Rolle sollte die direkte Wahl durch das Volk im Vergleich zu einem komplexen Wahlgremium wie der Bundesversammlung spielen?",
+    "Wie kann sichergestellt werden, dass die Kandidaten für das Staatsoberhaupt eine breite gesellschaftliche Akzeptanz genießen?"
+  ],
+  "publishedAt": "2026-11-09T10:29:01.958Z",
+  "sources": [
+    {
+      "title": "Das ist der Weg zum neuen Staatsoberhaupt",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wahl-des-bundespraesidenten-wer-waehlt-das-staatsoberhaupt-d.jpg",
+    "width": 960,
+    "height": 662,
+    "alt": "Wähler betreten und verlassen Wahllokal bei einer Wahl für den Präsidenten in Deutschland.",
+    "credit": {
+      "title": "Enemy Activities - German Revolution - Voters at recent election for President in Germany - NARA - 31478337.jpg",
+      "author": "Unknown author Unknown author or not provided",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enemy_Activities_-_German_Revolution_-_Voters_at_recent_election_for_President_in_Germany_-_NARA_-_31478337.jpg"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "g7-aussenminister-diskutieren-ukraine-frieden-und-iran-lage",
+  "category": "politik",
+  "title": "G7-Außenminister diskutieren Ukraine-Frieden und Iran-Lage",
+  "teaser": "Die Führer der sieben größten Industrienationen treffen sich in Paris. Die großen Fragen: Wie löst sich der Krieg in der Ukraine und was passiert mit dem Iran?",
+  "tags": [
+    "Internationale Politik",
+    "Europäische Union",
+    "Krisenmanagement",
+    "Geopolitik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Außenminister der G7-Staaten treffen sich in Paris, um globale Krisen zu besprechen, darunter der Krieg in der Ukraine und die Lage im Iran.",
+    "Dabei mahnt der deutsche Außenminister Wadephul zu konkreten Verhandlungen statt militärischer Eskalation im Iran.",
+    "Er lehnt zudem die Forderung nach einer neuen europäischen Sicherheitsarchitektur ab und plädiert für die Wiederherstellung der bestehenden Ordnung."
+  ],
+  "sections": [
+    {
+      "heading": "Was steht auf der Agenda in Paris?",
+      "paragraphs": [
+        "Die Außenminister der G7 – also die sieben führenden Industrienationen – kommen zu zweitägigen Beratungen nach Paris zusammen. Im Mittelpunkt der Diskussionen stehen zwei große Themen. Erstens der russische Angriffskrieg gegen die Ukraine und der Weg zu einer umfassenden Friedenslösung. Zweitens die Lage im Nahen Osten, insbesondere die Situation rund um den Iran, sowie die Sicherung wichtiger Handels- und Seewege.",
+        "Zu den Mitgliedern gehören neben Deutschland und Frankreich auch Großbritannien, Italien, Japan, Kanada und die USA. Der deutsche Außenminister Johann Wadephul nimmt an diesen wichtigen Treffen teil."
+      ]
+    },
+    {
+      "heading": "Wadephul mahnt: Diplomatie statt Eskalation",
+      "paragraphs": [
+        "Besonders im Hinblick auf den Iran äußerte sich der deutsche Außenminister Wadephul kritisch. Er forderte angesichts Spekulationen über einen möglichen weiteren Angriff durch die USA und Israel auf Iran, dass es zu konkreten Verhandlungen kommen müsse und keine neue militärische Eskalation stattfinden dürfe. Wadephul betonte, dass „die Diplomatie läuft auf Hochtouren“.",
+        "Gleichzeitig stellte er sich gegen Forderungen nach einer neuen europäischen Sicherheitsarchitektur als Lösung für den Krieg in der Ukraine. Er argumentierte, Europa benötige nicht diese neue Struktur, sondern müsse lediglich die bestehende Sicherheitsarchitektur wiederherstellen."
+      ]
+    },
+    {
+      "heading": "Ukraine-Verhandlungen laufen parallel",
+      "paragraphs": [
+        "Parallel zu den G7-Treffen gibt es Bemühungen, den Ukraine-Krieg zu beenden. Unter US-Vermittlung verhandeln Ukraine und Russland in Abu Dhabi über eine mögliche Beendigung des seit 2022 begonnenen Krieges. Zuvor hatten die Europäer auf Beteiligung an diesen Gesprächen gedrängt, was nun nach französischen Angaben geschehen soll.",
+        "Die außenpolitische Positionierung der USA wird ebenfalls genau beobachtet, da die G7-Runde kurz vor dem G20-Gipfel in den USA stattfindet. Die Minister diskutieren auch, ob sie eine einheitliche Linie gegenüber Russland und China finden werden."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese internationalen Treffen beeinflussen direkt, wie Konflikte gelöst werden. Als junge Menschen wirst du von den globalen Entscheidungen betroffen sein, sei es durch Wirtschaft, Sicherheit oder Klimaschutz. Es ist wichtig zu verstehen, wie große Mächte miteinander verhandeln.",
+  "glossary": [
+    {
+      "term": "G7",
+      "definition": "Eine Gruppe von sieben großen Industrienationen (darunter Deutschland, Frankreich, USA und Japan), die sich regelmäßig zu internationalen politischen Fragen austauschen."
+    },
+    {
+      "term": "Diplomatie",
+      "definition": "Die Kunst, durch Verhandlungen und Gespräche zwischen Staaten politische Ziele zu erreichen, anstatt durch militärische Gewalt."
+    },
+    {
+      "term": "Sicherheitsarchitektur",
+      "definition": "Das gesamte System von Abkommen, Bündnissen und Regeln zwischen Staaten, das die Stabilität und Sicherheit in einer Region gewährleistet."
+    }
+  ],
+  "quiz": {
+    "question": "Was lehnt der deutsche Außenminister Wadephul in den G7-Gesprächen ab?",
+    "options": [
+      "Die Forderung nach einer neuen europäischen Sicherheitsarchitektur als Weg zum Ende des Ukraine-Kriegs.",
+      "Die Teilnahme europäischer Vertreter an den Ukraine-Verhandlungen in Abu Dhabi.",
+      "Die Forderung nach konkreten Verhandlungen im Iran."
+    ],
+    "answerIndex": 0,
+    "explanation": "Wadephul sagte: \"Europa braucht keine neue Sicherheitsarchitektur, wie Russland uns glauben machen will, sondern schlicht die Wiederherstellung der bestehenden Sicherheitsarchitektur.\""
+  },
+  "discussion": [
+    "Inwieweit kann Diplomatie bei großen Konflikten wie dem Ukraine-Krieg erfolgreich sein, wenn die beteiligten Parteien unterschiedliche Grundannahmen über die Sicherheitsordnung haben?",
+    "Welche Rolle spielen internationale Organisationen wie die G7, wenn es um die Lösung von Krisen geht, die auch regionale Akteure wie der Iran betreffen?"
+  ],
+  "publishedAt": "2026-11-09T10:34:05.669Z",
+  "sources": [
+    {
+      "title": "G7-Außenminister sprechen über Ukraine und Iran",
+      "url": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

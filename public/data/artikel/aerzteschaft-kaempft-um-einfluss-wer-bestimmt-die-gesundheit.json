@@ -1,0 +1,80 @@
+{
+  "id": "aerzteschaft-kaempft-um-einfluss-wer-bestimmt-die-gesundheit",
+  "category": "politik",
+  "title": "Ärzteschaft kämpft um Einfluss: Wer bestimmt die Gesundheitspolitik?",
+  "teaser": "Die Ärzteschaft diskutiert ihre Position in der Gesellschaft. Warum ist dieser Kampf um Einfluss wichtig für deine Gesundheitsversorgung?",
+  "tags": [
+    "Gesundheitspolitik",
+    "Arztberuf",
+    "Sozialpolitik",
+    "Gesundheitssystem"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Ärzteschaft plant, ihre politische Rolle zu stärken, da sie das Gefühl hat, an Einfluss verloren zu haben.",
+    "Vertreterinnen und Vertreter fordern bessere Arbeitsbedingungen und lehnen weitere Kürzungen bei Gehältern ab.",
+    "Die Diskussion dreht sich um die Verhandlung von Tarifverträgen und die Sicherung der ärztlichen Autonomie."
+  ],
+  "sections": [
+    {
+      "heading": "Warum die Ärzteschaft ihren Platz neu definieren will",
+      "paragraphs": [
+        "In Deutschland diskutiert die Ärzteschaft intensiv über ihren gesellschaftlichen Stellenwert. Susanne Johna, eine prominente Ärztin, hat ihre Kandidatur für die Präsidentschaft der Bundesärztekammer angekündigt. Ihr zentrales Anliegen ist, dass die Rolle der Ärzte in der Gesellschaft nach ihrer Meinung „in die vierte Reihe gerutscht“ ist.",
+        "Sie sieht sich in Konkurrenz zu anderen Berufen wie Kassenfunktionären, Ökonomen und sogar Apothekern. Johna fordert daher, dass die Ärzteschaft gemeinsam klare Ziele definiert und ihre Position stärkt. Dies soll verhindern, dass die Interessen der Ärzte in den Hintergrund treten."
+      ]
+    },
+    {
+      "heading": "Herausforderungen: Arbeitsbedingungen und finanzielle Sorgen",
+      "paragraphs": [
+        "Ein weiterer großer Punkt, der diskutiert wird, sind die Arbeitsbedingungen. Johna setzt sich für bessere Rahmenbedingungen ein und lehnt es strikt ab, weitere Kürzungen bei ärztlichen Gehältern oder Honoraren hinzunehmen. Sie betont: „Wir sind nicht zuständig dafür, unsere Arbeitgeber zu finanzieren.“",
+        "Gleichzeitig gibt es Forderungen nach stärkerer Tarifpolitik. Im Marburger Bund wird betont, dass die Energie auf die Verhandlung neuer Tarifverträge mit Kommunen und Universitätskliniken konzentriert werden muss. Dies zeigt, dass es um mehr als nur um die medizinische Praxis geht, sondern um die wirtschaftliche Absicherung des Berufsstandes."
+      ]
+    },
+    {
+      "heading": "Politik und Medizin: Ein komplexes Zusammenspiel",
+      "paragraphs": [
+        "Diese Debatten zeigen, dass Medizin und Politik untrennbar miteinander verbunden sind. Die Entscheidungen über Gehälter, Arbeitsbedingungen und die Rolle der Ärzte werden politisch getroffen. Die Befürchtung der Ärzteschaft ist, dass ökonomischer Druck die medizinische Versorgung beeinflusst. Wenn die Berufsstände ihre Stimme verlieren, könnten Entscheidungen getroffen werden, die die Qualität der Gesundheitsversorgung langfristig gefährden."
+      ]
+    }
+  ],
+  "whyItMatters": "Weil du als junger Mensch die Gesundheitsversorgung nutzt, ist es wichtig zu verstehen, wer die Entscheidungen trifft. Die Stärke der Berufsstände beeinflusst direkt die Qualität und Zugänglichkeit der medizinischen Versorgung.",
+  "glossary": [
+    {
+      "term": "Bundesärztekammer (BÄK)",
+      "definition": "Die zentrale Organisation, die die Interessen der Ärzte in Deutschland vertritt und die berufsständischen Richtlinien festlegt."
+    },
+    {
+      "term": "Tarifpolitik",
+      "definition": "Die Verhandlung und Festlegung von Gehalts- und Arbeitsbedingungen zwischen Arbeitgebern und Gewerkschaften."
+    },
+    {
+      "term": "Honorare",
+      "definition": "Die Bezahlung für ärztliche Leistungen, die oft pro Behandlung oder Leistung gezahlt wird."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut Susanne Johna das Hauptproblem, das sie bei der Ärzteschaft sieht?",
+    "options": [
+      "Die Ärzteschaft arbeitet zu wenig.",
+      "Die Rolle der Ärzteschaft sei in die vierte Reihe gerutscht.",
+      "Es gibt zu viele Apotheker im Gesundheitswesen."
+    ],
+    "answerIndex": 1,
+    "explanation": "Johna äußert die Sorge, dass die Rolle der Ärzteschaft „in die vierte Reihe gerutscht ist“."
+  },
+  "discussion": [
+    "Wie glaubst du, kann eine Berufssparte ihren Einfluss in einer komplexen Gesellschaft stärken, ohne dabei als politisch manipulierend wahrgenommen zu werden?",
+    "Welche Rolle sollte die Wirtschaft bei der Festlegung von Gehältern und Arbeitsbedingungen im Gesundheitswesen spielen, und welche Rolle sollte die Ärzteschaft einnehmen?"
+  ],
+  "publishedAt": "2026-11-09T09:53:57.421Z",
+  "sources": [
+    {
+      "title": "Johna kündigt Kandidatur als Präsidentin der Bundesärztekammer an",
+      "url": "https://www.aerzteblatt.de/news/johna-kundigt-kandidatur-als-prasidentin-der-bundesarztekammer-an-f93b3f15-aac2-473c-94a8-1971bb5387e3",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

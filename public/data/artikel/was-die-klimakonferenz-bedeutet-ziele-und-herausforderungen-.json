@@ -1,0 +1,93 @@
+{
+  "id": "was-die-klimakonferenz-bedeutet-ziele-und-herausforderungen-",
+  "category": "politik",
+  "title": "Was die Klimakonferenz bedeutet: Ziele und Herausforderungen beim Klimaschutz",
+  "teaser": "Weltweit diskutieren fast 200 Länder über Maßnahmen gegen die Erderwärmung. Doch wie weit ist die Politik schon gekommen, um die Klimakrise zu stoppen?",
+  "tags": [
+    "Klimawandel",
+    "Internationale Politik",
+    "Energie",
+    "Umweltschutz"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die UN-Klimakonferenz (COP31) bringt fast 200 Länder zusammen, um Maßnahmen gegen die Erderwärmung zu diskutieren.",
+    "Das Pariser Abkommen zielt darauf ab, die Erwärmung auf 1,5 Grad zu begrenzen, doch aktuelle Prognosen zeigen eine Gefahr von bis zu 2,8 Grad.",
+    "Die Forderungen der UN-Generalsekretärs und Vorschläge wie die Elektrifizierung zeigen, dass der Druck auf die Staaten wächst."
+  ],
+  "sections": [
+    {
+      "heading": "Die globale Debatte um das Klima",
+      "paragraphs": [
+        "Wenn die Welt vor großen Umweltproblemen steht, ist die internationale Politik gefragt. Die Klimakonferenz der Vereinten Nationen (COP) ist dafür eine wichtige Plattform. Bei der COP31, die in der Türkei startet, treffen sich Vertreter von fast 200 Ländern. Sie beraten über konkrete Schritte, um die Erderwärmung einzudämmen.",
+        "Die Klimakrise ist spürbar: Von Waldbränden in Europa bis zu Dürren und Sturzfluten weltweit zeigen die aktuellen Wetterereignisse die Dringlichkeit. Seit zehn Jahren ist das Pariser Klimaabkommen in Kraft. Dieses Abkommen vereinbarte, die Erderwärmung auf maximal 1,5 Grad gegenüber der vorindustriellen Zeit zu begrenzen."
+      ]
+    },
+    {
+      "heading": "Zwischen Ziel und Wirklichkeit",
+      "paragraphs": [
+        "Hier zeigt sich die Herausforderung: Laut der aktuellen Prognose der UN steuert die Welt mit der bisherigen Klimapolitik auf eine Erwärmung von bis zu 2,8 Grad bis zum Ende dieses Jahrhunderts zu. Das ist weit mehr als das vereinbarte 1,5-Grad-Ziel.",
+        "UN-Generalsekretär Antonio Guterres fordert daher von den Regierungen mehr Engagement. Er betont, dass man sich nicht länger in endlosen Diskussionen verlieren dürfe, sondern dass „alle mehr tun müssen – und zwar jetzt“."
+      ]
+    },
+    {
+      "heading": "Neue Ziele für die Energiewende",
+      "paragraphs": [
+        "Auf der Konferenz werden auch konkrete Vorschläge diskutiert. Die Türkei schlug beispielsweise vor, ein neues globales Ziel für die Elektrifizierung festzulegen. Dieses Ziel sieht vor, dass der Anteil elektrischer Energie beim Endverbrauch bis 2035 von 20 Prozent auf 35 Prozent steigen soll.",
+        "Elektrifizierung bedeutet, fossile Energieträger wie Öl, Gas und Kohle durch Strom zu ersetzen. Deutschland hat diesen Vorstoß unterstützt. Solche Verhandlungen zeigen, wie Staaten versuchen, ihre nationalen Klimaziele in eine globale Strategie zu übersetzen."
+      ]
+    }
+  ],
+  "whyItMatters": "Als junge Menschen sind ihr Leben und die Umwelt, in der ihr lebt, direkt von diesen globalen Entscheidungen betroffen. Die Klimakonferenzen bestimmen, ob die langfristigen Lebensbedingungen sich verbessern oder verschlechtern.",
+  "glossary": [
+    {
+      "term": "COP",
+      "definition": "Steht für Conference of the Parties (Konferenz der Vertragsparteien) und bezeichnet die jährliche Versammlung der UN zu Klimaschutzfragen."
+    },
+    {
+      "term": "Pariser Abkommen",
+      "definition": "Ein internationales Abkommen, das die Staaten dazu verpflichtet, Maßnahmen gegen den Klimawandel zu ergreifen und die Erderwärmung zu begrenzen."
+    },
+    {
+      "term": "Fossile Energieträger",
+      "definition": "Energiequellen, die aus organischem Material entstehen und verbrannt werden, wie Kohle, Öl und Erdgas."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Gradziel wurde im Pariser Klimaabkommen vereinbart, um die Erderwärmung zu begrenzen?",
+    "options": [
+      "35 Prozent",
+      "1,5 Grad",
+      "2,8 Grad"
+    ],
+    "answerIndex": 1,
+    "explanation": "Das Pariser Abkommen zielt darauf ab, die Erderwärmung bei 1,5 Grad gegenüber der vorindustriellen Zeit zu stoppen."
+  },
+  "discussion": [
+    "Welche Rolle sollte ein einzelnes Land bei der Erreichung globaler Klimaziele spielen – reicht es, wenn jedes Land seine eigenen Ziele verfolgt, oder braucht es eine strengere internationale Kontrolle?",
+    "Wie kann die Politik sicherstellen, dass die notwendige Elektrifizierung von fossilen Energieträgern schnell genug stattfindet, ohne die Energieversorgung der Bevölkerung zu gefährden?"
+  ],
+  "publishedAt": "2026-11-09T10:03:27.580Z",
+  "sources": [
+    {
+      "title": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
+      "url": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/was-die-klimakonferenz-bedeutet-ziele-und-herausforderungen-.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Delegierte versammeln sich in der Plenarsaal der COP21 Klimakonferenz in Paris.",
+    "credit": {
+      "title": "Delegates to the COP21 Climate Change Conference Assemble in the Plenary Hall Before Speeches By French President Hollande, Foreign Minister Fabius, and UN Secretary-General Ki-moon (23069791503).jpg",
+      "author": "U.S. Department of State from United States",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delegates_to_the_COP21_Climate_Change_Conference_Assemble_in_the_Plenary_Hall_Before_Speeches_By_French_President_Hollande,_Foreign_Minister_Fabius,_and_UN_Secretary-General_Ki-moon_(23069791503).jpg"
+    }
+  }
+}

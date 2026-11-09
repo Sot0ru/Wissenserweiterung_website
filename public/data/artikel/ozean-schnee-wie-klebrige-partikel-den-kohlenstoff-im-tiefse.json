@@ -1,0 +1,89 @@
+{
+  "id": "ozean-schnee-wie-klebrige-partikel-den-kohlenstoff-im-tiefse",
+  "category": "wissenschaft",
+  "title": "Ozean-Schnee: Wie klebrige Partikel den Kohlenstoff im Tiefsee speichern",
+  "teaser": "Der ",
+  "tags": [
+    "Ozean",
+    "Klimawandel",
+    "Kohlenstoffkreislauf",
+    "Biologie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Unterwasser-Partikel, bekannt als Marine Snow, transportieren riesige Mengen Kohlenstoff aus der oberen Ozeanschicht in die Tiefe.",
+    "Neue Forschung zeigt, dass die Viskosität (die Klebrigkeit) dieser Partikel entscheidend dafür ist, wie viel Kohlenstoff tief genug sinkt.",
+    "Klebrigere Partikel widerstehen dem Abbau durch Bakterien besser und können sechsmal mehr Kohlenstoff in die Tiefsee bringen."
+  ],
+  "sections": [
+    {
+      "heading": "Der stille Kohlenstoff-Transport im Ozean",
+      "paragraphs": [
+        "Tief unter der Wasseroberfläche fällt ein ständiger Schnee – aber dieser ist nicht aus Eis. Er besteht aus winzigen Trümmern, abgestorbenen Organismen und anderen Abfällen. Man nennt ihn Marine Snow.",
+        "Diese Partikel enthalten alles von Schleim bis zu Resten winziger Plankton. Sie sind wichtig, weil sie enorme Mengen Kohlenstoff aus der oberen Wasserschicht zum Meeresboden transportieren. Schätzungen zufolge entfernt Marine Snow jährlich über 10 Gigatonnen Kohlenstoff aus der Oberfläche.",
+        "Das Problem war lange bekannt: Nur etwa zwei Gigatonnen erreichen die Tiefe, wo sie für Hunderte oder sogar Tausende von Jahren gespeichert werden können. Warum der Rest nicht weiterkommt, war ein großes Rätsel für Wissenschaftler."
+      ]
+    },
+    {
+      "heading": "Klebrigkeit als Schlüssel zum Tiefsee-Speicher",
+      "paragraphs": [
+        "Forscher der Scripps Institution of Oceanography und der University of Lincoln haben nun einen wichtigen Faktor identifiziert: die Viskosität, also die Dicke und Klebrigkeit, des Marine Snow.",
+        "Ihre Ergebnisse zeigen, dass klebrigere Partikel den Abbau durch Bakterien besser widerstehen. Sie können über sechsmal mehr Kohlenstoff in die Tiefsee transportieren als dünnere, weniger viskose Partikel.",
+        "Dieser Prozess ist zentral für den Kohlenstoffkreislauf der Erde. Indem Partikel Kohlenstoff in die Tiefsee bringen, wird dieser für lange Zeit von der Atmosphäre isoliert.",
+        "Die Forschung nutzte hochentwickelte Techniken wie 3D-Konfokalmikroskopie, um die mikroskopische Struktur des Schleims zu untersuchen. Man fand heraus, dass Bakterien bevorzugt an weniger klebrigen Stellen anhaften, während die dichteren, klebrigeren Bereiche tiefer im Kern schwerer zu durchdringen sind."
+      ]
+    }
+  ],
+  "whyItMatters": "Da der Kohlenstoffkreislauf maßgeblich zum Klima der Erde beiträgt, hilft uns dieses Wissen zu verstehen, wie stabil die Ozeane als Kohlenstoffspeicher funktionieren. Das Thema zeigt, wie selbst scheinbar unscheinbare biologische Prozesse globale Auswirkungen haben können.",
+  "glossary": [
+    {
+      "term": "Marine Snow",
+      "definition": "Unterwasser-Partikel, bestehend aus organischen Abfällen und Trümmern, die langsam in der Wassersäule absinken."
+    },
+    {
+      "term": "Viskosität",
+      "definition": "Die Eigenschaft einer Flüssigkeit oder Substanz, ihre innere Reibung zu besitzen; vereinfacht gesagt, wie „dick“ oder „klebrig“ etwas ist."
+    },
+    {
+      "term": "Kohlenstoffkreislauf",
+      "definition": "Der natürliche Kreislauf, in dem Kohlenstoff zwischen Atmosphäre, Ozeanen, Land und Lebewesen zirkuliert."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Eigenschaft der Marine Snow beeinflusst laut der Forschung, wie viel Kohlenstoff in die Tiefsee gelangt?",
+    "options": [
+      "Die Größe der Mikroplankton",
+      "Die Farbe der Partikel",
+      "Die Viskosität"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Forscher fanden heraus, dass die Viskosität (Klebrigkeit) der Partikel entscheidend ist."
+  },
+  "discussion": [
+    "Wie könnte die Erkenntnis über die Rolle von Schleim und Bakterien bei der Kohlenstoffspeicherung neue Ansätze für den Schutz mariner Ökosysteme eröffnen?",
+    "Welche Auswirkungen hat die Abhängigkeit von natürlichen Prozessen wie dem Kohlenstoffkreislauf auf die menschliche Gesellschaft und die Energiewende?"
+  ],
+  "publishedAt": "2026-11-09T09:58:11.232Z",
+  "sources": [
+    {
+      "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/ozean-schnee-wie-klebrige-partikel-den-kohlenstoff-im-tiefse.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Sedimentfalle, durch die marinescher Schnee gesammelt wird, um Kohlenstoff zu erfassen.",
+    "credit": {
+      "title": "Sediment Trap Used for the EXPORTS Mission.jpg",
+      "author": "NASA Goddard Space Flight Center",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sediment_Trap_Used_for_the_EXPORTS_Mission.jpg"
+    }
+  }
+}

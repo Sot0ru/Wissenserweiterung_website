@@ -1,0 +1,86 @@
+{
+  "id": "wie-bodybuilding-in-der-ddr-unter-staatlicher-kontrolle-stat",
+  "category": "geschichte",
+  "title": "Wie Bodybuilding in der DDR unter staatlicher Kontrolle stattfand",
+  "teaser": "In der DDR war das Training nicht einfach. Ohne legale Zugang zu Hanteln mussten Sportler improvisieren und sich unter staatlicher Beobachtung organisieren.",
+  "tags": [
+    "Kalte Krieg",
+    "DDR",
+    "Sozialismus",
+    "Sport"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In der DDR gab es keinen legalen Zugang zu Bodybuilding-Geräten, weshalb Athleten improvisieren mussten und eigene Trainingsgeräte schweißten.",
+    "Der Sport wurde offiziell als „Körperkulturistik“ bezeichnet und stand unter strenger Beobachtung der Stasi, da er als westlich galt.",
+    "Für viele war dieses heimliche Training ein wichtiger Ort der persönlichen Freiheit abseits staatlicher Ideologie."
+  ],
+  "sections": [
+    {
+      "heading": "Zwischen Mangelwirtschaft und Muskelaufbau",
+      "paragraphs": [
+        "Stell dir vor, du willst stark werden, aber die Geschäfte haben keine Hanteln. Genau so sah es in der DDR aus. Während im Westen der Bodybuilding-Boom mit Stars wie Arnold Schwarzenegger wütete, entwickelte sich in der DDR eine eigene Szene, die man als „Körperkulturistik“ bezeichnete.",
+        "Da Sportgeräte kaum erhältlich waren, mussten Enthusiasten extrem kreativ werden. Sie nutzten Schrottplätze, Hinterhöfe und eigene Werkstätten. Alte Autowellen und Achsen wurden zu Hantelstangen geschweißt. Auch Farbeimer und Konservendosen wurden mit Beton ausgegossen, um eigene Gewichtsscheiben herzustellen."
+      ]
+    },
+    {
+      "heading": "Staatliche Kontrolle und heimliche Freiheit",
+      "paragraphs": [
+        "Diese heimlichen Trainingsstätten – oft in dunklen Kellersporträumen – waren aber nicht unbemerkt. Die Staatssicherheit (Stasi) hatte die Szene im Blick. Es gab Berichte, dass in jeder Kraftsportsektion mindestens ein Stasi-Spitzel aktiv war, der die Treffen beobachtete.",
+        "Die SED-Funktionäre lehnten den Begriff „Bodybuilding“ ab, da er als westlich, oberflächlich und kapitalistisch galt. Daher wurde der Sport offiziell umbenannt. Für die Athleten war die Körperkulturistik jedoch mehr als nur Training: Sie war ein Ort, an dem sie sich von der strengen staatlichen Ideologie lösen und einfach selbst sein konnten."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Kapitel zeigt, wie sich kulturelle Strömungen auch in einem stark kontrollierten System wie der DDR entwickeln können. Es verdeutlicht, dass der Wunsch nach Selbstverwirklichung – ob sportlich oder anderswo – auch unter strengen Regeln Wege finden kann.",
+  "glossary": [
+    {
+      "term": "Körperkulturistik",
+      "definition": "Der offizielle Name für Bodybuilding in der DDR, da der Begriff „Bodybuilding“ als zu westlich galt."
+    },
+    {
+      "term": "Stasi",
+      "definition": "Die Ministerium für Staatssicherheit der DDR, die für die Überwachung der Bevölkerung zuständig war."
+    },
+    {
+      "term": "Improvisieren",
+      "definition": "Etwas spontan oder ohne vorgegebene Mittel oder Pläne tun, z.B. Trainingsgeräte aus Schrott bauen."
+    }
+  ],
+  "quiz": {
+    "question": "Wie wurden die Athleten in der DDR offiziell dazu angehalten, den Sport zu nennen?",
+    "options": [
+      "Bodybuilding",
+      "Kraftmenschentraining",
+      "Körperkulturistik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Der Sport wurde offiziell als „Körperkulturistik“ bezeichnet, da der Begriff „Bodybuilding“ als westlich galt."
+  },
+  "discussion": [
+    "Inwiefern kann ein starker Wunsch nach persönlicher Freiheit (wie das Training) auch in totalitären Systemen Widerstand oder eine eigene Subkultur schaffen?",
+    "Welche Rolle spielen gesellschaftliche Normen und Ideologien dabei, wie bestimmte Aktivitäten (wie Sport) definiert und benannt werden?"
+  ],
+  "publishedAt": "2026-11-09T10:37:56.638Z",
+  "sources": [
+    {
+      "title": "Bodybuilding in der DDR: Hanteln aus Beton und die kreative Jagd nach Muskeln",
+      "url": "https://www.mdr.de/geschichte/ddr/politik-gesellschaft/gesundheit/bodybuilding-koerperkulturistik-kraftsport-andreas-mueller-muskeln-fitness-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-bodybuilding-in-der-ddr-unter-staatlicher-kontrolle-stat.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Turnhalle einer ehemaligen Grundschule in Berlin-Kaulsdorf, die für Sport genutzt wurde.",
+    "credit": {
+      "title": "Berlin-Kaulsdorf-Volksschule-Kaulsdorf-Sued-Turnhalle.jpg",
+      "author": "Bildarbeiter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin-Kaulsdorf-Volksschule-Kaulsdorf-Sued-Turnhalle.jpg"
+    }
+  }
+}
