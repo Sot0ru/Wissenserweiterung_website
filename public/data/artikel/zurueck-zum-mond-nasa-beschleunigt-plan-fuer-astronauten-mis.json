@@ -1,0 +1,89 @@
+{
+  "id": "zurueck-zum-mond-nasa-beschleunigt-plan-fuer-astronauten-mis",
+  "category": "astronomie",
+  "title": "Zurück zum Mond: NASA beschleunigt Plan für Astronauten-Mission 2028",
+  "teaser": "Die NASA hat ihren Plan zur Rückkehr von Astronauten auf den Mond vorangetrieben. Was bedeutet das für die Zukunft der Weltraumforschung?",
+  "tags": [
+    "Weltraum",
+    "Erkundung",
+    "NASA",
+    "Mond",
+    "Technik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die NASA plant, Astronauten für eine Mondlandung im Jahr 2028 zurückzubringen, was Teil des Artemis-Programms ist.",
+    "Dafür wird zunächst eine Testflüge-Mission (Artemis III) im Jahr 2027 durchgeführt, bei der zwei konkurrierende Mondlandern getestet werden.",
+    "Diese Missionen sollen die Grundlage für eine dauerhafte menschliche Präsenz auf dem Mond und zukünftige Marsmissionen legen."
+  ],
+  "sections": [
+    {
+      "heading": "Ein schnellerer Weg zurück zum Mond",
+      "paragraphs": [
+        "Die NASA hat ihren Plan, Astronauten zurück zum Mond zu bringen, beschleunigt. Das Ziel ist eine Mondlandung im Jahr 2028. Dieser Plan ist Teil des sogenannten Artemis-Programms. Die NASA arbeitet eng mit privaten Firmen wie SpaceX und Blue Origin zusammen, die verschiedene Mondlandern entwickeln.",
+        "Bevor die Astronauten tatsächlich auf der Mondoberfläche landen, muss viel getestet werden. Deshalb ist eine wichtige Testmission, Artemis III, für 2027 geplant. Bei dieser Mission werden zwei verschiedene Mondlandern im Erdorbit getestet.",
+        "Im Rahmen von Artemis III werden vier Astronauten mit dem Orion-Raumschiff und der leistungsstarken SLS-Rakete in den Weltraum geschickt. Dort üben die Astronauten das Treffen und Ankoppeln (Rendezvous und Docking) mit den Testfahrzeugen der beiden Unternehmen. Dies dient dazu, alle technischen Abläufe zu prüfen, bevor die eigentliche Landung im Jahr 2028 stattfindet."
+      ]
+    },
+    {
+      "heading": "Technik und neue Entwicklungen",
+      "paragraphs": [
+        "Um den Zeitplan zu beschleunigen, hat die NASA auch bei der Technik optimiert. Beispielsweise wurde die Vorbereitungszeit für Raketenhardware durch verbesserte Prozesse um etwa 50 Prozent verkürzt. Zudem hat das Team selbst einen wichtigen Triebwerkskomponenten neu entwickelt, anstatt einen externen Lieferanten zu nutzen.",
+        "Auch die Ausrüstung der Astronauten wird leichter. Für die ersten Ausflüge auf der Mondoberfläche wird ein leichterer Anzug, der sogenannte „Sortie suit“, entwickelt. Dieser Anzug wiegt etwa halb so viel wie der größere Hauptanzug und soll die Vorbereitungen für die ersten Mondspaziergänge vereinfachen.",
+        "Die großen Unternehmen bieten unterschiedliche Wege an, um zum Mond zu gelangen. SpaceX plant, mit seinem Starship-Raumschiff, das im Orbit nachbetankt wird, zum Mond zu fliegen. Blue Origin verfolgt einen anderen Weg mit seinem Blue Moon Mark 2 Lander, der zusätzliche Antriebsstufen im Orbit nutzt, um zum Mond zu gelangen."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Missionen sind wichtig, weil sie nicht nur ein Rückblick auf frühere Weltraumleistungen sind. Sie bauen die Grundlage für eine dauerhafte menschliche Präsenz auf dem Mond auf. Das ist ein entscheidender Schritt, um später ambitioniertere Ziele wie die Erkundung des Mars zu erreichen.",
+  "glossary": [
+    {
+      "term": "Rendezvous",
+      "definition": "Der Vorgang, bei dem zwei Raumfahrzeuge im Orbit aufeinander zufliegen, um sich zu treffen."
+    },
+    {
+      "term": "Docking",
+      "definition": "Das sichere Ankoppeln zweier Raumfahrzeuge aneinander, um Passagiere oder Ausrüstung zu transferieren."
+    },
+    {
+      "term": "SLS (Space Launch System)",
+      "definition": "Das sehr leistungsstarke Raketensystem der NASA, das für die Missionen zum Mond eingesetzt wird."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Jahr ist für die geplante Mondlandung mit Astronauten vorgesehen?",
+    "options": [
+      "2030",
+      "2028",
+      "2027"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die NASA hat den Plan für eine Mondlandung im Jahr 2028 vorgelegt."
+  },
+  "discussion": [
+    "Welche Rolle spielen private Raumfahrtunternehmen wie SpaceX und Blue Origin bei großen staatlichen Weltraumprogrammen?",
+    "Wie kann die Entwicklung von Technologien für die Mondexploration dazu beitragen, die Forschung auf anderen Planeten voranzutreiben?"
+  ],
+  "publishedAt": "2026-11-10T10:23:28.347Z",
+  "sources": [
+    {
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/zurueck-zum-mond-nasa-beschleunigt-plan-fuer-astronauten-mis.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "NASA trainiert Mondlandungssimulation in den Bergen von Colorado mit Hubschraubern.",
+    "credit": {
+      "title": "NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course (MAF 20250828 HATTS MD21).jpg",
+      "author": "NASA Marshall Space Flight Center / NASA/Michael DeMocker",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NASA_Uses_Colorado_Mountains_for_Simulated_Artemis_Moon_Landing_Course_(MAF_20250828_HATTS_MD21).jpg"
+    }
+  }
+}

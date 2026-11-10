@@ -1,0 +1,96 @@
+{
+  "id": "roboter-baut-im-orbit-wie-wir-riesige-strukturen-im-weltall-",
+  "category": "wissenschaft",
+  "title": "Roboter baut im Orbit: Wie wir riesige Strukturen im Weltall bauen könnten",
+  "teaser": "Ein Roboter hat erstmals Teile einer Struktur im Weltraum selbstständig zusammengebaut. Diese Technologie könnte die Art und Weise, wie wir Teleskope und Antennen bauen, revolutionieren.",
+  "tags": [
+    "Raumfahrt",
+    "Robotik",
+    "Technik",
+    "Weltraumforschung",
+    "Ingenieurwesen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher von Caltech haben einen Roboter getestet, der im Orbit Teile einer Struktur selbstständig zusammenbaut.",
+    "Diese autonome Konstruktion könnte es ermöglichen, gigantische Teleskope oder Antennen zu bauen, die zu groß für Raketen sind.",
+    "Das Ziel ist die Errichtung von Strukturen im Maßstab von Kilometern, was die Raumfahrt grundlegend verändern würde."
+  ],
+  "sections": [
+    {
+      "heading": "Von Raketenlimits zu gigantischen Bauwerken",
+      "paragraphs": [
+        "Stell dir vor, du möchtest ein Teleskop bauen, das riesig genug ist, um extrem weit entfernte Objekte zu beobachten. Das Problem ist: Die Raketen, mit denen wir Dinge ins All schicken, haben eine maximale Größe. Alles muss in die Schutzhülle der Rakete passen.",
+        "Traditionell gibt es zwei Lösungen: Entweder man faltet die riesigen Teile zusammen und lässt sie im Orbit wieder entfalten. Oder man schickt die Bauteile einzeln und lässt Astronauten im Weltall alles zusammensetzen.",
+        "Ein neuer Ansatz, der von Forschern des California Institute of Technology (Caltech) entwickelt wird, bietet eine dritte Möglichkeit: Wir schicken die Rohmaterialien ins All und lassen einen Roboter die gesamte Struktur dort bauen. Das ist ein Durchbruch für die Raumfahrt."
+      ]
+    },
+    {
+      "heading": "Die ASTRA-Demonstration: Wie es funktioniert",
+      "paragraphs": [
+        "Im Rahmen eines Programms der DARPA (Defense Advanced Research Projects Agency) testet Caltech das System namens ASTRA (Autonomous In-Space Tensioned Reflector Assembly). Dabei handelt es sich um einen Roboter, der mit einem automatisierten Arm arbeitet.",
+        "Der Roboter holt strukturelle Rohre und Verbindungsstücke aus nahegelegenen Behältern und fügt sie zu wiederholenden Abschnitten zusammen. Diese Abschnitte bilden gemeinsam ein größeres Gerüst, eine sogenannte Fachwerkkonstruktion (Truss).",
+        "Im Testflug, der sechs Monate dauerte, versuchte der Roboter, eine Reflektorantenne mit einem Durchmesser von 1,4 Metern zu bauen. Obwohl technische Schwierigkeiten dazu führten, dass die gesamte Antenne nicht fertiggestellt wurde, gelang es ihm, einen ersten Abschnitt erfolgreich zu montieren. Dies beweist, dass dieser Bauansatz im Orbit funktioniert."
+      ]
+    },
+    {
+      "heading": "Was das für die Zukunft bedeutet",
+      "paragraphs": [
+        "Die Fähigkeit, große Strukturen selbstständig im Weltall zu bauen, hat enorme Konsequenzen. Astronomie profitiert enorm: Gigantische reflektierende Oberflächen könnten mehr Licht einfangen und uns noch mehr über das Universum verraten.",
+        "Auch für die Kommunikation und die Energieversorgung sind diese Bauweisen wichtig. Man könnte riesige Funkantennen oder Solarenergieanlagen im Orbit errichten. Die DARPA verfolgt das Ziel, Materialien von der Erde ins All zu transportieren, um Strukturen im Maßstab von Hunderten von Metern oder Kilometern zu errichten – Dinge, die heute unvorstellbar sind."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Technologie verändert, was wir uns von der Weltraumforschung vorstellen können. Sie macht es möglich, immer größere Instrumente zu bauen, was unser Verständnis von Physik und Kosmos vertiefen kann.",
+  "glossary": [
+    {
+      "term": "Truss",
+      "definition": "Eine Fachwerkkonstruktion; ein Gerüst, das aus miteinander verbundenen Streben besteht und Stabilität bietet."
+    },
+    {
+      "term": "Reflektorantenne",
+      "definition": "Eine Antenne, die Wellen nicht direkt empfängt, sondern deren Oberfläche die Signale reflektiert, um sie auf einen Empfänger zu lenken."
+    },
+    {
+      "term": "Autonom",
+      "definition": "Selbstständig; die Fähigkeit eines Systems, Aufgaben ohne ständige menschliche Steuerung auszuführen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Struktur wird durch das Zusammensetzen von Rohren und Verbindungsstücken im Testversuch gebildet?",
+    "options": [
+      "Eine faltbare Schutzhülle",
+      "Ein solares Energiemodul",
+      "Ein Fachwerkgerüst (Truss)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Der Roboter fügte Komponenten zu wiederholenden Abschnitten zusammen, die ein größeres Gerüst, bekannt als Truss, bildeten."
+  },
+  "discussion": [
+    "Welche ethischen oder sicherheitstechnischen Herausforderungen ergeben sich, wenn autonome Maschinen im Weltraum komplexe Bauprojekte durchführen?",
+    "Wenn die Bauweise im Orbit möglich wird, wie könnte sich das auf die Kosten und die Geschwindigkeit von wissenschaftlichen Entdeckungen auswirken?"
+  ],
+  "publishedAt": "2026-11-10T10:16:40.661Z",
+  "sources": [
+    {
+      "title": "Caltech robot makes history by building a structure in space",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/roboter-baut-im-orbit-wie-wir-riesige-strukturen-im-weltall-.jpg",
+    "width": 960,
+    "height": 719,
+    "alt": "Roboter installiert den letzten Spiegel des James Webb Teleskops in einer Reinraumumgebung.",
+    "credit": {
+      "title": "The last James Webb Space Telescope Primary Mirror Segment (24877166436).jpg",
+      "author": "Chris Gunn",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_last_James_Webb_Space_Telescope_Primary_Mirror_Segment_(24877166436).jpg"
+    }
+  }
+}

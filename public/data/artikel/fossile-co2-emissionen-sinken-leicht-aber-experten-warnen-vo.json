@@ -1,0 +1,82 @@
+{
+  "id": "fossile-co2-emissionen-sinken-leicht-aber-experten-warnen-vo",
+  "category": "wissenschaft",
+  "title": "Fossile CO2-Emissionen sinken leicht – aber Experten warnen vor Gefahr",
+  "teaser": "Aktuelle Zahlen zeigen einen leichten Rückgang der globalen CO2-Emissionen aus fossilen Brennstoffen. Doch reicht dieser Trend aus, um die Klimaziele zu erreichen?",
+  "tags": [
+    "Klimawandel",
+    "Energie",
+    "Umwelt",
+    "CO2",
+    "Nachhaltigkeit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die globalen CO2-Emissionen aus Kohle, Öl und Gas sind leicht zurückgegangen, was auf den Ausbau erneuerbarer Energien und auch auf den Iran-Konflikt zurückgeführt wird.",
+    "Trotz dieses Rückgangs warnen Experten, dass die Emissionen massiv sinken müssten, um das 1,5-Grad-Ziel des Pariser Abkommens zu halten.",
+    "Laut Bilanz des Global Carbon Budget wäre das verbleibende Kohlenstoffbudget für die Begrenzung der Erwärmung in weniger als vier Jahren aufgebraucht."
+  ],
+  "sections": [
+    {
+      "heading": "Was misst das Global Carbon Budget?",
+      "paragraphs": [
+        "Um den Klimawandel zu verstehen, braucht es Messinstrumente. Das sogenannte Global Carbon Budget ist ein wichtiger Gradmesser dafür. Es bilanziert weltweit, wie viel Kohlenstoffdioxid (CO2) durch die Verbrennung von Kohle, Öl und Gas ausgestoßen wird. Außerdem setzt es die maximale Menge an CO2 fest, die noch freigesetzt werden darf, ohne die globalen Klimaziele zu gefährden.",
+        "Die Wissenschaftler des Global Carbon Budget haben bereits zum 21. Mal Daten zu den globalen CO2-Emissionen zusammengetragen. Im vergangenen Jahr allein wurden gut 38 Gigatonnen CO2 aus der Verbrennung dieser fossilen Energieträger freigesetzt. Obwohl dies im Vergleich zum Vorjahr einen leichten Rückgang darstellt, zeigen die Zahlen, dass die Welt weiterhin große Mengen ausstößt."
+      ]
+    },
+    {
+      "heading": "Was treibt den leichten Rückgang an?",
+      "paragraphs": [
+        "Der leichte Rückgang der fossilen Emissionen wird laut Forschenden auf zwei Hauptfaktoren zurückgeführt. Einerseits spielt der Ausbau erneuerbarer Energieträger und die Elektromobilität eine Rolle. Andererseits hat ein Energieschock, ausgelöst durch den Iran-Konflikt, die Nachfrage nach Öl und Gas gesenkt, da sich diese Produkte verteuerten.",
+        "Dieser Effekt ist aber nicht dauerhaft. Um die Klimaziele – nämlich eine Erderwärmung von unter 2 Grad, idealerweise nur 1,5 Grad Celsius im Vergleich zur Zeit vor der industriellen Revolution – zu erreichen, müssten die globalen CO2-Emissionen massiv sinken. Die Wissenschaftler betonen, dass dieser leichte Niedergang kein dauerhafter Trendwende ist."
+      ]
+    },
+    {
+      "heading": "Die Herausforderung: Kohlenstoffbudget und Senken",
+      "paragraphs": [
+        "Die Situation ist angespannt, denn die weltweite Bilanz zeigt, dass das Kohlenstoffbudget schnell aufgebraucht ist. Aktuell wird weltweit etwa 2,1 Milliarden Tonnen CO2 durch Aufforstung und Wiederaufforstung gebunden. Das entspricht jedoch nur einem Bruchteil der Emissionen, die in nur 30 Minuten ausgestoßen werden könnten.",
+        "Um das 1,5-Grad-Ziel noch zu erreichen, dürfte die Welt laut dieser Bilanz noch 150 Milliarden Tonnen CO2 ausstoßen dürfen. Bei den aktuellen Emissionstempi wäre dieses Budget in weniger als vier Jahren erschöpft. Hinzu kommen Probleme mit den natürlichen CO2-Senken, wie Wäldern und Ozeanen. Dürreperioden, etwa durch starke El Niño-Ereignisse, lassen die Wälder weniger CO2 aufnehmen, und es wird geschätzt, dass bereits etwa 20 Prozent dieser natürlichen Senke durch den Klimawandel verloren gegangen sind."
+      ]
+    }
+  ],
+  "whyItMatters": "Als junge Generation bist du direkt von den Klimaveränderungen betroffen. Das Verständnis dieser Daten hilft dir zu sehen, wo die globalen Anstrengungen aktuell stehen und welche Geschwindigkeit die Veränderungen erfordern, um eine stabile Zukunft zu sichern.",
+  "glossary": [
+    {
+      "term": "Gigatonne",
+      "definition": "Eine extrem große Maßeinheit für Masse, gleich einer Milliarde Tonnen."
+    },
+    {
+      "term": "CO2-Senke",
+      "definition": "Ein natürliches System (wie ein Wald oder Ozean), das CO2 aus der Atmosphäre aufnimmt und speichert."
+    },
+    {
+      "term": "Pariser Abkommen",
+      "definition": "Ein internationales Abkommen, das die Staaten verpflichtet, Maßnahmen gegen den Klimawandel zu ergreifen, um die globale Erwärmung zu begrenzen."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut dem Bericht ein Hauptgrund für den leichten Rückgang der fossilen CO2-Emissionen?",
+    "options": [
+      "Ein massiver globaler Stopp der Industrie durch internationale Sanktionen.",
+      "Der Ausbau erneuerbarer Energien und der Energieschock durch den Iran-Konflikt.",
+      "Eine weltweite Verpflichtung, nur noch Kohle zu verbrennen."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Forschenden nennen den Ausbau erneuerbarer Energien und den Energieschock durch den Iran-Konflikt als Gründe für den leichten Rückgang."
+  },
+  "discussion": [
+    "Wie beeinflusst die Abhängigkeit von fossilen Brennstoffen die geopolitische Stabilität zwischen Ländern?",
+    "Welche Rolle spielen individuelle Entscheidungen im Vergleich zu staatlichen Gesetzen, wenn es um die Bewältigung des Klimawandels geht?"
+  ],
+  "publishedAt": "2026-11-10T10:03:54.812Z",
+  "sources": [
+    {
+      "title": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+      "url": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

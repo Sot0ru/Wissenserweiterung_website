@@ -1,0 +1,93 @@
+{
+  "id": "sportvereine-in-deutschland-mehr-mitglieder-aber-welche-spor",
+  "category": "wissenschaft",
+  "title": "Sportvereine in Deutschland: Mehr Mitglieder, aber welche Sportarten gewinnen oder verlieren?",
+  "teaser": "Die deutschen Sportvereine haben eine Rekordzahl an Mitgliedern erreicht. Aber was bedeutet das für verschiedene Sportarten und das gesellschaftliche Engagement?",
+  "tags": [
+    "Gesundheit",
+    "Sport",
+    "Gesellschaft",
+    "Vereinwesen"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die deutschen Sportvereine haben mit 30.082.466 Mitgliedern eine neue Bestmarke erreicht.",
+    "Fußball ist weiterhin die beliebteste Sportart mit fast 8,3 Millionen Mitgliedern, während andere Disziplinen Mitglieder verloren haben.",
+    "Trotz des Mitgliederzuwachses gab es im Vorjahr weniger Vereine und das Ehrenamt ist rückläufig."
+  ],
+  "sections": [
+    {
+      "heading": "Rekordzahlen im deutschen Sport",
+      "paragraphs": [
+        "Die Sportvereine in Deutschland haben einen wichtigen Meilenstein erreicht: Sie haben erstmals die Marke von 30 Millionen Mitgliedern überschritten. Diese Zahl stammt aus der Erhebung des Deutschen Olympischen Sportbundes (DOSB) und bezieht sich auf den 1. Januar 2026.",
+        "Konkret zählen die 84.838 registrierten Sportvereine 30.082.466 Mitgliedschaften. Das entspricht einem Anstieg von 2,63 Prozent im Vergleich zum Vorjahr, was gut 700.000 mehr Mitglieder bedeutet. Allerdings gab es gleichzeitig 465 weniger Vereine als im letzten Jahr."
+      ]
+    },
+    {
+      "heading": "Fußball dominiert, andere Sportarten schwächeln",
+      "paragraphs": [
+        "Fußball bleibt unangefochten an der Spitze der Beliebtheit. Mit fast 8,3 Millionen Mitgliedern ist er klar führend. Turnen folgt mit knapp 5,3 Millionen Mitgliedern, während Alpenvereine und Tennis jeweils etwas mehr als 1,5 Millionen Mitglieder verzeichnen.",
+        "Nicht alle Sportarten profitieren vom Wachstum. Disziplinen wie Gewichtheben, Reiten, Taekwondo und Rudern haben Mitglieder verloren. Besonders starker Rückgang ist bei Squash zu verzeichnen, das um knapp elf Prozent zurückgegangen ist. Diese Entwicklung zeigt, dass die Präferenzen der Sportler sich verschieben."
+      ]
+    },
+    {
+      "heading": "Mehr als nur Sport: Gemeinschaft und Engagement",
+      "paragraphs": [
+        "Der DOSB-Präsident Thomas Weikert sieht in den Vereinen wichtige Orte für sozialen Zusammenhalt. Er betont, dass diese Treffpunkte für die Gesellschaft zentral sind und fordert daher eine stärkere Förderung der Vereine.",
+        "Parallel zu den Zahlen gibt es jedoch auch Entwicklungen im Ehrenamt. Laut einer anderen Erhebung engagierten sich 2024 fast 27 Millionen Menschen ehrenamtlich – das ist vier Millionen weniger als noch 2019. Diese Daten verdeutlichen, dass neben dem sportlichen Wachstum auch das gesellschaftliche Engagement eine Veränderung durchläuft."
+      ]
+    }
+  ],
+  "whyItMatters": "Sportvereine sind oft wichtige soziale Anlaufstellen für junge Menschen. Die Entwicklung der Mitgliederzahlen zeigt, welche Sportarten gerade populär sind und wie sich das Freizeitverhalten verändert. Das Thema Engagement ist wichtig, weil Ehrenamtliche die Basis vieler gesellschaftlicher Strukturen bilden.",
+  "glossary": [
+    {
+      "term": "DOSB",
+      "definition": "Der Deutsche Olympische Sportbund, die Dachorganisation des organisierten Sports in Deutschland."
+    },
+    {
+      "term": "Ehrenamt",
+      "definition": "Freiwilliges Engagement für eine Sache, ohne dafür eine Bezahlung zu erhalten."
+    },
+    {
+      "term": "Mitgliederzahl",
+      "definition": "Die Gesamtzahl der Personen, die aktiv Mitglied in einem Verein sind."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Sportart führt nach der neuesten Erhebung des DOSB weiterhin die Mitgliederzahlen an?",
+    "options": [
+      "Turnen",
+      "Alpenvereine",
+      "Fußball"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fußball steht mit fast 8,3 Millionen Mitgliedern an der Spitze."
+  },
+  "discussion": [
+    "Wie glaubst du, kann die Sportvereinslandschaft sich verändern, wenn die jungen Menschen weniger Zeit für das Ehrenamt haben?",
+    "Welche Faktoren könnten dazu führen, dass manche Sportarten (wie Squash) an Popularität verlieren, während andere (wie Fußball) weiter wachsen?"
+  ],
+  "publishedAt": "2026-11-10T10:50:41.152Z",
+  "sources": [
+    {
+      "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/sportvereine-in-deutschland-mehr-mitglieder-aber-welche-spor.jpg",
+    "width": 960,
+    "height": 724,
+    "alt": "Abzeichen für Sportleistungen in Norwegen, Österreich und Deutschland.",
+    "credit": {
+      "title": "Three sports badges Norway, Austria, Germany.jpg",
+      "author": "IndyMeister",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_sports_badges_Norway,_Austria,_Germany.jpg"
+    }
+  }
+}

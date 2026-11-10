@@ -1,0 +1,94 @@
+{
+  "id": "wie-deutschland-1990-wiedervereinigt-wurde-ein-ueberblick",
+  "category": "geschichte",
+  "title": "Wie Deutschland 1990 wiedervereinigt wurde: Ein Überblick",
+  "teaser": "Die Deutsche Wiedervereinigung war ein komplexer Prozess, der durch politische Revolutionen und internationale Verhandlungen ermöglicht wurde. Er erfährt hier einen Überblick über die wichtigsten Schritte.",
+  "tags": [
+    "Deutschland",
+    "Nachwendezeit",
+    "Politik",
+    "Europäische Union"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Deutsche Wiedervereinigung am 3. Oktober 1990 wurde durch die Friedliche Revolution 1989 ausgelöst und in langen Verhandlungen festgeschrieben.",
+    "Der Prozess umfasste wichtige Schritte wie den Beitritt der DDR zur Bundesrepublik Deutschland und internationale Abkommen wie den Zwei-plus-Vier-Vertrag.",
+    "Die Zeit zwischen Mauerfall und Einheit war geprägt von schnellen Veränderungen, neuen Freiheiten und politischen Verhandlungen."
+  ],
+  "sections": [
+    {
+      "heading": "Der Weg zur Einheit: Von der Revolution zur Entscheidung",
+      "paragraphs": [
+        "Die Wiedervereinigung Deutschlands am 3. Oktober 1990 war das Ergebnis eines langen und ereignisreichen Prozesses. Alles begann mit der Friedlichen Revolution im Jahr 1989. Diese Bewegung setzte eine Welle der gesellschaftlichen Veränderungen in Ostdeutschland in Gang.",
+        "Darauf folgten monatelange politische Verhandlungen. Diese Verhandlungen mündeten schließlich im Beschluss, dass die Deutsche Demokratische Republik (DDR) der Bundesrepublik Deutschland beitreten sollte. Dieser Schritt markierte das Ende der geteilten Nation."
+      ]
+    },
+    {
+      "heading": "Wichtige Phasen und Prozesse der Wendezeit",
+      "paragraphs": [
+        "Die Zeit unmittelbar nach dem Mauerfall war von großen Umbrüchen geprägt. Alte politische Ordnungen wurden verworfen, und es gab eine Explosion neuer Freiheiten, was auch im Medienbereich sichtbar wurde. Bis Mitte 1990 wurden in der DDR über hundert neue Zeitungen gegründet, was die neue Pressefreiheit unterstreicht.",
+        "Ein zentrales Element der internationalen Einigung waren die Zwei-plus-Vier-Verhandlungen. Hier waren Vertreter der DDR anwesend, standen aber laut Berichten isoliert und wurden von westdeutschen Kollegen teilweise wie besiegte Parteien behandelt.",
+        "Auch juristisch gab es spektakuläre Entwicklungen, wie beispielsweise das Verfahren gegen Erich Honecker wegen Todesschüssen an der innerdeutschen Grenze, dessen Haftbefehl am 30. November 1990 erlassen wurde."
+      ]
+    },
+    {
+      "heading": "Herausforderungen nach der Einheit",
+      "paragraphs": [
+        "Die neue Einheit brachte auch große Herausforderungen mit sich. Ein Konfliktpunkt war die Rückgabe von Eigentum. Viele Alteigentümer aus der Bundesrepublik suchten nach dem Mauerfall in den Grundbuchämtern nach ihrem früheren Besitz.",
+        "Ein weiteres Thema war die Rolle der internationalen Akteure. Die Akzeptanz der deutschen Einheit durch die Sowjetunion (UdSSR) am 30. Januar 1990 war ein entscheidender internationaler Meilenstein. Gleichzeitig gab es Diskussionen über die Verhandlungsposition der DDR-Regierung in den internationalen Gesprächen."
+      ]
+    }
+  ],
+  "whyItMatters": "Die deutsche Wiedervereinigung ist ein zentrales Ereignis der jüngeren europäischen Geschichte. Sie zeigt, wie gesellschaftlicher Druck und politische Verhandlungen einen tiefgreifenden Wandel bewirken können. Das Verständnis dieser Prozesse hilft dir, heutige Entwicklungen in Europa besser einzuordnen.",
+  "glossary": [
+    {
+      "term": "Friedliche Revolution",
+      "definition": "Eine gesellschaftliche Bewegung, die ohne Gewalt politischen Wandel anstrebt."
+    },
+    {
+      "term": "DDR",
+      "definition": "Abkürzung für Deutsche Demokratische Republik, der ostdeutsche Staat vor der Wiedervereinigung."
+    },
+    {
+      "term": "Zwei-plus-Vier-Vertrag",
+      "definition": "Ein wichtiges internationales Abkommen, das die Bedingungen der deutschen Einheit festlegte und die Beteiligung der vier Alliierten regelte."
+    }
+  ],
+  "quiz": {
+    "question": "Wann wurde der Beitritt der DDR zur Bundesrepublik Deutschland offiziell beschlossen und vollzogen?",
+    "options": [
+      "30. November 1990",
+      "Oktober 1990",
+      "30. Januar 1990"
+    ],
+    "answerIndex": 1,
+    "explanation": "Der Beitritt wurde am 3. Oktober 1990 vollzogen."
+  },
+  "discussion": [
+    "Welche Rolle spielen Bürgerbewegungen wie die Friedliche Revolution, wenn sie zu tiefgreifenden politischen Veränderungen führen?",
+    "Inwiefern beeinflussen internationale Abkommen (wie der Zwei-plus-Vier-Vertrag) die innere Gestaltung eines Landes?"
+  ],
+  "publishedAt": "2026-11-10T10:56:58.420Z",
+  "sources": [
+    {
+      "title": "Wiedervereinigung",
+      "url": "https://www.mdr.de/geschichte/ddr/deutsche-einheit/wiedervereinigung",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-deutschland-1990-wiedervereinigt-wurde-ein-ueberblick.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Festliche Darstellung der deutschen Wiedervereinigung mit verschiedenen Bundesland-Ausstellungen.",
+    "credit": {
+      "title": "A motorway with many tents and other constructions which are themed after the different states of germany for the celebration of the reunification of germany.jpg",
+      "author": "Flora-atropa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_motorway_with_many_tents_and_other_constructions_which_are_themed_after_the_different_states_of_germany_for_the_celebration_of_the_reunification_of_germany.jpg"
+    }
+  }
+}
