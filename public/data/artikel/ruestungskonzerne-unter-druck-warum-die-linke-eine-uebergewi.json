@@ -1,0 +1,81 @@
+{
+  "id": "ruestungskonzerne-unter-druck-warum-die-linke-eine-uebergewi",
+  "category": "politik",
+  "title": "Rüstungskonzerne unter Druck: Warum die Linke eine Übergewinnsteuer fordert",
+  "teaser": "Die Verteidigungsausgaben steigen massiv. Die Linke schlägt eine neue Steuer für große Rüstungsfirmen vor, um hohe Gewinne zu begrenzen.",
+  "tags": [
+    "Finanzen",
+    "Verteidigung",
+    "Steuern",
+    "Wirtschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Linke fordert eine Übergewinnsteuer für große Rüstungskonzerne, da diese hohe Gewinne erzielen, während die Verteidigungsausgaben steigen.",
+    "Das Konzept sieht vor, dass ab einer Umsatzrendite von fünf Prozent 50 Prozent auf die Überschüsse erhoben werden sollen.",
+    "Kritiker warnen, dass eine solche Steuer die Ursache von Preissteigerungen nicht beheben würde."
+  ],
+  "sections": [
+    {
+      "heading": "Mehr Geld für die Bundeswehr – aber zu welchem Preis?",
+      "paragraphs": [
+        "Die Verteidigungsausgaben für Deutschland steigen stark an. Für das kommende Jahr sollen 140 Milliarden Euro zur Bundeswehr zur Verfügung stehen – das sind 32 Milliarden Euro mehr als im Vorjahr. Diese Ausgaben sind notwendig, weil die Aufrüstung fortschreitet.",
+        "Doch mit dem steigenden Bedarf wachsen auch die Gewinne der großen Rüstungskonzerne. Politiker der Linken argumentieren, dass diese Firmen durch immer höhere Preisaufschläge profitieren. Sie sehen darin eine Situation, in der die Firmen „die Lizenz zum Gelddrucken“ erhalten.",
+        "Um diesen Entwicklung entgegenzuwirken, fordert die Linke eine Übergewinnsteuer für Unternehmen wie Rheinmetall, TKMS und Hensoldt. Das Ziel ist, dass die zusätzlichen Gewinne, die über das normale Maß hinausgehen, vom Staat abgeschöpft werden."
+      ]
+    },
+    {
+      "heading": "Wie soll die Steuer funktionieren und was sagen Experten dazu?",
+      "paragraphs": [
+        "Das Konzept der Linken sieht vor, dass ab einer Umsatzrendite von fünf Prozent eine Übergewinnsteuer in Höhe von 50 Prozent erhoben wird. Die Idee orientiert sich dabei an der sogenannten Bonner Formel, die theoretisch bei Rüstungsgütern einen kalkulatorischen Gewinn von fünf bis sechs Prozent vorsieht.",
+        "Die Befürworter rechnen damit, dass diese Steuer erhebliche Einnahmen generieren könnte. Allein bei vier Unternehmen, deren Geschäftsberichte öffentlich sind, schätzen die Linkenpolitiker für das letzte Jahr 590 Millionen Euro und für das laufende Jahr knapp eine Milliarde Euro an zusätzlichen Steuereinnahmen.",
+        "Allerdings gibt es auch Kritik. Verteidigungsexperten warnen, dass eine Steuer auf die Gewinne nicht zwangsläufig die Preisverzerrung beheben könne. Sie argumentieren, dass hohe Preise auch auf gestiegene Rohstoff- oder Energiepreise zurückzuführen sein könnten.",
+        "Ein anderer Ansatz wäre laut Kritikern, die parlamentarische Kontrolle und die Preisprüfung bei komplexen Geschäften zwischen Industrie und Verteidigungsministerium zu verbessern, anstatt die Gewinne nachträglich zu besteuern."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie politische Entscheidungen über Verteidigungsausgaben direkt die Wirtschaft und die Verteilung von Reichtum beeinflussen. Es geht darum, wer von staatlichen Aufträgen am meisten profitiert und wie hohe Gewinne reguliert werden können.",
+  "glossary": [
+    {
+      "term": "Übergewinnsteuer",
+      "definition": "Eine Steuer, die nur auf Gewinne erhoben wird, die über einen bestimmten, als normal geltenden Gewinn hinausgehen."
+    },
+    {
+      "term": "Rüstungskonzerne",
+      "definition": "Große Industrieunternehmen, die Waffen, Militärtechnik und Verteidigungsausrüstung herstellen und verkaufen."
+    },
+    {
+      "term": "Umsatzrendite",
+      "definition": "Der Anteil des Gewinns an den gesamten Umsatzerlösen eines Unternehmens (Gewinn geteilt durch Umsatz)."
+    },
+    {
+      "term": "Bonner Formel",
+      "definition": "Ein Kalkulationsgrundsatz, der in Deutschland bei staatlichen Beschaffungen oft zur Festlegung von Preisen herangezogen wird."
+    }
+  ],
+  "quiz": {
+    "question": "Ab welcher Umsatzrendite schlagen die Linkenpolitiker vor, eine Übergewinnsteuer von 50 Prozent zu erheben?",
+    "options": [
+      "15,82 Prozent",
+      "Zehn Prozent",
+      "Fünf Prozent"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Linken schlagen vor, ab einer Umsatzrendite von fünf Prozent die Übergewinnsteuer zu erheben."
+  },
+  "discussion": [
+    "Wie kann der Staat sicherstellen, dass bei großen staatlichen Aufträgen (wie der Rüstungsindustrie) die Preise fair sind, ohne die Innovation zu bremsen?",
+    "Ist es fairer, höhere Verteidigungsausgaben zu akzeptieren und die Gewinne der Unternehmen zu besteuern, oder die Preise von vornherein stärker zu regulieren?"
+  ],
+  "publishedAt": "2026-11-11T09:50:10.563Z",
+  "sources": [
+    {
+      "title": "Profite von Rüstungskonzernen - Linke will Übergewinne besteuern",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-uebergewinne-ruestungskonzerne-steuer-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "von-der-mauer-zum-neuen-deutschland-was-die-deutsche-einheit",
+  "category": "geschichte",
+  "title": "Von der Mauer zum neuen Deutschland: Was die Deutsche Einheit wirklich bedeutete",
+  "teaser": "Der Fall der Berliner Mauer 1989 war mehr als nur ein Ereignis. Er leitete einen tiefgreifenden Wandel in Deutschland ein, der die gesamte Gesellschaft veränderte.",
+  "tags": [
+    "Deutschland",
+    "Wiedervereinigung",
+    "Ostdeutschland",
+    "Wirtschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Fall der Berliner Mauer am 9. November 1989 markierte den Beginn des Endes der DDR und führte zur Wiedervereinigung Deutschlands.",
+    "Dieser Prozess umfasste wichtige Schritte wie die Währungsunion und die Privatisierung der DDR-Betriebe durch die Treuhandanstalt.",
+    "Die Einheit war ein komplexer Umbruch, der sowohl große Hoffnungen als auch schwierige wirtschaftliche und gesellschaftliche Herausforderungen mit sich brachte."
+  ],
+  "sections": [
+    {
+      "heading": "Der Wendepunkt: Mauerfall und der Weg zur Einheit",
+      "paragraphs": [
+        "Der Fall der Berliner Mauer am 9. November 1989 gilt als ein entscheidender Moment in der jüngeren deutschen Geschichte. Er signalisierte das Ende der Deutschen Demokratischen Republik (DDR) in ihrer bisherigen Form. Die Wiedervereinigung war nicht nur ein politisches Ereignis, sondern ein tiefgreifender gesellschaftlicher Umbruch.",
+        "Auf diesen Mauerfall folgte eine Reihe von großen Transformationsschritten. Einer der wichtigsten war die Währungsunion von 1990. Dabei wurde die Ostmark der DDR durch die D-Mark der Bundesrepublik Deutschland ersetzt. Dieser Wechsel hatte weitreichende Folgen für die Wirtschaft und den Alltag der Menschen in Ostdeutschland.",
+        "Ein weiterer zentraler Teil der Umstrukturierung war die Privatisierung der staatlichen Betriebe der DDR. Hierbei spielte die Treuhandanstalt eine wichtige Rolle. Diese Institution war für die Aufarbeitung und den Verkauf der volkseigenen Betriebe zuständig, was viele Menschen als ein tiefgreifendes Trauma empfanden."
+      ]
+    },
+    {
+      "heading": "Herausforderungen der Transformation",
+      "paragraphs": [
+        "Die Umstellung auf eine marktwirtschaftliche Ordnung stellte die Menschen in den neuen Bundesländern vor immense Herausforderungen. Die Einführung der D-Mark verdrängte viele ostdeutsche Produkte aus dem Handel. Viele Betriebe, die jahrzehntelang staatlich geführt wurden, mussten sich neu erfinden oder schlossen. Dies führte zu großen wirtschaftlichen Umbrüchen.",
+        "Neben den wirtschaftlichen Fragen gab es auch soziale und politische Entwicklungen. Die Demokratiebewegung in der DDR gewann an Fahrt, und es gab eine starke Bürgerrechtsbewegung. Gleichzeitig musste das Erbe der SED-Diktatur und die Geschichte der Stasi aufgearbeitet werden.",
+        "Die Verhandlungen über die Einheit waren international komplex. Der Zwei-plus-Vier-Vertrag spielte dabei eine Schlüsselrolle, da er die Rahmenbedingungen für die Wiedervereinigung festlegte. Die Einheit war somit nicht nur ein innerdeutsches Projekt, sondern auch ein Ergebnis internationaler Verhandlungen."
+      ]
+    }
+  ],
+  "whyItMatters": "Die deutsche Wiedervereinigung ist ein Paradebeispiel dafür, wie sich politische Entscheidungen tief in den Alltag und die Wirtschaft von Millionen Menschen einschreiben. Es zeigt, wie schnell sich Gesellschaften verändern können, wenn sich große politische Strukturen auflösen.",
+  "glossary": [
+    {
+      "term": "Währungsunion",
+      "definition": "Der Prozess, bei dem die Währung eines Landes (hier: Ostmark der DDR) durch die Währung eines anderen Landes (hier: D-Mark) ersetzt wird."
+    },
+    {
+      "term": "Treuhandanstalt",
+      "definition": "Eine staatliche Institution, die nach der Wiedervereinigung die Betriebe der ehemaligen DDR privatisierte und aufarbeitete."
+    },
+    {
+      "term": "DDR",
+      "definition": "Deutsche Demokratische Republik, der Name des sozialistischen Staates in Ostdeutschland von 1949 bis 1990."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Institution war für die Privatisierung der DDR-Betriebe nach dem Mauerfall zuständig?",
+    "options": [
+      "Das SED-Politbüro",
+      "Die Treuhandanstalt",
+      "Die Volkskammer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Treuhandanstalt war für die Aufarbeitung und den Verkauf der volkseigenen Betriebe zuständig."
+  },
+  "discussion": [
+    "Welche Rolle spielen historische Ereignisse wie die Wiedervereinigung bei der heutigen Identität Deutschlands?",
+    "Wie sollte eine Gesellschaft mit den wirtschaftlichen und sozialen Folgen eines schnellen Systemwechsels umgehen?"
+  ],
+  "publishedAt": "2026-11-11T09:53:02.175Z",
+  "sources": [
+    {
+      "title": "Deutsche Einheit",
+      "url": "https://www.mdr.de/geschichte/ddr/deutsche-einheit",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/von-der-mauer-zum-neuen-deutschland-was-die-deutsche-einheit.jpg",
+    "width": 960,
+    "height": 643,
+    "alt": "Menschen gehen nach dem Fall der Berliner Mauer im Jahr 1989 durch Berlin.",
+    "credit": {
+      "title": "Fall of the Berlin Wall 1989, people walking.jpg",
+      "author": "Raphaël Thiémard from Belgium.",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fall_of_the_Berlin_Wall_1989,_people_walking.jpg"
+    }
+  }
+}

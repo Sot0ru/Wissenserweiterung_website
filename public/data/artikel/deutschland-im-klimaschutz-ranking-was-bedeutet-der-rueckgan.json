@@ -1,0 +1,89 @@
+{
+  "id": "deutschland-im-klimaschutz-ranking-was-bedeutet-der-rueckgan",
+  "category": "politik",
+  "title": "Deutschland im Klimaschutz-Ranking: Was bedeutet der Rückgang?",
+  "teaser": "Die Fachleute haben Deutschland beim Klimaschutz erneut kritisiert. Was bewertet der neue Index und welche Politik wird dafür verantwortlich gemacht?",
+  "tags": [
+    "Umwelt",
+    "Energie",
+    "Klima",
+    "Europa"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Deutschland hat im neuen Klimaschutz-Index weiter an Platz verloren und landet im Mittelmaß.",
+    "Die Bewertung basiert auf Kategorien wie Treibhausgasemissionen, erneuerbare Energien und Klimapolitik.",
+    "Kritiker führen den Rückgang unter anderem auf die politische Entscheidung zum verstärkten Ausbau von Erdgas zurück."
+  ],
+  "sections": [
+    {
+      "heading": "Was misst der Klimaschutz-Index?",
+      "paragraphs": [
+        "Wenn wir über Klimaschutz sprechen, geht es um viele verschiedene Dinge. Ein Klimaschutz-Index versucht, die Anstrengungen von Ländern und der EU zu bewerten. Diese Indexerstellung übernehmen Organisationen wie Germanwatch und das NewClimate Institute.",
+        "Der Index betrachtet die Bemühungen von 64 Ländern und der EU. Dabei geht es um die Reduzierung von klimaschädlichen Treibhausgasemissionen. Diese Emissionen machen laut der Quelle rund 40 Prozent der Gesamtbewertung aus.",
+        "Zusätzlich werden andere Bereiche berücksichtigt. Erneuerbare Energien, der Energieverbrauch und die Klimapolitik selbst spielen jeweils 20 Prozent der Gesamtpunktzahl mit ein. Damit wird ein ganzheitliches Bild der Anstrengungen gezeichnet."
+      ]
+    },
+    {
+      "heading": "Wo steht Deutschland im internationalen Vergleich?",
+      "paragraphs": [
+        "Die aktuelle Bewertung zeigt, dass Deutschland im internationalen Vergleich ins Mittelmaß abrutscht. Im neuen Index landet das Land auf Rang 25, was drei Plätze schlechter ist als im Vorjahr.",
+        "Besonders kritisch wird die nationale Klimapolitik gesehen. In dieser Unterkategorie fällt Deutschland auf den historisch schlechten Rang 36 ab, da die Experten die Politik als „schwach“ einstufen.",
+        "Ein Hauptgrund für diese Kritik ist laut den Experten die politische Entscheidung, verstärkt auf Erdgas zu setzen. Im Gegensatz dazu schneidet Deutschland in der Kategorie Energienutzung mit Rang 9 relativ gut ab.",
+        "Andere Länder zeigen unterschiedliche Stärken. Dänemark liegt weiterhin an der Spitze, unter anderem dank des Ausbaus erneuerbarer Energien. Im Gegensatz dazu werden viele G20-Staaten als „besorgniserregend schwach“ eingestuft, da sie für einen großen Teil der weltweiten CO2-Emissionen verantwortlich sind."
+      ]
+    }
+  ],
+  "whyItMatters": "Klimaschutz ist nicht nur ein Thema für Wissenschaftler. Es betrifft direkt die Politik, die Gesetze und die Energieversorgung, die dein Alltag prägen. Wenn Länder oder Deutschland im Ranking zurückfallen, bedeutet das, dass die politischen Maßnahmen nicht schnell genug sind, um die Erderwärmung zu begrenzen.",
+  "glossary": [
+    {
+      "term": "Treibhausgasemissionen",
+      "definition": "Gase wie CO2, die in der Atmosphäre Wärme speichern und zur Erderwärmung beitragen."
+    },
+    {
+      "term": "Klimaschutz-Index",
+      "definition": "Ein jährlich erstelltes Ranking, das die Klimaschutzbemühungen verschiedener Länder nach bestimmten Kriterien bewertet."
+    },
+    {
+      "term": "Erneuerbare Energien",
+      "definition": "Energiequellen, die sich immer wieder erneuern, wie Wind- oder Sonnenenergie."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Kategorie bewertet der Klimaschutz-Index mit 40 Prozent?",
+    "options": [
+      "Treibhausgasemissionen",
+      "Klimapolitik",
+      "Erneuerbare Energien"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Treibhausgasemissionen machen laut der Quelle 40 Prozent der Gesamtbewertung aus."
+  },
+  "discussion": [
+    "Welche Rolle spielen staatliche Entscheidungen (wie der Ausbau von Erdgas) im Vergleich zu technologischen Fortschritten bei der Bewältigung des Klimawandels?",
+    "Wie glaubst du, sollte die politische Bewertung von Klimaschutzmaßnahmen aussehen, um eine bessere internationale Vergleichbarkeit zu gewährleisten?"
+  ],
+  "publishedAt": "2026-11-11T09:32:15.037Z",
+  "sources": [
+    {
+      "title": "Weltklimakonferenz: Deutschland rutscht im Klimaschutz-Ranking ins Mittelmaß ab",
+      "url": "https://www.spektrum.de/news/deutschland-im-klimaschutz-ranking-nur-noch-mittelmass/2353687",
+      "publisher": "Spektrum der Wissenschaft"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/deutschland-im-klimaschutz-ranking-was-bedeutet-der-rueckgan.jpg",
+    "width": 960,
+    "height": 679,
+    "alt": "Satellitenaufnahme zeigt fehlendes Meereis im arktischen Svalbard, was den Klimawandel illustriert.",
+    "credit": {
+      "title": "Absence of sea ice in Svalbard, Norway (P-070261-00-13).jpg",
+      "author": "EK - GD DEFIS, Copernicus Sentinel-1 imagery, EC - DG DEFIS, SPACETEC PARTNERS, CE - DG DEFIS",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Absence_of_sea_ice_in_Svalbard,_Norway_(P-070261-00-13).jpg"
+    }
+  }
+}

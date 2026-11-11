@@ -1,0 +1,95 @@
+{
+  "id": "nasa-baut-mondbasis-wie-technik-und-rover-die-zukunft-im-wel",
+  "category": "astronomie",
+  "title": "NASA baut Mondbasis: Wie Technik und Rover die Zukunft im Weltall gestalten",
+  "teaser": "Die NASA plant eine dauerhafte Präsenz auf dem Mond. Er erfährst, welche neuen Aufträge und Technologien diese Mondmission vorantreiben.",
+  "tags": [
+    "Weltraum",
+    "Mond",
+    "Exploration",
+    "Technologie",
+    "NASA"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die NASA erweitert ihr Programm für eine Mondbasis und vergibt Aufträge für verschiedene Dienstleistungen und Technologien.",
+    "Ein wichtiger Teil ist der Rover PROMISE, der am Mondsüdpol nach Ressourcen wie Eis suchen soll.",
+    "Diese Projekte zielen darauf ab, eine langfristige, dauerhafte menschliche Präsenz auf dem Mond zu ermöglichen."
+  ],
+  "sections": [
+    {
+      "heading": "Von der Mission zur Basis: Der Plan für den Mond",
+      "paragraphs": [
+        "Die National Aeronautics and Space Administration (NASA) arbeitet intensiv daran, eine dauerhafte Basis auf dem Mond zu errichten. Dieses Vorhaben wird schrittweise umgesetzt: „Wir bauen die Mondbasis Mission für Mission auf“, erklärt Jared Isaacman, Administrator der NASA.",
+        "Die Fortschritte sind enorm. Laut dem Leiter des Mondbasis-Programms, Carlos García-Galán, wurde in den acht Monaten seit Beginn des Programms viel erreicht. Die NASA hat zahlreiche Einzelinitiativen gebündelt, um eine langfristige Kampagne für die Entwicklung der Mondbasis zu starten."
+      ]
+    },
+    {
+      "heading": "Neue Verträge für den Transport und die Forschung",
+      "paragraphs": [
+        "Um die Versorgung der zukünftigen Basis zu sichern, stärkt die NASA ihr Frachtlandernetzwerk. Im Rahmen des „Commercial Lunar Payload Services“ (CLPS)-2-Vertrags wurden acht Unternehmen ausgewählt. Diese Firmen werden Transportdienste zum Mond erbringen.",
+        "Dieser Rahmenvertrag ist auf zehn Jahre angelegt und hat einen maximalen Gesamtwert von 10 Milliarden US-Dollar. Zusätzlich wurde der Wert des bestehenden CLPS-1.0-Vertrags von 2,6 Milliarden auf 4,2 Milliarden US-Dollar erhöht."
+      ]
+    },
+    {
+      "heading": "PROMISE: Der Rover für die Ressourcen-Suche",
+      "paragraphs": [
+        "Ein zentrales Element dieses Plans ist der Rover PROMISE (Polar Rover for Observation, Mapping, and In-Situ Exploration). Dieser sechsrädrige Rover soll am Südpol des Mondes landen.",
+        "PROMISE ist mit wissenschaftlichen Instrumenten ausgestattet. Er soll nicht nur die Oberfläche untersuchen, sondern auch den Untergrund nach Ressourcen wie Eis durchbohren. Er verfügt über einen Bohrer, Spektrometer zur chemischen Analyse und Sensoren für Temperatur und Strahlung.",
+        "Besonders wichtig ist der nukleare Antrieb des Rovers. Dieser erlaubt es ihm, auch während der langen Mondnächte oder in dauerhaft beschatteten Regionen zu arbeiten – genau dort, wo Eis vermutet wird. Die Mission dient auch der Erprobung neuer, strahlungsresistenter Computersysteme."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Erforschung des Mondes ist ein wichtiger Schritt, um langfristig menschliche Präsenz im Weltraum zu ermöglichen. Wenn wir lernen, wie wir Ressourcen auf anderen Himmelskörpern nutzen, eröffnet das neue Möglichkeiten für die gesamte Menschheit.",
+  "glossary": [
+    {
+      "term": "Regolith",
+      "definition": "Das ist der Mondstaub und der lose Boden, der auf der Mondoberfläche vorhanden ist."
+    },
+    {
+      "term": "Rover",
+      "definition": "Ein autonom fahrendes, ferngesteuertes Fahrzeug, das auf Planeten oder Mondoberflächen wissenschaftliche Messungen durchführt."
+    },
+    {
+      "term": "CLPS",
+      "definition": "Ein Programm der NASA, das private Firmen beauftragt, Nutzlasten zum Mond zu transportieren."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Technologie ermöglicht es dem Rover PROMISE, auch während langer Mondnächte zu operieren?",
+    "options": [
+      "Ein autonomes Navigationssystem",
+      "Ein nuklearer Antrieb",
+      "Ein hochentwickeltes Sonnensystem"
+    ],
+    "answerIndex": 1,
+    "explanation": "Der Text nennt explizit, dass der Rover dank seines nuklearen Antriebs während der langen Mondnächte arbeiten kann."
+  },
+  "discussion": [
+    "Welche ethischen Fragen ergeben sich, wenn wir beginnen, Ressourcen auf anderen Himmelskörpern wie dem Mond abzubauen?",
+    "Wie kann die Zusammenarbeit zwischen staatlichen Raumfahrtagenturen (wie der NASA) und privaten Firmen die Entwicklung im Weltall beschleunigen?"
+  ],
+  "publishedAt": "2026-11-11T09:38:19.078Z",
+  "sources": [
+    {
+      "title": "NASA vergibt Aufträge für Transport, Technologie und wissenschaftliche Projekte im Rahmen einer Mondbasis",
+      "url": "https://www.raumfahrer.net/nasa-vergibt-auftraege-fuer-transport-technologie-und-wissenschaftliche-projekte-im-rahmen-einer-mondbasis/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/nasa-baut-mondbasis-wie-technik-und-rover-die-zukunft-im-wel.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Konzeptuelle Darstellung der Entwicklung einer Mondbasis der Phase Drei am Südpol.",
+    "credit": {
+      "title": "Moon Base Phase 3 Development (moon-base-phase-03-v04-3).jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moon_Base_Phase_3_Development_(moon-base-phase-03-v04-3).jpg"
+    }
+  }
+}

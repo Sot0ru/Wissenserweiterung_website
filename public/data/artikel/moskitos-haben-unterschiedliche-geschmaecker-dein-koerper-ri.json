@@ -1,0 +1,97 @@
+{
+  "id": "moskitos-haben-unterschiedliche-geschmaecker-dein-koerper-ri",
+  "category": "wissenschaft",
+  "title": "Moskitos haben unterschiedliche Geschmäcker: Dein Körper riecht für verschiedene Arten anders",
+  "teaser": "Dachtest du, alle Moskitos mögen jeden gleich? Neue Forschung zeigt, dass jede Art auf eine ganz eigene Mischung aus Hautgerüchen reagiert.",
+  "tags": [
+    "Biologie",
+    "Insekten",
+    "Gesundheit",
+    "Chemie",
+    "Mikrobiom"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher haben herausgefunden, dass verschiedene Moskitos nicht alle Menschen gleich attraktiv finden. Jede Moskitospezies reagiert auf eine einzigartige Kombination aus Hautgerüchen und Bakterien.",
+    "Zum Beispiel bevorzugt die Aedes aegypti Menschen ohne zusätzliche Parfüms, während die Culex quinquefasciatus besonders auf das Haut-Mikrobiom achtet.",
+    "Dieses Wissen könnte helfen, gezieltere und effektivere Mückenschutzmittel gegen Krankheitsüberträger zu entwickeln."
+  ],
+  "sections": [
+    {
+      "heading": "Kein universeller Moskitomagnet",
+      "paragraphs": [
+        "Viele Menschen fühlen sich manchmal wie ein „Moskitomagnet“, egal wo sie hingehen. Doch eine neue Studie von Forschenden der Florida International University (FIU) zeigt: Es gibt keinen einzigen Geruch, der alle Moskitos anzieht. Die Anziehung hängt stark davon ab, welche Moskitospezies überhaupt saugt.",
+        "Die Forscher testeten drei der weltweit gefährlichsten Moskitos: *Aedes aegypti*, *Aedes albopictus* (der asiatische Tigermücke) und *Culex quinquefasciatus* (die südliche Hausmücke). Sie untersuchten das Verhalten dieser Mücken an 119 freiwilligen Teilnehmern. Das überraschende Ergebnis: Keine einzelne Person zog alle drei Arten an.",
+        "Stattdessen bevorzugte jede Moskitospezies eine andere Gruppe von Menschen. Die entscheidenden Faktoren dafür sind die individuelle Körperchemie und die natürlichen Hautgerüche der jeweiligen Person."
+      ]
+    },
+    {
+      "heading": "Jede Art hat ihren eigenen Code",
+      "paragraphs": [
+        "Die Präferenzen der Mücken sind extrem spezifisch. Die *Aedes aegypti* zeigte Interesse an Personen, die keine zusätzlichen Parfüms trugen und deren Haut weniger bestimmte flüchtige chemische Verbindungen enthielt. Diese Mücke saugt typischerweise tagsüber und bevorzugte leicht Männer.",
+        "Die *Aedes albopictus*, die ebenfalls tagsüber aktiv ist, wurde besonders von Personen angezogen, deren Haut höhere Mengen an Ketonen und natürlich vorkommenden, pflanzenartigen flüchtigen Verbindungen abgab.",
+        "Der *Culex quinquefasciatus* unterscheidet sich stark: Diese Mücke saugt nachts und reagiert besonders empfindlich auf das Haut-Mikrobiom. Das Mikrobiom ist die Gemeinschaft von Bakterien, Pilzen und anderen Mikroorganismen, die natürlich auf unserer Haut leben. Bestimmte Bakterienfamilien machten Menschen attraktiver, andere schreckten die Mücken eher ab."
+      ]
+    },
+    {
+      "heading": "Was steckt hinter dem Duft?",
+      "paragraphs": [
+        "Unser Körpergeruch ist weitaus komplexer, als wir annehmen. Die Haut setzt eine Mischung aus über 1.000 flüchtigen organischen Verbindungen frei, von denen viele noch nicht vollständig verstanden sind. Die Forschung ergab, dass die drei Moskitospezies keine gemeinsame Vorliebe teilten.",
+        "Die Teammitglieder sammelten nicht nur Geruchs- und Mückenpräferenzdaten, sondern untersuchten auch die chemische und mikrobielle Zusammensetzung der Haut der Teilnehmer. Diese Analyse bestätigte einen engen Zusammenhang zwischen den Präferenzen der Mücken und der chemischen sowie mikrobiellen Beschaffenheit der Haut.",
+        "Dieses Wissen ist wichtig für die öffentliche Gesundheit. Indem man die spezifischen chemischen Verbindungen und Bakterien identifiziert, die bestimmte Mücken anziehen oder abschrecken, kann man eine wissenschaftliche Grundlage für hochpräzise Repellentien schaffen. Statt allgemeiner Mittel könnten zukünftige Schutzmaßnahmen auf die einzigartigen chemischen Vorlieben jeder einzelnen Mückenart zugeschnitten werden."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist für dich wichtig, weil Mücken Krankheiten wie Dengue oder Zika übertragen können. Wenn wir verstehen, warum bestimmte Mücken bestimmte Menschen bevorzugen, können wir gezieltere und effektivere Wege finden, uns zu schützen.",
+  "glossary": [
+    {
+      "term": "Flüchtige organische Verbindungen (VOCs)",
+      "definition": "Chemische Stoffe, die leicht verdampfen und Gerüche verursachen. Unser Körper setzt viele dieser Stoffe frei."
+    },
+    {
+      "term": "Haut-Mikrobiom",
+      "definition": "Die gesamte Gemeinschaft von Bakterien, Pilzen und anderen Mikroorganismen, die auf der menschlichen Haut leben und einen Teil unseres Geruchs ausmachen."
+    },
+    {
+      "term": "Repellent",
+      "definition": "Ein Mittel, das Insekten davon abhält, sich Menschen zu nähern oder zu beißen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Moskitospezies zeigte eine besondere Sensibilität für das Haut-Mikrobiom der Menschen?",
+    "options": [
+      "Aedes albopictus",
+      "Culex quinquefasciatus",
+      "Aedes aegypti"
+    ],
+    "answerIndex": 1,
+    "explanation": "Der Culex quinquefasciatus reagierte besonders empfindlich auf das Haut-Mikrobiom."
+  },
+  "discussion": [
+    "Wie könnte die Erkenntnis, dass verschiedene Mücken unterschiedliche Gerüche bevorzugen, die lokale Gesundheitsvorsorge in Regionen beeinflussen, in denen mehrere Mückenarten vorkommen?",
+    "Welche ethischen Fragen könnten sich stellen, wenn wir lernen, bestimmte chemische Signaturen von Menschen zu identifizieren, die Mücken anziehen?"
+  ],
+  "publishedAt": "2026-11-11T09:29:40.504Z",
+  "sources": [
+    {
+      "title": "Scientists discover why some mosquitoes love you and others don't",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/moskitos-haben-unterschiedliche-geschmaecker-dein-koerper-ri.jpg",
+    "width": 960,
+    "height": 667,
+    "alt": "Moskito und Mücke stechen gleichzeitig einen Menschen in einem Wald in Schottland.",
+    "credit": {
+      "title": "Mosquito (Ochlerotatus annulipes) and Midge (Culicoides impunctatus) biting human (me).jpg",
+      "author": "Dunpharlain",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosquito_(Ochlerotatus_annulipes)_and_Midge_(Culicoides_impunctatus)_biting_human_(me).jpg"
+    }
+  }
+}

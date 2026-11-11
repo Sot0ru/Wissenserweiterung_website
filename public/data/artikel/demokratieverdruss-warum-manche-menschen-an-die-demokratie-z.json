@@ -1,0 +1,75 @@
+{
+  "id": "demokratieverdruss-warum-manche-menschen-an-die-demokratie-z",
+  "category": "politik",
+  "title": "Demokratieverdruss: Warum manche Menschen an die Demokratie zweifeln",
+  "teaser": "Eine neue Studie zeigt, dass immer mehr Menschen das Vertrauen in die demokratischen Lösungen verlieren. Was steckt hinter dieser wachsenden Skepsis?",
+  "tags": [
+    "Demokratie",
+    "Gesellschaft",
+    "Autoritarismus"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Eine Studie belegt, dass ein wachsender Teil der Bevölkerung das Vertrauen in die Fähigkeit der Demokratie verliert, aktuelle Krisen zu lösen.",
+    "Die politische Stimmung wird laut der Forschung von Nostalgie, Wut und autoritären Sehnsüchten geprägt.",
+    "Dies wirft Fragen auf, wie Demokratien weltweit gegen diese Herausforderungen resilient bleiben können."
+  ],
+  "sections": [
+    {
+      "heading": "Was bedeutet „Autoritarismus-Studie“?",
+      "paragraphs": [
+        "Demokratien weltweit stehen momentan vor großen Herausforderungen. Krisen, Populismus und autoritäre Tendenzen setzen die politischen Systeme unter Druck. Eine Untersuchung, die von der Leipziger Autoritarismus-Studie durchgeführt wurde, beleuchtet genau diesen Trend in Deutschland.",
+        "Die zentrale Feststellung dieser Studie ist alarmierend: Immer mehr Menschen bezweifeln, dass die aktuellen gesellschaftlichen und politischen Probleme mithilfe demokratischer Mittel gelöst werden können. Das Vertrauen in die demokratischen Prozesse schwindet.",
+        "Die politische Grundstimmung, so die Forscher, ist von einer Mischung aus Wut, Nostalgie und dem Wunsch nach autoritären Strukturen geprägt. Das bedeutet, dass manche Menschen sich nach einer Zeit sehnen, die sie als stabiler oder besser empfinden, selbst wenn diese Zeit in der Vergangenheit nur eine Illusion war."
+      ]
+    },
+    {
+      "heading": "Die Sehnsucht nach einer anderen Ordnung",
+      "paragraphs": [
+        "Wenn Menschen das Vertrauen in die Demokratie verlieren, suchen sie oft nach Alternativen. Diese Sehnsucht kann sich als autoritäre Neigung zeigen. Autoritarismus beschreibt hier Systeme, in denen Macht stark zentralisiert ist und individuelle Freiheiten eingeschränkt werden können.",
+        "Die Studie deutet darauf hin, dass diese Tendenzen in der politischen Diskussion stärker werden. Dies ist ein Thema, das Politikwissenschaftler weltweit beschäftigt, denn die Widerstandsfähigkeit demokratischer Systeme ist entscheidend für die gesellschaftliche Stabilität.",
+        "Es wird diskutiert, welche Faktoren diese Skepsis verstärken und wie Gesellschaften sich gegen eine mögliche Abwendung von demokratischen Werten wappnen können. Experten analysieren, was Demokratien widerstandsfähig macht, um diesen Trends entgegenzuwirken."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es direkt die Grundlagen unserer Gesellschaft betrifft. Wenn das Vertrauen in demokratische Prozesse sinkt, wird die politische Debatte schwieriger und die Fähigkeit, gemeinsam Lösungen für Probleme zu finden, schwindet.",
+  "glossary": [
+    {
+      "term": "Autoritarismus",
+      "definition": "Ein politisches System, in dem die Macht stark zentralisiert ist und die Meinungsfreiheit sowie individuelle Rechte eingeschränkt werden können."
+    },
+    {
+      "term": "Nostalgie",
+      "definition": "Ein Gefühl der Sehnsucht nach einer vergangenen Zeit, oft idealisiert, auch wenn diese Zeit nicht perfekt war."
+    },
+    {
+      "term": "Resilienz",
+      "definition": "Die Fähigkeit eines Systems (hier: der Demokratie), Krisen zu überstehen und sich davon zu erholen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche drei emotionalen Zustände prägen laut der Studie die aktuelle politische Stimmung?",
+    "options": [
+      "Nostalgie, Wut und autoritäre Sehnsüchte",
+      "Entspannung, Gelassenheit und Akzeptanz",
+      "Hoffnung, Optimismus und Zufriedenheit"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Studie nennt Nostalgie, Wut und autoritäre Sehnsüchte als prägende Elemente der politischen Stimmung."
+  },
+  "discussion": [
+    "Welche gesellschaftlichen Entwicklungen könnten dazu führen, dass das Vertrauen in die demokratischen Institutionen sinkt?",
+    "Welche Maßnahmen könnten helfen, die Resilienz demokratischer Systeme in einer Zeit großer Krisen zu stärken?"
+  ],
+  "publishedAt": "2026-11-11T09:47:08.335Z",
+  "sources": [
+    {
+      "title": "Autoritarismus-Studie: Demokratieverdruss und regressive Nostalgie auf dem Vormarsch",
+      "url": "https://www.deutschlandfunk.de/leipziger-autoritarismus-studie-nostalgie-wut-autoritaere-sehnsuechte-100.html",
+      "publisher": "Deutschlandfunk"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
