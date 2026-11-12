@@ -1,0 +1,92 @@
+{
+  "id": "starship-mission-wie-wird-ein-riesiges-raumschiff-gefangen",
+  "category": "wissenschaft",
+  "title": "Starship-Mission: Wie wird ein riesiges Raumschiff gefangen?",
+  "teaser": "Ein gigantisches Raumschiff soll bald starten. Dabei steht ein besonderer Fangversuch für das Hauptschiff an.",
+  "tags": [
+    "Raumfahrt",
+    "Technik",
+    "Weltraum",
+    "Satelliten"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "SpaceX plant mit Starship-Flug 15 einen historischen Versuch, sowohl die Booster als auch das Hauptschiff am Startturm abzufangen.",
+    "Das Hauptschiff, genannt Ship 42, soll nach seinem Flug um die Erde kreisen und dabei 26 Starlink-Satelliten aussetzen.",
+    "Dieser Flug ist Teil der Entwicklung neuer Technologien für zukünftige Weltraummissionen."
+  ],
+  "sections": [
+    {
+      "heading": "Der nächste große Sprung in der Raumfahrt",
+      "paragraphs": [
+        "Die Raumfahrt entwickelt sich rasant weiter. Ein zentrales Ziel ist es, große Mengen an Nutzlasten, wie Satelliten, in den Orbit zu bringen und diese wieder sicher zu kontrollieren. SpaceX arbeitet mit seinem riesigen Raumschiff Starship an einer Technologie, die diesen Prozess revolutionieren könnte.",
+        "Bei dem geplanten Flug 15 steht ein besonders ambitionierter Vorgang im Fokus: Der Fang des Hauptschiffs selbst. Während bereits Booster-Einheiten gefangen wurden, ist dies für das Hauptschiff eine absolute Premiere. Das Ziel ist, sowohl die Booster als auch das Starship am Startturm einzufangen."
+      ]
+    },
+    {
+      "heading": "Was passiert im Orbit?",
+      "paragraphs": [
+        "Nach der Trennung des Booster 22 wird das Hauptschiff, Ship 42, in eine Bahn gebracht, die etwa 275 Kilometer hoch liegt. Von dort aus soll es innerhalb von rund 22 Stunden etwa 14 Mal die Erde umrunden. Während dieser Umrundungen sind Livestreams geplant, damit die Öffentlichkeit den Vorgang verfolgen kann.",
+        "Ein wichtiger Teil dieser Mission ist auch der Ausstoß von 26 Starlink-V3-Satelliten. Drei dieser Satelliten sind mit Kameras ausgestattet. Diese sollen das Hitzeschild des Hauptschiffs überprüfen, bevor es zur Rückkehr kommt. Das Hitzeschild wurde bereits modifiziert, beispielsweise durch gekrümmte Kacheln, um die Spaltoptimierung zu verbessern."
+      ]
+    },
+    {
+      "heading": "Mehr als nur ein Flug",
+      "paragraphs": [
+        "Die Entwicklung dieser Systeme ist entscheidend für die Zukunft der Raumfahrt. Neben dem Fangversuch gibt es auch vorsorgliche Pläne für Rückkehrszenarien, falls die Landung am Startturm nicht gelingt, und dafür sind Ozeanwasserungen vorgesehen. Solche Tests helfen dabei, die Technologie für zukünftige, komplexere Missionen zu perfektionieren."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Fähigkeit, Raumschiffe wieder einzufangen und zu nutzen, ist ein Schlüsselkonzept für die zukünftige Weltraumwirtschaft. Sie ermöglicht nicht nur kostengünstigere Reisen, sondern auch die nachhaltige Nutzung von Satelliten in der Erdumlaufbahn.",
+  "glossary": [
+    {
+      "term": "Booster",
+      "definition": "Ein tragendes Teil eines Raketen- oder Raumschiffsystems, das hauptsächlich für den anfänglichen Schub sorgt."
+    },
+    {
+      "term": "Orbit",
+      "definition": "Die Bahn, die ein Raumobjekt um einen größeren Himmelskörper, wie die Erde, fliegt."
+    },
+    {
+      "term": "Hitzeschild",
+      "definition": "Eine äußere Schutzschicht eines Raumschiffs, die es vor extremen Hitzeeinwirkungen beim Wiedereintritt in die Atmosphäre schützt."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Funktion haben die drei mit Kameras ausgestatteten Satelliten während der Mission?",
+    "options": [
+      "Sie werden für die Livestreams genutzt, um die Erde zu filmen.",
+      "Sie sollen das Hitzeschild des Hauptschiffs vor der Rückkehr inspizieren.",
+      "Sie sollen die Booster beim Landen auffangen."
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut dem Text sollen die Kameras das Hitzeschild inspizieren, um Modifikationen zu überprüfen."
+  },
+  "discussion": [
+    "Welche ethischen Fragen entstehen, wenn wir immer mehr Satelliten in der Erdumlaufbahn haben und diese Systeme immer komplexer werden?",
+    "Wie könnte die Fähigkeit, Raumschiffe wieder einzufangen, die Kosten und die Zugänglichkeit des Weltraums für andere Länder verändern?"
+  ],
+  "publishedAt": "2026-11-12T10:25:47.280Z",
+  "sources": [
+    {
+      "title": "SA 7.11.2026 – Mit Starship Flug 15 sollen erstmals sowohl Booster als auch das Ship am Startturm gefangen werden",
+      "url": "https://www.raumfahrer.net/sa-7-11-2026-mit-starship-flug-15-sollen-erstmals-sowohl-booster-als-auch-das-ship-am-startturm-gefangen-werden/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/starship-mission-wie-wird-ein-riesiges-raumschiff-gefangen.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Künstlerische Darstellung des Starship-Landefahrzeugs bei Rendezvous und Docking-Manövern.",
+    "credit": {
+      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS Test Article for NASA’s Artemis III.jpg",
+      "author": "NASA / SpaceX",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_Concepts_Depict_SpaceX%E2%80%99s_Starship_HLS_Test_Article_for_NASA%E2%80%99s_Artemis_III.jpg"
+    }
+  }
+}

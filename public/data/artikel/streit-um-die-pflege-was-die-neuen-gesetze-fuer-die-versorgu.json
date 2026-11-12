@@ -1,0 +1,81 @@
+{
+  "id": "streit-um-die-pflege-was-die-neuen-gesetze-fuer-die-versorgu",
+  "category": "politik",
+  "title": "Streit um die Pflege: Was die neuen Gesetze für die Versorgung bedeuten",
+  "teaser": "Pflegekräfte protestieren gegen geplante Gesetze. Warum die aktuellen Reformen große Risiken für die Gesundheitsversorgung bergen.",
+  "tags": [
+    "Gesundheitswesen",
+    "Sozialpolitik",
+    "Gesetzgebung",
+    "Arbeitsbedingungen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Pflegekräfte demonstrieren gegen das geplante Pflegeneuordnungsgesetz (PNOG), da sie Risiken für die Versorgung befürchten.",
+    "Die Hauptforderung ist, dass die Versorgungssicherheit Vorrang vor kurzfristigen Einsparungen haben muss und der Personalbedarf gesichert werden muss.",
+    "Politiker diskutieren über Übergangsfristen und Nachbesserungen, um die Umsetzung der Reformen bis 2027 zu ermöglichen."
+  ],
+  "sections": [
+    {
+      "heading": "Gesetzespläne im Fokus: Was steht auf dem Spiel?",
+      "paragraphs": [
+        "In Deutschland gibt es große Diskussionen über die Zukunft der Pflege. Das geplante Pflegeneuordnungsgesetz (PNOG) steht dabei im Zentrum. Der Deutsche Pflegerat (DPR) hat sich laut aktuellen Berichten entschieden, dass dieses Gesetz in seiner jetzigen Form nicht umgesetzt werden darf.",
+        "Mit rund 3.000 Demonstrierenden haben Pflegekräfte in Berlin auf die Bundesregierung aufmerksam gemacht. Sie warnen nicht nur vor dem PNOG, sondern auch vor anderen Gesetzen zur Stabilisierung der Beiträge zur Gesetzlichen Krankenversicherung (GKV). Die Befürchtung ist klar: Die aktuellen Pläne könnten zu Leistungskürzungen und erheblichen Risiken für die Versorgung führen."
+      ]
+    },
+    {
+      "heading": "Versorgungssicherheit vor Sparzwang",
+      "paragraphs": [
+        "Die zentrale Forderung des DPR ist, dass die Sicherheit in der Versorgung Vorrang vor kurzfristigen Kostensenkungen haben muss. Die Organisation betont, dass notwendige Hilfe nicht nach dem aktuellen Kassenbudget definiert werden dürfe. Wie Christine Vogler, Präsidentin des DPR, betont: „Wer heute an notwendiger Pflege spart, riskiert morgen höhere Kosten und zusätzliche Belastungen.“",
+        "Neben der Finanzierung fordern die Pflegekräfte eine verbindliche Absicherung des Personalbedarfs. Sie plädieren auch dafür, dass die professionelle Pflege und die Hebammenversorgung verlässlich finanziert werden. Das bedeutet laut dem DPR, dass Pflegebudgets geschützt und Tarifsteigerungen vollständig gegenfinanziert werden müssen."
+      ]
+    },
+    {
+      "heading": "Mehr Mitsprache und moderne Konzepte",
+      "paragraphs": [
+        "Ein weiterer wichtiger Punkt ist die Beteiligung der Pflegekräfte an politischen Entscheidungen. Sie sollen nicht nur die Folgen von Gesetzen tragen, sondern aktiv an deren Gestaltung mitwirken dürfen. Dies soll sicherstellen, dass die Perspektive derjenigen gehört wird, die die Versorgung täglich leisten.",
+        "Die Pflegekräfte fordern auch die Anerkennung internationaler Pflegenden sowie die Förderung von neuen Berufskonzepten wie Advanced Practice Nurses. Zudem soll die Digitalisierung in den Einrichtungen vorangetrieben werden, um die Arbeit zu erleichtern und mehr Zeit für die eigentliche Pflege zu schaffen."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Gesundheitswesen betrifft jeden von uns, egal ob du selbst pflegebedürftig bist oder jemanden kennst, der es ist. Die Diskussion um diese Gesetze zeigt, wie wichtig es ist, dass politische Entscheidungen die realen Bedürfnisse der Bevölkerung widerspiegeln.",
+  "glossary": [
+    {
+      "term": "PNOG",
+      "definition": "Pflegeneuordnungsgesetz: Ein geplantes Gesetz zur Neuordnung und Reform des Pflegesystems in Deutschland."
+    },
+    {
+      "term": "GKV",
+      "definition": "Gesetzliche Krankenversicherung: Das System, das die Gesundheitsleistungen in Deutschland finanziert."
+    },
+    {
+      "term": "Advanced Practice Nurses",
+      "definition": "Erweiterte Pflegefachkräfte: Pflegekräfte mit spezialisierten, erweiterten Kompetenzen, die mehr Verantwortung übernehmen können."
+    }
+  ],
+  "quiz": {
+    "question": "Was fordert der Deutsche Pflegerat im Hinblick auf die Finanzierung der Pflege?",
+    "options": [
+      "Dass alle Pflegekräfte ausschließlich aus dem Ausland rekrutiert werden sollen.",
+      "Dass die Krankenhäuser die Digitalisierung komplett übernehmen, ohne zusätzliche finanzielle Unterstützung.",
+      "Dass die Pflegebudgets vollständig geschützt und Tarifsteigerungen dauerhaft gegenfinanziert werden."
+    ],
+    "answerIndex": 2,
+    "explanation": "Der DPR fordert explizit, dass Pflegebudgets geschützt und Tarifsteigerungen vollständig und dauerhaft gegenfinanziert sein müssen."
+  },
+  "discussion": [
+    "Wie kann sichergestellt werden, dass politische Entscheidungen in der Gesundheitsversorgung die langfristige Versorgungssicherheit und nicht nur kurzfristige Sparziele priorisieren?",
+    "Welche Rolle sollte die direkte Beteiligung von Fachkräften wie Pflegekräften bei der Gestaltung von Sozialgesetzen spielen?"
+  ],
+  "publishedAt": "2026-11-12T10:00:19.743Z",
+  "sources": [
+    {
+      "title": "Pflegekräfte demonstrieren für Änderungen am Pflegeneuordnungsgesetz",
+      "url": "https://www.aerzteblatt.de/news/pflegekrafte-demonstrieren-fur-anderungen-am-pflegeneuordnungsgesetz-faa70cf4-d923-4fa3-a9fe-a7e2e8264868",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

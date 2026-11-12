@@ -1,0 +1,77 @@
+{
+  "id": "dein-gewicht-allein-sagt-nicht-alles-so-wird-adipositas-neu-",
+  "category": "medizin",
+  "title": "Dein Gewicht allein sagt nicht alles: So wird Adipositas neu definiert",
+  "teaser": "Der Body-Mass-Index (BMI) ist seit Jahren in der Kritik. Neue Forschung zeigt, warum eine genauere Diagnose bei Übergewicht entscheidend ist.",
+  "tags": [
+    "Gesundheit",
+    "Ernährung",
+    "Körper",
+    "Diagnose",
+    "Metabolismus"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der BMI, der Körpergewicht im Verhältnis zur Größe misst, reicht nicht aus, um das Gesundheitsrisiko von Menschen mit Übergewicht genau zu erfassen.",
+    "Neue Vorschläge fordern, neben dem BMI auch Daten zur Körperfettmasse und deren Verteilung zu nutzen.",
+    "Diese genauere Einteilung hilft Ärzten, zwischen einem geringeren und einem dringend behandelungsbedürftigen Risiko zu unterscheiden."
+  ],
+  "sections": [
+    {
+      "heading": "Warum der BMI nicht ausreicht",
+      "paragraphs": [
+        "Du kennst den Body-Mass-Index (BMI) wahrscheinlich: Er wird aus dem Verhältnis von Körpergewicht und -größe berechnet. Aktuell gilt: Liegt der BMI über 25, ist jemand übergewichtig. Ab 30 gilt er als adipös, also krankhaft übergewichtig. Aber diese Zahl ist nicht immer aussagekräftig für die Gesundheit.",
+        "Der Hauptkritikpunkt ist, dass der BMI die tatsächliche Fettmasse oder deren Verteilung nicht erfasst. Stell dir vor, jemand hat viel Muskelmasse und wiegt deshalb über 30, oder jemand mit viel Fettgewebe hat einen niedrigeren BMI. Beide können ein erhöhtes Gesundheitsrisiko tragen, aber der BMI sieht das nicht.",
+        "Forscher schlagen daher vor, neben dem BMI auch den Taillenumfang und das Verhältnis von Taille zu Körpergröße in die Diagnose mit einzubeziehen. Diese neuen Kriterien helfen, wer wirklich gefährdet ist, genauer einzugrenzen."
+      ]
+    },
+    {
+      "heading": "Von Übergewicht zu klinischer Adipositas",
+      "paragraphs": [
+        "Die neue Forschung, die medizinische Daten von über 844.000 Menschen analysierte, führte zu einer wichtigen Unterscheidung: die präklinische und die klinische Adipositas. Das klingt kompliziert, ist aber wichtig für die Behandlung.",
+        "Bei einer präklinischen Adipositas hat eine Person deutliches Übergewicht, aber noch keine Folgeerkrankungen, die durch das Gewicht ausgelöst wurden. Bei der klinischen Adipositas hingegen liegen bereits Probleme wie Herz-Kreislauf-Erkrankungen oder Diabetes vor.",
+        "Die Studie zeigte, dass Menschen mit klinischer Adipositas ein deutlich höheres Risiko haben, früh zu sterben. Diese Unterscheidung ist für Ärzte wertvoll, denn sie wissen: Nicht jeder mit Übergewicht braucht die gleiche intensive Behandlung. Die genaue Einteilung hilft, Therapieempfehlungen zielgerichteter zu gestalten."
+      ]
+    }
+  ],
+  "whyItMatters": "Für dich ist das wichtig, weil es zeigt, dass Gesundheit komplex ist und nicht nur auf einer einzigen Zahl basieren kann. Es zeigt auch, dass wissenschaftliche Erkenntnisse ständig neue Wege aufzeigen, wie wir Krankheiten besser verstehen und behandeln können.",
+  "glossary": [
+    {
+      "term": "BMI",
+      "definition": "Body-Mass-Index. Ein Wert, der Körpergewicht und Körpergröße vergleicht, um ein grobes Maß für den Körperfettanteil zu geben."
+    },
+    {
+      "term": "Adipositas",
+      "definition": "Medizinischer Fachbegriff für krankhaftes Übergewicht oder Fettleibigkeit."
+    },
+    {
+      "term": "Präklinisch",
+      "definition": "Bezieht sich auf einen Zustand, bei dem eine Erkrankung zwar vorhanden ist, aber noch keine schweren oder manifesten Folgeerkrankungen verursacht hat."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist der Hauptgrund, warum der BMI allein als Diagnosekriterium für Adipositas kritisiert wird?",
+    "options": [
+      "Er ist nur für Menschen unter 30 Jahren gültig.",
+      "Er misst nur das Körpergewicht und ignoriert die Größe.",
+      "Er erfasst nicht ausreichend die tatsächliche Fettmasse und deren Verteilung."
+    ],
+    "answerIndex": 2,
+    "explanation": "Der BMI erfasst nicht, ob das Gewicht durch Muskelmasse oder durch Fettgewebe entsteht, was für das Gesundheitsrisiko entscheidend ist."
+  },
+  "discussion": [
+    "Wie denkst du, sollte die Medizin in Zukunft entscheiden, welche Kriterien für eine Diagnose verwendet werden: reine Messwerte oder auch Lebensstil-Faktoren?",
+    "Wenn Ärzte eine komplexere Diagnose stellen müssen, wie kann das sichergestellt werden, dass Betroffene trotzdem zeitnah Hilfe bekommen?"
+  ],
+  "publishedAt": "2026-11-12T10:13:33.997Z",
+  "sources": [
+    {
+      "title": "Nicht mehr nur BMI: So könnte Adipositas besser definiert werden",
+      "url": "https://www.tagesschau.de/wissen/adipositas-definition-bmi-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

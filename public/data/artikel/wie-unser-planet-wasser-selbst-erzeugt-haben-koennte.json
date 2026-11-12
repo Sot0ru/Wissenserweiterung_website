@@ -1,0 +1,93 @@
+{
+  "id": "wie-unser-planet-wasser-selbst-erzeugt-haben-koennte",
+  "category": "wissenschaft",
+  "title": "Wie unser Planet Wasser selbst erzeugt haben könnte",
+  "teaser": "War unser Wasser schon da, oder hat sich die Erde selbst ihren Ozean gebacken? Neue Forschung liefert eine überraschende Antwort.",
+  "tags": [
+    "Planetenbildung",
+    "Kosmologie",
+    "Chemie",
+    "Weltall"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher vermuten, dass die Erde einen großen Teil ihres Wassers während ihrer Entstehung selbst erzeugt haben könnte.",
+    "Dies geschieht durch eine chemische Reaktion zwischen Gesteinsbrocken und dem wasserstoffreichen Gas der frühen Atmosphäre.",
+    "Diese Theorie könnte bedeuten, dass Wasser ein natürlicher Bestandteil der Entstehung von Gesteinsplaneten ist."
+  ],
+  "sections": [
+    {
+      "heading": "Von außen importiert oder selbst gebacken?",
+      "paragraphs": [
+        "Lange Zeit war die große Frage, woher das Wasser auf der Erde stammt. Die gängige Theorie besagte, dass Wasser von außen kam. Eisige Kometen oder Meteoriten, die aus den kälteren Regionen des Sonnensystems kamen, sollten dieses Wasser liefern.",
+        "Doch diese Theorie hatte Probleme. Es war schwer zu erklären, wie genügend Material über so große Distanzen zur Erde gelangen konnte. Nun bietet eine neue Studie eine andere Erklärung: Die Erde selbst könnte ihren Ozean gebacken haben."
+      ]
+    },
+    {
+      "heading": "Die Reaktion in der heißen Atmosphäre",
+      "paragraphs": [
+        "Wissenschaftler von der University of New Mexico haben versucht, die extremen Bedingungen der frühen Erde nachzubilden. Sie untersuchten, was passiert, wenn Gesteinsbrocken, die Eisen enthalten, mit Wasserstoff bei sehr hohen Temperaturen reagieren.",
+        "Die Forschung zeigte, dass diese Reaktion in Minuten stattfinden kann. Bei Temperaturen zwischen 1.200 und 1.400 Grad Celsius, wenn die Gesteine mit fließendem Wasserstoffgas behandelt wurden, wurde fast 80 % des Eisenerds (Eisenoxid) zu metallischem Eisen umgewandelt. Dabei wurde Wasserdampf freigesetzt."
+      ]
+    },
+    {
+      "heading": "Was bedeutet das für unser Sonnensystem?",
+      "paragraphs": [
+        "Die Forscher berechneten, dass dieser Prozess, wenn er auf die Bedingungen der frühen Erde übertragen wird, potenziell Hunderte von Ozeanen an Wasser erzeugen könnte. Das ist ein viel größerer Wert, als man ursprünglich erwartet hatte.",
+        "Diese Entdeckung ändert die Sichtweise auf Planetenbildung. Anstatt dass jeder Gesteinsplanet auf Außenzufuhr angewiesen ist, könnte er die notwendigen chemischen Bausteine für Wasser in seiner eigenen, heißen Atmosphäre enthalten. Das könnte bedeuten, dass bewohnbare Planeten im Universum häufiger vorkommen könnten."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es unsere Vorstellung von Leben im Universum verändert. Wenn Wasser ein natürlicher Prozess der Planetenentstehung ist, könnte das die Wahrscheinlichkeit erhöhen, dass es anderswo im Kosmos existiert.",
+  "glossary": [
+    {
+      "term": "Pebble Accretion",
+      "definition": "Ein Prozess, bei dem sich Planeten aus winzigen Gesteinsbrocken (Pebbles) zusammensetzen und wachsen."
+    },
+    {
+      "term": "Eisenoxid",
+      "definition": "Ein chemischer Stoff, der Eisen und Sauerstoff enthält und in vielen Gesteinen vorkommt."
+    },
+    {
+      "term": "Silikatgestein",
+      "definition": "Eine große Gruppe von Gesteinen, die Silizium und Sauerstoff enthalten und die Hauptbestandteile der Erdkruste sind."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Gas spielte laut den Experimenten eine entscheidende Rolle bei der Wassererzeugung?",
+    "options": [
+      "Sauerstoff",
+      "Helium",
+      "Wasserstoff"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Forscher stellten fest, dass die Reaktion nur mit Wasserstoffgas stattfand, nicht aber mit Helium."
+  },
+  "discussion": [
+    "Welche Rolle spielt die chemische Zusammensetzung eines Planeten bei der Frage, ob er lebensfreundlich sein kann?",
+    "Wenn Wasser durch innere Prozesse eines Planeten entsteht, wie verändern sich dann unsere Vorstellungen von der „bewohnbaren Zone“?"
+  ],
+  "publishedAt": "2026-11-12T10:06:47.443Z",
+  "sources": [
+    {
+      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-unser-planet-wasser-selbst-erzeugt-haben-koennte.jpg",
+    "width": 960,
+    "height": 587,
+    "alt": "Künstlerische Darstellung der frühen Erde, bombardiert von Asteroiden, die Wasser und organische Materie lieferten.",
+    "credit": {
+      "title": "BENNU’S JOURNEY - Early Earth (cropped).jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BENNU%E2%80%99S_JOURNEY_-_Early_Earth_(cropped).jpg"
+    }
+  }
+}

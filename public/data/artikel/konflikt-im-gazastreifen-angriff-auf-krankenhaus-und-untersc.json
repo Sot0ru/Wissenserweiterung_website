@@ -1,0 +1,88 @@
+{
+  "id": "konflikt-im-gazastreifen-angriff-auf-krankenhaus-und-untersc",
+  "category": "politik",
+  "title": "Konflikt im Gazastreifen: Angriff auf Krankenhaus und unterschiedliche Behauptungen",
+  "teaser": "Ein Angriff auf ein Krankenhaus in Gaza hat Tote gefordert. Die Berichte von israelischer und palästinensischer Seite unterscheiden sich stark.",
+  "tags": [
+    "Nahost",
+    "Konflikt",
+    "Humanitäre Krise",
+    "Militär"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Laut israelischen Angaben wurde ein Krankenhaus in Gaza angegriffen und dabei sechs Menschen getötet. Israel behauptet, die Hamas habe das Gebäude als Kommandozentrum genutzt.",
+    "Die Hamas-Behörden bestätigten die Todesfälle und warfen Israel vor, Zivilisten zu gefährden. Es gibt keine unabhängige Überprüfung der Angaben.",
+    "Der Konflikt ist tief verwurzelt, und die Berichte über militärische Aktionen und deren Folgen sind von gegenseitigen Anschuldigungen geprägt."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist passiert? Ein Angriff auf ein Krankenhaus",
+      "paragraphs": [
+        "Es gab einen Luftangriff auf das Nasser-Krankenhaus im Süden des Gazastreifens. Nach Angaben der Behörden gab es dabei sechs Todesopfer. Die Klinik selbst bestätigte diese Zahl.",
+        "Die Berichterstattung zu diesem Vorfall ist allerdings sehr widersprüchlich. Israel meldet, dass der Angriff gezielt ein ranghohes Mitglied der Hamas treffen sollte. Die israelische Armee behauptet, dass die Hamas den Krankenhauskomplex als „Kommandozentrum für militärische und terroristische Aktivitäten“ genutzt habe. Zudem werde dort Waffen gelagert und Folterungen durchgeführt.",
+        "Die Hamas-Behörden haben die Leichen geborgen und bestätigten die Zahl der Toten. Sie wirft Israel vor, Zivilisten als Schutzschilde zu missbrauchen. Wichtig ist zu wissen: Keine der Angaben von Hamas und Israel kann unabhängig überprüft werden."
+      ]
+    },
+    {
+      "heading": "Der Kontext: Ein langer und komplexer Konflikt",
+      "paragraphs": [
+        "Dieser Vorfall findet in einem breiteren und sehr komplexen Konflikt statt. Die Hamas und deren Verbündete leiteten am 7. Oktober 2023 einen Überfall auf den Süden Israels aus, bei dem laut den Angaben der Islamisten 1.221 Menschen getötet wurden und 251 Menschen als Geiseln verschleppt wurden.",
+        "Als Reaktion darauf startete Israel einen massiven Militäreinsatz im Gazastreifen. Nach Angaben des Gesundheitsministeriums, das von der Hamas kontrolliert wird, sind seit diesem Beginn mehr als 74.500 Menschen getötet worden. Seit einer formellen Waffenruhe im Oktober 2025 wurden laut dieser Quelle weitere 1.590 Menschen getötet.",
+        "Die Situation ist von enormer Zerstörung geprägt, und große Teile des Gazastreifens sind zerstört. Die Berichte über militärische Aktionen und deren Ziele sind daher stark politisiert und schwer zu verifizieren."
+      ]
+    }
+  ],
+  "whyItMatters": "Solche Ereignisse zeigen dir, wie wichtig es ist, Quellen kritisch zu hinterfragen. In komplexen Konflikten gibt es selten eine einzige, neutrale Wahrheit. Das hilft dir, fundierte Meinungen zu bilden.",
+  "glossary": [
+    {
+      "term": "Kommandozentrum",
+      "definition": "Ein zentraler Ort, von dem aus militärische oder organisatorische Befehle gegeben werden."
+    },
+    {
+      "term": "Luftangriff",
+      "definition": "Ein militärischer Angriff, der von Flugzeugen oder anderen Luftfahrzeugen durchgeführt wird."
+    },
+    {
+      "term": "Zivilisten",
+      "definition": "Personen, die nicht direkt an militärischen Kampfhandlungen teilnehmen."
+    }
+  ],
+  "quiz": {
+    "question": "Was behauptet die israelische Armee bezüglich der Nutzung des Krankenhauses durch die Hamas?",
+    "options": [
+      "Die Hamas nutzte das Gebäude als Kommando- und Folterzentrum.",
+      "Die Hamas nutzte das Krankenhaus ausschließlich zur medizinischen Versorgung.",
+      "Es gab keine Nutzung des Gebäudes durch die Hamas."
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut Israel nutzte die Hamas das Gebäude als Kommando- und Folterzentrum."
+  },
+  "discussion": [
+    "Wie beeinflusst die gegenseitige Behauptung von „Schutzschild“ und „militärisches Ziel“ die öffentliche Wahrnehmung eines Konflikts?",
+    "Welche Rolle spielt die unabhängige Überprüfung von Informationen in internationalen Konflikten, wenn die Parteien selbst die Berichterstattung kontrollieren?"
+  ],
+  "publishedAt": "2026-11-12T10:55:02.002Z",
+  "sources": [
+    {
+      "title": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
+      "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/konflikt-im-gazastreifen-angriff-auf-krankenhaus-und-untersc.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Ansicht des Al-Shifa Medical Complex in Gaza während des israelisch-palästinensischen Konflikts 2023.",
+    "credit": {
+      "title": "Fars Photo of Casualties in Gaza Strip during 2023 War 07.jpg",
+      "author": "Ghassan Salem",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fars_Photo_of_Casualties_in_Gaza_Strip_during_2023_War_07.jpg"
+    }
+  }
+}

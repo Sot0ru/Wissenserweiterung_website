@@ -1,0 +1,85 @@
+{
+  "id": "haushaltskompromiss-was-die-parteien-erreichen-und-was-noch-",
+  "category": "politik",
+  "title": "Haushaltskompromiss: Was die Parteien erreichen und was noch offenbleibt",
+  "teaser": "Die Verhandlungen über den Bundeshaushalt sind abgeschlossen. Während eine Partei zufrieden ist, gibt es bei der anderen deutlichen Unmut. Wir erklären dir, was dabei entschieden wurde.",
+  "tags": [
+    "Finanzen",
+    "Regierung",
+    "Wirtschaft",
+    "Parteien",
+    "Steuern"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Haushaltskompromiss wurde erzielt, wobei die SPD einige Kürzungen abwenden konnte und die Union Erfolge bei der Verhinderung neuer Steuern feiert.",
+    "Ein zentrales Thema, die Senkung der Stromsteuer, konnte aufgrund fehlender Gegenfinanzierung nicht beschlossen werden.",
+    "Bestimmte Sozialleistungen wie der Kinder-Sofortzuschlag bleiben erhalten, während andere Steuern wie die Zuckersteuer später in Kraft treten."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist ein Haushaltskompromiss?",
+      "paragraphs": [
+        "Wenn die Bundesregierung einen Haushalt verhandelt, geht es darum, festzulegen, wie viel Geld der Staat in ein Jahr ausgibt und woher dieses Geld kommt. Das ist der Bundeshaushalt.",
+        "Weil verschiedene politische Parteien unterschiedliche Prioritäten haben – manche wollen mehr Ausgaben für soziale Projekte, andere wollen weniger Steuern – muss man Kompromisse finden. Diese Verhandlungen sind oft sehr lang und intensiv.",
+        "Im vorliegenden Fall gab es einen Kompromiss zwischen der SPD und der Union. Die Ergebnisse zeigen, dass beide Seiten unterschiedliche Zufriedenheitsgrade haben."
+      ]
+    },
+    {
+      "heading": "Die Ergebnisse: Was wurde durchgesetzt?",
+      "paragraphs": [
+        "Aus Sicht der Union wurden Erfolge erzielt, insbesondere bei der Verhinderung neuer Steuern. Beispielsweise wird eine Plastiksteuer für das Jahr 2027 nicht eingeführt.",
+        "Auch die Zuckersteuer wird nicht sofort erhoben, sondern erst am 1. Januar 2028 in Kraft treten.",
+        "Gleichzeitig konnte die SPD bestimmte soziale Sicherungen sichern. Der Kinder-Sofortzuschlag sowie der Unterhaltsvorschuss für Alleinerziehende bleiben erhalten. Auch das Elterngeld und das Wohngeld sind gesichert."
+      ]
+    },
+    {
+      "heading": "Die großen Streitpunkte: Stromsteuer und Finanzierung",
+      "paragraphs": [
+        "Ein besonders wichtiges Thema war die Senkung der Stromsteuer. Dies war ein wichtiger Wunsch der Union. Allerdings konnte dazu keine Lösung gefunden werden.",
+        "Der Grund dafür ist, dass für diese Senkung eine entsprechende Gegenfinanzierung im Haushalt benötigt wird, und dafür fehlen die notwendigen fünf Milliarden Euro.",
+        "Auch die Diskussion um die Absenkung der sogenannten kalten Progression – also die Steuererhöhung bei Lohnerhöhungen – bleibt kompliziert. Die Forderung nach einer Senkung ist wünschenswert, aber sie müsste finanziell abgesichert werden, was aktuell nicht möglich ist."
+      ]
+    }
+  ],
+  "whyItMatters": "Der Bundeshaushalt bestimmt, wie viel Geld für Schulen, Krankenhäuser, Infrastruktur und Sozialleistungen ausgegeben wird. Als junge Erwachsene beeinflusst das direkt dein Leben und die Zukunft des Landes.",
+  "glossary": [
+    {
+      "term": "Bundeshaushalt",
+      "definition": "Die jährliche Finanzplanung des Staates, in der festgelegt wird, welche Einnahmen (Steuern) und welche Ausgaben (Investitionen, Sozialleistungen) es gibt."
+    },
+    {
+      "term": "Gegenfinanzierung",
+      "definition": "Die finanzielle Absicherung einer Maßnahme. Wenn man etwas kostenfrei macht oder senkt, muss das Geld woanders eingespart oder durch andere Einnahmen gedeckt werden."
+    },
+    {
+      "term": "Kalte Progression",
+      "definition": "Ein Vorgang, bei dem die Steuerlast steigt, obwohl das Einkommen prozentual nur leicht gestiegen ist, weil die Inflationsrate die Steuererhöhung übersteigt."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Thema konnte im Haushaltskompromiss nicht gelöst werden, weil dafür keine Gegenfinanzierung im Haushalt gefunden wurde?",
+    "options": [
+      "Die Senkung der Stromsteuer",
+      "Die Zuckersteuer",
+      "Der Kinder-Sofortzuschlag"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Senkung der Stromsteuer scheiterte daran, dass dafür fünf Milliarden Euro zur Gegenfinanzierung fehlen."
+  },
+  "discussion": [
+    "Wie würdest du die Prioritäten zwischen sozialen Ausgaben (wie Kinderzuschläge) und steuerlichen Entlastungen (wie Stromsteuer) im Kontext der staatlichen Finanzierung bewerten?",
+    "Wenn staatliche Ausgaben nicht gedeckt sind, welche Sparmaßnahmen hältst du für am wenigsten kritisch, um den Haushalt zu konsolidieren?"
+  ],
+  "publishedAt": "2026-11-12T10:47:46.421Z",
+  "sources": [
+    {
+      "title": "Kompromisse beim Haushalt: Zufriedene SPD, Grummeln in der Union",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
