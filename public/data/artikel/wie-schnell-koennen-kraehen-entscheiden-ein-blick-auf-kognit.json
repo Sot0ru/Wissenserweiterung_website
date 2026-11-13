@@ -1,0 +1,88 @@
+{
+  "id": "wie-schnell-koennen-kraehen-entscheiden-ein-blick-auf-kognit",
+  "category": "psychologie",
+  "title": "Wie schnell können Krähen entscheiden? Ein Blick auf kognitive Prozesse",
+  "teaser": "Krähen sind nicht nur klug, sondern auch unglaublich schnell. Neue Forschung zeigt, wie diese Vögel Entscheidungen treffen, die menschliche Reaktionszeiten übertreffen.",
+  "tags": [
+    "Kognition",
+    "Tierverhalten",
+    "Neurobiologie",
+    "Entscheidungsfindung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher der Universität Tübingen fanden heraus, dass Krähen visuelle Entscheidungen durchschnittlich in nur 235 Millisekunden treffen können.",
+    "Diese Reaktionszeit ist doppelt so schnell wie die von Menschen und Affen, wobei die Vögel dabei eine hohe Genauigkeit beibehalten.",
+    "Bereits nach nur 70 Millisekunden zeigen Neuronen im Vogelgehirn Aktivitätsmuster, die auf die getroffene Entscheidung hindeuten."
+  ],
+  "sections": [
+    {
+      "heading": "Blitzschnelle Köpfe: Was die Forschung über Krähen verrät",
+      "paragraphs": [
+        "Krähen gelten schon lange als sehr intelligente Tiere. Nun zeigen neue wissenschaftliche Erkenntnisse, dass ihre kognitiven Fähigkeiten – also ihre Fähigkeit zu denken und Entscheidungen zu treffen – noch beeindruckender sind. Forscher der Universität Tübingen haben untersucht, wie schnell diese Vögel Entscheidungen treffen können.",
+        "In Experimenten mussten zwei Kadaverkrähen feststellen, in welche Richtung ein Muster bewegter Punkte auf einem Touchscreen zeigte. Die Ergebnisse waren frappierend: Die Krähen brauchten im Durchschnitt nur 235 Millisekunden, um ihre Wahl zu treffen. Das ist doppelt so schnell wie bei Menschen und Affen.",
+        "Trotz dieser extrem hohen Geschwindigkeit waren die Krähen sehr präzise. Wenn die Bewegungsmuster schwer zu erkennen waren, waren die Entscheidungen der Vögel trotzdem besser als reines Ratespiel. Bei klaren Signalen erreichten sie eine Genauigkeit von fast 100 Prozent."
+      ]
+    },
+    {
+      "heading": "Im Gehirn passiert mehr, als wir denken",
+      "paragraphs": [
+        "Um zu verstehen, wie diese Geschwindigkeit möglich ist, untersuchten die Forscher die Aktivität einzelner Nervenzellen, also Neuronen. Sie konzentrierten sich auf eine bestimmte Region des Vogelgehirns, das sogenannte nidopallium caudolaterale. Diese Region spielt eine wichtige Rolle bei der Informationsverarbeitung und Entscheidungsfindung, ähnlich wie der präfrontale Kortex beim Menschen.",
+        "Die Aufzeichnungen zeigten, dass die Verarbeitung der Informationen extrem früh beginnt. Bereits 70 Millisekunden nachdem die Punkte auf dem Bildschirm erschienen, zeigten Neuronen, die mit den verschiedenen Entscheidungen verbunden sind, deutliche Aktivitätsmuster.",
+        "Diese neuronalen Signale entstehen schon, bevor der Vogel physisch reagiert. Die Forscher stellten fest, dass die Gehirne der Krähen grundlegende Prinzipien zur Bewertung von Beweisen und zur Entscheidungsfindung nutzen, die auch bei Menschen und Primaten bekannt sind. Der Unterschied liegt in der Geschwindigkeit und der Struktur des Gehirns."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, dass Intelligenz nicht an eine bestimmte Art gebunden ist. Es hilft uns zu verstehen, wie schnell und effizient das Gehirn arbeitet, was uns Rückschlüsse auf die Grenzen und Möglichkeiten der menschlichen Kognition geben kann.",
+  "glossary": [
+    {
+      "term": "Millisekunde",
+      "definition": "Ein Tausendstel einer Sekunde (0,001 Sekunden). Das ist eine sehr kurze Zeitspanne."
+    },
+    {
+      "term": "Neuronen",
+      "definition": "Die speziellen Zellen im Gehirn, die elektrische Signale übertragen und Informationen verarbeiten."
+    },
+    {
+      "term": "Präfrontaler Kortex",
+      "definition": "Ein Teil des menschlichen Gehirns, der für höhere Funktionen wie Planung, Entscheidungsfindung und Impulskontrolle zuständig ist."
+    }
+  ],
+  "quiz": {
+    "question": "Wie schnell benötigten die Krähen im Durchschnitt, um die Richtung der Punkte zu bestimmen?",
+    "options": [
+      "235 Millisekunden",
+      "70 Millisekunden",
+      "100 Millisekunden"
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut der Studie benötigten die Krähen im Durchschnitt 235 Millisekunden."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Geschwindigkeit im Entscheidungsprozess? Ist es wichtiger, schnell zu reagieren, oder ist die Genauigkeit der Entscheidung wichtiger?",
+    "Wenn verschiedene Arten unterschiedliche Gehirnstrukturen haben, wie können wir dann allgemeingültige Modelle für menschliche Entscheidungsfindung erstellen?"
+  ],
+  "publishedAt": "2026-11-13T09:48:11.146Z",
+  "sources": [
+    {
+      "title": "Crows can make decisions twice as fast as humans, scientists discover",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-schnell-koennen-kraehen-entscheiden-ein-blick-auf-kognit.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Großgespritzter Rabenkrähe (Corvus macrorhynchos) in Bhigwan, Maharashtra, Indien.",
+    "credit": {
+      "title": "Large-billed Crow in Bhigwan August 2025 by Tisha Mukherjee 01.jpg",
+      "author": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Large-billed_Crow_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg"
+    }
+  }
+}

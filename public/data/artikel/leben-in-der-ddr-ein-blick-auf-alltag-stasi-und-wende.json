@@ -1,0 +1,88 @@
+{
+  "id": "leben-in-der-ddr-ein-blick-auf-alltag-stasi-und-wende",
+  "category": "geschichte",
+  "title": "Leben in der DDR: Ein Blick auf Alltag, Stasi und Wende",
+  "teaser": "Was war das Leben in der Deutschen Demokratischen Republik? Wir beleuchten den Alltag, die Kontrolle der Stasi und den Weg zur Wiedervereinigung.",
+  "tags": [
+    "Kalter Krieg",
+    "Deutschland",
+    "Politik",
+    "Alltag"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die DDR existierte über 40 Jahre und war durch staatliche Kontrolle und Planwirtschaft geprägt.",
+    "Institutionen wie die Stasi überwachten das Leben der Bürger, während der Alltag durch spezifische Produkte und Strukturen bestimmt wurde.",
+    "Die friedliche Revolution und die Ereignisse von 1989 führten zum Ende der DDR und zur Wiedervereinigung."
+  ],
+  "sections": [
+    {
+      "heading": "Das System: Alltag unter staatlicher Kontrolle",
+      "paragraphs": [
+        "Die Deutsche Demokratische Republik (DDR) war ein Staat, der über mehr als vier Jahrzehnte existierte. Das Leben dort war stark von staatlichen Strukturen geprägt. Im Gegensatz zur westdeutschen Marktwirtschaft funktionierte die DDR nach einem Planwirtschaftssystem.",
+        "Der Alltag war von spezifischen Gegebenheiten bestimmt. Man denke zum Beispiel an den Trabant, ein ikonisches Fahrzeug, das für viele Generationen ein fester Bestandteil des Lebens war. Auch die Preise für Benzin, die jahrzehntelang stabil gehalten wurden, zeigten, wie das System subventionierte, aber gleichzeitig an seine Grenzen stieß.",
+        "Neben dem Konsum spielte auch die gesellschaftliche Kontrolle eine große Rolle. Die Staatssicherheit, bekannt als Stasi, überwachte das Leben der Bürger. Die Aufarbeitung dieser Überwachung ist bis heute ein wichtiges Thema in der deutschen Geschichte."
+      ]
+    },
+    {
+      "heading": "Von Protest bis zum Ende: Der Weg zur Wende",
+      "paragraphs": [
+        "Die DDR war nicht nur ein Ort des Alltags, sondern auch ein Schauplatz politischer Kämpfe. Es gab Bürger, die sich gegen die Unterdrückung wehrten. Ein Beispiel dafür ist Pfarrer Oskar Brüsewitz, der 1976 durch eine Protestaktion auf die fehlende Religionsfreiheit aufmerksam machte.",
+        "Die Spannungen nahmen zu, und die friedliche Revolution spielte eine entscheidende Rolle. Die Massenproteste, insbesondere die Montagsdemonstrationen, zeigten den Wunsch der Bevölkerung nach Veränderung. Diese Bewegung mündete schließlich in den politischen Wandel.",
+        "Der Mauerfall und die folgenden Ereignisse markierten das Ende der DDR. Die Wende war ein tiefgreifender Prozess, der die Gesellschaft und die politischen Strukturen grundlegend veränderte und zur Wiedervereinigung führte."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Geschichte der DDR hilft dir zu verstehen, wie stark politische Systeme das tägliche Leben beeinflussen können. Es beleuchtet Themen wie Freiheit, Überwachung und den Wunsch nach Selbstbestimmung, die auch heute noch relevant sind.",
+  "glossary": [
+    {
+      "term": "Planwirtschaft",
+      "definition": "Ein Wirtschaftssystem, bei dem der Staat zentral entscheidet, was produziert wird, wie viel und für wen, anstatt dass Angebot und Nachfrage den Markt bestimmen."
+    },
+    {
+      "term": "Stasi",
+      "definition": "Die Staatssicherheit der DDR; eine Geheimpolizei, die das Leben der Bürger überwachte und kontrollierte."
+    },
+    {
+      "term": "Wende",
+      "definition": "Die politische und gesellschaftliche Umbruchsphase in der DDR Ende der 1980er Jahre, die zum Ende des Staates führte."
+    }
+  ],
+  "quiz": {
+    "question": "Was war ein zentrales Merkmal der Wirtschaft in der DDR?",
+    "options": [
+      "Ein Planwirtschaftssystem, bei dem der Staat zentral entscheidet",
+      "Ein freies Marktwirtschaftssystem mit privatem Handel",
+      "Eine reine Dienstleistungswirtschaft ohne Produktion"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die DDR funktionierte nach einem Planwirtschaftssystem, bei dem der Staat die Produktion und Verteilung festlegte."
+  },
+  "discussion": [
+    "Welche Rolle spielen staatliche Kontrollmechanismen in modernen Gesellschaften, selbst wenn es keine offene Diktatur gibt?",
+    "Wie kann man die Erfahrungen aus der DDR-Geschichte nutzen, um heute über die Bedeutung von Bürgerrechten zu diskutieren?"
+  ],
+  "publishedAt": "2026-11-13T10:40:28.516Z",
+  "sources": [
+    {
+      "title": "DDR",
+      "url": "https://www.mdr.de/geschichte/ddr",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/leben-in-der-ddr-ein-blick-auf-alltag-stasi-und-wende.jpg",
+    "width": 960,
+    "height": 645,
+    "alt": "Ein Trabant in Berlin im Jahr 1990, illustriert den Alltag in der DDR vor der Wende.",
+    "credit": {
+      "title": "013 Trabant East German Peoples Car in West Berlin 1990 (2131412935).jpg",
+      "author": "DAVID HOLT from London, England",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:013_Trabant_East_German_Peoples_Car_in_West_Berlin_1990_(2131412935).jpg"
+    }
+  }
+}

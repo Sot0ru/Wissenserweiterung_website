@@ -1,0 +1,78 @@
+{
+  "id": "ki-augen-wie-kuenstliche-intelligenz-die-sehfaehigkeit-wiede",
+  "category": "wissenschaft",
+  "title": "KI-Augen: Wie künstliche Intelligenz die Sehfähigkeit wiederherstellen könnte",
+  "teaser": "Forscher nutzen Künstliche Intelligenz, um experimentelle Bionik-Augen präziser zu steuern. Das könnte helfen, Menschen mit Blindheit wieder ein Bild der Welt zu ermöglichen.",
+  "tags": [
+    "Medizintechnik",
+    "Künstliche Intelligenz",
+    "Neurobiologie",
+    "Sehen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher haben gezeigt, dass KI helfen kann, elektrische Stimulationen im Gehirn präziser zu steuern, um Sehgefühle zu erzeugen.",
+    "Die Technologie nutzt Deep Learning, um vorherzusagen, wie das Gehirn auf elektrische Impulse reagiert, anstatt nur feste Einstellungen zu nutzen.",
+    "Diese Fortschritte bringen die Wiederherstellung von Sehvermögen bei Menschen mit Schädigungen des Sehwegs näher."
+  ],
+  "sections": [
+    {
+      "heading": "Das Problem: Wie das Gehirn Licht verarbeitet",
+      "paragraphs": [
+        "Menschen, die blind sind, haben oft beschädigte Sehnerven oder Netzhaut. Forscher arbeiten seit Jahrzehnten daran, diese Funktion künstlich zu ersetzen. Dabei gibt es verschiedene Ansätze: Einige stimulieren die Netzhaut selbst. Andere versuchen, weiter hinten im Sehsystem anzusetzen.",
+        "Ein besonders spannender Ansatz sind sogenannte visuelle kortikale Prothesen. Diese Geräte senden elektrische Signale direkt in den visuellen Kortex – also den Teil des Gehirns, der Bilder verarbeitet. Das ist besonders relevant für Menschen, deren Sehbahnen beschädigt sind, aber deren visueller Kortex noch reagieren kann.",
+        "Das große Problem bei diesen Implantaten ist die Vorhersagbarkeit. Wenn ein Gerät elektrische Impulse sendet, ist das Ergebnis nicht immer gleich. Es kann als Fleck, Blitz oder Form erscheinen. Das Gehirn reagiert nicht wie ein einfacher Computer, der bei mehr Strom immer ein besseres Bild erzeugt. Die Reaktion ist komplex und schwankt.",
+        "Hier kommt die Künstliche Intelligenz (KI) ins Spiel. Forscher nutzen ein Deep-Learning-System, um Muster zu erkennen. Dieses System lernt, wie das Gehirn einer bestimmten Person auf elektrische Stimulationen reagiert. Anstatt feste Einstellungen zu verwenden, passt die KI die Signale an die individuellen Bedürfnisse des Gehirns an."
+      ]
+    },
+    {
+      "heading": "Der Test: KI im Gehirn eines Probanden",
+      "paragraphs": [
+        "Um diese Theorie zu testen, arbeiteten Forscher mit einem 27-jährigen Mann zusammen, der durch eine traumatische Hirnverletzung blind geworden war. Dieser Proband trug ein Implantat mit 96 Elektroden im visuellen Kortex. Das Gerät sollte sechs Monate lang im Kopf bleiben.",
+        "Wenn die Forscher die Elektroden aktivierten, erlebte der Mann sogenannte Phosphene – also Lichtblitze, Flecken oder Formen. Die KI wurde trainiert, um vorherzusagen, welche Kombination von elektrischen Signalen am wahrscheinlichsten bestimmte Muster im Gehirn erzeugt.",
+        "Die Ergebnisse waren vielversprechend. Die KI-gesteuerten Stimulationen erzeugten die beabsichtigten Muster im Gehirn genauer als ältere Methoden und dabei mit weniger elektrischem Strom. Noch wichtiger: Die Forscher stellten fest, dass die Muster, die direkt aus dem Gehirn aufgezeichnet wurden, bessere Vorhersagen über die wahrgenommenen visuellen Empfindungen lieferten als die reinen Stimulationsparameter selbst.",
+        "Das bedeutet: Man muss nicht nur das Gehirn anregen, sondern auch verstehen, wie es diese Anregung in ein bewusstes Seherlebnis umwandelt. Zukünftige Prothesen müssen also nicht nur senden, sondern auch die Reaktion des Gehirns überwachen und darauf reagieren. Das Gerät muss sich dem Menschen anpassen, nicht umgekehrt."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es die Grenzen der Medizin erweitert. Fortschritte in der Neurotechnologie können Leben verändern, indem sie Menschen mit schweren Einschränkungen neue Möglichkeiten eröffnen. Es zeigt, wie KI nicht nur für Smartphones, sondern auch für komplexe biologische Probleme eingesetzt werden kann.",
+  "glossary": [
+    {
+      "term": "Visueller Kortex",
+      "definition": "Ein Bereich im Gehirn, der für die Verarbeitung von visuellen Informationen, also für das Sehen, zuständig ist."
+    },
+    {
+      "term": "Phosphene",
+      "definition": "Lichtblitze oder Flecken, die eine Person wahrnimmt, obwohl kein externes Licht vorhanden ist – sie entstehen durch elektrische Stimulation des Gehirns."
+    },
+    {
+      "term": "Deep Learning",
+      "definition": "Eine spezielle Form der Künstlichen Intelligenz, die Muster und Zusammenhänge in großen Datenmengen lernt, ähnlich wie ein Mensch."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Technologie wird genutzt, um die elektrischen Stimulationen im Gehirn präziser zu steuern?",
+    "options": [
+      "Ein mechanisches System mit Zahnrädern",
+      "Ein Deep-Learning-System der Künstlichen Intelligenz",
+      "Ein chemisches Medikament zur Gehirnaktivierung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Forscher nutzten ein Deep-Learning-System, um die Reaktion des Gehirns auf elektrische Impulse vorherzusagen und die Stimulation zu optimieren."
+  },
+  "discussion": [
+    "Welche ethischen Fragen entstehen, wenn Technologie wie diese die menschliche Wahrnehmung grundlegend verändern kann?",
+    "Wie sollte die Forschung in der Neurotechnologie reguliert werden, um sicherzustellen, dass die Technologie allen zugutekommt und nicht nur einer kleinen Gruppe?"
+  ],
+  "publishedAt": "2026-11-13T09:54:54.348Z",
+  "sources": [
+    {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

@@ -1,0 +1,94 @@
+{
+  "id": "die-voelkerschlacht-bei-leipzig-wie-ein-kampf-europa-veraend",
+  "category": "geschichte",
+  "title": "Die Völkerschlacht bei Leipzig: Wie ein Kampf Europa veränderte",
+  "teaser": "Im Oktober 1813 kam es zu einer der größten Schlachten der Geschichte. Erfahre, warum dieser Kampf Napoleons Herrschaft beendete.",
+  "tags": [
+    "Napoleon",
+    "Militärgeschichte",
+    "Europa",
+    "19. Jahrhundert",
+    "Kriege"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Völkerschlacht bei Leipzig fand im Oktober 1813 statt und war ein massiver Zusammenprall von über 500.000 Soldaten.",
+    "Dieser Kampf markierte den Wendepunkt, der Napoleons Herrschaft über Europa beendete.",
+    "Die Schlacht führte zu enormen Verlusten, wobei bis zu 100.000 Menschen ums Leben kamen."
+  ],
+  "sections": [
+    {
+      "heading": "Der Wendepunkt: Was war die Völkerschlacht?",
+      "paragraphs": [
+        "Stell dir eine Schlacht vor, bei der über eine halbe Million Soldaten kämpfen. Das war die Völkerschlacht bei Leipzig im Oktober 1813. Dieses Ereignis war kein einzelnes Gefecht, sondern eine Abfolge blutiger Teilschlachten über vier Tage. Es war ein entscheidender Wendepunkt in der europäischen Geschichte.",
+        "Napoleons Reich hatte sich bis dahin über fast ganz Europa ausgebreitet. Doch die Verbündeten – darunter Preußen und Russland – stellten sich zusammen, um ihn zu stoppen. Die Schlacht bei Leipzig gilt als der Moment, der Napoleons Herrschaft endgültig beendete."
+      ]
+    },
+    {
+      "heading": "Ein gigantisches Gefecht mit hohen Kosten",
+      "paragraphs": [
+        "Die Dimensionen dieser Schlacht waren gigantisch. Die beteiligten Armeen waren riesig, und die Verluste waren verheerend. Nach den Kämpfen lagen Schätzungen zufolge bis zu 100.000 Tote und Verwundete auf dem Schlachtfeld. Diese Verluste hinterließen ein tiefes Trauma bei den Überlebenden und verstärkten den Wunsch nach Frieden.",
+        "Die Ereignisse in Leipzig waren Teil eines größeren Krieges. Schon zuvor hatte Napoleon 1812 in Russland einen Feldzug begonnen, der in einem „Todesmarsch“ endete. Die Befreiungskriege gegen ihn begannen bereits früher, etwa am 2. Mai 1813 bei Großgörschen, als die Heere Napoleons auf die Verbündeten trafen."
+      ]
+    },
+    {
+      "heading": "Was blieb von dieser Epoche?",
+      "paragraphs": [
+        "Die Erinnerung an diese gewaltige Schlacht ist bis heute präsent. Das Völkerschlachtdenkmal in Leipzig ist ein Symbol dafür. Dieses Monument ist 91 Meter hoch und wiegt 300.000 Tonnen. Es wurde 100 Jahre nach dem Ereignis, nämlich am 18. Oktober 1913, eingeweiht.",
+        "Die Napoleonischen Kriege prägten die Zeit tief. Schon früher, im Dezember 1812, schloss Ludwig von Yorck einen Waffenstillstand mit den Russen – die Konvention von Tauroggen. Dieser Schritt war ein wichtiges Signal für die Erhebung gegen Napoleon, die schließlich zur Völkerschlacht führte."
+      ]
+    }
+  ],
+  "whyItMatters": "Auch wenn es ein historisches Ereignis ist, zeigt die Völkerschlacht, wie große Konflikte ganze Kontinente umgestalten. Sie hilft zu verstehen, wie sich Machtverhältnisse und politische Systeme über Jahrhunderte hinweg verändern.",
+  "glossary": [
+    {
+      "term": "Grande Armée",
+      "definition": "Dies war der Name der riesigen Armee Napoleons während seiner Feldzüge."
+    },
+    {
+      "term": "Befreiungskriege",
+      "definition": "Dies waren die Kriege, die die europäischen Mächte gegen Napoleon führten, um ihre Länder zu befreien."
+    },
+    {
+      "term": "Konvention von Tauroggen",
+      "definition": "Ein Waffenstillstand, der am 30. Dezember 1812 geschlossen wurde und ein Zeichen für den Aufstand gegen Napoleon war."
+    }
+  ],
+  "quiz": {
+    "question": "Was war das Hauptziel der Verbündeten bei der Völkerschlacht?",
+    "options": [
+      "Einen Waffenstillstand mit Napoleon zu erzwingen",
+      "Napoleons Herrschaft über Europa zu beenden",
+      "Ein neues Imperium in Deutschland zu gründen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Schlacht beendete Napoleons Herrschaft über Europa."
+  },
+  "discussion": [
+    "Welche Rolle spielen historische Schlachten heute, wenn es darum geht, die Identität oder die politischen Grenzen von Staaten zu definieren?",
+    "Wie beeinflussen monumentale Bauwerke, die an historische Ereignisse erinnern (wie das Völkerschlachtdenkmal), die öffentliche Wahrnehmung der Vergangenheit?"
+  ],
+  "publishedAt": "2026-11-13T10:46:08.951Z",
+  "sources": [
+    {
+      "title": "Völkerschlacht bei Leipzig",
+      "url": "https://www.mdr.de/geschichte/weitere-epochen/voelkerschlacht",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-voelkerschlacht-bei-leipzig-wie-ein-kampf-europa-veraend.jpg",
+    "width": 960,
+    "height": 612,
+    "alt": "Napoleon bei Leipzig am 18.10.1813, dargestellt in einem Gemälde.",
+    "credit": {
+      "title": "Fotothek df rp-c 0050079 Leipzig. Turmholländer in, Napoleon bei Leipzig, den 18.10.1813, aus, Napoleon I.jpg",
+      "author": "unbekannt",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fotothek_df_rp-c_0050079_Leipzig._Turmholl%C3%A4nder_in,_Napoleon_bei_Leipzig,_den_18.10.1813,_aus,_Napoleon_I.jpg"
+    }
+  }
+}

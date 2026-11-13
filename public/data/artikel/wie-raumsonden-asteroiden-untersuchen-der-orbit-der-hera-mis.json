@@ -1,0 +1,94 @@
+{
+  "id": "wie-raumsonden-asteroiden-untersuchen-der-orbit-der-hera-mis",
+  "category": "wissenschaft",
+  "title": "Wie Raumsonden Asteroiden untersuchen: Der Orbit der Hera-Mission",
+  "teaser": "Eine Raumsonde nähert sich einem Asteroidenpaar, um wichtige Daten zu sammeln. Was macht die Umlaufbahn um diese winzigen Himmelskörper so kompliziert?",
+  "tags": [
+    "Weltraumforschung",
+    "Planetare Verteidigung",
+    "Asteroiden",
+    "ESA",
+    "Physik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Hera-Mission der ESA untersucht das Didymos-Doppelsystem, um die Folgen eines Asteroideneinschlags zu analysieren.",
+    "Aufgrund der extrem geringen Schwerkraft der Asteroiden kann Hera keine einfache kreisförmige Umlaufbahn fliegen.",
+    "Stattdessen nutzt die Sonde „rechteckige Umlaufbahnen“, um den Abstand zum Asteroidenpaar beizubehalten."
+  ],
+  "sections": [
+    {
+      "heading": "Warum wir Asteroiden beobachten müssen",
+      "paragraphs": [
+        "Es gibt große Himmelskörper, die uns im Weltall begegnen könnten. Solche Ereignisse nennt man planetare Gefährdungen. Um uns zu schützen, müssen wir wissen, wie diese Objekte reagieren, wenn sie auf etwas treffen. Genau darum geht es bei der Hera-Mission der Europäischen Weltraumagentur (ESA).",
+        "Diese Mission untersucht das Didymos-Doppelsystem, ein Asteroidenpaar. Vor kurzem wurde dort ein Test durchgeführt: Die DART-Sonde der NASA prallte 2022 mit hoher Geschwindigkeit auf den kleineren Asteroiden Dimorphos. Das Ziel war, die Umlaufbahn des Asteroiden zu verändern – ein sogenannter kinetischer Einschlag. Hera soll nun untersuchen, wie sich dieser Einschlag auf den Asteroiden selbst ausgewirkt hat."
+      ]
+    },
+    {
+      "heading": "Der komplizierte Flug in der Schwerelosigkeit",
+      "paragraphs": [
+        "Die Asteroiden haben eine sehr geringe Schwerkraft. Der Hauptkörper Didymos hat nur etwa 40.000-mal weniger Schwerkraft als die Erde. Der kleinere Mond Dimorphos ist noch schwächer. In einer solchen Umgebung ist es schwierig, eine normale, runde Umlaufbahn zu halten.",
+        "Stattdessen bewegt sich die Hera-Sonde sehr langsam um den gemeinsamen Schwerpunkt beider Körper – nur etwa 12 cm pro Sekunde. Um den Abstand von rund 30 bis 25 Kilometer konstant zu halten, nutzt Hera Triebwerke, um ihren Kurs regelmäßig um 90 Grad zu verschieben. Das Ergebnis sind diese „rechteckigen Umlaufbahnen“."
+      ]
+    },
+    {
+      "heading": "Was Hera herausfinden wird",
+      "paragraphs": [
+        "Die Mission ist entscheidend, um zu sehen, ob die Vorhersagen über die Reaktion der Asteroiden stimmen. Hera wird untersuchen, ob der Einschlag einen Krater hinterlassen hat oder den Asteroiden komplett verändert hat. Zudem sollen die genaue Zusammensetzung und Masse von Dimorphos ermittelt werden.",
+        "Diese Daten sind wichtig für die Planetenabwehr. Wenn wir verstehen, wie ein Asteroid auf einen Einschlag reagiert, können wir besser planen, wie wir zukünftige Gefahren abwehren können. Die Sonde wird bald in eine Phase der detaillierten Untersuchung eintreten, um noch nähere Bilder zu machen."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist relevant, weil es direkt mit unserem Schutz als Menschheit zusammenhängt. Wir lernen hier, wie wir mit potenziellen Weltraumgefahren umgehen können. Es zeigt auch, wie hochentwickelte Technik eingesetzt wird, um komplexe physikalische Probleme im Weltraum zu lösen.",
+  "glossary": [
+    {
+      "term": "ESA",
+      "definition": "European Space Agency. Die Weltraumagentur der Europäischen Union, die wissenschaftliche Missionen durchführt."
+    },
+    {
+      "term": "Asteroid",
+      "definition": "Ein kleiner, felsiger Himmelskörper, der typischerweise zwischen Mars und Jupiter im Sonnensystem kreist."
+    },
+    {
+      "term": "Kinetischer Einschlag",
+      "definition": "Eine Methode zur Ablenkung von Asteroiden, bei der ein Raumschiff mit hoher Geschwindigkeit auf den Asteroiden prallt, um seine Bahn zu verändern."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Umlaufbahn beschreibt die Hera-Sonde um das Asteroidenpaar?",
+    "options": [
+      "Eine Reihe von rechteckigen Umlaufbahnen",
+      "Eine perfekte kreisförmige Bahn",
+      "Eine elliptische Bahn, wie die Erde"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die geringe Schwerkraft erlaubt keine einfache kreisförmige Bahn; stattdessen nutzt Hera Triebwerkszündungen, um eine Reihe von rechteckigen Umlaufbahnen zu beschreiben."
+  },
+  "discussion": [
+    "Welche ethischen Fragen entstehen, wenn wir versuchen, natürliche Objekte wie Asteroiden aktiv zu verändern, um die Erde zu schützen?",
+    "Wie wichtig ist es, dass wir die genauen physikalischen Eigenschaften von Himmelskörpern kennen, um langfristig Risiken einschätzen zu können?"
+  ],
+  "publishedAt": "2026-11-13T10:01:26.794Z",
+  "sources": [
+    {
+      "title": "Die Raumsonde Hera befindet sich in einem „rechteckigen Orbit“ um die Zielasteroiden",
+      "url": "https://www.raumfahrer.net/die-raumsonde-hera-befindet-sich-in-einem-rechteckigen-orbit-um-die-zielasteroiden/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-raumsonden-asteroiden-untersuchen-der-orbit-der-hera-mis.jpg",
+    "width": 960,
+    "height": 960,
+    "alt": "Die ESA-Mission Hera nähert sich dem binären Asteroidensystem Didymos.",
+    "credit": {
+      "title": "Hera Didymos Approach.jpg",
+      "author": "ESA Operations",
+      "license": "CC BY-SA 3.0 igo",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hera_Didymos_Approach.jpg"
+    }
+  }
+}

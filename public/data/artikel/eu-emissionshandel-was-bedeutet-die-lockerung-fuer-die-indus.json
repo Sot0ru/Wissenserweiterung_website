@@ -1,0 +1,94 @@
+{
+  "id": "eu-emissionshandel-was-bedeutet-die-lockerung-fuer-die-indus",
+  "category": "wissenschaft",
+  "title": "EU-Emissionshandel: Was bedeutet die Lockerung für die Industrie?",
+  "teaser": "Die EU-Industrie soll weniger für ihren CO2-Ausstoß zahlen müssen. Was bedeutet diese Änderung für das Klima und die Klimaziele?",
+  "tags": [
+    "Klimaschutz",
+    "Energie",
+    "Umwelt",
+    "EU-Politik",
+    "CO2"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die EU hat eine zeitlich begrenzte Lockerung im Emissionshandel beschlossen, die betroffenen Industrien zusätzliche kostenlose Zertifikate gewährt.",
+    "Dies ermöglicht der Industrie, von 2026 bis 2030 mehr CO2 auszustoßen und kann Milliarden Euro Einsparungen bringen.",
+    "Dieser Kompromiss wird kritisch gesehen, da er die Erreichung der ehrgeizigen EU-Klimaziele erschwert."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist der Emissionshandel überhaupt?",
+      "paragraphs": [
+        "Stell dir vor, die EU möchte, dass Unternehmen weniger Treibhausgase ausstoßen. Dafür gibt es das Emissionshandelssystem. Im Grunde funktioniert es wie ein System mit Quoten. Die EU verteilt eine bestimmte Menge an sogenannten Emissionszertifikaten. Jedes Zertifikat erlaubt einem Unternehmen, eine bestimmte Menge an Kohlendioxid (CO2) auszustoßen. Wenn ein Unternehmen mehr CO2 ausstößt, als ihm erlaubt ist, muss es diese Zertifikate kaufen. Das macht das Ausstoßen teuer.",
+        "Ziel ist es, dass Unternehmen Anreize haben, klimafreundlicher zu werden, weil sie sonst hohe Kosten tragen müssen. Die EU hat sich das Ziel gesetzt, bis 2040 die Treibhausgasemissionen um 90 Prozent im Vergleich zu 1990 zu senken. Das ist ein sehr ambitioniertes Klimaziel."
+      ]
+    },
+    {
+      "heading": "Der Kompromiss: Mehr kostenlose Zertifikate",
+      "paragraphs": [
+        "Kürzlich haben Unterhändler des Europäischen Parlaments und der Mitgliedstaaten einen Kompromiss gefunden. Dieser besagt, dass betroffenen Industrien für den Zeitraum von 2026 bis 2030 zusätzliche, kostenlose Emissionszertifikate zugewiesen werden.",
+        "Diese Maßnahme soll die Industrie entlasten, besonders angesichts hoher Energiepreise und des Wettbewerbs mit Ländern außerhalb der EU. Laut den Verhandlern können dadurch mehrere Milliarden Euro eingespart werden. Der Kompromiss geht sogar über den ursprünglichen Vorschlag der EU-Kommission hinaus, bei dem bereits sechs Milliarden Euro eingespart werden sollten."
+      ]
+    },
+    {
+      "heading": "Klimaziele unter Druck?",
+      "paragraphs": [
+        "Diese Lockerung wird jedoch nicht überall positiv gesehen. Kritiker sehen darin eine Aufweichung des Klimaschutzinstruments. Da die Industrie durch die zusätzlichen, kostenlosen Zertifikate mehr CO2 ausstoßen darf, werden die Klimaziele schwieriger zu erreichen. Das System soll zwar die Industrie unterstützen, aber die Befürchtung ist groß, dass die notwendige Geschwindigkeit beim Klimaschutz dadurch verlangsamt wird.",
+        "Dieser Kompromiss muss noch formell vom Parlament und von den Mitgliedstaaten angenommen werden. Es ist also noch kein Gesetz."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Emissionshandelssystem beeinflusst direkt, wie schnell die Welt auf den Klimawandel reagiert. Da du als junge Person die Zukunft auf dich nimmst, ist es wichtig zu verstehen, welche politischen Entscheidungen diesen Prozess beeinflussen.",
+  "glossary": [
+    {
+      "term": "Emissionshandel",
+      "definition": "Ein System, bei dem Unternehmen für ihre Treibhausgasemissionen Zertifikate erwerben müssen. Wer mehr ausstößt, muss mehr bezahlen."
+    },
+    {
+      "term": "Treibhausgase",
+      "definition": "Gase in der Atmosphäre, die Wärme speichern und zur Erwärmung des Planeten beitragen (z. B. CO2)."
+    },
+    {
+      "term": "Emissionszertifikat",
+      "definition": "Ein Gut, das einem Unternehmen erlaubt, eine definierte Menge an Treibhausgasen auszustoßen."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist die geplante Laufzeit der zusätzlichen kostenlosen Emissionszertifikate für die Industrie?",
+    "options": [
+      "Bis 2026",
+      "Bis 2040",
+      "Bis 2030"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Vereinbarung sieht die Zuteilung der zusätzlichen Zertifikate für den Zeitraum von 2026 bis 2030 vor."
+  },
+  "discussion": [
+    "Wie lässt sich ein Gleichgewicht zwischen der Notwendigkeit, die Industrie international wettbewerbsfähig zu halten, und der Notwendigkeit, die Klimaziele zu erreichen, finden?",
+    "Welche anderen Mechanismen könnte die EU nutzen, um Industrien zu unterstützen, ohne die Klimaziele zu gefährden?"
+  ],
+  "publishedAt": "2026-11-13T10:28:05.102Z",
+  "sources": [
+    {
+      "title": "Erleichterung für Industrie im EU-Emissionshandel",
+      "url": "https://www.tagesschau.de/ausland/europa/emissionshandel-eu-industrie-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/eu-emissionshandel-was-bedeutet-die-lockerung-fuer-die-indus.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Continental AG Reifenfabrik in Hannover, Deutschland, zeigt industrielle Produktion.",
+    "credit": {
+      "title": "Continental AG tire factory Mittellandkanal Stoecken Hannover Germany 02.jpg",
+      "author": "Christian A. Schröder ( ChristianSchd )",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Continental_AG_tire_factory_Mittellandkanal_Stoecken_Hannover_Germany_02.jpg"
+    }
+  }
+}

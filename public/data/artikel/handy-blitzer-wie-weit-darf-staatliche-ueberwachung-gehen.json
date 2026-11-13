@@ -1,0 +1,76 @@
+{
+  "id": "handy-blitzer-wie-weit-darf-staatliche-ueberwachung-gehen",
+  "category": "politik",
+  "title": "Handy-Blitzer: Wie weit darf staatliche Überwachung gehen?",
+  "teaser": "Die Idee, Handynutzung im Straßenverkehr mit Kameras zu ahnden, gewinnt an Fahrt. Doch wo zieht die Grenze zwischen Verkehrssicherheit und Privatsphäre?",
+  "tags": [
+    "Überwachung",
+    "Verkehr",
+    "Gesetzgebung",
+    "Privatsphäre"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Bundesverkehrsminister Bilger möchte die bisher in Rheinland-Pfalz getesteten „Handy-Blitzer“ bundesweit einführen, um Unfälle durch Ablenkung zu reduzieren.",
+    "Die Kameras erfassen potenzielle Handyverstöße und die Software gleicht das Bild mit bekannten Bewegungsmustern ab. Bei Fehlern drohen Bußgelder.",
+    "Kritiker warnen vor einem Eingriff in das Recht auf informationelle Selbstbestimmung und fordern klare rechtliche Rahmenbedingungen für die Datenverarbeitung."
+  ],
+  "sections": [
+    {
+      "heading": "Von Rheinland-Pfalz auf die ganze Nation",
+      "paragraphs": [
+        "Der Einsatz von „Handy-Blitzern“ ist derzeit auf das Bundesland Rheinland-Pfalz beschränkt. Doch Bundesverkehrsminister Bilger plant, diese Überwachungstechnik deutschlandweit einzuführen. Das Hauptziel ist klar: mehr Verkehrssicherheit und weniger Unfälle durch Ablenkung am Steuer.",
+        "In Rheinland-Pfalz werden hochauflösende Kameras, sogenannte Monocams, eingesetzt. Diese werden meist auf Autobahnbrücken platziert und filmen schräg nach unten auf vorbeifahrende Autos. Die Technik hat sich als wirksam erwiesen: In der Testphase im Jahr 2022 sank die Handynutzung während der Kontrollen um 70 Prozent.",
+        "Das System funktioniert so: Wenn eine Monocam ein Handy in der Hand oder am Ohr erkennt, meldet sie einen möglichen Treffer. Eine Software gleicht das Bild dann mit etwa 20.000 Fotos ab, die typische Handybewegungen zeigen. Polizeibeamte bewerten die Aufnahmen anschließend und entscheiden, ob ein Verstoß vorliegt. Bei einem Verstoß droht in der Regel ein Bußgeld von 100 Euro und ein Punkt in Flensburg."
+      ]
+    },
+    {
+      "heading": "Der Kampf zwischen Sicherheit und Datenschutz",
+      "paragraphs": [
+        "Die geplante bundesweite Ausweitung dieser Technik führt jedoch zu einer großen gesellschaftlichen Debatte. Experten sehen im Einsatz der Monocams einen Eingriff in das Grundrecht auf informationelle Selbstbestimmung. Datenschutzbeauftragte fordern daher sehr klare gesetzliche Regeln.",
+        "Ein zentraler Punkt ist die Verhältnismäßigkeit: Wie weit darf der Staat schauen? Die Technologie filmt zunächst alle vorbeifahrenden Fahrzeuge. Kritiker fragen, ob diese anlasslose Vollüberwachung gerechtfertigt ist. Entscheidend wird dabei sein, wie lange Aufnahmen gespeichert werden und was mit den Daten unbeteiligter Autofahrer geschieht.",
+        "Die Debatte dreht sich also um eine Abwägung: Auf der einen Seite steht die staatliche Pflicht, die Verkehrssicherheit zu gewährleisten und die Zahl der Verkehrstoten bis 2050 auf Null zu senken. Auf der anderen Seite steht das Recht der Bürger auf Privatsphäre. Für eine dauerhafte Anwendung der Monocams muss daher eine einheitliche Rechtsgrundlage im Straßenverkehrsgesetz geschaffen werden, wofür ein Gesetzesentwurf Anfang 2027 geplant ist."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema betrifft jeden, der Auto fährt oder regelmäßig unterwegs ist. Es zeigt, wie moderne Technik staatliche Eingriffe in unser Privatleben ermöglicht und welche Rechte wir dabei haben.",
+  "glossary": [
+    {
+      "term": "Monocam",
+      "definition": "Eine hochauflösende Überwachungskamera, die speziell für den Einsatz im Straßenverkehr entwickelt wurde, um bestimmte Verhaltensweisen festzuhalten."
+    },
+    {
+      "term": "Informationelle Selbstbestimmung",
+      "definition": "Das Grundrecht, selbst über die Preisgabe und Verwendung der eigenen persönlichen Daten zu bestimmen."
+    },
+    {
+      "term": "Verhältnismäßigkeit",
+      "definition": "Das Prinzip, dass staatliche Maßnahmen angemessen sein müssen und nicht über das notwendige Maß hinausgehen dürfen."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Bundesland hat bisher die „Handy-Blitzer“-Technik regulär eingesetzt?",
+    "options": [
+      "Nordrhein-Westfalen",
+      "Rheinland-Pfalz",
+      "Bayern"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut dem Artikel setzt Rheinland-Pfalz als erstes Bundesland die Monocam regulär ein."
+  },
+  "discussion": [
+    "Wie balancierst du in deinem Alltag das Bedürfnis nach Sicherheit (z.B. auf der Straße) mit dem Wunsch nach Privatsphäre?",
+    "Welche Regeln müsste ein Gesetz unbedingt enthalten, damit eine Überwachung wie die Handy-Blitzer als gerechtfertigt empfunden werden kann?"
+  ],
+  "publishedAt": "2026-11-13T10:34:35.902Z",
+  "sources": [
+    {
+      "title": "Handys im Straßenverkehr: Wie weit darf Überwachung gehen?",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/handy-blitzer-kontrolle-ueberwachung-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

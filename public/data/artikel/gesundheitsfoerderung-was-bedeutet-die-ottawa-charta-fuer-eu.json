@@ -1,0 +1,81 @@
+{
+  "id": "gesundheitsfoerderung-was-bedeutet-die-ottawa-charta-fuer-eu",
+  "category": "politik",
+  "title": "Gesundheitsförderung: Was bedeutet die Ottawa-Charta für Europa?",
+  "teaser": "Die Ottawa-Charta ist ein wichtiger Grundstein für die Gesundheitsförderung. Wir erklären, was dahintersteckt und warum das Thema heute noch relevant ist.",
+  "tags": [
+    "Gesundheit",
+    "Prävention",
+    "Gesundheitspolitik",
+    "Gesellschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Ottawa-Charta ist ein internationaler Rahmen, der betont, dass Gesundheit mehr ist als nur die Abwesenheit von Krankheit.",
+    "Sie fordert Maßnahmen, die soziale und politische Bedingungen verbessern sollen, um die Gesundheit der Bevölkerung zu stärken.",
+    "Aktuelle Diskussionen in Europa beleuchten, wie diese Prinzipien in die konkrete Gesundheitspolitik umgesetzt werden können."
+  ],
+  "sections": [
+    {
+      "heading": "Gesundheit ist mehr als nur kein Kranksein",
+      "paragraphs": [
+        "Wenn man von Gesundheit spricht, denkt man oft zuerst an Ärzte und Krankheiten. Aber die Gesundheitsförderung sieht das anders. Sie geht davon aus, dass Gesundheit ein viel umfassenderes Konzept ist. Die Ottawa-Charta, ein wichtiger internationaler Rahmen, hat diesen Ansatz geprägt.",
+        "Die Charta besagt, dass Gesundheit nicht nur die Abwesenheit von Krankheit oder körperlicher Beeinträchtigung ist. Vielmehr ist sie ein Zustand des vollständigen körperlichen, geistigen und sozialen Wohlbefindens. Das bedeutet, dass alle Lebensbereiche – von unserer Ernährung bis zu unseren sozialen Beziehungen – unsere Gesundheit beeinflussen."
+      ]
+    },
+    {
+      "heading": "Die Säulen der Gesundheitsförderung",
+      "paragraphs": [
+        "Um dieses Wohlbefinden zu erreichen, braucht es mehr als nur medizinische Behandlungen. Die Charta fordert gezielte Maßnahmen, die die Rahmenbedingungen unserer Gesellschaft verbessern sollen. Dazu gehören beispielsweise die Stärkung der Gemeinschaft, die Schaffung gesunder Lebensumfelder und die Förderung gesunder Lebensstile.",
+        "Wichtig ist dabei der politische Aspekt. Die Charta betont, dass Gesundheit ein öffentliches Anliegen ist. Das heißt, dass Politik und Gesellschaft aktiv dafür Verantwortung übernehmen müssen, statt dass es nur die Aufgabe des einzelnen Bürgers ist, gesund zu leben. Dies erfordert eine Zusammenarbeit zwischen verschiedenen Sektoren – von Schulen über Arbeitsplätze bis hin zu städtischer Planung."
+      ]
+    },
+    {
+      "heading": "Aktuelle Debatten in Europa",
+      "paragraphs": [
+        "Aktuelle Diskussionen in europäischen Fachkreisen beleuchten, wie diese Prinzipien der Ottawa-Charta in die konkrete Gesundheitspolitik übersetzt werden können. Es geht darum, wie man die Theorie in praktische, wirksame Politik umsetzt. Die Herausforderung besteht darin, dass Gesundheitsprobleme oft sehr vielschichtig sind und viele Akteure betreffen.",
+        "Die Debatte dreht sich darum, welche politischen Instrumente am effektivsten sind. Sollten finanzielle Anreize gesetzt werden? Oder müssen Gesetze geändert werden, um beispielsweise gesündere Ernährung in Kantinen zu gewährleisten? Die Diskussion zeigt, dass der Weg zur Verbesserung der öffentlichen Gesundheit ein fortlaufender Prozess ist, der ständige Anpassungen erfordert."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist für dich relevant, weil es dir zeigt, dass deine Gesundheit nicht nur von deiner Ernährung abhängt, sondern auch von deiner Umgebung und den Entscheidungen der Politik. Du lernst, wie du als Bürger Einfluss auf die Gestaltung deines Lebensumfelds nehmen kannst.",
+  "glossary": [
+    {
+      "term": "Gesundheitsförderung",
+      "definition": "Maßnahmen, die darauf abzielen, die Gesundheit von Menschen zu verbessern und Krankheiten vorbeugen, anstatt nur sie zu behandeln."
+    },
+    {
+      "term": "Ottawa-Charta",
+      "definition": "Ein internationales Dokument, das die grundlegenden Prinzipien der Gesundheitsförderung festlegt und Gesundheit als ein ganzheitliches Konzept versteht."
+    },
+    {
+      "term": "Gesundheitszustand",
+      "definition": "Ein Zustand des vollständigen körperlichen, geistigen und sozialen Wohlbefindens, der über die bloße Abwesenheit von Krankheit hinausgeht."
+    }
+  ],
+  "quiz": {
+    "question": "Was besagt die Ottawa-Charta über den Zustand der Gesundheit?",
+    "options": [
+      "Sie ist ein Zustand des vollständigen körperlichen, geistigen und sozialen Wohlbefindens.",
+      "Sie ist nur die Abwesenheit von körperlichen Krankheiten.",
+      "Sie hängt ausschließlich von der Qualität der medizinischen Versorgung ab."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Charta definiert Gesundheit als einen Zustand des vollständigen körperlichen, geistigen und sozialen Wohlbefindens."
+  },
+  "discussion": [
+    "Inwieweit sollte die Politik für die Gesundheit der Bürger verantwortlich sein, und wo hört diese Verantwortung auf?",
+    "Welche gesellschaftlichen Faktoren (z.B. Wohnsituation, Bildung) beeinflussen deiner Meinung nach die Gesundheit am stärksten?"
+  ],
+  "publishedAt": "2026-11-13T09:35:48.444Z",
+  "sources": [
+    {
+      "title": "Livestream - Revisiting the Ottawa Charter: European Perspectives on Health Promotion and Policy",
+      "url": "https://www.aerzteblatt.de/news/livestream-revisiting-the-ottawa-charter-european-perspectives-on-health-promotion-and-policy-9ec8e234-0e5d-424c-82a0-7512be850362",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
