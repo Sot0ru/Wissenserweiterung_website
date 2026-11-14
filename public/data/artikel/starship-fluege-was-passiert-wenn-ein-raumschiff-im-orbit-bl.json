@@ -1,0 +1,86 @@
+{
+  "id": "starship-fluege-was-passiert-wenn-ein-raumschiff-im-orbit-bl",
+  "category": "astronomie",
+  "title": "Starship-Flüge: Was passiert, wenn ein Raumschiff im Orbit bleibt?",
+  "teaser": "Die Entwicklung von Raumfahrzeugen wie Starship ist rasant. Was passiert, wenn ein Teil der Mission unerwartet im Orbit verbleibt?",
+  "tags": [
+    "Raumfahrt",
+    "Satelliten",
+    "Technik",
+    "Orbit"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Bei Testflügen von Starship können unerwartete Situationen auftreten, wie die Umleitung eines Raumschiffs.",
+    "Wenn ein Teil des Schiffes im Orbit verbleibt, wie bei einem der genannten Fälle, kann es weiterhin Satelliten beeinflussen.",
+    "Solche Ereignisse sind Teil des Testprozesses und erfordern präzise Planungen für spätere Schritte."
+  ],
+  "sections": [
+    {
+      "heading": "Wenn die Mission Planänderungen braucht",
+      "paragraphs": [
+        "Die Entwicklung von Raumfahrzeugen ist ein Prozess voller Tests und Anpassungen. Bei den Flugversuchen mit Starship können unerwartete Szenarien eintreten. Ein Beispiel dafür ist die Umleitung eines Raumschiffs, die durch den Startturm ausgelöst worden sein könnte.",
+        "Solche Ereignisse zwingen die Planer zu schnellen Entscheidungen. Wenn ein Teil der Mission abweicht, muss das Team alternative Routen und Abläufe berechnen. Das Ziel ist immer, die Sicherheit zu gewährleisten und die Mission so weit wie möglich fortzusetzen."
+      ]
+    },
+    {
+      "heading": "Im Orbit verbleiben: Was bedeutet das für Satelliten?",
+      "paragraphs": [
+        "Ein spezifisches Szenario zeigt, dass ein Raumschiff, das im Orbit bleibt, weiterhin Einfluss auf Satelliten haben kann. Wenn ein Schiff wie Ship 42 im Orbit verbleibt, kann es die Satelliten von Starlink beeinflussen, die dort stationiert sind.",
+        "Die Planungen beinhalten dann präzise Manöver. Es wird ein „Deorbitburn“ geplant, also einen Schub, der das Schiff kontrolliert aus der Umlaufbahn entfernt. Dieser Vorgang muss genau getimed werden, um eine sichere Landung zu ermöglichen, sei es auf dem Startturm oder in einem vorgesehenen Wassergebiet."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Fortschritte in der Raumfahrt sind entscheidend für die Zukunft der Kommunikation und Forschung. Du lernst hier, wie komplexe technische Systeme unter realen Bedingungen funktionieren und wie Experten auf unerwartete Probleme reagieren.",
+  "glossary": [
+    {
+      "term": "Orbit",
+      "definition": "Die festgelegte Bahn, die ein Raumfahrzeug oder Satellit um einen Planeten oder Stern herum fliegt."
+    },
+    {
+      "term": "Deorbitburn",
+      "definition": "Ein gezielter Schub, der absichtlich die Umlaufbahn eines Raumfahrzeugs verändert, um es zur Erde zurückzubringen."
+    },
+    {
+      "term": "Starlink",
+      "definition": "Ein globales Netzwerk von Satelliten, das Internetzugang über Satelliten bereitstellt."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist der Zweck des „Deorbitburn“ bei einem Raumschiff im Orbit?",
+    "options": [
+      "Die Kommunikation mit dem Startturm verbessern.",
+      "Die Geschwindigkeit des Raumschiffs erhöhen, um höhere Umlaufbahnen zu erreichen.",
+      "Das Raumschiff kontrolliert aus der Umlaufbahn entfernen, um es zur Erde zurückzubringen."
+    ],
+    "answerIndex": 2,
+    "explanation": "Der Deorbitburn ist ein gezielter Schub, der die Umlaufbahn verändert, um eine Rückkehr zur Erde zu ermöglichen."
+  },
+  "discussion": [
+    "Welche ethischen Überlegungen müssen bei der Verbleibsbewertung von Raumschrott im Orbit getroffen werden?",
+    "Wie beeinflusst die Notwendigkeit komplexer Notfallpläne die Geschwindigkeit und das Tempo der technologischen Entwicklung in der Raumfahrt?"
+  ],
+  "publishedAt": "2026-11-14T09:22:11.707Z",
+  "sources": [
+    {
+      "title": "SA 14.11.2026 – Starship Flug 15: Alle Starlink Satelliten ausgesetzt",
+      "url": "https://www.raumfahrer.net/sa-14-11-2026-starship-flug-15-alle-starlink-satelliten-ausgesetzt/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/starship-fluege-was-passiert-wenn-ein-raumschiff-im-orbit-bl.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Künstlerische Darstellung von Starship und Orion während eines Rendezvous und Dockings im Orbit.",
+    "credit": {
+      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS Test Article for NASA’s Artemis III.jpg",
+      "author": "NASA / SpaceX",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_Concepts_Depict_SpaceX%E2%80%99s_Starship_HLS_Test_Article_for_NASA%E2%80%99s_Artemis_III.jpg"
+    }
+  }
+}

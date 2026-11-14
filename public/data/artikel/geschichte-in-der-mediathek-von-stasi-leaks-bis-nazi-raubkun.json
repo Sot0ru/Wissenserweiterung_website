@@ -1,0 +1,83 @@
+{
+  "id": "geschichte-in-der-mediathek-von-stasi-leaks-bis-nazi-raubkun",
+  "category": "geschichte",
+  "title": "Geschichte in der Mediathek: Von Stasi-Leaks bis Nazi-Raubkunst",
+  "teaser": "Die ARD Mediathek bietet eine riesige Auswahl an historischen Themen. Wir zeigen dir, welche spannenden Geschichten du dort finden kannst.",
+  "tags": [
+    "Nachkriegszeit",
+    "Diktatur",
+    "Kulturgeschichte",
+    "Verbrechen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die ARD Mediathek bietet zahlreiche Dokumentationen zu verschiedenen historischen Themen, von der Zeit der Stasi bis hin zu Verbrechen der Vergangenheit.",
+    "Du findest dort Einblicke in kontroverse Themen wie Nazi-Raubkunst oder die Geschichte von Diktatoren wie Stalin.",
+    "Die Auswahl reicht von politischen Ereignissen über kulturelle Phänomene bis hin zu mittelalterlichen Rätseln."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Blick in die historische Mediathek",
+      "paragraphs": [
+        "Die ARD Mediathek ist eine Fundgrube für alle, die sich für Geschichte interessieren. Sie bietet eine breite Palette an Dokumentationen, die verschiedene Epochen und gesellschaftliche Entwicklungen beleuchten. Ob du dich für die jüngere deutsche Geschichte oder für ältere Perioden interessierst – hier findest du passende Inhalte.",
+        "Themen reichen von politischen Aufbrüchen bis hin zu kulturellen Phänomenen. Beispiele zeigen, dass die Mediathek tief in kontroverse und wichtige historische Ereignisse eintaucht."
+      ]
+    },
+    {
+      "heading": "Von Geheimdiensten bis zu dunklen Verbrechen",
+      "paragraphs": [
+        "Einblicke in die DDR-Geschichte findest du zum Beispiel in Dokumentationen über den „großen Stasi-Leak“. Diese behandeln die komplexen Fragen, ob Personen in diesem System Helden oder Verräter waren.",
+        "Auch die Geschichte der Verbrechen wird beleuchtet. Es gibt Berichte über „Das Plünderer“ und das Geschäft mit der Nazi-Raubkunst. Diese Themen zeigen, wie materieller Besitz im Kontext historischer Gewalt eine Rolle spielte.",
+        "Darüber hinaus gibt es Einblicke in internationale Machtstrukturen, wie die Darstellung von Stalin, dem Leben und Sterben eines Diktators. Auch historische Kriminalfälle wie die „Oetker-Entführung“ werden untersucht."
+      ]
+    },
+    {
+      "heading": "Mittelalter und gesellschaftliche Debatten",
+      "paragraphs": [
+        "Die Mediathek bietet auch Einblicke in frühere Zeiten. Mit Formaten wie der „Burgenchallenge“ werden mittelalterliche Geschichten und Ereignisse beleuchtet, wobei oft die Unterscheidung zwischen historischer Tatsache und Fiktion getroffen wird.",
+        "Außerdem gibt es gesellschaftliche Reflexionen. Dokumentationen wie „Waren die 80er besser?“ regen zum Nachdenken darüber an, wie sich die Erinnerung an bestimmte Jahrzehnte bildet und welche Sehnsüchte damit verbunden sind.",
+        "Neben der Politik und Kriminalität gibt es auch Einblicke in Technik und Wirtschaft, etwa in Berichten über den Ölboom im Norden oder die Entwicklung von Eliteeinheiten wie den „Geheimen Kriegern KSK“ der Bundeswehr."
+      ]
+    }
+  ],
+  "whyItMatters": "Geschichte zu verstehen, hilft dir, die heutige Welt zu dechiffrieren. Wenn du weißt, wie sich politische Systeme oder soziale Normen entwickelt haben, kannst du aktuelle Debatten besser einordnen.",
+  "glossary": [
+    {
+      "term": "Stasi",
+      "definition": "Die Ministerium für Staatssicherheit der DDR. Es war der Geheimdienst der Deutschen Demokratischen Republik und überwachte die Bevölkerung."
+    },
+    {
+      "term": "Nazi-Raubkunst",
+      "definition": "Kunstwerke, die während der NS-Zeit von den Nazis geraubt und entwunden wurden."
+    },
+    {
+      "term": "Diktator",
+      "definition": "Ein Herrscher, der uneingeschränkte Macht besitzt und keine demokratischen Kontrollen akzeptiert."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Thema wird in der Mediathek im Zusammenhang mit der DDR-Geschichte behandelt?",
+    "options": [
+      "Der Ölboom in den Norden",
+      "Der große Stasi-Leak",
+      "Die Oetker-Entführung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Der große Stasi-Leak ist explizit als Thema in den genannten Inhalten aufgeführt."
+  },
+  "discussion": [
+    "Wie beeinflussen historische Darstellungen in Medien – sei es in Dokumentationen oder Filmen – das öffentliche Verständnis von bestimmten Epochen?",
+    "Welche Verantwortung haben Medien, kontroverse Themen wie Nazi-Raubkunst oder die Rolle von Geheimdiensten sachlich und ausgewogen zu behandeln?"
+  ],
+  "publishedAt": "2026-11-14T09:52:42.706Z",
+  "sources": [
+    {
+      "title": "Geschichte in der ARD Mediathek",
+      "url": "https://www.ardmediathek.de/ard/geschichte/",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

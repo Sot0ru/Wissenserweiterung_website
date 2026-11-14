@@ -1,0 +1,93 @@
+{
+  "id": "gesundheitsreform-was-bedeutet-honorarkuerzung-fuer-deinen-a",
+  "category": "medizin",
+  "title": "Gesundheitsreform: Was bedeutet Honorarkürzung für deinen Arzttermin?",
+  "teaser": "Wartezeiten werden länger? Wenn Kürzungen im Gesundheitswesen greifen, droht es, dass du für Arzttermine aus eigener Tasche zahlen musst. Wir erklären, was das für dich bedeutet.",
+  "tags": [
+    "Gesundheit",
+    "Krankenversicherung",
+    "Arztbesuch",
+    "Gesundheitswesen"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Aufgrund von Honorarkürzungen im Gesundheitswesen müssen gesetzlich Versicherte möglicherweise Behandlungen selbst bezahlen, um lange Wartezeiten zu vermeiden.",
+    "Ärzte warnen davor, dass Budgets erschöpft sind, was zu längeren Wartezeiten in Wunschpraxen führen kann.",
+    "Ein möglicher Kompromiss wäre eine Vereinbarung mit den Krankenkassen für dringend notwendige Termine, aber die Bezahlung muss klar definiert sein."
+  ],
+  "sections": [
+    {
+      "heading": "Der Druck im Gesundheitssystem",
+      "paragraphs": [
+        "Das deutsche Gesundheitswesen steht unter finanziellem Druck. Kürzlich beschlossene Honorarkürzungen für Ärzte belasten die Praxen stark. Der Chef der Kassenärztlichen Bundesvereinigung (KBV) sieht sich gezwungen, Warnungen auszusprechen: Gesetzlich Versicherte könnten künftig für Arzttermine aus eigener Tasche zahlen müssen, wenn sie kurze Wartezeiten wünschen.",
+        "Die Praxen argumentieren, dass sie angesichts der Kürzungen nicht mehr wie bisher arbeiten können. Wenn Fachgruppen beispielsweise 25 Prozent ihres Umsatzes verlieren, sei dies ein existenzieller Einschnitt. Die Praxen haben laut KBV-Chef keine „unendliche Leistungsverpflichtung“."
+      ]
+    },
+    {
+      "heading": "Selbstzahler oder lange Wartezeiten?",
+      "paragraphs": [
+        "Wenn gesetzlich Versicherte die Option wählen, in der sie nicht über die reguläre Krankenversicherung abgerechnet werden, behandeln sie sich wie Privatpatienten. Das bedeutet: Sie müssen die Kosten direkt selbst bezahlen. Dies sei die Möglichkeit, die längeren Wartezeiten zu umgehen, die durch die Budgetgrenzen entstehen.",
+        "Die Kürzungen treffen besonders Bereiche wie HNO, Orthopädie, Kardiologie, Radiologie und Rheumatologie. Hier wird voraussichtlich weniger Termine geben, wenn das Budget der Praxen erschöpft ist. Patienten müssten sich dann möglicherweise mit Wartezeiten von mehreren Monaten arrangieren."
+      ]
+    },
+    {
+      "heading": "Ein Weg zur Lösung?",
+      "paragraphs": [
+        "Der KBV-Chef zeigte sich offen für Kompromisse. Ein möglicher Ansatz wäre, mit den Krankenkassen ein festes Kontingent für medizinisch wirklich dringende Termine zu vereinbaren. Allerdings mahnt er hier eine wichtige Bedingung an: „Wer bestellt, bezahlt.“",
+        "Er betont, dass bei garantierten Terminen die Krankenkassen im Gegenzug die Vergütung garantieren müssen – unabhängig davon, ob der Patient tatsächlich erscheint. Ohne diese Sicherheit könnten Praxen nicht dazu gezwungen werden, Termine frei zu halten."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema betrifft deine Gesundheit und deinen Zugang zu medizinischer Versorgung. Es zeigt, wie politische Entscheidungen im Gesundheitswesen direkt deinen Alltag beeinflussen können. Es ist wichtig zu verstehen, welche Rechte du als Patient hast und welche Optionen dir offenstehen.",
+  "glossary": [
+    {
+      "term": "Honorarkürzung",
+      "definition": "Eine Reduzierung der Vergütung, die Ärzte für ihre Leistungen erhalten."
+    },
+    {
+      "term": "Gesetzlich Versicherte",
+      "definition": "Personen, die eine Krankenversicherung nach dem gesetzlichen System nutzen und meist einen festen Beitrag zahlen."
+    },
+    {
+      "term": "Selbstzahler",
+      "definition": "Ein Patient, der die Kosten für eine Behandlung direkt aus eigenem Geld übernimmt, ohne dass die Krankenkasse zahlt."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut dem Kassenärzte-Chef eine mögliche Bedingung für die Garantie dringender Termine?",
+    "options": [
+      "Die Krankenkassen müssen alle Termine kostenlos anbieten.",
+      "Wer bestellt, muss auch bezahlen.",
+      "Die Praxen dürfen nur noch Termine in der Privatsprechstunde anbieten."
+    ],
+    "answerIndex": 1,
+    "explanation": "Der KBV-Chef mahnt, dass bei garantierten Terminen die Krankenkassen die Vergütung garantieren müssen, was impliziert: Wer bestellt, bezahlt."
+  },
+  "discussion": [
+    "Wie sollte die Finanzierung des Gesundheitswesens gestaltet sein, um sowohl die Qualität der Versorgung zu sichern als auch die Kosten für alle Bürger tragbar zu halten?",
+    "Welche Rolle sollte die Privatsprechstunde spielen, um Wartezeiten für gesetzlich Versicherte zu verkürzen, ohne dass dies zu einer Zwei-Klassen-Medizin führt?"
+  ],
+  "publishedAt": "2026-11-14T09:43:25.352Z",
+  "sources": [
+    {
+      "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+      "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/gesundheitsreform-was-bedeutet-honorarkuerzung-fuer-deinen-a.jpg",
+    "width": 960,
+    "height": 660,
+    "alt": "Allgemeine Darstellung einer Arztkonsultation, um den Besuch im Gesundheitswesen zu illustrieren.",
+    "credit": {
+      "title": "Doctor consultation.jpg",
+      "author": "ILO Asia-Pacific",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doctor_consultation.jpg"
+    }
+  }
+}
