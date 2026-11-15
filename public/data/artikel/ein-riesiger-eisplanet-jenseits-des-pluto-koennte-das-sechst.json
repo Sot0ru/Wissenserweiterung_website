@@ -1,0 +1,93 @@
+{
+  "id": "ein-riesiger-eisplanet-jenseits-des-pluto-koennte-das-sechst",
+  "category": "astronomie",
+  "title": "Ein riesiger Eisplanet jenseits des Pluto könnte das sechste Zwergplanet sein",
+  "teaser": "Forscher entdeckten einen gigantischen Eiskörper weit entfernt von Pluto. Könnte dies ein neues Mitglied der Zwergplaneten-Familie sein?",
+  "tags": [
+    "Weltall",
+    "Planeten",
+    "Solarsystem",
+    "Himmelskörper"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Ein neuer, riesiger Eiskörper, vorläufig als 2026 ED138 benannt, wurde jenseits des Neptun entdeckt.",
+    "Er ist so groß, dass er potenziell zum sechsten offiziell anerkannten Zwergplaneten unseres Sonnensystems werden könnte.",
+    "Die Entdeckung nutzt die Fähigkeiten des Vera C. Rubin Observatoriums, das riesige Datenmengen im südlichen Himmel analysiert."
+  ],
+  "sections": [
+    {
+      "heading": "Ein gigantisches Geheimnis im äußeren Sonnensystem",
+      "paragraphs": [
+        "Astronomische Beobachtungen haben einen potenziell riesigen Eiskörper entdeckt, der sich weit außerhalb der Umlaufbahn des Pluto befindet. Dieser Körper, der vorläufig den Namen 2026 ED138 trägt, könnte das sechste offiziell anerkannte Zwergplanet unseres Sonnensystems werden. Die Entdeckung deutet darauf hin, dass im äußeren Sonnensystem noch weitere unbekannte Welten lauern könnten.",
+        "Die Identifizierung erfolgte durch eine Analyse von Daten des Simonyi Survey Telescope am Vera C. Rubin Observatorium. Erste Schätzungen legen nahe, dass 2026 ED138 zu den größten Kandidaten für Zwergplaneten jenseits des Neptun gehört. Wäre seine Klassifizierung bestätigt, würde er sich zu den fünf bereits anerkannten Zwergplaneten zählen: Pluto, Ceres, Eris, Haumea und Makemake."
+      ]
+    },
+    {
+      "heading": "Wie wurde der unsichtbare Riese gefunden?",
+      "paragraphs": [
+        "Die Entdeckung ist ein Ergebnis moderner Datenanalyse. Ein Astronom nutzte spezielle Software, um Milliarden von Teleskop-Erfassungen zu vergleichen. Das Programm sucht nach Lichtpunkten, die in mehreren Beobachtungen auftauchen und sich auf eine Weise bewegen, die auf einen einzigen Körper hindeutet.",
+        "Als die Software 2026 ED138 identifizierte, erkannte der Forscher sofort, dass seine scheinbare Helligkeit und seine enorme Entfernung auf ein ungewöhnlich großes Objekt hindeuten. Um die Beobachtung zu bestätigen, wurden zusätzliche Daten gesichtet. Die Forscher konnten mehr als ein Jahrzehnt der Bewegungen dieses fernen Körpers rekonstruieren, indem sie Beobachtungen von 2016 bis zu den jüngsten Daten nutzten. Dies stärkte die Evidenz für die Echtheit der Entdeckung."
+      ]
+    },
+    {
+      "heading": "Die Hürde zur Zwergplaneten-Klassifizierung",
+      "paragraphs": [
+        "2026 ED138 befindet sich etwa 46 Astronomische Einheiten (AE) von der Sonne entfernt. Eine AE entspricht der durchschnittlichen Entfernung zwischen Erde und Sonne. Da er jenseits des Neptun liegt, wird er als Trans-Neptunischer Objekt (TNO) eingestuft. Diese weit entfernten Körper geben Wissenschaftlern Hinweise auf die frühe Entwicklung unseres Sonnensystems.",
+        "Allerdings reicht die Zugehörigkeit zur Gruppe der TNOs nicht aus, um ihn als Zwergplanet zu bezeichnen. Ein entscheidendes Kriterium ist, dass der Körper genug Gravitation besitzen muss, um sich zu einem annähernd runden Körper zu formen. Basierend auf Messungen der Helligkeit und Entfernung schätzen die Astronomen, dass ED138 einen Durchmesser zwischen 600 und 1.500 Kilometern haben könnte. Solche eisigen Objekte dieser Größe sollten theoretisch genug Gravitation haben, um rund zu werden. Dennoch benötigen die Wissenschaftler weitere Messungen, um dies abschließend festzustellen."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Entdeckung zeigt, wie wichtig moderne, großflächige Teleskope für die Erforschung des Weltalls sind. Wenn wir mehr solche Objekte finden, lernen wir mehr über die Entstehung und die Entwicklung unseres gesamten Sonnensystems.",
+  "glossary": [
+    {
+      "term": "Zwergplanet",
+      "definition": "Ein Himmelskörper, der zwar genug Masse hat, um eine nahezu runde Form anzunehmen, aber nicht die Gravitation besitzt, um seine Umlaufbahn zu „säubern“ (also alle anderen Objekte in seiner Bahn zu dominieren)."
+    },
+    {
+      "term": "Astronomische Einheit (AE)",
+      "definition": "Die durchschnittliche Entfernung zwischen der Erde und der Sonne, dient als Standardmaßstab im Sonnensystem."
+    },
+    {
+      "term": "Trans-Neptunisches Objekt (TNO)",
+      "definition": "Ein Himmelskörper, der die Umlaufbahn des Neptun überschreitet und somit im äußeren Sonnensystem liegt."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Eigenschaft muss ein Körper erfüllen, um als Zwergplanet anerkannt zu werden, abgesehen von seiner Größe?",
+    "options": [
+      "Er muss sich aus Gestein zusammensetzen.",
+      "Er muss näher an der Sonne als Pluto liegen.",
+      "Seine Gravitation muss stark genug sein, um eine annähernd runde Form zu bilden."
+    ],
+    "answerIndex": 2,
+    "explanation": "Ein entscheidendes Kriterium ist, dass der Körper genug Gravitation besitzen muss, um sich zu einem annähernd runden Körper zu formen."
+  },
+  "discussion": [
+    "Wie verändert die Fähigkeit großer Teleskope wie das Rubin Observatorium die bisherige Vorstellung davon, wie „voll“ unser Sonnensystem ist?",
+    "Welche wissenschaftlichen Erkenntnisse könnten wir aus der Untersuchung der Zusammensetzung und Bahn dieser fernen, eisigen Körper gewinnen?"
+  ],
+  "publishedAt": "2026-11-15T09:40:33.052Z",
+  "sources": [
+    {
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/ein-riesiger-eisplanet-jenseits-des-pluto-koennte-das-sechst.jpg",
+    "width": 960,
+    "height": 480,
+    "alt": "Der Mond Xiangliu umkreist den Zwergplaneten 225088 Gonggong.",
+    "credit": {
+      "title": "Xiangliu orbiting 225088 Gonggong (2009-2010).jpg",
+      "author": "NASA, ESA, C. Kiss (Konkoly Observatory), and J. Stansberry (STScI)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xiangliu_orbiting_225088_Gonggong_(2009-2010).jpg"
+    }
+  }
+}

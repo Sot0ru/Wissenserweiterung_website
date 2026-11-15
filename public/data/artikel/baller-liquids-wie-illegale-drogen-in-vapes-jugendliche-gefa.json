@@ -1,0 +1,88 @@
+{
+  "id": "baller-liquids-wie-illegale-drogen-in-vapes-jugendliche-gefa",
+  "category": "medizin",
+  "title": "Baller-Liquids: Wie illegale Drogen in Vapes Jugendliche gefährden",
+  "teaser": "Diese unauffälligen E-Zigaretten-Flüssigkeiten enthalten starke, künstliche Drogen. Was passiert, wenn junge Menschen sie konsumieren?",
+  "tags": [
+    "Drogen",
+    "Gesundheit",
+    "Jugend",
+    "Substanzmissbrauch",
+    "Vaping"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Baller-Liquids sind E-Zigaretten-Flüssigkeiten, die illegal mit künstlich hergestellten Cannabinoiden angereichert sind und gezielt an Jugendliche verkauft werden.",
+    "Der Konsum dieser Stoffe kann lebensbedrohliche Folgen wie Krampfanfälle, Kreislaufkollaps und schwere Vergiftungen haben.",
+    "Experten warnen, dass das Risiko für Psychosen bei diesen synthetischen Drogen höher sein kann als bei pflanzlichem Cannabis."
+  ],
+  "sections": [
+    {
+      "heading": "Die Gefahr in der Dampfwolke",
+      "paragraphs": [
+        "Baller-Liquids sind gefährliche, illegale Drogen, die in Vapes (E-Zigaretten) geraucht werden. Sie fallen nicht auf und sind leicht erhältlich, was sie besonders attraktiv für Jugendliche macht. Diese Flüssigkeiten werden mit künstlich hergestellten Cannabinoiden – sogenannten Rauschgiften aus dem Labor – angereichert. Im Gegensatz zu pflanzlichem Cannabis können diese synthetischen Stoffe eine Wirkung entfalten, die laut Experten um ein Hundertfaches stärker sein kann.",
+        "Die Wirkung ist nicht die eines normalen Rausches. Stattdessen drohen bei Konsumenten akute Gesundheitsrisiken. Dazu gehören Herzrasen, Krampfanfälle, Kreislaufkollaps und schwere Vergiftungen. Das Bundesinstitut für öffentliche Gesundheit hat bereits vor diesen illegalen Liquids gewarnt."
+      ]
+    },
+    {
+      "heading": "Von Social Media bis zur Notaufnahme",
+      "paragraphs": [
+        "Die Verbreitung dieser Liquids nutzt moderne Kommunikationswege. Anbieter suchen ihre Kundschaft gezielt über soziale Netzwerke wie TikTok und Instagram. Dort werden die Liquids oft mit süßen Geschmacksstoffen und bunten Farben attraktiv präsentiert, was für junge Menschen besonders verlockend ist.",
+        "Die Gefahr ist zudem unvorhersehbar. Die Konzentration der Drogen in den Liquids kann stark schwanken, was bedeutet, dass jeder Zug ein hohes Risiko birgt. Berichte aus der Notaufnahme zeigen, dass junge Menschen nach dem Konsum oft Symptome wie Erbrechen, Ohnmacht oder Herzrasen zeigen.",
+        "Langfristige Folgen sind noch nicht vollständig erforscht, aber internationale Übersichtsstudien weisen auf Probleme für das Nerven- und Herz-Kreislauf-System hin. Zudem kann der Konsum bestehende psychische Erkrankungen verstärken oder neue Angsterkrankungen und Zwänge auslösen. Experten betonen, dass das Risiko, eine Psychose zu entwickeln, bei diesen synthetischen Stoffen besonders hoch ist."
+      ]
+    }
+  ],
+  "whyItMatters": "Für dich und deine Altersgruppe ist das Thema relevant, weil Vapes und Social Media leicht zugänglich sind. Du lernst hier, wie scheinbar harmlose Produkte heimlich lebensbedrohliche Drogen enthalten können.",
+  "glossary": [
+    {
+      "term": "Cannabinoid",
+      "definition": "Chemische Verbindungen, die dem Wirkstoff von Cannabis ähneln. Bei Baller-Liquids handelt es sich um künstlich hergestellte Varianten."
+    },
+    {
+      "term": "Vape",
+      "definition": "Kurzform für Electronic Cigarette. Dabei wird eine Flüssigkeit verdampft, um Dampf zu erzeugen."
+    },
+    {
+      "term": "Psychose",
+      "definition": "Ein Zustand, in dem die Wahrnehmung und das Denken stark gestört sind, oft verbunden mit Halluzinationen oder Wahnvorstellungen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Drogen werden in den sogenannten Baller-Liquids verwendet?",
+    "options": [
+      "Synthetische Nikotinsalze",
+      "Natürliche pflanzliche Cannabinoide",
+      "Künstlich hergestellte Cannabinoid-Rauschgifte"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut Quelle sind die Liquids mit illegalen, künstlich hergestellten Cannabinoiden angereichert."
+  },
+  "discussion": [
+    "Wie kann die digitale Präsenz von Social Media sowohl zur Verbreitung von Gefahren wie Baller-Liquids beitragen als auch zur Aufklärung über diese Risiken genutzt werden?",
+    "Welche Rolle sollte die Politik bei der Regulierung von Vapes spielen, um die Gefahr durch illegale Zusatzstoffe einzudämmen, ohne die Nutzung gänzlich zu verbieten?"
+  ],
+  "publishedAt": "2026-11-15T09:26:47.006Z",
+  "sources": [
+    {
+      "title": "Illegale Drogen in Vapes - \"Baller-Liquids\" gefährden Jugendliche",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/vapes-baller-liquids-drogen-jugendliche-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/baller-liquids-wie-illegale-drogen-in-vapes-jugendliche-gefa.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": "Nahaufnahme einer E-Liquid-Mischung, die für E-Zigaretten verwendet wird.",
+    "credit": {
+      "title": "Vape liquid.jpg",
+      "author": "Challiyan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vape_liquid.jpg"
+    }
+  }
+}

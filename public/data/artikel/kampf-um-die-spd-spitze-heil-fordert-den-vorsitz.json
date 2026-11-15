@@ -1,0 +1,77 @@
+{
+  "id": "kampf-um-die-spd-spitze-heil-fordert-den-vorsitz",
+  "category": "politik",
+  "title": "Kampf um die SPD-Spitze: Heil fordert den Vorsitz",
+  "teaser": "Der langjährige Arbeitsminister Hubertus Heil tritt offiziell für den SPD-Vorsitz an und stellt den aktuellen Vorsitzenden Lars Klingbeil heraus. Was bedeutet das für die Zukunft der Partei?",
+  "tags": [
+    "SPD",
+    "Parteien",
+    "Innenpolitik",
+    "Wahlen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Hubertus Heil hat seine Bewerbung für den SPD-Vorsitz offiziell eingereicht und fordert damit Lars Klingbeil heraus.",
+    "Mehrere prominente SPD-Politiker, wie Carsten Schneider und Matthias Miersch, sprechen sich aktuell noch für Klingbeil aus.",
+    "Ein zentraler Streitpunkt ist die Forderung nach einer Trennung zwischen dem Parteivorsitz und Regierungsämtern."
+  ],
+  "sections": [
+    {
+      "heading": "Ein neuer Rivale für die SPD-Spitze",
+      "paragraphs": [
+        "Die Sozialdemokratische Partei Deutschlands (SPD) steht vor einem wichtigen Entscheidungsprozess. Ex-Arbeitsminister Hubertus Heil hat seine Kandidatur für den Parteivorsitz offiziell eingereicht. Damit fordert er den bisherigen Vorsitzenden Lars Klingbeil heraus.",
+        "Ob Klingbeil beim Parteitag im Januar noch antritt, ist noch offen. Doch die Kandidatur Heils hat eine Debatte ausgelöst. Namhafte Politiker haben sich bereits für Klingbeil ausgesprochen. Bundesumweltminister Carsten Schneider äußerte sein Vertrauen in Klingbeil und sagte, er wolle „niemanden drängen“.",
+        "Auch SPD-Fraktionschef Matthias Miersch unterstützte Klingbeil und warnte die Partei vor einer zu starken „Sehnsucht, dass eine Person an die Spitze kommt und dann alles anders macht“."
+      ]
+    },
+    {
+      "heading": "Streitpunkte: Macht und Aufgaben trennen",
+      "paragraphs": [
+        "Neben dem Kandidatenwettbewerb gibt es auch grundsätzliche Diskussionen. Ein wichtiger Kritikpunkt richtet sich gegen die Verbindung von Parteivorsitz und Regierungsamt. Sowohl Klingbeil als auch Bärbel Bas hatten neben dem SPD-Vorsitz auch Regierungsämter inne.",
+        "Heil plädiert in seinem Bewerbungsschreiben klar für eine Trennung dieser Funktionen. Er betont, dass ein Parteivorsitz in diesen Zeiten „hohen Einsatz und volle Aufmerksamkeit“ erfordere.",
+        "Klingbeil selbst ist nicht unumstritten. Beim vergangenen Parteitag 2025 wurde er nur mit 64,9 Prozent wiedergewählt. Gleichzeitig gibt es Widerstand gegen seine erneute Kandidatur, darunter auch die Jusos (die Jugendorganisation der SPD).",
+        "Heils Argument ist, dass alles für eine Veränderung spricht. Seine Gegner hingegen argumentieren, er habe in der Vergangenheit bereits viele Chancen gehabt, den Kurs der SPD zu gestalten, und stehe nicht für einen Kurswechsel."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Führung einer großen Partei bestimmt die politische Richtung des Landes. Wenn sich die SPD neu formiert, kann das die politische Agenda in Deutschland stark beeinflussen.",
+  "glossary": [
+    {
+      "term": "Parteivorsitz",
+      "definition": "Die höchste Führungsposition innerhalb einer politischen Partei."
+    },
+    {
+      "term": "SPD",
+      "definition": "Die Sozialdemokratische Partei Deutschlands, eine der größten politischen Parteien in Deutschland."
+    },
+    {
+      "term": "Kandidatur",
+      "definition": "Die formelle Bewerbung für ein Amt oder eine Position."
+    }
+  ],
+  "quiz": {
+    "question": "Wie hoch war das Ergebnis von Lars Klingbeils Wiedergewahl beim vergangenen Parteitag 2025?",
+    "options": [
+      "Nur 30 Prozent",
+      "100 Prozent",
+      "64,9 Prozent"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut dem Artikel wurde Klingbeil beim Parteitag 2025 mit einem Ergebnis von 64,9 Prozent wiedergewählt."
+  },
+  "discussion": [
+    "Welche Rolle sollte die Trennung zwischen Parteivorsitz und Regierungsamt in einer Volkspartei spielen? Ist diese Trennung notwendig oder eher eine organisatorische Umstrukturierung?",
+    "Wie wichtig ist es in einer Partei, dass der Vorsitzende einen klaren neuen Kurs vorgibt, und wann wird eine solche Kursänderung als zu radikal empfunden?"
+  ],
+  "publishedAt": "2026-11-15T09:52:21.900Z",
+  "sources": [
+    {
+      "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

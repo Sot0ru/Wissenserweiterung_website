@@ -1,0 +1,90 @@
+{
+  "id": "wie-beeinflussen-die-jahreszeiten-unsere-entscheidungen-und-",
+  "category": "psychologie",
+  "title": "Wie beeinflussen die Jahreszeiten unsere Entscheidungen und Werte?",
+  "teaser": "Fühlst du dich im Herbst anders als im Hochsommer? Psychologen untersuchen, ob die Jahreszeit unsere Denkweise und unsere Werte wirklich verändert.",
+  "tags": [
+    "Verhalten",
+    "Stimmung",
+    "Kognition",
+    "Umwelt"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Eine Studie mit rund 230.000 US-Teilnehmern zeigte, dass sich bestimmte moralische Werte je nach Jahreszeit ändern.",
+    "Im Frühling und Herbst waren Werte wie Loyalität und Respekt vor Autoritäten wichtiger als im Sommer und Winter.",
+    "Forscher vermuten, dass dieser Wandel mit den Schwankungen der Tageslänge und damit verbundenen Ängsten zusammenhängt."
+  ],
+  "sections": [
+    {
+      "heading": "Deine Werte ändern sich mit dem Wetter?",
+      "paragraphs": [
+        "Hast du dir je gefragt, ob du im Herbst anders handelst als im Hochsommer? Psychologen haben untersucht, ob unsere moralischen Werte saisonal schwanken. Eine kanadische Studie analysierte Selbstauskünfte von etwa 230.000 Menschen aus den USA.",
+        "Die Ergebnisse waren überraschend: Die Art und Weise, wie Menschen bestimmte Werte bewerten, hing davon ab, in welcher Jahreszeit sie befragt wurden. Im Frühling und Herbst wurden Werte wie Loyalität, Respekt vor Autoritäten und moralische Unverdorbenheit häufiger genannt. Diese drei Werte werden als konservativ eingestuft.",
+        "Im Gegensatz dazu fanden die Forscher bei den Werten Gerechtigkeit und Mitgefühl keine saisonalen Unterschiede. Die Wissenschaftler vermuten, dass diese Veränderungen mit unserer Stimmung zusammenhängen. Sie gehen davon aus, dass die Schwankungen der Tageslänge in Frühling und Herbst Ängste auslösen können.",
+        "Diese leichten Veränderungen in der Umwelt könnten dazu führen, dass sich Menschen in diesen Übergangszeiten etwas ängstlicher fühlen. Werte wie Loyalität könnten dann helfen, mit diesen Gefühlen umzugehen."
+      ]
+    },
+    {
+      "heading": "Kleine Schwankungen, große Wirkung",
+      "paragraphs": [
+        "Diese saisonalen Effekte können weitreichende Folgen haben. Moralische Werte beeinflussen Entscheidungen – etwa wie wir Urteile fällen oder wie wir wählen gehen. Wer konservativere Werte vertritt, neigt beispielsweise zu härteren Urteilen gegen Regelverstöße oder zu stärkeren Vorurteilen gegenüber Minderheiten.",
+        "Die Forscher betonen aber, dass Jahreszeiten nur ein Faktor unter vielen sind. Ein einzelner Richter wird nicht plötzlich streng urteilen, nur weil die Tage kürzer werden. Dennoch können winzige Einflüsse, wenn sie sich über Millionen von Menschen summieren, große Auswirkungen haben.",
+        "Auch andere Verhaltensweisen zeigen saisonale Muster. Im Winter neigen viele Menschen dazu, weniger Risiken einzugehen als im Sommer. Eine kanadische Studie zeigte sogar, dass Menschen mit einer Herbst-Winter-Depression in kälteren Jahreszeiten weniger finanzielle Risiken eingehen.",
+        "Darüber hinaus beeinflussen die Jahreszeiten unsere Vorlieben. Spotify-Daten zeigen, dass Menschen im Sommer weltweit fröhlichere Musik hören. Sogar unsere Farbvorlieben ändern sich: Im Herbst werden gelbe und rote Farben beliebter, wenn die Bäume verfärben."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis, wie äußere Faktoren wie die Jahreszeit unsere Denkweise beeinflussen, ist wichtig, weil unsere Entscheidungen – von kleinen Vorlieben bis zu großen gesellschaftlichen Haltungen – nicht immer rein rational sind. Es hilft dir zu sehen, dass deine Stimmung und dein Urteilsvermögen von mehr abhängen als nur von deinem Willen.",
+  "glossary": [
+    {
+      "term": "Moralische Werte",
+      "definition": "Grundlegende Überzeugungen darüber, was richtig und was falsch ist (z. B. Ehrlichkeit, Loyalität)."
+    },
+    {
+      "term": "Konservative Haltung",
+      "definition": "Eine Haltung, die traditionelle Werte und bestehende Strukturen beibehält und Veränderungen eher skeptisch sieht."
+    },
+    {
+      "term": "Saisonale affektive Störung",
+      "definition": "Eine Form von Depression, die regelmäßig mit dem Wechsel der Jahreszeiten auftritt, oft in dunkleren Monate."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Werte wurden in Frühling und Herbst laut der Studie als wichtiger empfunden?",
+    "options": [
+      "Risikofreude und Optimismus",
+      "Loyalität, Respekt vor Autoritäten und moralische Unverdorbenheit",
+      "Gerechtigkeit und Mitgefühl"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Studie zeigte, dass Loyalität, Respekt vor Autoritäten und moralische Unverdorbenheit in Frühling und Herbst wichtiger waren."
+  },
+  "discussion": [
+    "Inwiefern glaubst du, dass unsere Stimmung oder unsere Umgebung (z. B. das Wetter) unsere politischen Präferenzen oder unser Verhalten beeinflussen kann?",
+    "Wie kann man unterscheiden, ob eine Entscheidung eine bewusste Überzeugung ist oder eher eine Reaktion auf äußere Umstände?"
+  ],
+  "publishedAt": "2026-11-15T09:30:16.213Z",
+  "sources": [
+    {
+      "title": "Werte und Vorlieben: Entscheiden wir im Herbst anders als im Winter?",
+      "url": "https://www.spektrum.de/news/entscheiden-wir-im-herbst-anders-als-im-winter/2313085",
+      "publisher": "Spektrum der Wissenschaft"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-beeinflussen-die-jahreszeiten-unsere-entscheidungen-und-.jpg",
+    "width": 960,
+    "height": 691,
+    "alt": "Lampe zur Lichttherapie, die zur Behandlung saisonaler affektiver Störungen verwendet wird.",
+    "credit": {
+      "title": "Bright light lamp.jpg",
+      "author": "User:Mysid",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bright_light_lamp.jpg"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "wismut-wie-uranfoerderung-im-erzgebirge-die-ddr-praegte",
+  "category": "geschichte",
+  "title": "Wismut: Wie Uranförderung im Erzgebirge die DDR prägte",
+  "teaser": "Unter dem Namen Wismut förderte die Sowjetunion im Erzgebirge riesige Mengen Uran. Dieses Geschäft war lukrativ, aber auch extrem gefährlich.",
+  "tags": [
+    "DDR",
+    "Atomkraft",
+    "Bergbau",
+    "Ostdeutschland"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Unter dem Tarnnamen Wismut förderte die Sowjetunion im Erzgebirge tonnenweise Uran für die sowjetische Atomindustrie.",
+    "Die DDR wurde dadurch zu einem der viertgrößten Uranproduzenten der Welt, was enorme wirtschaftliche Bedeutung hatte.",
+    "Die Arbeit dort war jedoch extrem gefährlich, was zu schweren Krankheiten und einem verheerenden Grubenunglück von 1960 führte."
+  ],
+  "sections": [
+    {
+      "heading": "Das Geheimnis des Erzgebirges",
+      "paragraphs": [
+        "Nach dem Zweiten Weltkrieg begann die Sowjetunion, das Uranvorkommen im Erzgebirge zu nutzen. Dieses Projekt lief unter dem Tarnnamen „Wismut“. Die DDR wurde dadurch zu einem der viertgrößten Uranproduzenten der Welt. Die Wismut AG war das wichtigste Bergbauunternehmen für Uran, nicht nur in der DDR, sondern im gesamten Ostblock.",
+        "Die sowjetische Atomindustrie erhielt durch Wismut über 200.000 Tonnen radioaktiven Rohstoffs. Dieses Geschäft war finanziell sehr lukrativ, aber gleichzeitig extrem gefährlich für die Arbeiter."
+      ]
+    },
+    {
+      "heading": "Gefahren und Folgen der Uranförderung",
+      "paragraphs": [
+        "Die Arbeit in den Uranminen war mit erheblichen Risiken verbunden. Die Bergleute waren durch die Exposition gegenüber radioaktiven Stoffen gefährdet, was zu Krankheiten wie Krebs und Quarzlunge führte. Auch die sozialen Spannungen waren groß; beispielsweise ereignete sich am 17. Juni 1953 ein Volksaufstand in der DDR, der im Kontext dieser Zeit betrachtet werden muss.",
+        "Ein besonders verheerendes Ereignis fand am 22. Februar 1960 statt. Dort kam es zu einem schweren Grubenunglück im Zwickauer Steinkohlebergwerk, bei dem 123 Bergleute ums Leben kamen. Die gesundheitlichen Folgen für die Arbeiter, darunter Strahlenschäden, wurden teilweise anerkannt."
+      ]
+    },
+    {
+      "heading": "Das Ende der Ära Wismut",
+      "paragraphs": [
+        "Die Geschichte der Wismut AG endete im Jahr 1991. Bis heute sind die Auswirkungen dieser jahrzehntelangen Uranförderung spürbar. Neben den wirtschaftlichen und gesundheitlichen Folgen gibt es auch kulturelle Erinnerungen. Werner Bräunig, der den Aufruf „Greif zur Feder, Kumpel“ prägte, schrieb den Roman „Rummelplatz“ über Wismut. Obwohl sein Werk in der DDR zunächst in Ungnade fiel, sorgte es 2007 mehr als 30 Jahre nach seinem Tod für großes Aufsehen."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Kapitel der deutschen Nachkriegsgeschichte zeigt, wie Wirtschaft und Wissenschaft (hier die Atomenergie) die politische Landschaft prägten. Es beleuchtet auch, welche Kosten – menschlich und ökologisch – solche Großprojekte verursachen können.",
+  "glossary": [
+    {
+      "term": "Uran",
+      "definition": "Ein radioaktives Element, das als Rohstoff für die Kernenergie genutzt wird."
+    },
+    {
+      "term": "Radioaktiver Rohstoff",
+      "definition": "Material, das spontan Energie freisetzt, da seine Atomkerne instabil sind."
+    },
+    {
+      "term": "Grubenunglück",
+      "definition": "Ein schwerer Unfall, der in einem unterirdischen Bergbaugebiet passiert."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Zahl gibt an, wie viele Tonnen radioaktiven Rohstoffs die Wismut für die sowjetische Atomindustrie lieferte?",
+    "options": [
+      "123 Tonnen",
+      "200.000 Tonnen",
+      "1991 Tonnen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut Quelle wurde mit mehr als 200.000 Tonnen des radioaktiven Rohstoffs versorgt."
+  },
+  "discussion": [
+    "Welche Verantwortung trägt ein Staat, wenn ein industrielles Projekt wie Wismut langfristige gesundheitliche Schäden für seine Bürger verursacht?",
+    "Wie beeinflusst die Erinnerungskultur (wie der Roman „Rummelplatz“) das Verständnis von historischen Industriezweigen?"
+  ],
+  "publishedAt": "2026-11-15T09:57:22.726Z",
+  "sources": [
+    {
+      "title": "Wismut",
+      "url": "https://www.mdr.de/geschichte/ddr/wirtschaft/wismut",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
