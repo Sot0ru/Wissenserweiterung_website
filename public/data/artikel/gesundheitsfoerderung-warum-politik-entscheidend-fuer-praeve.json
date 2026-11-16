@@ -1,0 +1,88 @@
+{
+  "id": "gesundheitsfoerderung-warum-politik-entscheidend-fuer-praeve",
+  "category": "politik",
+  "title": "Gesundheitsförderung: Warum Politik entscheidend für Prävention ist",
+  "teaser": "Experten warnen: Obwohl wir wissen, was Krankheiten verursacht, fehlt oft der politische Wille, um echte Prävention zu schaffen. Wir zeigen, wo die Politik den Hebel ansetzen muss.",
+  "tags": [
+    "Gesundheit",
+    "Öffentliche Politik",
+    "Prävention",
+    "Gesundheitswesen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Experten betonen, dass große Potenziale bei der Gesundheitsprävention ungenutzt bleiben, weil die notwendigen Maßnahmen politisch nicht umgesetzt werden.",
+    "Eine stärkere Regulierung gesundheitsschädlicher Industrien und der Alltag von Gesundheitskompetenz an Schulen werden als Schlüssel gesehen.",
+    "Gesundheit wird nicht nur durch Ärzte, sondern durch die gesamte Gesellschaft und ihre Rahmenbedingungen geprägt."
+  ],
+  "sections": [
+    {
+      "heading": "Von der Medizin zur Gesellschaft: Prävention braucht politische Kraft",
+      "paragraphs": [
+        "Wenn wir über Gesundheit sprechen, denken wir oft an Ärzte und Krankenhäuser. Aber Experten weisen darauf hin: Die wahre Gesundheitsförderung beginnt viel früher – nämlich dort, wo Politik und Gesellschaft zusammenkommen. Die Ottawa-Charta, ein wichtiges Dokument der Weltgesundheitsorganisation (WHO) von 1986, fordert eine Gesundheitsförderung, die weit über die reine medizinische Behandlung hinausgeht.",
+        "Der Kern der Sache ist: Wir wissen, welche Risikofaktoren chronische Krankheiten wie Herz-Kreislauf-Erkrankungen oder Diabetes auslösen. Dazu gehören Tabak, ungesunde Ernährung, mangelnde Bewegung und Luftverschmutzung. Laut Experten könnten 30 bis 50 Prozent der Krankenhausfälle vermeidbar sein, wenn das vorhandene Wissen konsequent umgesetzt würde.",
+        "Doch hier liegt das Problem: Die Umsetzung dieser Maßnahmen ist eine politische Entscheidung. Viele Experten sehen, dass die Politik oft kurzfristig denkt und Prävention eher als Kostenfaktor statt als gesellschaftliche Investition betrachtet."
+      ]
+    },
+    {
+      "heading": "Wo muss der Hebel ansetzen? Regulierung statt Belehrung",
+      "paragraphs": [
+        "Die Forderung ist klar: Es muss die Regulierung von gesundheitsschädlichen Industrien verstärkt werden. Experten nennen hier Tabakfirmen und die Lebensmittel- und Zuckerindustrie. Der Grund: Diese Unternehmen beeinflussen unsere Gesundheit massiv. Ein Beispiel nennt ein Mitarbeiter einer Zigarettenfabrik, der in seinem Arbeitsleben genug Zigaretten produziert, um mehr als 2.000 Menschen lebenslang zu schädigen.",
+        "Es geht nicht darum, Menschen von oben herab zu belehren. Stattdessen muss die Handlungsfähigkeit der Bürger gefördert werden. Das bedeutet, Rahmenbedingungen zu schaffen – etwa durch eine stärkere Regulierung von Lebensmitteln oder die Einführung von Maßnahmen wie einer Zuckergetränkesteuer, wie sie in Großbritannien bereits getestet wurde.",
+        "Ärzte und Gesundheitsfachleute sehen sich daher auch als „Anwälte der Gesundheit“. Ihre Aufgabe ist es, nicht nur zu behandeln, sondern auch auf die gesundheitlichen Risiken hinzuweisen und für bessere Lebensbedingungen einzutreten. Dies erfordert eine breite Allianz aller gesellschaftlichen Bereiche."
+      ]
+    }
+  ],
+  "whyItMatters": "Für dich bedeutet das: Dein Gesundheitszustand hängt nicht nur davon ab, was du isst oder wie viel du Sport machst. Die Entscheidungen, die Politiker über Industrie, Lebensmittel oder Umwelt treffen, bestimmen maßgeblich, wie gesund du leben kannst.",
+  "glossary": [
+    {
+      "term": "Prävention",
+      "definition": "Maßnahmen, die dazu dienen, Krankheiten gar nicht erst entstehen zu lassen oder ihr Fortschreiten zu verlangsamen."
+    },
+    {
+      "term": "Gesundheitsförderung",
+      "definition": "Der Prozess, der Menschen dabei unterstützt, ihre eigene Gesundheit aktiv zu verbessern und zu erhalten."
+    },
+    {
+      "term": "Chronische Krankheiten",
+      "definition": "Erkrankungen, die über einen langen Zeitraum anhalten und nicht leicht heilbar sind, wie Diabetes oder Herz-Kreislauf-Erkrankungen."
+    }
+  ],
+  "quiz": {
+    "question": "Was betonen Experten bezüglich der Rolle der Politik bei der Gesundheitsprävention?",
+    "options": [
+      "Prävention ist eine reine Aufgabe der einzelnen Patienten, die selbst alle Entscheidungen treffen müssen.",
+      "Die Politik muss sich nur um die Finanzierung von Krankenhäusern kümmern.",
+      "Die Politik ist entscheidend, da sie die Rahmenbedingungen und die Regulierung von Risikofaktoren bestimmen muss."
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Experten betonen, dass die Umsetzung notwendiger Maßnahmen – wie die Regulierung von Industrien – eine politische Entscheidung ist."
+  },
+  "discussion": [
+    "Wie kann eine Gesellschaft sicherstellen, dass gesundheitsfördernde Maßnahmen nicht immer hinter kurzfristigen wirtschaftlichen Interessen zurückfallen?",
+    "Welche Verantwortung sollte eine Regierung tragen, wenn sie Entscheidungen trifft, die die Gesundheit der Bevölkerung langfristig beeinflussen (z.B. bei Lebensmittelstandards)?"
+  ],
+  "publishedAt": "2026-11-16T09:42:38.175Z",
+  "sources": [
+    {
+      "title": "40 Jahre Ottawa-Charta: Mehr Präventionsansätze warten auf politische Umsetzung",
+      "url": "https://www.aerzteblatt.de/news/40-jahre-ottawa-charta-mehr-praventionsansatze-warten-auf-politische-umsetzung-c3057d2f-beaa-41fd-bfe5-41ad2c4e0823",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/gesundheitsfoerderung-warum-politik-entscheidend-fuer-praeve.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Gesundheitshelferin führt Hausbesuch im brasilianischen öffentlichen Gesundheitssystem durch.",
+    "credit": {
+      "title": "Community health worker in the Brazilian public health system.jpg",
+      "author": "Paulo H. Carvalho/Agência Brasília",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Community_health_worker_in_the_Brazilian_public_health_system.jpg"
+    }
+  }
+}

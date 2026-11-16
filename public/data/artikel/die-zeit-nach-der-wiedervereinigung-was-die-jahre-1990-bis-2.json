@@ -1,0 +1,86 @@
+{
+  "id": "die-zeit-nach-der-wiedervereinigung-was-die-jahre-1990-bis-2",
+  "category": "geschichte",
+  "title": "Die Zeit nach der Wiedervereinigung: Was die Jahre 1990 bis 2020 bedeuten",
+  "teaser": "Die Wiedervereinigung Deutschlands markierte einen Wendepunkt. Aber was war in den folgenden dreißig Jahren – von 1990 bis 2020 – wirklich los?",
+  "tags": [
+    "Deutschland",
+    "Wiedervereinigung",
+    "Politik",
+    "Nachwendezeit"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Das Projekt beleuchtet die 30 Jahre nach der Deutschen Einheit (1990–2020), einen wichtigen Zeitraum der gesellschaftlichen und politischen Transformation in Deutschland.",
+    "Die Zeit nach 1990 war geprägt von der Integration der neuen Bundesländer und den fortlaufenden gesellschaftlichen Entwicklungen.",
+    "Das Material dient als Lernhilfe und zeigt, wie Bildungspolitik auf diese Nachwendezeit reagierte."
+  ],
+  "sections": [
+    {
+      "heading": "Der große Wandel: 1990 bis 2020",
+      "paragraphs": [
+        "Die Wiedervereinigung Deutschlands im Jahr 1990 war ein historischer Meilenstein. Um diesen Prozess und die Zeit danach besser zu verstehen, gibt es Projekte, die sich mit der „Nachwendegeschichte“ beschäftigen. Ein solches Projekt beleuchtet die dreißig Jahre, die von 1990 bis 2020 reichen.",
+        "Diese Periode war eine lange Phase des Umbruchs. Sie umfasst nicht nur die politische Integration der ehemaligen DDR in die Bundesrepublik, sondern auch tiefgreifende Veränderungen in Wirtschaft, Gesellschaft und Kultur. Es geht darum, die Erfahrungen dieser neuen Ära zu dokumentieren und zu vermitteln."
+      ]
+    },
+    {
+      "heading": "Bildung als Spiegel der Zeit",
+      "paragraphs": [
+        "Ein zentraler Aspekt dieser Nachwendezeit ist die Bildung. Verschiedene Ministerien und Bildungsbehörden aus den Bundesländern haben sich mit diesen Themen auseinandergesetzt. Dies zeigt, wie wichtig es war, die neue Geschichte für junge Menschen zugänglich zu machen.",
+        "Ministerinnen und Minister aus verschiedenen Regionen, wie Mecklenburg-Vorpommern, Thüringen oder Bayern, haben sich in diesem Projekt beteiligt. Ihre Beiträge unterstreichen, dass die Geschichte der Einheit ein gemeinsames Thema für alle Teile Deutschlands war. Es wurden Lernmaterialien und Wissenstests für Schüler entwickelt, um dieses komplexe Thema zu erarbeiten."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Nachwendezeit prägt die heutige deutsche Gesellschaft. Wenn du diese Zeit verstehst, verstehst du besser, wie Deutschland heute funktioniert und welche gesellschaftlichen Debatten aktuell sind.",
+  "glossary": [
+    {
+      "term": "Wiedervereinigung",
+      "definition": "Der Prozess, bei dem Deutschland 1990 wieder zu einem einzigen Bundesstaat zusammengefügt wurde."
+    },
+    {
+      "term": "Nachwendegeschichte",
+      "definition": "Die Geschichte der Zeit nach dem Ende der DDR und der Wiedervereinigung."
+    },
+    {
+      "term": "Bundesländer",
+      "definition": "Die 16 politischen Unterteilungen Deutschlands, die jeweils eigene Zuständigkeiten haben."
+    }
+  ],
+  "quiz": {
+    "question": "Welchen Zeitraum umfasst das Projekt zur Nachwendegeschichte, das in der Quelle beschrieben wird?",
+    "options": [
+      "1990 bis 2020",
+      "2000 bis 2030",
+      "1949 bis 1989"
+    ],
+    "answerIndex": 0,
+    "explanation": "Das Projekt fokussiert sich explizit auf die 30 Jahre nach der Einheit, also von 1990 bis 2020."
+  },
+  "discussion": [
+    "Welche gesellschaftlichen Herausforderungen siehst du, die aus der Zeit der Wiedervereinigung (1990) bis heute noch nachwirken?",
+    "Wie kann Bildung dazu beitragen, historische Prozesse wie die deutsche Einheit für neue Generationen verständlich zu machen?"
+  ],
+  "publishedAt": "2026-11-16T10:13:37.782Z",
+  "sources": [
+    {
+      "title": "Das Schulprojekt zur Nachwendegeschichte",
+      "url": "https://www.mdr.de/geschichte/eure-geschichte",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-zeit-nach-der-wiedervereinigung-was-die-jahre-1990-bis-2.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Gedenkveranstaltung zum 20. Jahrestag der deutschen Wiedervereinigung in Frankfurt.",
+    "credit": {
+      "title": "Commemorative Event 20 Years German Unity 2010.JPG",
+      "author": "ArcCan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commemorative_Event_20_Years_German_Unity_2010.JPG"
+    }
+  }
+}

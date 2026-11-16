@@ -1,0 +1,81 @@
+{
+  "id": "regeln-fuer-killerroboter-wie-die-welt-ueber-autonome-waffen",
+  "category": "politik",
+  "title": "Regeln für Killerroboter: Wie die Welt über autonome Waffen diskutiert",
+  "teaser": "Wenn Maschinen selbstständig Ziele auswählen und töten können – welche Grenzen sollten wir ziehen? In Genf geht es um die Regulierung von KI im Krieg.",
+  "tags": [
+    "Internationales Recht",
+    "Technologie",
+    "Kriegsführung",
+    "Ethik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In Genf verhandeln rund 130 Staaten über internationale Regeln für autonome Waffensysteme, oft als „Killerroboter“ bezeichnet.",
+    "Die Hauptsorge ist, dass Entscheidungen über Leben und Tod an Maschinen abgegeben werden, da KI Schwierigkeiten hat, Zivilisten von Kämpfern zu unterscheiden.",
+    "Während einige Staaten verbindliche Regeln fordern, lehnen andere, wie die USA, Russland und Israel, strenge Verbote ab."
+  ],
+  "sections": [
+    {
+      "heading": "Was sind autonome Waffensysteme?",
+      "paragraphs": [
+        "Stell dir vor, eine Maschine trifft selbstständig Entscheidungen über Leben und Tod. Genau das sind autonome Waffensysteme. Diese Waffen können selbst Ziele auswählen und angreifen, ohne dass ein Mensch in jedem Moment die Auslöser betätigt. Technisch gesehen sind sie oft mit Künstlicher Intelligenz (KI) ausgestattet und finden in modernen Kriegsführungen bereits Anwendung – sei es bei Drohnenschwärmen oder selbstfahrenden Militärfahrzeugen.",
+        "Die Diskussion darüber, ob und wie wir mit diesen Systemen umgehen sollen, ist aktuell ein zentrales Thema in den Vereinten Nationen (UN). In Genf treffen sich Vertreter von fast 130 Staaten, um internationale Regeln zu erarbeiten. Das Ziel ist es, sicherzustellen, dass auch in Kriegen bestimmte ethische und rechtliche Grenzen eingehalten werden."
+      ]
+    },
+    {
+      "heading": "Warum ist das so ein sensibles Thema?",
+      "paragraphs": [
+        "Der Kern der Debatte ist die Frage der menschlichen Verantwortung. Experten, wie die Direktorin der Abteilung Völkerrecht beim Internationalen Roten Kreuz (IKRK), betonen, dass die Entscheidung über Leben oder Tod nicht an eine Maschine delegiert werden darf. Das humanitäre Völkerrecht sieht vor, dass Zivilisten geschützt werden sollen, und diese Regeln müssen auch bei neuen Technologien gelten.",
+        "Ein großes Problem ist die Unvorhersehbarkeit und die Fähigkeit der KI. Kriegsschauplätze sind oft chaotisch und unübersichtlich, da Zivilisten und Kämpfer vermischt sind. Experten vermuten, dass KI-Systeme in solchen komplexen Situationen schnell überfordert werden könnten. Menschliche Reaktionsfähigkeit wird hier als entscheidend angesehen, um auf das Unvorhersehbare zu reagieren."
+      ]
+    },
+    {
+      "heading": "Welche Positionen gibt es in den Verhandlungen?",
+      "paragraphs": [
+        "Die Staaten sind sich nicht einig, wie weit die Regulierung gehen soll. Während viele Staaten und Menschenrechtler die Notwendigkeit verbindlicher internationaler Regeln befürworten, gibt es starke Widerstände. Länder wie die USA, Russland und Israel lehnen strenge Verbote ab.",
+        "Die Verhandlungen zielen darauf ab, Eckpunkte zu finden, die international verbindlich werden könnten. Die deutsche Bundesregierung unterstützt die Entwicklung solcher Regeln. Der Konsens ist dabei ein wichtiger Faktor: Eine internationale Einigung erfordert die Zustimmung vieler Staaten, was die Verhandlungen komplex macht."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema betrifft die Zukunft der Kriegsführung und damit die globale Sicherheit. Für junge Menschen ist es wichtig zu verstehen, wie Technologie und Moral aufeinanderprallen, besonders wenn es um Entscheidungen mit lebensverändernden Konsequenzen geht.",
+  "glossary": [
+    {
+      "term": "Autonome Waffensysteme",
+      "definition": "Waffen, die in der Lage sind, selbstständig Ziele auszuwählen und anzugreifen, ohne ständige menschliche Steuerung."
+    },
+    {
+      "term": "Künstliche Intelligenz (KI)",
+      "definition": "Die Fähigkeit von Computersystemen, menschenähnliche kognitive Aufgaben wie Lernen, Problemlösen oder Entscheidungsfindung zu übernehmen."
+    },
+    {
+      "term": "Humanitäres Völkerrecht",
+      "definition": "Ein Teil des internationalen Rechts, der Regeln für bewaffnete Konflikte festlegt, um das Leid der Menschen zu begrenzen und Zivilisten zu schützen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Länder lehnen laut der Quelle strenge Verbote für autonome Waffensysteme ab?",
+    "options": [
+      "Deutschland, Frankreich und Großbritannien",
+      "USA, Russland und Israel",
+      "China, Indien und Brasilien"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Quelle nennt explizit die USA, Russland und Israel als Länder, die sich gegen strenge Regeln aussprechen."
+  },
+  "discussion": [
+    "Wie kann eine internationale Gemeinschaft technische Entwicklungen wie KI regulieren, ohne den Fortschritt komplett zu stoppen?",
+    "Welche ethischen Grenzen sollte ein Mensch setzen, wenn er entscheidet, ob eine Maschine in einem Konfliktgebiet eingesetzt werden darf?"
+  ],
+  "publishedAt": "2026-11-16T10:07:23.212Z",
+  "sources": [
+    {
+      "title": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
+      "url": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "stromsteuer-in-der-diskussion-was-die-koalition-ueber-millia",
+  "category": "politik",
+  "title": "Stromsteuer in der Diskussion: Was die Koalition über Milliarden-Senkungen entscheidet",
+  "teaser": "Die Stromsteuer ist ein heißes Eisen in der Politik. Kann die Regierung Milliarden für eine Senkung finden, oder wird ein Kompromiss gefunden?",
+  "tags": [
+    "Haushalt",
+    "Energie",
+    "Steuern",
+    "Koalition",
+    "Finanzen"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die Debatte um die Stromsteuer geht weiter, da die Regierung Milliarden für eine Senkung sucht.",
+    "CSU-Chef Söder hält eine Einigung für möglich, betont aber, dass er die Ausweitung der Mütterrente nicht gefährden will.",
+    "Mögliche Finanzierungshilfen sind unter anderem eine Übergewinnsteuer für Mineralölkonzerne."
+  ],
+  "sections": [
+    {
+      "heading": "Der Streit um die Stromsteuer",
+      "paragraphs": [
+        "Die Frage, wie die Stromsteuer gesenkt werden kann, beschäftigt aktuell die Politik. Es geht um Milliardenbeträge, die für eine Senkung benötigt werden. Der CSU-Chef Markus Söder hält eine Einigung der Regierungskoalition für möglich. Allerdings gibt es große Hürden bei der Finanzierung.",
+        "Söder betont, dass eine Senkung nur möglich ist, wenn man keine bereits beschlossenen Gesetze rückgängig macht. Er lehnt es ab, die Ausweitung der Mütterrente anzutasten, da dies zu einer „Glaubwürdigkeitslücke“ führen würde."
+      ]
+    },
+    {
+      "heading": "Woher sollen die Milliarden kommen?",
+      "paragraphs": [
+        "Um die gewünschte Senkung zu finanzieren, sucht die Regierungsspitze nach zusätzlichen Einnahmen. Der Bundesfinanzminister Lars Klingbeil (SPD) hat eine Gegenfinanzierung gefordert. Söder selbst glaubt, dass dies finanzierbar sei.",
+        "Ein Vorschlag, den er nennt, ist eine Übergewinnsteuer für Mineralölkonzerne. Auch aus dem Klima- und Technologietransferfonds könnten laut einigen Haushaltspolitikern drei bis vier Milliarden Euro an nicht genutzten Mitteln eingespart werden."
+      ]
+    },
+    {
+      "heading": "Einigung im Koalitionsausschuss",
+      "paragraphs": [
+        "Bislang haben die Union und die SPD einen Haushalt vereinbart, der die von Bundeskanzler Friedrich Merz (CDU) geforderte Senkung der Stromsteuer für alle nicht beinhaltet. Die nötigen rund 5,4 Milliarden Euro fehlen im Entwurf.",
+        "Die Stromsteuer sollte eigentlich schon 2025 gesenkt werden, aber die Bundesregierung hat die Bürger davon ausgeschlossen. Nun wird in den kommenden Koalitionsausschüssen intensiv diskutiert, ob eine Senkung für alle Bürger oder nur für Industrie und Landwirtschaft möglich ist."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Stromsteuer betrifft deinen Geldbeutel direkt. Entscheidungen über Steuersenkungen oder -erhöhungen beeinflussen, wie viel du für Energie bezahlen musst. Es geht also um deine finanzielle Zukunft und die Energiepolitik des Landes.",
+  "glossary": [
+    {
+      "term": "Koalitionsausschuss",
+      "definition": "Ein Gremium, in dem sich die Parteien einer Regierung zusammensetzen, um wichtige Entscheidungen zu treffen und Kompromisse zu finden."
+    },
+    {
+      "term": "Übergewinnsteuer",
+      "definition": "Eine Steuer, die auf Gewinne erhoben wird, die über einen bestimmten, als normal geltenden Gewinn hinausgehen."
+    },
+    {
+      "term": "Mütterrente",
+      "definition": "Eine staatliche Altersleistung, die Frauen ermöglicht, auch nach einer längeren Auszeit für Kinder einen Teil der Rente zu erhalten."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Summe an Euro wird für die Senkung der Stromsteuer von allen Bürgern gefordert?",
+    "options": [
+      "Drei bis vier Milliarden Euro",
+      "Fünf Milliarden Euro",
+      "Rund 5,4 Milliarden Euro"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Union und die SPD hatten sich zuletzt auf einen Haushalt geeinigt, in dem die dafür nötigen rund 5,4 Milliarden Euro nicht enthalten sind."
+  },
+  "discussion": [
+    "Wie balanciert man in einer Regierung zwischen dem Wunsch nach Entlastungen (wie einer Stromsteuersenkung) und der Sicherung notwendiger Sozialleistungen (wie der Mütterrente)?",
+    "Welche Arten von Steuern (z.B. auf Gewinne, auf Energieverbrauch oder andere) hältst du für am fairsten, um große finanzielle Lücken zu schließen?"
+  ],
+  "publishedAt": "2026-11-16T10:10:57.125Z",
+  "sources": [
+    {
+      "title": "Söder hält Stromsteuersenkung doch noch für möglich",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

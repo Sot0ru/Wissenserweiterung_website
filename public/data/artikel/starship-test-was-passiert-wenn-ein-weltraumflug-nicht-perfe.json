@@ -1,0 +1,97 @@
+{
+  "id": "starship-test-was-passiert-wenn-ein-weltraumflug-nicht-perfe",
+  "category": "wissenschaft",
+  "title": "Starship-Test: Was passiert, wenn ein Weltraumflug nicht perfekt läuft?",
+  "teaser": "Bei großen Raketenstarts gibt es oft unerwartete Wendungen. Wir erklären dir, was ein „Offshore divert“ ist und wie Astronauten mit Problemen umgehen.",
+  "tags": [
+    "Weltraum",
+    "Technik",
+    "Orbitalmechanik",
+    "Raumfahrt",
+    "Physik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Starship-Test zeigte, dass der Booster trotz Triebwerksproblemen eine Landung am Startturm simulieren konnte, bevor er im Meer abstürzte.",
+    "Das Hauptschiff, Ship 42, erreichte einen stabilen Orbit und setzte seine Starlink-Satelliten aus, was einen erfolgreichen Teil der Mission darstellte.",
+    "Probleme wie Treibstoffmangel führten dazu, dass der Booster eine Umleitung in das Meer wählte, um die Startanlage zu schützen."
+  ],
+  "sections": [
+    {
+      "heading": "Zwischen Erfolg und unerwarteten Wendungen",
+      "paragraphs": [
+        "Große Raumfahrtmissionen sind komplexe technische Vorhaben. Beim jüngsten Testflug von Starship gab es zwar viele gelungene Momente, aber auch einige unerwartete Probleme. Der Booster, ein riesiger Teil des Raketensystems, entschied sich für einen Flug ins offene Meer. Gleichzeitig gelang es Ship 42, eine Landung am Startturm zu simulieren – ein wichtiger Meilenstein in der Entwicklung.",
+        "Der Booster hatte bereits Schwierigkeiten mit Triebwerken. Trotzdem zeigte er in der Simulation, dass ein Anflug auf den Turm prinzipiell beherrschbar ist. Als der Booster während des Rückflugs Probleme bekam, entschied das automatische Steuerungssystem (Guidance, Navigation and Control System, GNC), die Startanlage zu schützen. Statt auf den Turm zuzusteuern, wurde ein sogenannter „Offshore divert“ durchgeführt, also eine Umleitung in das Meer."
+      ]
+    },
+    {
+      "heading": "Der Weg in den Orbit und die Satelliten-Mission",
+      "paragraphs": [
+        "Das Hauptschiff, Ship 42, setzte seinen Flug planmäßig fort. Nach Erreichen des Fast-Orbits brauchte es einen kurzen, präzisen Schub, den sogenannten „Orbital Insertion Burn“, um in einen stabilen Orbit zu gelangen. Dieser Schub dauerte nur etwa 20 Sekunden.",
+        "Sobald der Orbit erreicht war, begann die Nutzlastaussetzung. Ship 42 drehte sich, um das Thermalschutzsystem zu überprüfen. Danach wurden die Starlink-Satelliten schrittweise freigegeben. Die Mission sah vor, 14 Umrundungen der Erde durchzuführen, wobei das Schiff auch extreme Belastungen durchmachte, bei denen die G-Lasten (die Beschleunigungskraft) bis zu 1,8g erreichten."
+      ]
+    },
+    {
+      "heading": "Was bedeuten diese Flüge für die Zukunft?",
+      "paragraphs": [
+        "Solche Tests sind entscheidend, auch wenn sie nicht perfekt verlaufen. Die Probleme – sei es Treibstoffmangel oder Triebwerksausfälle – liefern wichtige Daten. Sie zeigen, wo das System noch Schwächen hat und was verbessert werden muss. Die Fähigkeit des Schiffes, trotz Problemen eine Landung zu simulieren oder einen sicheren Kurs zu wählen, ist ein großer Fortschritt für die Entwicklung von wiederverwendbaren Raumfahrzeugen."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Tests zeigen dir, wie komplexe Technik funktioniert und wie Ingenieure mit unvorhergesehenen Problemen umgehen müssen. Es ist ein Beispiel dafür, dass Wissenschaft selten linear verläuft und Fehler Teil des Lernprozesses sind.",
+  "glossary": [
+    {
+      "term": "Booster",
+      "definition": "Ein großer, tragender Teil einer Rakete, der für den Hauptantrieb sorgt und oft separat vom Hauptschiff wiederverwendet wird."
+    },
+    {
+      "term": "Orbit",
+      "definition": "Die feste Bahn, die ein Raumfahrzeug um einen Himmelskörper wie die Erde herum fliegt."
+    },
+    {
+      "term": "GNC System",
+      "definition": "Steuerungs-, Navigations- und Kontrollsystem. Es ist das Gehirn der Rakete, das die Flugbahn steuert und Korrekturen vornimmt."
+    },
+    {
+      "term": "Offshore divert",
+      "definition": "Eine Kursänderung, bei der ein Flugzeug oder Raumschiff auf das offene Meer umgeleitet wird, um eine Gefahr für Land oder Infrastruktur zu vermeiden."
+    }
+  ],
+  "quiz": {
+    "question": "Was entschied das automatische Steuerungssystem (GNC) des Boosters, als Treibstoffmangel drohte?",
+    "options": [
+      "Den Flug auf den Startturm zu erzwingen.",
+      "Eine Umleitung in das offene Meer durchzuführen.",
+      "Die Triebwerke sofort abzuschalten."
+    ],
+    "answerIndex": 1,
+    "explanation": "Das GNC-System entschied sich für einen „Offshore divert“, um die Startanlage zu schützen."
+  },
+  "discussion": [
+    "Wie würdest du entscheiden, ob du ein risikoreiches wissenschaftliches Experiment durchführst, bei dem ein kleiner Fehler große Konsequenzen haben könnte?",
+    "Welche Rolle spielt die Automatisierung (wie das GNC-System) in komplexen technischen Prozessen, und wann ist menschliches Eingreifen wichtiger?"
+  ],
+  "publishedAt": "2026-11-16T09:53:45.397Z",
+  "sources": [
+    {
+      "title": "Starship Flug 15 endet mit Landung von Ship 42 am Startturm",
+      "url": "https://www.raumfahrer.net/starship-flug-15-endet-mit-landung-von-ship-42-am-startturm/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/starship-test-was-passiert-wenn-ein-weltraumflug-nicht-perfe.jpg",
+    "width": 960,
+    "height": 1365,
+    "alt": "SpaceX Starship während des Integrated Flight Test 5 (IFT-5) während des Starts.",
+    "credit": {
+      "title": "SpaceX Starship during IFT-5.jpg",
+      "author": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SpaceX_Starship_during_IFT-5.jpg"
+    }
+  }
+}
