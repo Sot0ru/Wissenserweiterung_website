@@ -1,0 +1,93 @@
+{
+  "id": "mondbasis-ideen-gesucht-nasa-fordert-junge-denker-heraus",
+  "category": "wissenschaft",
+  "title": "Mondbasis-Ideen gesucht: NASA fordert junge Denker heraus",
+  "teaser": "NASA sucht nach innovativen Lösungen für eine dauerhafte menschliche Präsenz auf dem Mond. Wie könnte diese Basis aussehen und funktionieren?",
+  "tags": [
+    "Weltraum",
+    "Technologie",
+    "Erforschung",
+    "Innovation"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "NASA startet eine „Moon Base Challenge“ und bietet 1 Million Dollar für Ideen zur Errichtung einer Mondbasis.",
+    "Studententeams sollen Lösungen für sechs wichtige Bereiche entwickeln, wie Energieversorgung oder Lebenserhaltung.",
+    "Diese Projekte sollen nicht nur die Mondkolonisierung vorantreiben, sondern auch junge Menschen für die Raumfahrt inspirieren."
+  ],
+  "sections": [
+    {
+      "heading": "Warum wir einen Mondstützpunkt brauchen",
+      "paragraphs": [
+        "Die NASA plant, einen dauerhaften menschlichen Stützpunkt auf dem Mond zu errichten. Dieser soll sich am südlichen Pol des Mondes befinden. Dort könnten Astronauten leben, Forschung betreiben und die Umgebung erkunden. Ein solcher Schritt ist für die NASA ein wichtiger Zwischenschritt auf dem Weg zu zukünftigen Missionen zum Mars.",
+        "Um diese Ziele zu erreichen, braucht es viel Fachwissen und kreatives Denken. Deshalb hat die NASA eine „Moon Base Challenge“ ins Leben gerufen. Dabei geht es darum, dass junge Leute mit frischen Ideen die Herausforderungen der Mondkolonisierung angehen."
+      ]
+    },
+    {
+      "heading": "Sechs große Hürden für Leben im Weltraum",
+      "paragraphs": [
+        "Die Wettbewerbsphase ist in mehrere Abschnitte unterteilt. Teams müssen Lösungen für sechs grundlegende Aspekte einer Mondbasis entwickeln. Dazu gehören unter anderem die Erzeugung und Speicherung von Energie, der Bau von Einrichtungen, die Aufrechterhaltung von Lebenserhaltungssystemen, die Fortbewegung auf der Mondoberfläche, die Einrichtung von Kommunikationsnetzen und der Schutz der Astronauten.",
+        "Diese Aufgaben stellen praktische Hindernisse dar, die überwunden werden müssen, um langfristige Operationen auf dem Mond zu gewährleisten. Die NASA möchte dabei die Kreativität nutzen, um neue Ansätze für Mondtechnologien zu finden. Es ist wichtig zu wissen, dass für die Teilnahme kein spezielles Vorwissen in Ingenieurwesen oder verwandten technischen Bereichen nötig ist."
+      ]
+    },
+    {
+      "heading": "Was das für die Zukunft bedeutet",
+      "paragraphs": [
+        "Neben den technischen Lösungen hat die NASA auch das Ziel, die nächste Generation von Raumfahrtexperten zu fördern. Indem Studenten mit praktischen Design-Herausforderungen konfrontiert werden, soll die Kreativität und die Problemlösungskompetenz gestärkt werden. Die NASA sieht in jungen Innovatoren die Schlüsselpersonen, die helfen, eine Zukunft jenseits der Erde zu gestalten.",
+        "Interessierte Teams können sich bis zum 25. Januar 2027 registrieren. Die Initiative soll zeigen, dass die Entwicklung einer dauerhaften menschlichen Präsenz auf dem Mond ein großes, gemeinsames Projekt ist, das viele Perspektiven benötigt."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Erforschung des Weltraums ist nicht nur etwas für Experten. Projekte wie diese zeigen dir, dass deine Ideen – egal ob du gerade in der Schule bist – einen echten Einfluss auf große globale Ziele haben können. Es geht darum, wie wir als Menschheit neue Lebensräume jenseits der Erde erschließen.",
+  "glossary": [
+    {
+      "term": "Lunar Base",
+      "definition": "Eine dauerhafte menschliche Siedlung oder Forschungsstation auf dem Mond."
+    },
+    {
+      "term": "Lebenserhaltungssystem",
+      "definition": "Technologien und Systeme, die die grundlegenden Bedingungen für das Überleben von Menschen (wie Luft, Wasser und Temperatur) in einer Umgebung außerhalb der Erde aufrechterhalten."
+    },
+    {
+      "term": "Südpol des Mondes",
+      "definition": "Eine Region am Mond, die von Interesse ist, weil dort Krater mit dauerhaft Schattenbereichen liegen, wo sich Eis befinden könnte."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Betrag wird von der NASA für die Moon Base Challenge ausgeschrieben?",
+    "options": [
+      "1 Million Dollar",
+      "5 Millionen Dollar",
+      "100.000 Dollar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die NASA hat eine Moon Base Challenge gestartet und bietet 1 Million Dollar für innovative Ideen an."
+  },
+  "discussion": [
+    "Welche ethischen Fragen stellt die Idee einer dauerhaften menschlichen Besiedlung eines anderen Himmelskörpers wie dem Mond?",
+    "Wie kann Bildungssysteme besser darauf vorbereiten, dass junge Menschen komplexe, interdisziplinäre Probleme lösen können, die in der Zukunft auftreten werden?"
+  ],
+  "publishedAt": "2026-11-17T11:00:48.263Z",
+  "sources": [
+    {
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/mondbasis-ideen-gesucht-nasa-fordert-junge-denker-heraus.jpg",
+    "width": 960,
+    "height": 616,
+    "alt": "Artistische Darstellung einer geplanten Mondbergbauanlage in der Nähe der Apollo-17-Landestelle.",
+    "credit": {
+      "title": "Mooncolony.jpg",
+      "author": "NASA/SAIC/Pat Rawlings",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mooncolony.jpg"
+    }
+  }
+}

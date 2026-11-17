@@ -1,0 +1,92 @@
+{
+  "id": "neue-medikamente-bei-rheumatischen-erkrankungen-was-steckt-d",
+  "category": "medizin",
+  "title": "Neue Medikamente bei rheumatischen Erkrankungen: Was steckt dahinter?",
+  "teaser": "GLP-1-Rezeptoragonisten, die oft gegen Diabetes eingesetzt werden, könnten auch bei rheumatischen Erkrankungen helfen. Aber was genau ist das und welche Vorteile könnten sie bringen?",
+  "tags": [
+    "Immunologie",
+    "Rheumatologie",
+    "Diabetes",
+    "Medikamente",
+    "Herzgesundheit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "GLP-1-Rezeptoragonisten (GLP-1-RA) werden untersucht, ob sie bei rheumatischen Erkrankungen zusätzlich helfen können.",
+    "Diese Medikamente zeigen bereits positive Effekte auf das Herz-Kreislauf-System, was bei Betroffenen von rheumatischen Erkrankungen wichtig ist.",
+    "Forscher prüfen, ob sie Schmerzen und die allgemeine Funktion der Patienten verbessern können."
+  ],
+  "sections": [
+    {
+      "heading": "Was sind GLP-1-Rezeptoragonisten?",
+      "paragraphs": [
+        "Du kennst vielleicht Medikamente, die zur Behandlung von Typ-2-Diabetes oder Adipositas eingesetzt werden. Viele dieser Wirkstoffe gehören zur Gruppe der GLP-1-Rezeptoragonisten, kurz GLP-1-RA. Dieser Name klingt kompliziert, aber die Funktion ist relativ klar: Sie imitieren ein Hormon, das im Körper vorkommt und die Insulinsignale reguliert.",
+        "Neben der Blutzuckerregulierung haben diese Medikamente aber auch andere Effekte. Es wurde beobachtet, dass sie positive Auswirkungen auf das Herz-Kreislauf-System haben können. Das ist besonders wichtig, denn Menschen mit rheumatischen Erkrankungen haben oft ein erhöhtes Risiko für Herz-Kreislauf-Probleme."
+      ]
+    },
+    {
+      "heading": "Ein neuer Ansatz für rheumatische Leiden",
+      "paragraphs": [
+        "Weil dieses erhöhte Risiko bei rheumatischen Patienten ein großes Thema ist, untersuchen Wissenschaftler nun, ob GLP-1-RA auch bei diesen Erkrankungen einen zusätzlichen Nutzen bringen können. Neue Studiendaten deuten darauf hin, dass dies möglich sein könnte.",
+        "Die Forschung konzentriert sich darauf, ob diese Medikamente nicht nur die Herzgesundheit unterstützen, sondern auch direkt bei den Symptomen helfen. Konkret wird geprüft, ob sie Schmerzen lindern und die allgemeine Funktion der Patienten verbessern können.",
+        "Man spricht hier von „patientenberichteten Endpunkten“. Das bedeutet, dass die Verbesserung nicht nur durch Labormessungen, sondern auch durch das subjektive Empfinden der Patienten selbst gemessen wird – also wie gut sie sich fühlen und wie mobil sie sind. Die Ergebnisse dieser Untersuchungen werden auf großen medizinischen Kongressen präsentiert."
+      ]
+    }
+  ],
+  "whyItMatters": "Rheumatische Erkrankungen können sehr belastend sein, nicht nur körperlich, sondern auch psychisch. Wenn es neue Medikamente gibt, die sowohl die Entzündungen oder Schmerzen lindern als auch das Herz schützen, eröffnet das neue Behandlungsmöglichkeiten.",
+  "glossary": [
+    {
+      "term": "GLP-1-Rezeptoragonisten (GLP-1-RA)",
+      "definition": "Medikamente, die ein Hormon im Körper nachahmen, das die Blutzuckerregulierung beeinflusst und auch andere Stoffwechselprozesse reguliert."
+    },
+    {
+      "term": "Rheumatische Erkrankungen",
+      "definition": "Eine Gruppe von Erkrankungen, die Gelenke und Muskeln betreffen und oft mit Entzündungen und Schmerzen einhergehen."
+    },
+    {
+      "term": "Kardiovaskuläres Risiko",
+      "definition": "Das erhöhte Risiko für Erkrankungen des Herzens und der Blutgefäße (wie Herzinfarkt oder Schlaganfall)."
+    },
+    {
+      "term": "Patientenberichtete Endpunkte",
+      "definition": "Messgrößen in Studien, die direkt auf das subjektive Wohlbefinden und die Symptome des Patienten abzielen (z. B. Schmerzlevel)."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Effekten zeigen GLP-1-RA bereits bei Menschen mit Typ-2-Diabetes und Adipositas?",
+    "options": [
+      "Sie zeigen positive Effekte auf das Herz-Kreislauf-System.",
+      "Sie lindern nur die Schmerzen in den Gelenken.",
+      "Sie verbessern ausschließlich die Muskulatur."
+    ],
+    "answerIndex": 0,
+    "explanation": "Der Text erwähnt, dass GLP-1-RA bei Typ-2-Diabetes und Adipositas bereits positive kardiovaskuläre Effekte gezeigt haben."
+  },
+  "discussion": [
+    "Welche Rolle spielen subjektive Empfindungen (wie Schmerz) im Vergleich zu objektiven Messwerten (wie Blutdruck) bei der Bewertung des Therapieerfolgs?",
+    "Wie kann die Kombination von Medikamenten, die verschiedene Körperfunktionen beeinflussen (wie hier Herz und Entzündung), zukünftige Behandlungsmethoden verändern?"
+  ],
+  "publishedAt": "2026-11-17T10:45:47.168Z",
+  "sources": [
+    {
+      "title": "GLP-1-Rezeptoragonisten haben bei rheumatischen Erkrankungen möglicherweise Vorteile",
+      "url": "https://www.aerzteblatt.de/news/glp-1-rezeptoragonisten-haben-bei-rheumatischen-erkrankungen-moglicherweise-vorteile-1fe39487-3e80-4787-8387-9f6701a61ba6",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/neue-medikamente-bei-rheumatischen-erkrankungen-was-steckt-d.jpg",
+    "width": 960,
+    "height": 488,
+    "alt": "Darstellung des GLP-1-Rezeptoragonisten im Kontext kardiovaskulärer Effekte.",
+    "credit": {
+      "title": "GLP-1 receptor agonist.jpg",
+      "author": "Zhao X, Wang M, Wen Z, Lu Z, Cui L, Fu C, Xue H, Liu Y, Zhang Y.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GLP-1_receptor_agonist.jpg"
+    }
+  }
+}

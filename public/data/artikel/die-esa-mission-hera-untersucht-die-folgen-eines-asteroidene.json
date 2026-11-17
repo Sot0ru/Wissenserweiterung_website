@@ -1,0 +1,93 @@
+{
+  "id": "die-esa-mission-hera-untersucht-die-folgen-eines-asteroidene",
+  "category": "wissenschaft",
+  "title": "Die ESA-Mission Hera untersucht die Folgen eines Asteroideneinschlagversuchs",
+  "teaser": "Ein NASA-Einschlag hat einen Asteroiden in Bewegung gesetzt. Nun untersucht ein europäisches Raumschiff die Spuren dieser historischen Aktion.",
+  "tags": [
+    "Weltraum",
+    "Planetenverteidigung",
+    "Raumfahrt",
+    "Himmelskörper"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die ESA-Mission Hera untersucht das Asteroidensystem Didymos nach dem gezielten Einschlag des NASA-Raumschiffs DART in den kleineren Asteroiden Dimorphos im Jahr 2022.",
+    "Der Einschlag veränderte die Umlaufbahn von Dimorphos messbar und demonstrierte die Methode des kinetischen Impaktdesflections zur Planetenverteidigung.",
+    "Hera liefert neue Bilder des größeren Asteroiden Didymos und hilft Wissenschaftlern zu verstehen, wie sich die Oberfläche nach dem Aufprall verändert hat."
+  ],
+  "sections": [
+    {
+      "heading": "Ein historischer Einschlag im Weltall",
+      "paragraphs": [
+        "Im Jahr 2022 führte NASA einen wegweisenden Test durch: Das Raumschiff DART kollidierte gezielt mit Dimorphos, einem der beiden Asteroiden im Didymos-System. Ziel dieser Aktion war es, zu zeigen, ob man die Flugbahn eines gefährlichen Asteroiden verändern kann, bevor er die Erde erreicht. Diese Methode nennt man kinetischer Impaktdesflection.",
+        "DART schlug mit einer Geschwindigkeit von etwa 6,1 km/s auf den kleineren Asteroiden ein. Das Ergebnis war überraschend: Die Umlaufzeit von Dimorphos um Didymos verkürzte sich um etwa 33 Minuten. Dieser Erfolg bewies, dass ein gezielter Aufprall die Bewegung eines Himmelskörpers messbar beeinflussen kann."
+      ]
+    },
+    {
+      "heading": "Hera enthüllt eine neue Seite des Asteroiden",
+      "paragraphs": [
+        "Nun kommt das europäische Raumschiff Hera ins Spiel. Nach einer zweijährigen Reise erreichte Hera das System, das sich etwa 196,8 Millionen Kilometer von der Erde entfernt befindet. Hera hat erste Detailaufnahmen des größeren Begleiters, Didymos (mit einem Durchmesser von 780 Metern), gemacht.",
+        "Die Aufnahmen zeigen eine Seite von Didymos, die Wissenschaftler zuvor nicht so detailliert gesehen hatten. Die Oberfläche wirkt anders als die, die DART kurz vor dem Einschlag beobachtet hatte. Es sind verschiedene Felsbrocken, Krater und Muster von Rillen oder Gräben zu erkennen."
+      ]
+    },
+    {
+      "heading": "Spuren des Aufpralls untersuchen",
+      "paragraphs": [
+        "Die Forscher untersuchen nun, ob die Materialteile, die durch den Einschlag von Dimorphos in den Weltraum geschleudert wurden, auf Didymos gelandet sind und die sichtbaren Merkmale dort verursacht haben. Die Wissenschaftler vermuten, dass dieses Material über die etwa 1 Kilometer große Distanz zwischen den beiden Asteroiden hinübergetragen wurde.",
+        "Hera wird nun detaillierte Untersuchungen durchführen, um die physikalischen Prozesse hinter diesem Ereignis zu verstehen. Die Daten helfen dabei, die Methode des kinetischen Impaktdesflections von einer einmaligen Demonstration zu einer zuverlässigen Technik für die Planetenverteidigung zu entwickeln. Sollte ein Asteroid auf einen Kollisionskurs mit der Erde geraten, könnte dieses Wissen entscheidend sein."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es zeigt, wie die Menschheit aktiv versucht, sich gegen potenzielle Bedrohungen aus dem Weltraum zu wappnen. Die Forschung liefert konkrete Daten dafür, wie wir zukünftig gefährliche Himmelskörper ablenken könnten.",
+  "glossary": [
+    {
+      "term": "Kinetischer Impaktdesflection",
+      "definition": "Eine Methode, bei der ein Raumschiff gezielt mit einem Asteroiden kollidiert, um dessen Umlaufbahn zu verändern."
+    },
+    {
+      "term": "Asteroid",
+      "definition": "Ein kleiner, felsiger Himmelskörper, der hauptsächlich zwischen Mars und Jupiter kreist."
+    },
+    {
+      "term": "ESA",
+      "definition": "Die Europäische Weltraumorganisation, die wissenschaftliche Missionen im Weltraum durchführt."
+    }
+  ],
+  "quiz": {
+    "question": "Wie lange verkürzte der Einschlag von DART die Umlaufzeit des Asteroiden Dimorphos um Didymos?",
+    "options": [
+      "Etwa 6,1 Minuten",
+      "Etwa 1 Kilometer",
+      "Etwa 33 Minuten"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut der Quelle verkürzte der Einschlag die Umlaufzeit um etwa 33 Minuten."
+  },
+  "discussion": [
+    "Welche ethischen oder internationalen Herausforderungen könnten sich ergeben, wenn Staaten beginnen, Asteroiden aktiv umzuleiten, die sich in der Nähe anderer Länder befinden?",
+    "Wie könnte die Entwicklung von Technologien zur Planetenverteidigung die langfristige Wahrnehmung des Weltraums durch die Gesellschaft verändern?"
+  ],
+  "publishedAt": "2026-11-17T11:10:49.042Z",
+  "sources": [
+    {
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-esa-mission-hera-untersucht-die-folgen-eines-asteroidene.jpg",
+    "width": 960,
+    "height": 960,
+    "alt": "ESA-Mission Hera im Nahaufnahme des Didymos-Asteroidensystems für die Planetenverteidigung.",
+    "credit": {
+      "title": "Hera Didymos Approach.jpg",
+      "author": "ESA Operations",
+      "license": "CC BY-SA 3.0 igo",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hera_Didymos_Approach.jpg"
+    }
+  }
+}

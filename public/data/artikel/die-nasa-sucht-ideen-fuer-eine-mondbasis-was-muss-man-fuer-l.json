@@ -1,0 +1,92 @@
+{
+  "id": "die-nasa-sucht-ideen-fuer-eine-mondbasis-was-muss-man-fuer-l",
+  "category": "wissenschaft",
+  "title": "Die NASA sucht Ideen für eine Mondbasis – Was muss man für Leben im Weltraum wissen?",
+  "teaser": "Die NASA startet einen Wettbewerb und sucht junge Köpfe, die helfen, die erste dauerhafte menschliche Basis auf dem Mond zu bauen. Aber was bedeutet das eigentlich für die Zukunft der Menschheit?",
+  "tags": [
+    "Weltraum",
+    "Technik",
+    "Erforschung",
+    "Zukunft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die NASA hat einen Wettbewerb mit einem Preis von einer Million Dollar gestartet, um Studenten innovative Lösungen für eine Mondbasis zu präsentieren.",
+    "Die Basis soll nahe dem Mondpol entstehen und dient als wichtiger Schritt für zukünftige Missionen zum Mars.",
+    "Die Herausforderungen reichen von Energieversorgung über Lebenserhaltung bis hin zum Schutz der Astronauten."
+  ],
+  "sections": [
+    {
+      "heading": "Warum eine Basis auf dem Mond?",
+      "paragraphs": [
+        "Die Menschheit plant, dauerhaft auf dem Mond zu leben und zu arbeiten. Dafür braucht es eine Mondbasis. Die NASA hat einen Wettbewerb gestartet, um junge Innovatoren bei diesem riesigen Projekt zu unterstützen. Teams aus High Schools und Colleges werden eingeladen, Ideen für die zukünftige Mondpräsenz zu entwickeln.",
+        "Dieser Schritt ist nicht nur ein Selbstzweck. Er gilt als entscheidender Zwischenschritt auf dem Weg zu Missionen zum Mars. Die Idee ist, dass wir durch die Erprobung von Technologien auf dem Mond Erfahrungen sammeln, die uns später helfen, weiter in den Weltraum zu gelangen."
+      ]
+    },
+    {
+      "heading": "Welche Probleme müssen gelöst werden?",
+      "paragraphs": [
+        "Ein Leben auf dem Mond ist extrem anspruchsvoll. Die NASA hat sechs Hauptbereiche definiert, bei denen Lösungen benötigt werden. Diese Bereiche umfassen die Erzeugung und Speicherung von Energie, den Bau von Einrichtungen, die Aufrechterhaltung der Lebenserhaltungssysteme und die Mobilität auf der Mondoberfläche.",
+        "Außerdem müssen Kommunikationsnetzwerke aufgebaut und die Astronauten vor Gefahren geschützt werden. Die Wettbewerbsaufgaben sind an die realen Umweltbedingungen und Missionsanforderungen des Mondes angepasst. Das bedeutet, dass es um praktische, technische Herausforderungen geht, die die Wissenschaft und Ingenieurskunst auf die Probe stellen."
+      ]
+    },
+    {
+      "heading": "Was bringt dir die Teilnahme?",
+      "paragraphs": [
+        "Der Wettbewerb ist offen für alle Fachrichtungen, nicht nur für Ingenieure. Die NASA möchte die Kreativität und den frischen Blick junger Menschen nutzen. Wer sich beteiligt, kann nicht nur wichtige Designvorschläge einbringen, sondern auch wertvolle technische und berufliche Fähigkeiten entwickeln. Es geht darum, Problemlösungskompetenz zu zeigen – und das für eine der spannendsten Aufgaben der Menschheit."
+      ]
+    }
+  ],
+  "whyItMatters": "Auch wenn du noch nie ins Weltall gereist bist, geht es hier um die Zukunft der Technik. Die Lösungen, die für eine Mondbasis erfunden werden, könnten später auch bei uns auf der Erde helfen, große Herausforderungen zu meistern.",
+  "glossary": [
+    {
+      "term": "Lunar Base",
+      "definition": "Eine dauerhafte menschliche Einrichtung oder Siedlung auf dem Mond."
+    },
+    {
+      "term": "Lebenserhaltungssysteme",
+      "definition": "Technische Systeme, die für das Überleben von Menschen in einer Umgebung wie dem Weltall notwendig sind (z. B. Sauerstoffversorgung)."
+    },
+    {
+      "term": "Mondpol",
+      "definition": "Die Region am Mond, die durch einen Pol gekennzeichnet ist und oft über dunkle, kalte Krater verfügt."
+    }
+  ],
+  "quiz": {
+    "question": "Welche der folgenden Herausforderungen wird im Rahmen des Wettbewerbs nicht explizit genannt?",
+    "options": [
+      "Aufbau von Kommunikationsnetzwerken",
+      "Entwicklung neuer Antriebssysteme für Raumschiffe",
+      "Gewinnung und Speicherung von Energie"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Entwicklung neuer Antriebssysteme wurde nicht als eine der sechs Hauptaufgaben genannt, die die Studenten lösen sollen."
+  },
+  "discussion": [
+    "Welche ethischen Fragen entstehen, wenn wir dauerhaft fremde Himmelskörper wie den Mond besiedeln?",
+    "Wie kann die internationale Zusammenarbeit bei solch großen, teuren Projekten wie einer Mondbasis am besten organisiert werden?"
+  ],
+  "publishedAt": "2026-11-17T11:05:19.205Z",
+  "sources": [
+    {
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-nasa-sucht-ideen-fuer-eine-mondbasis-was-muss-man-fuer-l.jpg",
+    "width": 960,
+    "height": 633,
+    "alt": "Konzeptzeichnung einer zukünftigen Mondbasis, die die Kolonisierung des Mondes darstellt.",
+    "credit": {
+      "title": "Lunar base concept drawing s78 23252.jpg",
+      "author": "unbekannt",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lunar_base_concept_drawing_s78_23252.jpg"
+    }
+  }
+}

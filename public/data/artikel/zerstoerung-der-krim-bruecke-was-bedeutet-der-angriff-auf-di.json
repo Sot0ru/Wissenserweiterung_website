@@ -1,0 +1,83 @@
+{
+  "id": "zerstoerung-der-krim-bruecke-was-bedeutet-der-angriff-auf-di",
+  "category": "politik",
+  "title": "Zerstörung der Krim-Brücke: Was bedeutet der Angriff auf die Infrastruktur?",
+  "teaser": "Die Krim-Brücke war ein großes Bauprojekt Russlands. Nun wurde sie teilweise zerstört – was sind die politischen und militärischen Folgen?",
+  "tags": [
+    "Konflikt",
+    "Infrastruktur",
+    "Ukraine",
+    "Russland",
+    "Internationales Recht"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Das ukrainische Militär hat einen Teil der Krim-Brücke beschädigt, die ursprünglich von Russland erbaut wurde.",
+    "Die Zerstörung beeinträchtigt die Verkehrsverbindungen und hat militärische Implikationen für die Versorgung der Besatzungstruppen.",
+    "Die Ukraine betrachtet das Bauwerk als illegal auf ihrem Staatsgebiet errichtet."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Bauwerk mit politischem Gewicht",
+      "paragraphs": [
+        "Die Krim-Brücke, die 19 Kilometer lang ist, war für Russland ein großes Prestigeprojekt. Sie wurde vier Jahre nach der völkerrechtswidrigen Annexion der Halbinsel Krim durch Russland fertiggestellt.",
+        "Diese Brücke dient im aktuellen Konflikt auch der Versorgung der Besatzungstruppen im Süden der Ukraine. Die Ukraine sieht dieses Bauwerk nicht als legal an, da es auf ihrem Staatsgebiet errichtet wurde, und versucht mehrfach, es zu beschädigen, um den Nachschub zu stören."
+      ]
+    },
+    {
+      "heading": "Der Angriff und seine Konsequenzen",
+      "paragraphs": [
+        "Der ukrainische Präsident Wolodymyr Selenskyj bestätigte, dass sein Militär einen Teil der Brücke beschädigt hat. Videoaufnahmen zeigen, dass einer der beiden Hauptbögen eingestürzt ist und Teile der Fahrbahn beschädigt sind.",
+        "Die Zerstörung versperrt nicht nur die Durchfahrt für Schiffe zwischen dem Schwarzen Meer und dem Asowschen Meer, sondern auch den Straßenverkehr. Laut russischen Angaben wurde der Verkehr über das Bauwerk eingestellt.",
+        "Ukrainische Quellen geben an, dass ein Marschflugkörper namens „FP-5 Flamingo“ die Brücke getroffen hat. Die Attacke gehörte zu einem größeren ukrainischen Luftangriff, bei dem das russische Verteidigungsministerium von 1.441 abgefangenen feindlichen Kampfdrohnen berichtete."
+      ]
+    },
+    {
+      "heading": "Reaktionen und weitere Entwicklungen",
+      "paragraphs": [
+        "Auf russischer Seite wurde der Vorfall von Kremlsprechern bestätigt. Vizeregierungschef Marat Chusnullin informierte Präsident Putin über die Lage. Das Staatliche Ermittlungskomitee hat ein Verfahren wegen „Terrorismus“ eröffnet.",
+        "Die Ukraine hat in der Vergangenheit auch andere kritische Infrastrukturen angegriffen. In der ukrainischen Hauptstadt Kiew wurden beispielsweise die Nord- und Südbrücke über den Dnipro beschädigt, was die Wasser- und Wärmeversorgung in Teilen der Stadt beeinträchtigte."
+      ]
+    }
+  ],
+  "whyItMatters": "Konflikte wie dieser zeigen, wie Infrastruktur zu einem Schlachtfeld wird. Für dich ist es wichtig zu verstehen, dass solche Bauwerke nicht nur Verkehrswege sind, sondern auch strategische Punkte in internationalen Auseinandersetzungen.",
+  "glossary": [
+    {
+      "term": "Völkerrechtswidrig",
+      "definition": "Etwas, das gegen die Regeln des internationalen Rechts verstößt, wie zum Beispiel eine Annexion ohne Zustimmung der internationalen Gemeinschaft."
+    },
+    {
+      "term": "Marschflugkörper",
+      "definition": "Eine Rakete, die über eine gewisse Distanz fliegt und oft von Flugzeugen oder anderen Waffensystemen gestartet wird."
+    },
+    {
+      "term": "Infrastruktur",
+      "definition": "Die grundlegenden Einrichtungen einer Gesellschaft, wie Straßen, Brücken, Energieversorgung oder Telekommunikation."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist die Hauptfunktion der Krim-Brücke im Kontext des Konflikts, laut der Ukraine?",
+    "options": [
+      "Sie ist ein rein architektonisches Denkmal ohne militärische Bedeutung.",
+      "Sie ist ein Bauwerk, das die Versorgung der Besatzungstruppen unterstützt.",
+      "Sie dient als Hauptroute für den zivilen Tourismus."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Ukraine betrachtet die Brücke als illegal und versucht, sie zu zerstören, um den russischen Nachschub zu blockieren."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Kontrolle über kritische Infrastruktur (wie Brücken oder Stromnetze) in modernen militärischen Konflikten?",
+    "Wie beeinflussen internationale Gesetze die Diskussion über Bauwerke, die in umstrittenen Gebieten errichtet wurden?"
+  ],
+  "publishedAt": "2026-11-17T11:26:49.885Z",
+  "sources": [
+    {
+      "title": "Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

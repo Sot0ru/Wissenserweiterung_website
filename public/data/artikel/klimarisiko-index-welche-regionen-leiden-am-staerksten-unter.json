@@ -1,0 +1,83 @@
+{
+  "id": "klimarisiko-index-welche-regionen-leiden-am-staerksten-unter",
+  "category": "wissenschaft",
+  "title": "Klimarisiko-Index: Welche Regionen leiden am stärksten unter Extremwetter?",
+  "teaser": "Dürren, Fluten und Stürme: Ein neuer Index zeigt, wo die Klimakrise gerade am härtesten zuschlägt. Er erfährt auch, wie stark Länder wie Deutschland betroffen sind.",
+  "tags": [
+    "Klimawandel",
+    "Umwelt",
+    "Extremwetter",
+    "Nachhaltigkeit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Ein neuer Klima-Risiko-Index (CRI) zeigt, dass Länder des Globalen Südens besonders stark von Extremwetter wie Dürren und Überschwemmungen betroffen sind.",
+    "Weltweit haben diese Wetterereignisse seit Mitte der 1990er-Jahre rund 916.000 Menschenleben gekostet und Schäden in Milliardenhöhe verursacht.",
+    "Auch in Europa steigen die Risiken, wobei Deutschland laut Index in den letzten 30 Jahren im oberen Viertel der Betroffenen war."
+  ],
+  "sections": [
+    {
+      "heading": "Die globale Lage: Wo trifft die Klimakrise am härtesten zu?",
+      "paragraphs": [
+        "Stürme, Hitzewellen und Dürren sind keine abstrakten Begriffe mehr. Ein neuer Klima-Risiko-Index (CRI), der von der Umwelt- und Entwicklungsorganisation Germanwatch vorgestellt wurde, beleuchtet, welche Länder am stärksten unter den Folgen der Klimakrise leiden.",
+        "Die Daten zeigen, dass Länder des Globalen Südens besonders anfällig sind. Das hat mehrere Gründe: Einerseits sind sie geografisch exponiert, andererseits verfügen sie über geringere Kapazitäten, sich an die Veränderungen anzupassen. In Honduras beispielsweise wurden seit 1995 über 60 extreme Wetterereignisse gemeldet, von denen fast 80 Prozent des Staatsgebiets von den Auswirkungen von El Niño betroffen sind.",
+        "Die Auswirkungen sind verheerend. Seit Mitte der 1990er-Jahre kamen weltweit rund 916.000 Menschen ums Leben. Die wirtschaftlichen Schäden allein belaufen sich auf 4,3 Billionen Euro."
+      ]
+    },
+    {
+      "heading": "Hitzewellen und die Situation in Europa",
+      "paragraphs": [
+        "Auch Europa ist nicht immun gegen diese Risiken. Der Index zeigt, dass die Hitzewellen immer häufiger und extremer werden, was besonders in Europa spürbar ist, da der Kontinent sich schnell erwärmt.",
+        "Im vergangenen Jahr verzeichnete die Welt weltweit 367 Extremwetterereignisse, die fast 35.000 Menschenleben kosteten. Dabei gingen mehr als zwei Drittel der Todesfälle auf Hitzewellen zurück.",
+        "Auch Deutschland wird in diesem Kontext genannt. Laut dem CRI war Deutschland in den letzten 30 Jahren im oberen Viertel der Betroffenen – auf Platz 34. Die Ursachen hierfür waren unter anderem starke Hitzewellen und Überschwemmungen, wie sie beispielsweise im Ahrtal 2021 stattfanden. In Deutschland kamen in den letzten 30 Jahren laut Index über 33.000 Menschen bei Wetterextremen ums Leben; die meisten davon durch Hitze."
+      ]
+    },
+    {
+      "heading": "Was bedeutet das für die Zukunft?",
+      "paragraphs": [
+        "Die Erkenntnisse des Index zeigen, dass die Anpassung an den Klimawandel riesige finanzielle Mittel erfordert. Auf internationalen Klimakonferenzen wird daher intensiv darüber diskutiert, wer diese Kosten trägt.",
+        "Länder, die wenig zur Klimakrise beigetragen haben, fordern von Industriestaaten eine verstärkte Klimafinanzierung. Sie benötigen Mittel, um Schäden zu bewältigen, die nicht mehr verhindert werden können. Die Forderung lautet klar: Unterstützung für die Anpassung und den Umgang mit den bereits eingetretenen Verlusten."
+      ]
+    }
+  ],
+  "whyItMatters": "Als junge Generation seid ihr direkt von den Folgen des Klimawandels betroffen. Dieses Wissen hilft dir zu verstehen, warum Themen wie Klimaschutz, internationale Zusammenarbeit und Umweltpolitik so wichtig sind.",
+  "glossary": [
+    {
+      "term": "Extremwetterereignis",
+      "definition": "Ein Wetterereignis, das deutlich über das normale Maß hinausgeht, wie z. B. eine extreme Hitzewelle oder eine starke Überschwemmung."
+    },
+    {
+      "term": "Globaler Süden",
+      "definition": "Ein Sammelbegriff für Länder, die historisch weniger industrialisiert sind und oft stärker von den negativen Folgen des Klimawandels betroffen sind."
+    },
+    {
+      "term": "Klimafinanzierung",
+      "definition": "Mittel, die von wohlhabenderen Ländern oder Organisationen bereitgestellt werden, um ärmere Länder bei der Anpassung an den Klimawandel zu unterstützen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Wetterereignis trug laut dem Bericht am häufigsten zu den Todesfällen bei?",
+    "options": [
+      "Dürren",
+      "Stürme",
+      "Hitzewellen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut dem Text gingen mehr als zwei Drittel der gemeldeten Todesfälle auf Hitzewellen zurück."
+  },
+  "discussion": [
+    "Wie kann eine globale Gemeinschaft sicherstellen, dass Länder, die am wenigsten zur Klimakrise beigetragen haben, trotzdem die größten finanziellen Hilfen erhalten?",
+    "Welche Rolle spielt die individuelle Verantwortung im Vergleich zu staatlichen und internationalen Maßnahmen beim Kampf gegen die Klimakrise?"
+  ],
+  "publishedAt": "2026-11-17T10:56:07.390Z",
+  "sources": [
+    {
+      "title": "Neuer Climate Risk Index: Wo schlägt die Klimakrise besonders zu?",
+      "url": "https://www.tagesschau.de/wissen/klima/klimakrisen-laender-risiken-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

@@ -1,0 +1,95 @@
+{
+  "id": "holocaust-gedenktag-was-wir-ueber-die-ns-verfolgung-wissen",
+  "category": "geschichte",
+  "title": "Holocaust-Gedenktag: Was wir über die NS-Verfolgung wissen",
+  "teaser": "Der 27. Januar markiert einen wichtigen Tag in der Geschichte. Wir beleuchten, wie die systematische Verfolgung begann und was über die Lager bekannt ist.",
+  "tags": [
+    "NS-Zeit",
+    "Verfolgung",
+    "Zweite Weltkrieg",
+    "Massenverbrechen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der 27. Januar ist Gedenktag für die Befreiung des KZ Auschwitz durch die Rote Armee im Jahr 1945.",
+    "Die systematische Verfolgung, insbesondere der Juden, begann bereits 1933 im Rahmen des NS-Regimes.",
+    "Neben Auschwitz gab es zahlreiche Verbrechen, darunter erzwungene Medizinforschung und die Befreiung verschiedener Konzentrationslager."
+  ],
+  "sections": [
+    {
+      "heading": "Von der Verfolgung zum Gedenktag",
+      "paragraphs": [
+        "Der 27. Januar ist in Deutschland Gedenktag für die Befreiung des Konzentrationslagers Auschwitz durch die Rote Armee im Jahr 1945. Dieser Tag erinnert an die schreckliche Zeit der NS-Verfolgung.",
+        "Die systematische Verfolgung, die die Grundlage für die Verbrechen bildete, begann bereits 1933. Die Nationalsozialisten verfolgten gezielt bestimmte Gruppen, allen voran die Juden."
+      ]
+    },
+    {
+      "heading": "Die Mechanismen der Lager und Verbrechen",
+      "paragraphs": [
+        "Die Lager des NS-Regimes waren Orte extremer Gewalt. In Konzentrationslagern wie Buchenwald wurden Häftlinge nicht nur gefoltert, sondern auch Opfer von erzwungener Medizinforschung. Dazu gehörten Euthanasie-Opfer, Kriegsgefangene und Hingerichtete, von denen Körperteile entnommen wurden.",
+        "Die Befreiung von Lagern war oft ein brutaler Prozess. Kurz vor der Ankunft der Roten Armee im Januar 1945 wurden Zehntausende Häftlinge aus Auschwitz in andere Lager marschiert, wobei viele Menschen starben, wenn sie zusammenbrachen.",
+        "Neben den großen Lagern gab es auch andere Formen der Gewalt. Die Reichspogromnacht am 9. November 1938 markierte einen frühen und organisierten Höhepunkt der Judenverfolgung durch die Nationalsozialisten."
+      ]
+    },
+    {
+      "heading": "Wie funktionierte das System?",
+      "paragraphs": [
+        "Das gesamte System war hochkomplex. Es gab nicht nur die Lager selbst, sondern auch administrative Strukturen, die die Verbrechen ermöglichten. Man spricht dabei von Logistikern des Todes, wie sie beispielsweise in der Wannsee-Konferenz geplant wurden.",
+        "Die SS-Männer, die in diesen Lagern arbeiteten oder sie verwalteten, hatten unterschiedliche Karrierewege. Neue Einblicke, etwa durch das Studium von Fotoalben aus Lagern wie Lichtenburg, zeigen, wie sich Menschen in diese Rolle des Täters bewegten.",
+        "Auch die medizinische Seite war Teil dieser Ideologie. Ärzte, die im NS-Staat arbeiteten, standen oft zwischen ihrem hippokratischen Eid und der Ideologie des Regimes."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis dieser historischen Ereignisse ist wichtig, weil es uns hilft, die Mechanismen von Hass und Macht zu erkennen. Es zeigt, wie staatliche Strukturen selbst normale Menschen in Täter verwandeln können.",
+  "glossary": [
+    {
+      "term": "Konzentrationslager (KZ)",
+      "definition": "Lager, die vom NS-Regime zur Inhaftierung, Zwangsarbeit und Vernichtung von politischen Gegnern und Minderheiten genutzt wurden."
+    },
+    {
+      "term": "Euthanasie-Opfer",
+      "definition": "Menschen, die im Rahmen staatlich organisierter Tötungsaktionen aufgrund ihrer vermeintlichen Behinderung oder Krankheit getötet wurden."
+    },
+    {
+      "term": "Rote Armee",
+      "definition": "Die Streitkräfte der Sowjetunion, die 1945 viele deutsche Konzentrationslager befreiten."
+    }
+  ],
+  "quiz": {
+    "question": "Wann begann die systematische Verfolgung, die später zum Holocaust führte?",
+    "options": [
+      "1945",
+      "1938",
+      "1933"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut der Quelle begann die systematische Verfolgung bereits 1933."
+  },
+  "discussion": [
+    "Welche Rolle spielen öffentliche Erinnerung und Gedenken bei der Aufarbeitung von Massengräueltaten in einer Gesellschaft?",
+    "Wie kann ein Staat verhindern, dass sich extremistische Ideologien, die zu Verfolgung führen, erneut durchsetzen?"
+  ],
+  "publishedAt": "2026-11-17T11:36:21.309Z",
+  "sources": [
+    {
+      "title": "Holocaust",
+      "url": "https://www.mdr.de/geschichte/ns-zeit/holocaust",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/holocaust-gedenktag-was-wir-ueber-die-ns-verfolgung-wissen.jpg",
+    "width": 960,
+    "height": 632,
+    "alt": "Häftlinge im Konzentrationslager Auschwitz bei der Befreiung durch die Rote Armee im Januar 1945.",
+    "credit": {
+      "title": "Auschwitz Liberated January 1945.jpg",
+      "author": "Unknown, assumed to be the work of the Red Army",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auschwitz_Liberated_January_1945.jpg"
+    }
+  }
+}

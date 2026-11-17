@@ -1,0 +1,88 @@
+{
+  "id": "vitamin-b12-koennte-bei-seltenen-erbkrankheiten-helfen",
+  "category": "wissenschaft",
+  "title": "Vitamin B12 könnte bei seltenen Erbkrankheiten helfen",
+  "teaser": "Forscher haben herausgefunden, dass Vitamin B12 Entwicklungsstörungen bei Würmern korrigieren kann. Was bedeutet das für die Medizin?",
+  "tags": [
+    "Genetik",
+    "Metabolismus",
+    "Ernährung",
+    "Krankheitsforschung",
+    "Biologie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher konnten zeigen, dass Vitamin B12 Entwicklungsstörungen bei Würmern, die eine genetische Mutation tragen, umkehren kann.",
+    "Diese Würmer dienten als Modell für Verheij-Syndrom, eine seltene menschliche Erkrankung mit Wachstumsstörungen.",
+    "Die Ergebnisse deuten darauf hin, dass Vitamin B12 eine Rolle bei Stoffwechselprozessen spielt, die bei diesen Erbkrankheiten gestört sind."
+  ],
+  "sections": [
+    {
+      "heading": "Wie funktioniert die genetische Bauanleitung?",
+      "paragraphs": [
+        "Um zu verstehen, wie Vitamin B12 helfen könnte, schauen Wissenschaftler auf einen grundlegenden Prozess in unseren Zellen: das RNA-Splicing. Stell dir die DNA als Bauplan vor. Dieser Bauplan wird in Botenmoleküle (Messenger-RNA) übersetzt, die die Anweisungen für Proteine enthalten. RNA-Splicing ist dabei eine wichtige Nachbearbeitung.",
+        "Bei diesem Prozess werden unnötige Teile der RNA entfernt und die verbleibenden Abschnitte richtig zusammengefügt. Wenn diese „Zuschneidearbeit“ durch eine genetische Mutation fehlerhaft wird, können lebenswichtige Zellfunktionen gestört werden. Das kann zu schweren Entwicklungsstörungen führen, wie sie beispielsweise beim Verheij-Syndrom auftreten."
+      ]
+    },
+    {
+      "heading": "Die Entdeckung im Würmer-Modell",
+      "paragraphs": [
+        "Die Forscher nutzten den kleinen Rundwurm *C. elegans* als Modellorganismus. Sie untersuchten eine Mutation in einem Gen, das für das RNA-Splicing zuständig ist und mit dem Verheij-Syndrom in Menschen in Verbindung gebracht wird. Würmer mit dieser Mutation zeigten Probleme, die denen der menschlichen Erkrankung ähnelten: ihr Wachstum verlangsamte sich und sie blieben kleiner als normal.",
+        "Durch die Analyse des Stoffwechsels (Metabolismus) der Würmer fanden die Wissenschaftler heraus, dass die Mutation bestimmte Stoffwechselwege störte, die Vitamin B12 benötigen. Überraschend war, dass die Gabe von zusätzlichem Vitamin B12 diese Stoffwechselprozesse normalisierte und die Entwicklungsstörungen im Wurmmodell korrigierte.",
+        "Diese Beobachtung wurde mit menschlichen Daten verglichen. Untersuchungen an Blutproben von Patienten mit Verheij-Syndrom zeigten ähnliche Stoffwechselveränderungen. Bisher ist aber noch nicht geklärt, ob eine Vitamin-B12-Zufuhr bei Menschen die Symptome lindern kann. Weitere Studien sind nötig."
+      ]
+    }
+  ],
+  "whyItMatters": "Seltene genetische Erkrankungen sind oft schwer zu behandeln, weil die Ursache sehr spezifisch ist. Wenn Vitamine wie B12 eine Rolle bei der Korrektur von Stoffwechselstörungen spielen, eröffnet das neue Wege für Therapien, die über das reine Symptommanagement hinausgehen.",
+  "glossary": [
+    {
+      "term": "RNA-Splicing",
+      "definition": "Ein Prozess, bei dem unnötige Teile der Boten-RNA entfernt und die wichtigen Teile zusammengefügt werden, um die korrekte Bauanleitung für Proteine zu erstellen."
+    },
+    {
+      "term": "Metabolismus",
+      "definition": "Die Gesamtheit aller chemischen Reaktionen in einer Zelle oder einem Organismus, die für Wachstum und Energiebereitstellung notwendig sind."
+    },
+    {
+      "term": "Modellorganismus",
+      "definition": "Ein Lebewesen (wie der Rundwurm), das in einem Labor gezüchtet wird, um komplexe biologische Prozesse oder Krankheiten zu untersuchen, weil es ähnliche Merkmale wie der Mensch hat."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Prozess in den Zellen wird durch die genetische Mutation beim Verheij-Syndrom gestört und ist für die korrekte Proteinproduktion wichtig?",
+    "options": [
+      "Die Zellatmung",
+      "Die DNA-Replikation",
+      "Das RNA-Splicing"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Forscher untersuchten, wie eine Mutation im Gen, das für das RNA-Splicing zuständig ist, die Entwicklung beeinflusst."
+  },
+  "discussion": [
+    "Wie könnte die Forschung an einem einfachen Modellorganismus wie dem Rundwurm uns helfen, komplexere menschliche Krankheiten zu verstehen?",
+    "Welche ethischen Überlegungen ergeben sich, wenn wir versuchen, genetische Krankheiten durch Ernährungsumstellungen oder Nahrungsergänzungsmittel zu behandeln?"
+  ],
+  "publishedAt": "2026-11-17T10:50:29.342Z",
+  "sources": [
+    {
+      "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/vitamin-b12-koennte-bei-seltenen-erbkrankheiten-helfen.jpg",
+    "width": 960,
+    "height": 634,
+    "alt": "Lebende C. elegans Würmer mit GFP-Markierung zur Visualisierung der neuronalen Entwicklung.",
+    "credit": {
+      "title": "Varbuss.jpg",
+      "author": "Heiti Paves",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Varbuss.jpg"
+    }
+  }
+}
