@@ -1,0 +1,82 @@
+{
+  "id": "wie-cannabis-angst-im-gehirn-ausloesen-kann",
+  "category": "wissenschaft",
+  "title": "Wie Cannabis Angst im Gehirn auslösen kann",
+  "teaser": "Ein Stoff, der entspannen soll, kann unter Stress Angst auslösen. Forscher haben herausgefunden, welche Gehirnzellen dabei eine Rolle spielen.",
+  "tags": [
+    "Gehirn",
+    "Neurobiologie",
+    "Stoffe",
+    "Angst",
+    "Wirkstoffe"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Cannabinoide, die psychoaktiven Bestandteile von Cannabis, können unter Stress die Angst verstärken.",
+    "Forscher identifizierten bestimmte Neuronen in der zentralen Amygdala, die für die Angstreaktion zuständig sind.",
+    "Die Wirkung des Stoffes schwächt eine natürliche „Bremse“ dieser Zellen ab, was zu übermäßiger Aktivität und Angst führt."
+  ],
+  "sections": [
+    {
+      "heading": "Die „Bremse“ im Gehirn: Was passiert bei Angst?",
+      "paragraphs": [
+        "Cannabis kann für manche Menschen eine entspannende Erfahrung sein. Doch bei anderen kann es, besonders wenn Stress hinzukommt, schnell zu intensiver Angst führen. Neurowissenschaftler haben nun spezifische Gehirnzellen identifiziert, die diesen Mechanismus erklären könnten.",
+        "Die Forschung konzentriert sich auf die zentrale Amygdala. Das ist ein Bereich im Gehirn, der für die Verarbeitung von Angst und Stress zuständig ist. In diesem Bereich gibt es eine bestimmte Gruppe von Nervenzellen, sogenannte Somatostatin-Neuronen.",
+        "Diese Neuronen spielen eine wichtige Rolle bei der Angstantwort. Die Studie zeigte, dass Cannabinoide, wie THC (der Hauptwirkstoff in Cannabis), eine natürliche Funktion dieser Zellen abschwächen. Man kann sich das wie eine Bremse vorstellen, die normalerweise die Aktivität dieser Neuronen kontrolliert."
+      ]
+    },
+    {
+      "heading": "Experimente mit Mäusen zeigen den Mechanismus",
+      "paragraphs": [
+        "Um diesen Vorgang zu untersuchen, nutzten Wissenschaftler Mäuse. Sie setzten die Tiere einem bedrohlichen Geruch aus, der von Fuchsurin stammte. Vorher erhielten die Mäuse entweder einen Placebo oder synthetische Cannabinoide.",
+        "Die Ergebnisse zeigten, dass Mäuse, die die Cannabinoide erhielten, häufiger erstarrten und weniger Zeit mit der Untersuchung des Raubtiergeruchs verbrachten – typische Anzeichen für Angst.",
+        "Als die Forscher diese Somatostatin-Neuronen genetisch stilllegten, veränderten sich die Verhaltensmuster der Mäuse. Die Tiere, die die Cannabinoide bekamen, zeigten weniger Vermeidung des Geruchs. Das deutet darauf hin, dass diese Zellen entscheidend für die Entstehung der Angstreaktion sind.",
+        "Darüber hinaus zeigten die Untersuchungen, dass die Cannabinoide die Kommunikation zwischen den Neuronen veränderten. Hohe Dosen von Cannabinoiden in Kombination mit Umweltstress könnten diese „Bremse“ auf der zentralen Amygdala so stark lösen, dass übermäßige Angst entsteht."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Wissen ist wichtig, weil Cannabis-Konsum in den letzten Jahren zugenommen hat und auch die Besuche in Notaufnahmen wegen unerwünschter Wirkungen gestiegen sind. Das Verständnis der Hirnmechanismen hilft, mögliche negative Folgen besser einzuschätzen.",
+  "glossary": [
+    {
+      "term": "Cannabinoide",
+      "definition": "Eine Gruppe von Substanzen, die in Cannabis vorkommen, darunter THC, der psychoaktive Hauptbestandteil."
+    },
+    {
+      "term": "Neuronen",
+      "definition": "Die Nervenzellen des Gehirns, die elektrische Signale übertragen und für alle Funktionen zuständig sind."
+    },
+    {
+      "term": "Zentrale Amygdala",
+      "definition": "Ein Bereich im Gehirn, der eine zentrale Rolle bei der Verarbeitung von Angst und Stress spielt."
+    },
+    {
+      "term": "Placebo",
+      "definition": "Eine Substanz, die keine aktive Wirkung hat, aber in einer Studie verwendet wird, um die Wirkung eines echten Medikaments zu vergleichen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Funktion wird laut der Studie durch die Somatostatin-Neuronen in der zentralen Amygdala beeinflusst?",
+    "options": [
+      "Die Fähigkeit, geruchliche Eindrücke zu verarbeiten.",
+      "Die Steuerung der motorischen Bewegungen des Körpers.",
+      "Eine natürliche Bremse, die die Angstreaktion kontrolliert."
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Neuronen spielen die Rolle einer natürlichen Bremse, deren Abschwächung durch Cannabinoide die Angst verstärkt."
+  },
+  "discussion": [
+    "Wie beeinflusst das Wissen über Neurotransmitter und Hirnmechanismen unsere Sicht auf das Risiko von Substanzkonsum?",
+    "Wenn bestimmte Gehirnregionen für Angst verantwortlich sind, welche ethischen Fragen ergeben sich dann bezüglich Therapieansätzen?"
+  ],
+  "publishedAt": "2026-11-18T10:59:07.690Z",
+  "sources": [
+    {
+      "title": "What happens in the brain when cannabis makes you anxious?",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261003234021.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

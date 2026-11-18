@@ -1,0 +1,93 @@
+{
+  "id": "was-wollen-junge-menschen-von-der-politik-proteste-und-forde",
+  "category": "politik",
+  "title": "Was wollen junge Menschen von der Politik? Proteste und Forderungen",
+  "teaser": "Jugendproteste fordern mehr Mitsprache in Politik und Gesellschaft. Welche Themen stehen auf der Agenda und wie reagieren die Parteien?",
+  "tags": [
+    "Jugend",
+    "Demokratie",
+    "Soziales",
+    "Klima"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Junge Menschen protestieren mit der Initiative „Gen Z regelt“ für mehr Gehör in Politik, Bildung und Klimaschutz.",
+    "Politikerinnen und -politiker zeigen Verständnis für das Recht auf Protest, aber es gibt auch Kritik an der Gewalt am Rande der Demos.",
+    "Experten betonen, dass die Politik Nachholbedarf hat, um die Anliegen der jungen Generation ernst zu nehmen."
+  ],
+  "sections": [
+    {
+      "heading": "Warum gehen junge Menschen auf die Straße?",
+      "paragraphs": [
+        "In jüngster Zeit haben junge Menschen in Deutschland verstärkt Proteste organisiert. Die Initiative „Gen Z regelt“ bündelt Forderungen nach mehr Einfluss und besseren Rahmenbedingungen für die nächste Generation. Die zentralen Themen sind dabei vielfältig: Es geht um mehr finanzielle Mittel für Schulen, Maßnahmen gegen die steigenden Lebenshaltungskosten, soziale Gerechtigkeit und einen stärkeren Klimaschutz.",
+        "Jugendforscher beobachten, dass viele junge Menschen das Vertrauen in die politische Mitte verloren haben. Sie merken, dass ihre Stimme im politischen Alltag oft wenig Gewicht hat. Dieses Gefühl der Entfremdung treibt viele dazu, aktiv auf die Straße zu gehen, um gehört zu werden."
+      ]
+    },
+    {
+      "heading": "Zwischen Protest und Kritik: Die Debatte um Demos",
+      "paragraphs": [
+        "Die Proteste werden von verschiedenen politischen Lagern beachtet. Vertreterinnen verschiedener Parteien äußern Verständnis dafür, dass junge Menschen ihre Sorgen artikulieren dürfen, da friedlicher Protest ein Zeichen einer lebendigen Demokratie sei. Allerdings gab es Ende Oktober bei einigen Kundgebungen auch massive Gewalt am Rande der Demonstrationen.",
+        "Diese Gewalt führte zu Forderungen nach Demo-Verboten. Einige Überlegungen innerhalb der Union wurden kritisch beäugnet. Jugendforscher warnen vor solchen pauschalen Verboten, da sie die Möglichkeit zur politischen Artikulation komplett unterbinden würden. Sie betonen, dass die jungen Menschen sich ein Mitspracherecht wünschen, nicht eine Unterdrückung."
+      ]
+    },
+    {
+      "heading": "Was muss die Politik ändern?",
+      "paragraphs": [
+        "Obwohl bereits Maßnahmen wie die Reform für einen günstigeren Führerschein oder massive Investitionen in Bildung auf den Weg gebracht wurden, räumt eine Unionsfraktionsvize ein, dass die Politik noch nicht am Ziel sei. Die Forderung lautet klar: Es braucht mehr als nur einzelne Projekte. Die Politik muss sich inhaltlich mit den Anliegen der jungen Generation auseinandersetzen.",
+        "Während einige Politikerinnen die Proteste unterstützen, gab es auch kontroverse Äußerungen zu den beteiligten Gruppen. Experten betonen jedoch, dass die Diskussion sich nicht nur auf die Gewalt am Rande konzentrieren darf, sondern auch auf die grundsätzliche Notwendigkeit, die Belange junger Menschen ernst zu nehmen."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es zeigt, wie junge Menschen ihre Zukunft aktiv mitgestalten wollen. Es geht darum, wie Demokratie funktioniert: Wie bringt man die Stimme der Jugend in die politische Entscheidungsfindung ein?",
+  "glossary": [
+    {
+      "term": "Initiative",
+      "definition": "Eine organisierte Gruppe von Menschen, die ein bestimmtes Anliegen oder Ziel verfolgt und dafür öffentlich aktiv wird."
+    },
+    {
+      "term": "Lebenshaltungskosten",
+      "definition": "Die Kosten, die für den täglichen Lebensunterhalt anfallen, wie Miete, Essen oder Energie."
+    },
+    {
+      "term": "Artikulieren",
+      "definition": "Seine Gedanken, Wünsche oder Kritik klar und deutlich äußern."
+    }
+  ],
+  "quiz": {
+    "question": "Welches zentrale Anliegen wird von der Initiative „Gen Z regelt“ neben dem Klimaschutz gefordert?",
+    "options": [
+      "Eine sofortige Einführung der Wehrpflicht",
+      "Ein vollständiges Verbot aller politischen Kundgebungen",
+      "Mehr Gehör für die Belange junger Menschen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Initiative fordert unter anderem mehr Gehör für die Belange junger Menschen, was in den Texten erwähnt wird."
+  },
+  "discussion": [
+    "Wie kann Politik sicherstellen, dass die Anliegen junger Menschen gehört werden, ohne dass Proteste pauschal unterdrückt werden?",
+    "Welche Rolle spielt das Vertrauen in die Politik für die Bereitschaft junger Menschen, sich politisch zu engagieren?"
+  ],
+  "publishedAt": "2026-11-18T11:05:53.155Z",
+  "sources": [
+    {
+      "title": "Unions-Fraktionsvize sieht Nachholbedarf bei Politik für junge Menschen",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-union-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/was-wollen-junge-menschen-von-der-politik-proteste-und-forde.jpg",
+    "width": 960,
+    "height": 643,
+    "alt": "Junge Menschen bei einer FridaysForFuture-Demonstration in Berlin, die für Klimaschutz protestieren.",
+    "credit": {
+      "title": "FridaysForFuture protest Berlin 2023-02-10 260.jpg",
+      "author": "Leonhard Lenz",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FridaysForFuture_protest_Berlin_2023-02-10_260.jpg"
+    }
+  }
+}

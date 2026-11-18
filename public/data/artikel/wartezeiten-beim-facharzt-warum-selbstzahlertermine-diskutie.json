@@ -1,0 +1,86 @@
+{
+  "id": "wartezeiten-beim-facharzt-warum-selbstzahlertermine-diskutie",
+  "category": "medizin",
+  "title": "Wartezeiten beim Facharzt: Warum Selbstzahlertermine diskutiert werden",
+  "teaser": "Kürzungen bei Arztvergütungen könnten zu längeren Wartezeiten führen. Was bedeutet das für Patienten und warum wird die Selbstzahleroption diskutiert?",
+  "tags": [
+    "Gesundheit",
+    "Krankenversicherung",
+    "Facharzt",
+    "Wirtschaft"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Geplante Kürzungen der Vergütung für Arztpraxen könnten zu längeren Wartezeiten für Patienten mit gesetzlicher Krankenversicherung führen.",
+    "Als Reaktion darauf wird die Möglichkeit von Selbstzahlerterminen diskutiert, was Kritik hervorruft.",
+    "Die Debatte beleuchtet strukturelle Probleme im Gesundheitssystem, die bereits länger bestehen."
+  ],
+  "sections": [
+    {
+      "heading": "Was steckt hinter den Kürzungen?",
+      "paragraphs": [
+        "Die Diskussion im Gesundheitswesen dreht sich momentan um geplante Kürzungen bei der Vergütung von Arztpraxen. Der Chef der Kassenärztlichen Vereinigungen, Andreas Gassen, warnt vor den möglichen Folgen dieser Sparmaßnahmen. Konkret sieht er eine Zunahme der Wartezeiten für Patienten, die über die gesetzliche Krankenversicherung laufen.",
+        "Gassen sieht auch eine steigende Zahl von Selbstzahlerterminen. Das bedeutet, dass Patienten, die schneller einen Termin beim Facharzt bekommen möchten, die Kosten für diese Behandlung selbst tragen müssen. Diese Entwicklung sorgt in der Öffentlichkeit für heftige Kritik."
+      ]
+    },
+    {
+      "heading": "Die Debatte um die „Dreiklassenmedizin“",
+      "paragraphs": [
+        "Die Kritik richtet sich oft gegen das Konzept der sogenannten „Dreiklassenmedizin“. Dieses Modell besagt, dass die Qualität oder die Zugänglichkeit medizinischer Leistungen von der Zahlungsfähigkeit des Patienten abhängt. Wenn nur diejenigen schneller Termine bekommen, die bereit sind, privat zu zahlen, entsteht der Eindruck einer Zwei- oder Dreigliedrigkeit im Gesundheitssystem.",
+        "Hinter der aktuellen Debatte stecken jedoch laut Experten strukturelle Probleme, die schon länger bestehen. Dazu gehören nicht nur die finanziellen Rahmenbedingungen für Ärzte, sondern auch die allgemeine Versorgungsdichte in bestimmten Regionen."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema betrifft dich direkt, weil es die Zugänglichkeit medizinischer Versorgung angeht. Wenn Wartezeiten länger werden oder nur zahlungskräftige Patienten schneller behandelt werden, wirkt sich das auf die Gesundheitsversorgung aller aus. Es ist wichtig zu verstehen, wie unser Gesundheitssystem finanziert und organisiert ist.",
+  "glossary": [
+    {
+      "term": "Kassenärztliche Vereinigung",
+      "definition": "Eine Organisation, die die Interessen der niedergelassenen Ärzte vertritt und die ärztliche Versorgung in einer Region koordiniert."
+    },
+    {
+      "term": "Vergütung",
+      "definition": "Der finanzielle Betrag, den Krankenkassen an Ärzte für erbrachte Leistungen zahlen."
+    },
+    {
+      "term": "Selbstzahlertermin",
+      "definition": "Ein Arzttermin, dessen Kosten der Patient vollständig selbst trägt, anstatt sie über die gesetzliche Krankenversicherung abgerechnet zu bekommen."
+    }
+  ],
+  "quiz": {
+    "question": "Was war laut dem Kassenärzte-Chef Andreas Gassen eine mögliche Folge der geplanten Kürzungen bei der Arztvergütung?",
+    "options": [
+      "Eine vollständige Abschaffung der gesetzlichen Krankenversicherung.",
+      "Eine Verbesserung der allgemeinen Wartezeiten für alle Patienten.",
+      "Eine Zunahme der Wartezeiten und mehr Selbstzahlertermine."
+    ],
+    "answerIndex": 2,
+    "explanation": "Andreas Gassen warnt vor längeren Wartezeiten und mehr Selbstzahlerterminen."
+  },
+  "discussion": [
+    "Wie glaubst du, sollte das Gesundheitssystem finanziert werden, um sowohl eine hohe Qualität als auch eine faire Zugänglichkeit für alle zu gewährleisten?",
+    "Welche Rolle spielen strukturelle Probleme (wie Versorgungsdichte) im Vergleich zu finanziellen Entscheidungen bei der Qualität der medizinischen Versorgung?"
+  ],
+  "publishedAt": "2026-11-18T11:11:03.376Z",
+  "sources": [
+    {
+      "title": "Schneller zum Facharzt – aber nur, wer selbst zahlt?",
+      "url": "https://www.deutschlandfunk.de/selbstzahler-facharzttermin-kassenpatienten-wartezeit-100.html",
+      "publisher": "Deutschlandfunk"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wartezeiten-beim-facharzt-warum-selbstzahlertermine-diskutie.jpg",
+    "width": 960,
+    "height": 641,
+    "alt": "Wartebereich in einem Krankenhaus in Kamerun, illustriert die Wartezeit bei Fachärzten.",
+    "credit": {
+      "title": "Salle d'attente consultation externe Hôpital Laquintinie Cameroun 46.jpg",
+      "author": "Happi Raphael",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salle_d%27attente_consultation_externe_H%C3%B4pital_Laquintinie_Cameroun_46.jpg"
+    }
+  }
+}

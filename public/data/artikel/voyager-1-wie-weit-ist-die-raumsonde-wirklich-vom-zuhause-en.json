@@ -1,0 +1,92 @@
+{
+  "id": "voyager-1-wie-weit-ist-die-raumsonde-wirklich-vom-zuhause-en",
+  "category": "astronomie",
+  "title": "Voyager 1: Wie weit ist die Raumsonde wirklich vom Zuhause entfernt?",
+  "teaser": "Nach fast 50 Jahren Reise ist Voyager 1 ein beeindruckendes Zeugnis menschlicher Ingenieurskunst. Wir erklären, was ein Lichttag bedeutet und wo sich die Sonde befindet.",
+  "tags": [
+    "Weltall",
+    "Raumfahrt",
+    "Physik",
+    "Sonnensystem"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die Raumsonde Voyager 1 ist seit fast 50 Jahren unterwegs und hat die äußeren Planeten unseres Sonnensystems erforscht.",
+    "Sie befindet sich mittlerweile im sogenannten interstellaren Raum, jenseits des Einflusses des Sonnenwindes.",
+    "Die Reise wird durch die Trägheit des Körpers angetrieben und die Instrumente arbeiten noch, aber der Strom geht langsam zur Neige."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Lichttag – so groß ist die Distanz",
+      "paragraphs": [
+        "Wenn wir über riesige Entfernungen im Weltall sprechen, nutzen wir oft die Geschwindigkeit des Lichts als Maßstab. Stell dir vor, Licht braucht von der Sonne zur Erde etwa 8,5 Minuten. Das bedeutet, die Sonne ist ungefähr 8,5 Lichtminuten von uns entfernt.",
+        "Die Raumsonde Voyager 1 ist heute einen ganzen Lichttag von der Erde entfernt. Das entspricht einer Strecke von rund 26 Milliarden Kilometern. Das ist mehr als 170-mal so weit wie die Sonne von uns entfernt.",
+        "Damit du dir das vorstellen kannst: Wenn ein Funksignal von der Sonde zur Erde gesendet wird, braucht es genau einen Tag, um bei uns anzukommen. Diese Mission, die Voyager 1 und Voyager 2 durchführen, begann 1977 und zielte darauf ab, die vier äußeren Planeten – Jupiter, Saturn, Uranus und Neptun – zu erkunden."
+      ]
+    },
+    {
+      "heading": "Von den Planeten in den interstellaren Raum",
+      "paragraphs": [
+        "Die Sonden haben ihre Hauptziele erreicht, aber sie stoppen nicht. Sie fliegen weiter in die Tiefen des Weltalls. Ein wichtiger Meilenstein war das Überschreiten der Heliopause. Das ist eine Grenzschicht, an der der Sonnenwind praktisch auf Null zurückgeht und der Einfluss der Sonne endet.",
+        "Voyager 1 hat diese Grenze bereits 2012 überschritten und befindet sich seitdem im interstellaren Raum. Wie kommt eine Sonde so weit? Hier kommt die Physik ins Spiel: Das Gesetz der Massenträgheit besagt, dass ein Körper, sobald er einmal beschleunigt wurde, weiterfliegt, solange keine äußere Kraft ihn stoppt oder abbremst.",
+        "Die Sonden werden durch eine radioaktive Energiequelle mit Strom versorgt. Doch dieser Strom geht langsam zur Neige. Experten schätzen, dass der Betrieb der wissenschaftlichen Instrumente voraussichtlich noch bis etwa 2030 dauern wird. Der letzte Funkkontakt könnte noch einige Jahre später stattfinden."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Missionen zeigen uns, wie weit unser Sonnensystem reicht und was außerhalb dieses Systems passiert. Sie geben uns wichtige Daten über die Materie und die physikalischen Gesetze im tiefen Weltall.",
+  "glossary": [
+    {
+      "term": "Lichttag",
+      "definition": "Die Zeit, die Licht benötigt, um eine bestimmte Strecke zurückzulegen. Ein Lichttag ist also die Strecke, die Licht in einem Tag zurücklegt."
+    },
+    {
+      "term": "Interstellare Raum",
+      "definition": "Der Raum zwischen den Sternen. Er liegt außerhalb des Einflusses eines einzelnen Sterns, wie unserer Sonne."
+    },
+    {
+      "term": "Massenträgheit",
+      "definition": "Ein physikalisches Prinzip, das besagt, dass ein bewegter Körper seine Bewegung beibehält, solange keine Kraft auf ihn einwirkt."
+    },
+    {
+      "term": "Heliopause",
+      "definition": "Die äußere Grenze des Einflussbereichs eines Sterns, wo der Sonnenwind stoppt."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist die ungefähre Entfernung der Sonne von der Erde in Lichtminuten?",
+    "options": [
+      "8,5 Lichtminuten",
+      "26 Milliarden Kilometer",
+      "Ein Lichttag"
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut Text benötigt Licht von der Sonne zur Erde etwa 8,5 Minuten, was 8,5 Lichtminuten entspricht."
+  },
+  "discussion": [
+    "Welche ethischen Überlegungen ergeben sich daraus, dass wir mit der Voyager Golden Record eine Botschaft an mögliche außerirdische Zivilisationen senden?",
+    "Wie beeinflusst die Erkenntnis über die Trägheit, dass ein Körper weiterfliegt, unser Verständnis von Bewegung und Energie im Universum?"
+  ],
+  "publishedAt": "2026-11-18T10:32:13.160Z",
+  "sources": [
+    {
+      "title": "So weit wie noch nie: Raumsonde \"Voyager 1\" - einen Lichttag von Erde entfernt",
+      "url": "https://www.tagesschau.de/wissen/technologie/voyager-1-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/voyager-1-wie-weit-ist-die-raumsonde-wirklich-vom-zuhause-en.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Künstlerische Darstellung der Voyager-Sonde, die durch den Weltraum rast.",
+    "credit": {
+      "title": "NASA’s Voyager Probe Speeds Through Space (Artist’s Concept) (PIA26353).jpg",
+      "author": "NASA/JPL-Caltech",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Voyager_Probe_Speeds_Through_Space_(Artist%E2%80%99s_Concept)_(PIA26353).jpg"
+    }
+  }
+}

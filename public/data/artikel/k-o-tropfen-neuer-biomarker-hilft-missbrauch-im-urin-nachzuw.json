@@ -1,0 +1,90 @@
+{
+  "id": "k-o-tropfen-neuer-biomarker-hilft-missbrauch-im-urin-nachzuw",
+  "category": "medizin",
+  "title": "K.o.-Tropfen: Neuer Biomarker hilft, Missbrauch im Urin nachzuweisen",
+  "teaser": "K.o.-Tropfen sind schwer nachweisbar, da sie schnell im Körper abgebaut werden. Neue Forschungsergebnisse könnten das ändern und Tätern helfen, aufgedeckt zu werden.",
+  "tags": [
+    "Forensik",
+    "Substanznachweis",
+    "Gesundheit",
+    "Rechtsmedizin",
+    "Drogen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "K.o.-Tropfen, wie GHB, sind oft schwer nachzuweisen, weil sie schnell im Körper abgebaut werden und nach wenigen Stunden nicht mehr in Blut oder Urin feststellbar sind.",
+    "Forscher der Universität Zürich haben einen Biomarker namens GHB-Pentose entdeckt, der beim Abbau der K.o.-Tropfen entsteht.",
+    "Dieser Biomarker kann im Urin bis zu drei Tage nach dem Missbrauch nachgewiesen werden und hilft, Verdachtsfälle aufzuklären."
+  ],
+  "sections": [
+    {
+      "heading": "Die unsichtbare Gefahr: Warum K.o.-Tropfen so schwer zu beweisen sind",
+      "paragraphs": [
+        "Der Einsatz von K.o.-Tropfen bei Übergriffen ist extrem gefährlich für die Opfer. Das Problem ist oft der Nachweis. Tätern wird eine hohe Haftstrafe drohen, aber es ist bislang schwierig, den Einsatz dieser Substanzen juristisch zu belegen.",
+        "Substanzen wie GHB, das auch als „Liquid Ecstasy“ bekannt ist, wirken sehr schnell – innerhalb von zehn bis zwanzig Minuten – und können Opfer für zwei bis drei Stunden betäuben. Eine Überdosis kann lebensgefährlich sein, und die Betroffenen erleben oft einen sogenannten „Black Out“, bei dem sie nichts mehr erinnern.",
+        "Gerichtsmedizinerinnen bestätigen, dass die Droge im Körper schnell verstoffwechselt wird. Der Stoffwechsel wandelt das Mittel größtenteils in Wasser und Kohlendioxid um. Schon nach sechs bis maximal zwölf Stunden sind die K.o.-Tropfen im Körper so abgebaut, dass sie mit herkömmlichen Tests kaum noch nachweisbar sind."
+      ]
+    },
+    {
+      "heading": "Ein neuer Wegweiser: Der entdeckte Biomarker",
+      "paragraphs": [
+        "Hier kommt eine neue Entwicklung ins Spiel. Rechtsmedizinerinnen der Universität Zürich haben einen Biomarker gefunden, der mit dem Konsum von GHB zusammenhängt, aber viel länger nachweisbar ist als die Droge selbst. Dieser Marker heißt GHB-Pentose.",
+        "GHB-Pentose ist eine Verbindung von GHB mit dem Zucker Ribose. Sie entsteht, wenn der Körper die K.o.-Tropfen abbaut. Die Forscher konnten diese Substanz im Urin von Personen nachweisen, denen GHB verabreicht wurde. Die Kontrollgruppe, die kein Mittel erhielt, zeigte diese Verbindung nicht.",
+        "Der große Vorteil: Die Zürcher Forschenden konnten diesen Biomarker im Urin sogar bis zu drei Tage nach dem Vorfall nachweisen. Studienleiterin Andrea Steuer erklärt, dass dies das Zeitfenster, um Missbrauch zu beweisen und Täter zu überführen, „deutlich größer“ macht.",
+        "Die Methode wurde bereits in der Praxis getestet. Bei einer zweiten Untersuchung von 2.400 Urinproben aus Gerichtsfällen konnten die Forscher GHB-Pentose in allen zuvor positiv getesteten Proben finden. Zudem konnten drei Verdachtsfälle – zwei Raubdelikte und ein mutmaßlicher sexueller Übergriff – mithilfe dieses Biomarkers aufgeklärt werden, obwohl die Proben erst 13 bis 16 Stunden nach dem Vorfall genommen wurden."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Wissen ist wichtig, weil es zeigt, wie Wissenschaft helfen kann, Ungerechtigkeit zu bekämpfen. Wenn es einfacher wird, solche Verbrechen juristisch zu beweisen, kann das die Sicherheit vieler Menschen erhöhen.",
+  "glossary": [
+    {
+      "term": "Biomarker",
+      "definition": "Eine messbare biologische Kennzahl im Körper, die auf einen bestimmten Zustand oder Prozess hinweist, in diesem Fall auf den Konsum einer Substanz."
+    },
+    {
+      "term": "GHB-Pentose",
+      "definition": "Eine spezifische Verbindung, die entsteht, wenn der Körper die K.o.-Tropfen (GHB) abbaut, und die als Nachweis dient."
+    },
+    {
+      "term": "Stoffwechsel",
+      "definition": "Der gesamte chemische Prozess im Körper, durch den Nahrung aufgenommen und in Energie oder andere Stoffe umgewandelt wird."
+    }
+  ],
+  "quiz": {
+    "question": "Wie lange können K.o.-Tropfen im Körper typischerweise nachweisbar sein, bevor sie größtenteils abgebaut sind?",
+    "options": [
+      "Bis zu zwölf Stunden",
+      "Bis zu drei Tage",
+      "Nur innerhalb von zehn Minuten"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Rechtsmedizinerin Andrea Steuer gab an, dass die K.o.-Tropfen schon nach sechs bis maximal zwölf Stunden im Körper abgebaut sind und nicht mehr nachzuweisen sind."
+  },
+  "discussion": [
+    "Wie verändert die Entwicklung in der Rechtsmedizin die Balance zwischen der Beweisführung in Strafverfahren und dem Schutz der Privatsphäre?",
+    "Welche Rolle spielt die schnelle Entwicklung wissenschaftlicher Methoden dabei, gesellschaftliche Probleme wie Kriminalität besser zu verstehen und zu bekämpfen?"
+  ],
+  "publishedAt": "2026-11-18T10:13:36.792Z",
+  "sources": [
+    {
+      "title": "K.o.-Tropfen: Neue Spur im Urin hilft beim Nachweis",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/neuer-biomarker-im-urin-hilft-ko-tropfen-nachzuweisen-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/k-o-tropfen-neuer-biomarker-hilft-missbrauch-im-urin-nachzuw.jpg",
+    "width": 960,
+    "height": 499,
+    "alt": "Labortechniker bereitet Urinproben in einem Toxikologielabor für den Drogen-Screening vor.",
+    "credit": {
+      "title": "US Navy 010717-N-1350W-002 Drug screening lab prepares samples.jpg",
+      "author": "U.S. Navy photo by Photographer’s Mate 2nd Class Jim Watson.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:US_Navy_010717-N-1350W-002_Drug_screening_lab_prepares_samples.jpg"
+    }
+  }
+}

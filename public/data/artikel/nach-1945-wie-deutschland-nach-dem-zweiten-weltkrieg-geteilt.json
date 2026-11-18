@@ -1,0 +1,86 @@
+{
+  "id": "nach-1945-wie-deutschland-nach-dem-zweiten-weltkrieg-geteilt",
+  "category": "geschichte",
+  "title": "Nach 1945: Wie Deutschland nach dem Zweiten Weltkrieg geteilt wurde",
+  "teaser": "Der Krieg endete 1945, doch die eigentliche Herausforderung begann erst danach. Er erfahre, wie die Besatzungsmächte Deutschland neu ordneten und zur Teilung führten.",
+  "tags": [
+    "Nachkriegszeit",
+    "Kalter Krieg",
+    "Deutschland",
+    "Besatzung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Nach Kriegsende 1945 teilten die Siegermächte Deutschland in vier Besatzungszonen auf, wobei die Entwicklung in den westlichen und sowjetischen Zonen stark auseinanderdriftete.",
+    "Die politischen Entscheidungen der Alliierten führten schließlich 1949 zur Gründung zweier deutscher Staaten.",
+    "Diese Zeit war geprägt von Vertreibungen, Bodenreformen und dem Beginn des Kalten Krieges."
+  ],
+  "sections": [
+    {
+      "heading": "Vom Kriegsende zur Teilung: Die ersten Jahre nach 1945",
+      "paragraphs": [
+        "Als der Zweite Weltkrieg 1945 endete, lag Deutschland in Trümmern. Die vier Alliierten – die Siegermächte – übernahmen die oberste Regierungsgewalt. Um das Land neu zu ordnen, teilten sie es in vier Besatzungszonen auf. Die Entwicklung in diesen Zonen verlief jedoch sehr unterschiedlich.",
+        "Besonders in der Sowjetischen Besatzungszone, die große Teile Mitteldeutschlands umfasste, veränderte sich die Gesellschaft grundlegend. Ein Beispiel dafür ist die Bodenreform: Im September 1945 wurden dort 3,3 Millionen Hektar Agrarflächen entschädigungslos enteignet und neu verteilt, unter dem Motto „Junkerland in Bauernhand“."
+      ]
+    },
+    {
+      "heading": "Politische Entscheidungen und der Kalte Krieg beginnt",
+      "paragraphs": [
+        "Die großen Entscheidungen wurden zum Beispiel im Sommer 1945 in Potsdam getroffen. Dort diskutierten die alliierten Sieger über Reparationen, Grenzverschiebungen und die Vertreibung von Millionen Menschen. Auch die Beneš-Dekrete führten dazu, dass Deutsche und Ungarn in der Tschechoslowakei zu rechtlosen Außenseitern wurden.",
+        "Die Spannungen zwischen den Besatzungsmächten nahmen zu. Die Entwicklung in der sowjetischen Zone wich stark von der im Westen ab. Diese Trennung mündete schließlich 1949 in der Entstehung zweier deutscher Staaten. Die Zeit der Besatzung und die anschließende Teilung legten den Grundstein für den Kalten Krieg."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Phase ist entscheidend, um zu verstehen, wie sich die heutige politische Landschaft Europas entwickelt hat. Sie zeigt, wie große internationale Entscheidungen das Leben von Millionen Menschen nachhaltig verändern können.",
+  "glossary": [
+    {
+      "term": "Besatzungszonen",
+      "definition": "Gebiete eines Landes, die von verschiedenen militärischen Siegermächten nach einem Krieg kontrolliert werden."
+    },
+    {
+      "term": "Entschädigungslos enteignet",
+      "definition": "Ein Vermögenswert (wie Land), der von einer staatlichen Macht genommen wird, ohne dass der ursprüngliche Besitzer dafür bezahlt wird."
+    },
+    {
+      "term": "Kalter Krieg",
+      "definition": "Ein Zeitraum intensiver politischer, ideologischer und militärischer Konfrontation zwischen den USA und der Sowjetunion, ohne dass es zu einem direkten Krieg kam."
+    }
+  ],
+  "quiz": {
+    "question": "Was war ein zentrales Ergebnis der Bodenreform in der Sowjetischen Besatzungszone im September 1945?",
+    "options": [
+      "Die Entschädigungslose Enteignung von 3,3 Millionen Hektar Agrarflächen.",
+      "Die Wiedereröffnung der Universität Jena für alle Bürger.",
+      "Die Gründung der ersten Konsumläden mit dem „K“-Logo."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Quelle nennt die Bodenreform und die Enteignung von 3,3 Millionen Hektar Agrarflächen."
+  },
+  "discussion": [
+    "Welche Rolle spielen internationale Abkommen (wie das Potsdamer Abkommen) bei der Gestaltung der nationalen Zukunft eines Landes nach einem großen Konflikt?",
+    "Wie beeinflusst die unterschiedliche Entwicklung in verschiedenen Regionen (wie Ost und West) langfristig die Beziehungen zwischen diesen Gebieten?"
+  ],
+  "publishedAt": "2026-11-18T11:16:47.457Z",
+  "sources": [
+    {
+      "title": "1945 - 1949",
+      "url": "https://www.mdr.de/geschichte/ns-zeit/zweiter-weltkrieg/nachkriegszeit",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/nach-1945-wie-deutschland-nach-dem-zweiten-weltkrieg-geteilt.jpg",
+    "width": 960,
+    "height": 722,
+    "alt": "Karte, die die politischen Teilungen Deutschlands nach dem Zweiten Weltkrieg darstellt.",
+    "credit": {
+      "title": "\"Germany - Political Divisions\" - NARA - 514352.jpg",
+      "author": "Unknown author Unknown author or not provided",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Germany_-_Political_Divisions%22_-_NARA_-_514352.jpg"
+    }
+  }
+}

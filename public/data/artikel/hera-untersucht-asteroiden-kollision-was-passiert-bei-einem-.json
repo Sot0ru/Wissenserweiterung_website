@@ -1,0 +1,89 @@
+{
+  "id": "hera-untersucht-asteroiden-kollision-was-passiert-bei-einem-",
+  "category": "wissenschaft",
+  "title": "Hera untersucht Asteroiden-Kollision: Was passiert bei einem Weltraum-Crash?",
+  "teaser": "Nach einem gezielten Einschlag durch eine NASA-Sonde untersucht das europäische Raumschiff Hera die Folgen. Was verrät die Untersuchung über die Verteidigung der Erde?",
+  "tags": [
+    "Weltraum",
+    "Planetary Defense",
+    "Asteroiden",
+    "Raumfahrt",
+    "Kollision"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Das europäische Raumschiff Hera erforscht die Umgebung von Didymos und Dimorphos, einem Asteroidensystem, das 2022 von NASA mit der DART-Sonde getroffen wurde.",
+    "Ziel ist es, herauszufinden, wie ein solcher Aufprall einen Asteroiden verändert – ob er einen Krater bildet oder sich insgesamt umformt.",
+    "Diese Daten sind entscheidend, um zukünftige Bedrohungen durch gefährliche Weltraumgesteine besser einschätzen und abwehren zu können."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Test zur Erdverteidigung",
+      "paragraphs": [
+        "Die Erde ist nicht allein im Sonnensystem. Gelegentlich können Asteroiden oder Kometen auf einen gefährlichen Kurs geraten. Um uns dagegen zu wappnen, testen Wissenschaftler Methoden, um solche Objekte abzuwehren. Ein wichtiger Test fand 2022 statt: Die NASA schickte die Sonde DART, die gezielt auf den kleineren Asteroiden Dimorphos einschlug.",
+        "Dieser Aufprall war ein Test des sogenannten kinetischen Impakts. Er zeigte, dass man einen Asteroiden durch einen gezielten Einschlag in seiner Bahn verändern kann. Tatsächlich konnte dieser Test die Umlaufzeit von Dimorphos um etwa 33 Minuten verkürzen.",
+        "Doch die Forscher stehen vor einer großen Frage: Was genau hat der Einschlag mit Dimorphos gemacht? Hat er einen Krater erzeugt oder hat sich der gesamte Asteroid umgestaltet? Diese Details sind für die Entwicklung einer zuverlässigen Verteidigungsstrategie unerlässlich."
+      ]
+    },
+    {
+      "heading": "Hera kommt zum Einsatz",
+      "paragraphs": [
+        "Hier kommt das europäische Raumschiff Hera ins Spiel. Es ist so groß wie ein kleiner Wagen und befindet sich nun in der Nähe des Asteroidensystems Didymos. Hera führt eine detaillierte Untersuchung der Kollisionsstelle durch.",
+        "Da die Gravitationskraft der Asteroiden extrem schwach ist – die von Dimorphos ist etwa 200.000-mal schwächer als die der Erde –, kann Hera keine einfache Kreisbahn fliegen. Stattdessen bewegt es sich in ungewöhnlichen, fast geradlinigen Bahnen, die man als „rechteckige Umlaufbahnen“ bezeichnen kann.",
+        "Diese spezielle Navigationsstrategie ermöglicht es Hera, den Asteroiden aus sicherer Entfernung von etwa 25 bis 30 Kilometern zu beobachten. Hera wird später noch näher herangehen und kleine Satelliten freisetzen, um die Oberfläche genauer zu untersuchen. Die Daten helfen dabei, zu verstehen, wie verschiedene Arten von Asteroiden auf einen Aufprall reagieren."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es direkt mit der Sicherheit unseres Planeten zusammenhängt. Indem wir lernen, wie Asteroiden reagieren, können wir besser Vorhersagen treffen und mögliche Bedrohungen frühzeitig abwehren.",
+  "glossary": [
+    {
+      "term": "Kinetischer Impakt",
+      "definition": "Die Methode, bei der ein Raumschiff gezielt auf einen Asteroiden prallt, um dessen Bahn zu verändern."
+    },
+    {
+      "term": "Gravitation",
+      "definition": "Die Anziehungskraft zwischen zwei Massen; bei Asteroiden ist sie sehr schwach."
+    },
+    {
+      "term": "Deflektion",
+      "definition": "Die Ablenkung oder Umleitung eines Objekts, in diesem Fall eines Asteroiden, von einem gefährlichen Kurs."
+    }
+  ],
+  "quiz": {
+    "question": "Was war das Hauptziel des DART-Einschlags auf Dimorphos im Jahr 2022?",
+    "options": [
+      "Die Umlaufbahn des Asteroiden zu verändern.",
+      "Einen Krater auf dem Asteroiden zu erzeugen.",
+      "Die Zusammensetzung des Asteroiden zu analysieren."
+    ],
+    "answerIndex": 0,
+    "explanation": "Der Einschlag diente als Test, ob ein gezielter Aufprall die Bahn eines Asteroiden verändern kann."
+  },
+  "discussion": [
+    "Welche ethischen Überlegungen müssen wir beachten, wenn wir versuchen, natürliche Himmelskörper aktiv zu verändern oder zu beeinflussen?",
+    "Wie könnte die internationale Zusammenarbeit zwischen Raumfahrtagenturen wie ESA und NASA bei der Bewältigung globaler Risiken wie Asteroideneinschlägen aussehen?"
+  ],
+  "publishedAt": "2026-11-18T10:46:31.822Z",
+  "sources": [
+    {
+      "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/hera-untersucht-asteroiden-kollision-was-passiert-bei-einem-.jpg",
+    "width": 960,
+    "height": 960,
+    "alt": "Hera-Mission erfasst Nahaufnahme des binären Asteroidensystems Didymos zur Planetenverteidigung.",
+    "credit": {
+      "title": "Hera Didymos Approach.jpg",
+      "author": "ESA Operations",
+      "license": "CC BY-SA 3.0 igo",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hera_Didymos_Approach.jpg"
+    }
+  }
+}
