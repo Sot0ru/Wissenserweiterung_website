@@ -1,0 +1,87 @@
+{
+  "id": "weltraum-logistik-warum-raumschiff-landungen-wetterabhaengig",
+  "category": "astronomie",
+  "title": "Weltraum-Logistik: Warum Raumschiff-Landungen wetterabhängig sind",
+  "teaser": "Die ISS ist ein komplexes System, und selbst Weltraummissionen können durch das Wetter beeinflusst werden. Wir erklären, was das bedeutet.",
+  "tags": [
+    "Raumfahrt",
+    "ISS",
+    "Technik",
+    "Weltraum",
+    "SpaceX"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die Dragon-Kapsel von SpaceX, die wissenschaftliche Proben zur Erde bringt, musste aufgrund schlechten Wetters verschoben werden.",
+    "Die internationale Raumstation (ISS) ist ein hochentwickeltes System, dessen Operationen von vielen Faktoren abhängen.",
+    "Wetterbedingungen am Landeort sind ein kritischer Faktor für die sichere Rückkehr von Raumfahrzeugen."
+  ],
+  "sections": [
+    {
+      "heading": "Wenn das Wetter im Weg steht: Die Herausforderung der Rückkehr",
+      "paragraphs": [
+        "Stell dir vor, du bist in der internationalen Raumstation (ISS) und hast wertvolle wissenschaftliche Proben gesammelt. Diese Proben müssen sicher zur Erde zurückgebracht werden. Genau das ist die Aufgabe von Kapseln wie der Dragon von SpaceX. Diese Kapsel transportiert Fracht zur ISS und bringt auch Proben von dort wieder mit.",
+        "Neulich musste der Rückflug einer solchen Kapsel verschoben werden. Der Grund dafür war nicht ein technischer Defekt der Kapsel selbst, sondern die Wetterbedingungen im Landegebiet vor Kalifornien. Das zeigt, dass selbst hochtechnologische Missionen an die Natur gebunden sind."
+      ]
+    },
+    {
+      "heading": "Was genau passiert bei einer solchen Mission?",
+      "paragraphs": [
+        "Die Dragon-Kapsel ist Teil einer Frachtmission. Sie bringt nicht nur wichtige Teile, wie zum Beispiel ausrollbare Solararrays, zur ISS, sondern transportiert auch wissenschaftliche Proben. Diese Proben sind das Ergebnis von Experimenten, die direkt im Orbit durchgeführt werden. Sie sind oft extrem wertvoll für die Forschung.",
+        "Wenn die Kapsel abdocken und zum Wiedereintritt vorbereitet wird, muss der Landeort bereit sein. Die Landung muss präzise und sicher erfolgen. Wenn das Wetter – etwa durch starke Winde oder andere Unwetter – diesen Vorgang gefährdet, wird die Mission verschoben. Die nächste Gelegenheit für die Abkopplung wird dann auf einen besseren Zeitpunkt abgestimmt."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Raumfahrt ist ein riesiges Feld, das ständig neue technische und logistische Herausforderungen mit sich bringt. Du lernst hier, dass selbst in der Hightech-Welt der Raumfahrt Wetter und Sicherheit immer oberste Priorität haben.",
+  "glossary": [
+    {
+      "term": "ISS",
+      "definition": "Die Internationale Raumstation ist ein großes Forschungslabor im Orbit der Erde, das von mehreren Ländern gemeinsam betrieben wird."
+    },
+    {
+      "term": "Dragon-Kapsel",
+      "definition": "Dies ist eine wiederverwendbare Raumfahrzeugkapsel von SpaceX, die Fracht zur ISS transportiert und Proben zur Erde zurückbringt."
+    },
+    {
+      "term": "Solararrays",
+      "definition": "Das sind große, ausklappbare Solarmodule, die auf der ISS Strom erzeugen, indem sie Sonnenlicht einfangen."
+    }
+  ],
+  "quiz": {
+    "question": "Was war der Hauptgrund für die Verschiebung des Rückflugs der Dragon-Kapsel?",
+    "options": [
+      "Ein Problem mit den wissenschaftlichen Proben",
+      "Ein technischer Defekt an der Kapsel selbst",
+      "Unzureichende Wetterbedingungen im Landegebiet"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Quelle nennt explizit die „unzureichenden Wetterbedingungen im Landegebiet vor Kalifornien“ als Grund für die Verschiebung."
+  },
+  "discussion": [
+    "Welche Risiken siehst du, wenn man versucht, wissenschaftliche Forschung in extremen Umgebungen wie dem Weltraum durchzuführen? Wie kann man das Risiko minimieren?",
+    "Wie wichtig ist die Kooperation zwischen verschiedenen Ländern (wie bei der ISS) für große wissenschaftliche Projekte, und wo liegen dabei die größten Herausforderungen?"
+  ],
+  "publishedAt": "2026-11-19T10:47:11.938Z",
+  "sources": [
+    {
+      "title": "MI 18.11.2026 – Dragon Rückflug verschoben",
+      "url": "https://www.raumfahrer.net/mi-18-11-2026-dragon-rueckflug-verschoben/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/weltraum-logistik-warum-raumschiff-landungen-wetterabhaengig.jpg",
+    "width": 960,
+    "height": 639,
+    "alt": "SpaceX Dragon Frachtkapsel, die an das Harmony-Modul der ISS angebunden ist.",
+    "credit": {
+      "title": "ISS-52 SpaceX CRS-12 Dragon cargo capsule.jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS-52_SpaceX_CRS-12_Dragon_cargo_capsule.jpg"
+    }
+  }
+}

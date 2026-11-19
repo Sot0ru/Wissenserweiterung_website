@@ -1,0 +1,87 @@
+{
+  "id": "licht-statt-strom-wie-forscher-chips-revolutionieren-wollen",
+  "category": "wissenschaft",
+  "title": "Licht statt Strom: Wie Forscher Chips revolutionieren wollen",
+  "teaser": "Datenstau wird zum Problem. Ein Team aus Karlsruhe arbeitet an einer bahnbrechenden Methode, um Informationen schneller und effizienter zu übertragen – und zwar mithilfe von Licht.",
+  "tags": [
+    "Technik",
+    "Daten",
+    "Innovation",
+    "Elektronik",
+    "KI"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Ein Forscherteam aus Karlsruhe erhielt einen Preis für die Entwicklung einer Technologie gegen Datenstau in Mikrochips.",
+    "Die Innovation nutzt Licht anstelle von Strom, um Daten schneller und energieeffizienter übertragen zu können.",
+    "Ziel ist es, die Grundlage für leistungsstärkere Datennetze und KI-Rechenzentren zu legen."
+  ],
+  "sections": [
+    {
+      "heading": "Das Problem: Datenübertragung wird zum Engpass",
+      "paragraphs": [
+        "Wir leben in einer Zeit, in der Datenberge entstehen. Künstliche Intelligenz (KI), moderne Rechenzentren und vernetzte Geräte erzeugen riesige Mengen an Informationen. Diese Daten müssen blitzschnell von einem Punkt zum nächsten transportiert werden. Doch die aktuellen Mikrochips stoßen an ihre Grenzen.",
+        "Das Problem ist der Datenstau. Die bisherige Technologie basiert hauptsächlich auf der Übertragung von Informationen durch elektrische Signale (Strom). Diese Methode ist zwar etabliert, aber sie stößt an physikalische Grenzen, was zu Verzögerungen und hohem Energieverbrauch führt."
+      ]
+    },
+    {
+      "heading": "Die Lösung: Optik statt Elektrizität",
+      "paragraphs": [
+        "Ein Forscherteam aus Karlsruhe hat eine innovative Lösung entwickelt. Sie setzen nicht auf Strom, sondern auf Licht, um Daten zu übertragen. Diese Entwicklung, die mit dem Deutschen Zukunftspreis ausgezeichnet wurde, zielt darauf ab, die Effizienz und Geschwindigkeit dieser Übertragung massiv zu steigern.",
+        "Die Verfahren sollen helfen, optische Mikrochips präzise miteinander zu verbinden und diese effizient zu testen. Wenn das gelingt, verändert das die Basis, auf der unsere digitalen Systeme aufbauen. Das Potenzial ist enorm, denn leistungsfähigere Datennetze sind die Grundlage für die nächste Generation von KI und Datenverarbeitung."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Forschung ist wichtig, weil sie direkt die Zukunft der digitalen Welt beeinflusst. Wenn wir schneller und energieeffizientere Chips haben, werden KI-Anwendungen leistungsfähiger und der Energiebedarf für Rechenzentren sinkt.",
+  "glossary": [
+    {
+      "term": "Mikrochip",
+      "definition": "Ein winziger Schaltkreis auf einem Halbleiter, der komplexe Berechnungen durchführt (z.B. in deinem Smartphone)."
+    },
+    {
+      "term": "Datenstau",
+      "definition": "Eine Überlastung in einem System, bei der mehr Daten gesendet werden, als das System verarbeiten oder weiterleiten kann."
+    },
+    {
+      "term": "Optik",
+      "definition": "Die Wissenschaft vom Licht und dessen Anwendung, hier zur Übertragung von Informationen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Energieform nutzen die Forscher in ihrer neuen Technologie, um Daten zu übertragen?",
+    "options": [
+      "Licht",
+      "Elektrische Impulse",
+      "Ultraschallwellen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Forscher setzen laut Quelle auf Licht statt Strom."
+  },
+  "discussion": [
+    "Welche Auswirkungen könnte die Verlagerung von Datenübertragung von Strom auf Licht auf die globale Energieversorgung haben?",
+    "Wie schnell denkst du, wird diese Technologie in alltäglichen Geräten wie Smartphones oder Computern sichtbar sein?"
+  ],
+  "publishedAt": "2026-11-19T10:33:14.804Z",
+  "sources": [
+    {
+      "title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
+      "url": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/licht-statt-strom-wie-forscher-chips-revolutionieren-wollen.jpg",
+    "width": 960,
+    "height": 685,
+    "alt": "Chip eines elektro-optischen integrierten Modulators während des Drahtverbindens.",
+    "credit": {
+      "title": "FMN Lab electro-optical integrated modulator.jpg",
+      "author": "FMNLab",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FMN_Lab_electro-optical_integrated_modulator.jpg"
+    }
+  }
+}

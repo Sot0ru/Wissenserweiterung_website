@@ -1,0 +1,88 @@
+{
+  "id": "superleitern-der-schluessel-zu-strom-ohne-widerstand",
+  "category": "wissenschaft",
+  "title": "Superleitern: Der Schlüssel zu Strom ohne Widerstand",
+  "teaser": "Stell dir vor, Strom fließt ohne Energieverlust. Das ist Superkonduktivität. Neue Forschung zeigt, was bisher das größte Hindernis für diese Technologie war.",
+  "tags": [
+    "Elektrizität",
+    "Materialwissenschaft",
+    "Quantenphysik",
+    "Energieeffizienz"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Superleitern leiten Strom ohne elektrischen Widerstand, was enorme Energieersparnisse ermöglichen würde.",
+    "Bisher mussten sie extrem gekühlt werden, was die Anwendung kompliziert machte.",
+    "Neue Forschung zeigt, dass ein wesentlicher Bestandteil für Superkonduktivität bereits bei Raumtemperatur stabil sein kann."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist Superkonduktivität und warum ist sie wichtig?",
+      "paragraphs": [
+        "Stell dir vor, du lädst dein Handy oder betreibst einen Industrieprozess. Dabei wird ein Teil der Energie durch den elektrischen Widerstand in Wärme umgewandelt. Dieser Verlust ist normal, aber in vielen Systemen unerwünscht. Superkonduktivität eliminiert dieses Problem komplett.",
+        "Ein Material ist supraleitend, wenn elektrischer Strom durch es mit absolut keinem Widerstand fließt. Das bedeutet, dass keine Energie verloren geht. Theoretisch könnte das die Effizienz von Stromnetzen revolutionieren und Technologien wie schwebende Züge oder ultraschnelle Quantencomputer ermöglichen.",
+        "Das große Problem bisher: Die meisten supraleitenden Materialien funktionieren nur bei extrem niedrigen Temperaturen, oft unter -260°C. Solche Bedingungen zu halten, braucht viel Energie und teure Kühlgeräte, was die praktische Nutzung stark begrenzt."
+      ]
+    },
+    {
+      "heading": "Ein Durchbruch: Der Trick liegt in den Elektronen",
+      "paragraphs": [
+        "Forscher aus Utrecht, Leiden und München haben einen wichtigen Hinweis gefunden, der uns näher an die Anwendung bei Raumtemperatur bringt. Sie haben gezeigt, dass eine der zwei grundlegenden Bedingungen für Superkonduktivität schon bei normalen Temperaturen erfüllt sein kann.",
+        "Um zu verstehen, wie das funktioniert, musst du wissen, wie Elektronen in diesen Materialien agieren. Superkonduktivität braucht zwei Dinge: Erstens müssen sich Elektronen zu Paaren verbinden – man nennt diese „Cooper-Paare“. Zweitens müssen diese Paare koordiniert zusammenarbeiten, um den Strom ohne Widerstand zu leiten.",
+        "Die neuen Erkenntnisse legen nahe, dass die Elektronen zwar schon bei Raumtemperatur stabil genug sind, um Paare zu bilden. Der eigentliche Engpass scheint nun die zweite Bedingung zu sein: die sogenannte „Phasenkohärenz“. Das beschreibt, wie gut diese Elektronenpaare als eine Einheit agieren und ihre Bewegungen perfekt koordinieren."
+      ]
+    }
+  ],
+  "whyItMatters": "Für dich bedeutet das, dass die Energieeffizienz in deinem Alltag enorm steigen könnte. Wenn wir Strom ohne Verluste transportieren könnten, würden wir weniger Energie verbrauchen – das ist ein wichtiger Schritt für den Klimaschutz und die Energiewende.",
+  "glossary": [
+    {
+      "term": "Superkonduktivität",
+      "definition": "Die Eigenschaft bestimmter Materialien, elektrischen Strom ohne jeglichen Widerstand zu leiten."
+    },
+    {
+      "term": "Cooper-Paare",
+      "definition": "Paare von Elektronen, die sich in supraleitenden Materialien bilden und zusammenarbeiten, um den Strom zu leiten."
+    },
+    {
+      "term": "Phasenkohärenz",
+      "definition": "Die Fähigkeit der Elektronenpaare, perfekt synchronisiert und koordiniert zu agieren, damit der Strom ohne Widerstand fließt."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist das Hauptproblem bei den meisten aktuellen supraleitenden Materialien?",
+    "options": [
+      "Sie können keine Cooper-Paare bilden.",
+      "Sie müssen extrem tief gekühlt werden, um zu funktionieren.",
+      "Sie leiten den Strom zu langsam."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die meisten Materialien funktionieren nur bei sehr niedrigen Temperaturen, was die Anwendung kompliziert macht."
+  },
+  "discussion": [
+    "Welche konkreten Technologien (abgesehen von Zügen) könnten durch verlustfreien Stromtransport in deinem Leben oder in der Gesellschaft verändert werden?",
+    "Wie glaubst du, lässt sich die Herausforderung der „Phasenkohärenz“ im Vergleich zur Herausforderung der extremen Kühlung am besten angehen?"
+  ],
+  "publishedAt": "2026-11-19T10:37:51.442Z",
+  "sources": [
+    {
+      "title": "New discovery reveals what may be holding back room-temperature superconductors",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/superleitern-der-schluessel-zu-strom-ohne-widerstand.jpg",
+    "width": 960,
+    "height": 768,
+    "alt": "Wissenschaftler untersucht die atomare Struktur von Hochtemperatur-Supraleitern mit einem STEM.",
+    "credit": {
+      "title": "U.S. Department of Energy - Science - 276 004 003 (16625683371).jpg",
+      "author": "U.S. Department of Energy from United States",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Energy_-_Science_-_276_004_003_(16625683371).jpg"
+    }
+  }
+}

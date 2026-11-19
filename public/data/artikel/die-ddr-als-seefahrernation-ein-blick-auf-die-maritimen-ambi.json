@@ -1,0 +1,94 @@
+{
+  "id": "die-ddr-als-seefahrernation-ein-blick-auf-die-maritimen-ambi",
+  "category": "geschichte",
+  "title": "Die DDR als Seefahrernation: Ein Blick auf die maritimen Ambitionen",
+  "teaser": "Die DDR war in den 1970er-Jahren eine bedeutende Seefahrernation. Aber wie sah die maritime Präsenz der DDR wirklich aus?",
+  "tags": [
+    "Kalte Krieg",
+    "Ostdeutschland",
+    "Handel"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In den 1970er-Jahren war die DDR eine wichtige Seefahrernation mit einem großen Netz von Handelsrouten.",
+    "Das maritime Leben war eng mit der politischen Lage verbunden, etwa während der Kubakrise oder durch staatliche Schiffe.",
+    "Unglücke, wie das Versinken des Tankers „Böhlen“, zeigten die Risiken der internationalen Seefahrt."
+  ],
+  "sections": [
+    {
+      "heading": "Mehr als nur ein kleines Land: Die DDR auf hoher See",
+      "paragraphs": [
+        "Stell dir vor, ein kleines Land wie die DDR hatte ein riesiges Netz an Handelsrouten. Das war in den 1970er-Jahren tatsächlich der Fall. Die DDR gehörte zu den wichtigsten Seefahrernationen der Welt.",
+        "Die Deutsche Seereederei betrieb rund 200 Schiffe. Auf diesen Schiffen waren über 10.000 Seeleute beschäftigt. Diese Schiffe fuhren nicht nur in der Nähe, sondern an Häfen in über 100 Ländern vorbei. Das zeigt, wie international die maritime Tätigkeit der DDR war.",
+        "Auch politische Ereignisse beeinflussten die Seefahrt. Als die Kubakrise Ende Oktober 1962 dramatisch eskalierte, wurde die DDR-Streitkräfte in erhöhten Alarmzustand versetzt. Selbst ein DDR-Urlauberschiff war mitten in diesem globalen Poker der Supermächte unterwegs."
+      ]
+    },
+    {
+      "heading": "Schiffe als Symbol: Vom Luxus zu staatlichem Prestige",
+      "paragraphs": [
+        "Schiffe spielten auch eine symbolische Rolle in der DDR. Ein Beispiel ist die „Völkerfreundschaft“. Dieses Schiff wurde am 24. Februar 1960 auf Jungfernfahrt geschickt.",
+        "Die SED (Sozialistische Einheitspartei Deutschlands) nutzte solche Schiffe, um ein Bild zu vermitteln. Während früher Kapitalisten auf solchen Schiffen unterwegs waren, feierte die Arbeiterklasse in der DDR die „Völkerfreundschaft“ als ihr eigenes Traumschiff.",
+        "Später, in den 1980er-Jahren, wurde das Schiff als „Astor“ bekannt. Es fuhr unter der Flagge der DDR durch die Meere. Heute ist dieses modernisierte Luxusdampfer unter britischer Flagge unterwegs."
+      ]
+    },
+    {
+      "heading": "Die dunkle Seite der Seefahrt: Unglücke auf hoher See",
+      "paragraphs": [
+        "Die Seefahrt war nicht immer sicher. Ein besonders schweres Unglück ereignete sich mit dem DDR-Tanker „Böhlen“. Dieses Schiff versank im Atlantik.",
+        "Das Unglück passierte an einem stürmischen Oktobertag, als die „Böhlen“ in das Klippengebiet vor der französischen Atlantikküste, der Ile de Sein, geriet. Bei diesem Vorfall kamen 26 Menschen ums Leben."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Geschichte der DDR zeigt, wie stark Politik und Wirtschaft miteinander verwoben waren. Du lernst, dass auch in einem kleinen Land globale Verbindungen und Risiken existieren.",
+  "glossary": [
+    {
+      "term": "Seefahrernation",
+      "definition": "Ein Land, das eine große und wichtige Rolle im internationalen Schiffsverkehr und Handel auf See spielt."
+    },
+    {
+      "term": "SED",
+      "definition": "Die Sozialistische Einheitspartei Deutschlands, die führende politische Partei der DDR."
+    },
+    {
+      "term": "Kubakrise",
+      "definition": "Eine hochpolitische Krise Ende 1962 zwischen den USA und der Sowjetunion, bei der es um Kuba ging."
+    }
+  ],
+  "quiz": {
+    "question": "Wie viele Menschen starben bei dem Unglück des Tankers „Böhlen“?",
+    "options": [
+      "10.000",
+      "200",
+      "26"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut der Quelle kamen bei dem Unglück des Tankers „Böhlen“ 26 Menschen ums Leben."
+  },
+  "discussion": [
+    "Welche Rolle spielt heute der internationale Seeverkehr für die Wirtschaft vieler Länder?",
+    "Wie beeinflussen politische Spannungen (wie in der Kubakrise) auch Bereiche, die scheinbar fernab von Politik sind, wie z.B. den internationalen Handel?"
+  ],
+  "publishedAt": "2026-11-19T11:12:53.813Z",
+  "sources": [
+    {
+      "title": "Seefahrt",
+      "url": "https://www.mdr.de/geschichte/ddr/wirtschaft/seefahrt",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-ddr-als-seefahrernation-ein-blick-auf-die-maritimen-ambi.jpg",
+    "width": 960,
+    "height": 638,
+    "alt": "Kühlschiff der DDR-Staatsreederei G. WEERTH im Hafen von Kiel.",
+    "credit": {
+      "title": "Frachter G. WEERTH (Kiel 65.552).jpg",
+      "author": "Magnussen, Friedrich (1914-1987)",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frachter_G._WEERTH_(Kiel_65.552).jpg"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "weltfrieden-diskutiert-treffen-von-trump-putin-und-xi",
+  "category": "politik",
+  "title": "Weltfrieden diskutiert: Treffen von Trump, Putin und Xi",
+  "teaser": "Drei große Weltmächte kommen zusammen, um über globale Krisen zu sprechen. Was ist das Ziel dieser historischen Begegnung?",
+  "tags": [
+    "Weltpolitik",
+    "Atomwaffen",
+    "Internationales Recht",
+    "Geopolitik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Präsidenten Trump, Putin und Xi trafen sich in Shenzhen, um über die Gefahren eines Atomkriegs und den globalen Frieden zu sprechen.",
+    "Xi Jinping mahnte zur Einhaltung des Nichtverbreitungsvertrags, während Trump die nukleare Rüstungskontrolle als schwierig einschätzte.",
+    "Auch die Taiwan-Frage kam zur Sprache, wobei Xi Jinping die USA zur Zurückhaltung aufforderte."
+  ],
+  "sections": [
+    {
+      "heading": "Ein historischer Gipfel der Großmächte",
+      "paragraphs": [
+        "Kürzlich fand ein historisches Dreiertreffen in Shenzhen statt. Die Staatschefs der USA (Donald Trump), Russlands (Wladimir Putin) und Chinas (Xi Jinping) saßen zusammen. Dieses Format, in dem diese drei Atommächte an einem Tisch sitzen, ist bisher neu.",
+        "Das Hauptthema des Treffens war der Weltfrieden. Xi Jinping forderte eindringlich alle Anstrengungen auf, einen Atomkrieg zu verhindern. Er betonte, dass ein solcher Krieg nicht gewonnen werden könne und dass der Vertrag über die Nichtverbreitung von Kernwaffen eingehalten werden müsse, um die globale Stabilität zu sichern."
+      ]
+    },
+    {
+      "heading": "Herausforderungen bei der Rüstungskontrolle",
+      "paragraphs": [
+        "Donald Trump äußerte sich zur Reduzierung von Atomwaffen. Er sieht die USA, Russland und China in einer einzigartigen Lage, um über eine Senkung der Waffenanzahl und eine Risikominderung zu sprechen. Dennoch bezeichnete er abgestimmte Reduzierungen der Arsenale als „sehr schwierige Sache“.",
+        "Wladimir Putin nutzte ebenfalls die Plattform, um die „gemeinsame Verantwortung“ der Großmächte für den globalen Frieden zu betonen. Er betonte, dass die Staaten ein gemeinsames Interesse daran hätten, den Krieg in der Ukraine zu beenden."
+      ]
+    },
+    {
+      "heading": "Zwischen Frieden und Konfliktthemen",
+      "paragraphs": [
+        "Neben den großen Themen der nuklearen Sicherheit wurde auch die Frage um Taiwan diskutiert. Hier mahnte Xi Jinping die Vereinigten Staaten zur Zurückhaltung. Er forderte Washington auf, „das Richtige zu tun“, um große Turbulenzen in den Beziehungen zwischen China und den USA zu vermeiden.",
+        "Xi bezeichnete das Treffen generell als „wegweisend“. Die drei Länder sollten laut ihm als ständige Mitglieder des UN-Sicherheitsrats ein positives Beispiel für die Zusammenarbeit bei globalen Herausforderungen geben."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Treffen zeigen, wie komplexe die globale Politik ist. Wenn große Mächte über Atomwaffen und regionale Konflikte reden, beeinflusst das direkt, wie sicher wir alle sind. Es geht darum, wie internationale Beziehungen funktionieren, wenn unterschiedliche Interessen aufeinandertreffen.",
+  "glossary": [
+    {
+      "term": "Atommacht",
+      "definition": "Ein Staat, der in der Lage ist, Atomwaffen zu entwickeln und einzusetzen."
+    },
+    {
+      "term": "Nichtverbreitungsvertrag von Kernwaffen",
+      "definition": "Ein internationales Abkommen, das Staaten verpflichtet, Atomwaffen nicht an andere Länder weiterzugeben."
+    },
+    {
+      "term": "Geopolitik",
+      "definition": "Die Lehre von den politischen Beziehungen zwischen Staaten, die durch ihre geografische Lage und Machtverhältnisse bestimmt werden."
+    }
+  ],
+  "quiz": {
+    "question": "Was mahnte Xi Jinping bezüglich der Taiwan-Frage an die Vereinigten Staaten?",
+    "options": [
+      "Er rief die USA erneut zur Zurückhaltung auf.",
+      "Er verlangte, dass die USA Taiwan sofort offiziell anerkennen.",
+      "Er forderte Washington auf, Taiwan militärisch zu unterstützen."
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut der Quelle rief Xi Jinping die USA auf, „das Richtige zu tun, um das Aufkommen großer Turbulenzen in den US-chinesischen Beziehungen zu vermeiden“."
+  },
+  "discussion": [
+    "Wie können internationale Abkommen wie der Nichtverbreitungsvertrag in der Praxis durchgesetzt werden, wenn einzelne Staaten ihre Regeln brechen?",
+    "Welche Rolle spielen die Interessen einzelner Länder im Vergleich zu dem Wunsch nach globaler Stabilität bei solchen internationalen Gipfeln?"
+  ],
+  "publishedAt": "2026-11-19T11:03:05.266Z",
+  "sources": [
+    {
+      "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
+      "url": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
