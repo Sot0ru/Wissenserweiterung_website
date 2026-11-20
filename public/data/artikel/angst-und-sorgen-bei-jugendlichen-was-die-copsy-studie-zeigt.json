@@ -1,0 +1,77 @@
+{
+  "id": "angst-und-sorgen-bei-jugendlichen-was-die-copsy-studie-zeigt",
+  "category": "medizin",
+  "title": "Angst und Sorgen bei Jugendlichen: Was die COPSY-Studie zeigt",
+  "teaser": "Kriege, Wirtschaft und Klimawandel: Viele junge Menschen fühlen sich durch globale Krisen belastet. Aber wie hoch ist die tatsächliche psychische Belastung?",
+  "tags": [
+    "Psychologie",
+    "Gesundheit",
+    "Jugendliche",
+    "Angst",
+    "Zukunft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Eine Längsschnittstudie mit 1.500 Familien zeigt, dass viele Jugendliche durch aktuelle Krisen wie Kriege und Wohnungsnot ängstlicher geworden sind.",
+    "Obwohl sieben von zehn Jugendlichen psychisch stabil sind, berichten rund 25 Prozent von Angstsymptomen, was eine Zunahme gegenüber vor der Pandemie darstellt.",
+    "Die Studie betont, dass das familiäre Umfeld ein entscheidender Faktor dafür ist, ob Jugendliche dauerhaft psychisch belastet sind."
+  ],
+  "sections": [
+    {
+      "heading": "Die aktuelle Lage: Angst in der Jugend",
+      "paragraphs": [
+        "Die psychische Gesundheit von Kindern und Jugendlichen beschäftigt Forscher. Eine Längsschnittstudie, die seit 2020 regelmäßig Familien in Deutschland befragt, gibt Aufschluss über die aktuelle Stimmung. Rund 1.500 Familien mit Kindern und Jugendlichen zwischen sieben und 21 Jahren nahmen an der jüngsten Befragung teil.",
+        "Die Ergebnisse zeigen, dass die psychische Lage der jungen Menschen sich verändert hat. Rund 25 Prozent der Befragten zeigen Angstsymptome, verglichen mit 15 Prozent vor der Corona-Pandemie. Auch das Gefühl einer eingeschränkten Lebensqualität ist gestiegen, von 15 Prozent auf 21 Prozent.",
+        "Doch es gibt auch positive Nachrichten: Sieben von zehn Jugendlichen sind psychisch stabil. Die Forscher betonen, dass nicht eine ganze Generation dauerhaft unter den Folgen der Pandemie leidet."
+      ]
+    },
+    {
+      "heading": "Krisen als Belastung: Was macht Angst aus?",
+      "paragraphs": [
+        "Die Sorgen der Jugendlichen haben sich verschoben. Während die Pandemie zunächst im Fokus stand, dreht sich die Angst heute um globale Krisen. Etwa jeder sechste Jugendliche ist in den letzten Jahren ängstlicher geworden. Die Ursachen dafür sind vielfältig und umfassen Kriege, wirtschaftliche Unsicherheiten und den Klimawandel.",
+        "Besonders die Sorge um bezahlbaren Wohnraum beschäftigt viele: 42 Prozent der Befragten gaben an, sich deswegen Sorgen zu machen. Diese Zukunftsängste überschneiden sich oft und führen zu einer höheren psychischen Belastung.",
+        "Dennoch ist das Umfeld entscheidend. Die Studie zeigt, dass Jugendliche, denen es an familiärem oder sozialem Rückhalt mangelt, besonders verletzlich sind und häufiger psychische Probleme entwickeln. Ein wichtiger Faktor ist auch die Bewegung: Wer sich häufiger bewegt, berichtet von einer besseren Lebensqualität."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist für dich relevant, weil es zeigt, dass globale Ereignisse direkt deine Psyche beeinflussen können. Es hilft dir zu verstehen, warum viele junge Menschen heute unter Druck stehen und welche Faktoren wirklich helfen, diesen Druck abzubauen.",
+  "glossary": [
+    {
+      "term": "Längsschnittstudie",
+      "definition": "Eine Untersuchung, bei der dieselbe Gruppe von Personen über einen längeren Zeitraum hinweg mehrfach befragt wird, um Entwicklungen zu beobachten."
+    },
+    {
+      "term": "Angstsymptome",
+      "definition": "Körperliche oder seelische Anzeichen von Angst, wie Herzrasen, Unruhe oder ständige Besorgnis."
+    },
+    {
+      "term": "Vulnerabel",
+      "definition": "Besonders verletzlich oder anfällig für negative Einflüsse oder Probleme."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Faktor wird laut der Studie als entscheidend für die langfristige psychische Belastung junger Menschen genannt?",
+    "options": [
+      "Das familiäre Umfeld",
+      "Die aktuelle Wetterlage",
+      "Die Anzahl der Kriege in der Welt"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Studie betont, dass das familiäre Umfeld ein entscheidender Faktor dafür ist, ob Jugendliche dauerhaft psychisch belastet sind."
+  },
+  "discussion": [
+    "Wie unterscheidet sich die Belastung durch eine globale Krise (wie Klimawandel) von persönlichen Herausforderungen (wie Schulstress)?",
+    "Welche Rolle spielt das soziale Umfeld – Familie, Freunde, Schule – bei der Resilienz junger Menschen gegen Stress?"
+  ],
+  "publishedAt": "2026-11-20T10:20:54.645Z",
+  "sources": [
+    {
+      "title": "Studie: Diese Themen machen Kindern und Jugendlichen Angst",
+      "url": "https://www.tagesschau.de/wissen/copsy-studie-2026-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "wohnungskrise-wie-mieten-die-bildungsplaene-der-jungen-gener",
+  "category": "politik",
+  "title": "Wohnungskrise: Wie Mieten die Bildungspläne der jungen Generation beeinflussen",
+  "teaser": "Steigende Mieten machen das Studium in vielen deutschen Städten zur finanziellen Hürde. Was tun junge Menschen und welche politischen Lösungen werden diskutiert?",
+  "tags": [
+    "Wohnen",
+    "Bildung",
+    "Soziales",
+    "Wirtschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Mieten für WG-Zimmer steigen in vielen deutschen Städten stark an, was für Studierende eine große finanzielle Belastung darstellt.",
+    "Die staatliche Wohnpauschale (BAföG) reicht in Großstädten oft nicht aus, um die Kaltmieten zu decken.",
+    "Es wird diskutiert, wie die Wohnkostenpauschale an die lokalen Mietpreise angepasst werden kann, um die soziale Mobilität zu sichern."
+  ],
+  "sections": [
+    {
+      "heading": "Studium wird zur Geldfrage",
+      "paragraphs": [
+        "Für viele junge Menschen in Deutschland ist die Suche nach einer bezahlbaren Unterkunft zur existenziellen Herausforderung geworden. Hohe Mietpreise entscheiden zunehmend darüber, ob und wo jemand studieren kann. Studierende berichten, dass die Wohnungsnot so groß ist, dass sie ihr Studium gefährden müssen.",
+        "Laut Daten auf WG-Gesucht.de haben sich die Angebotskaltmieten für WG-Zimmer in Städten wie Berlin, Brandenburg und Sachsen verdoppelt. Im Vergleich dazu stiegen die allgemeinen Wohnungsmieten bis 2025 laut Verbraucherpreisindex nur um knapp ein Viertel.",
+        "Die Situation ist besonders prekär für Studierende, deren Eltern das Studium nicht vollständig finanzieren können. Hier soll das BAföG helfen. Die darin enthaltene Wohnpauschale ist zwar gestiegen, deckt aber in Großstädten oft nicht einmal die Kaltmiete eines WG-Zimmers.",
+        "Zum Beispiel reicht die BAföG-Wohnpauschale in Leipzig oder Hildesheim eher für die Kaltmiete, während sie in Hamburg oder Berlin deutlich unter den durchschnittlichen Kaltmieten liegt. In München wird für ein WG-Zimmer sogar fast das Doppelte der Pauschale verlangt."
+      ]
+    },
+    {
+      "heading": "Die Infrastruktur hinkt hinterher",
+      "paragraphs": [
+        "Die Probleme sind systemisch. Obwohl Studierendenwerke günstige Wohnheime anbieten, reichen die Plätze nicht aus. Matthias Anbuhl vom Deutschen Studierendenwerk betont, dass seit 2007 siebenmal so viele öffentlich finanzierte Studienplätze hinzugekommen sind wie entsprechende Wohnheimsplätze.",
+        "Dies führt zu einer sozialen Auslese: Studierende werden nicht mehr nach Talent und Interesse ausgewählt, sondern nach der Höhe ihrer finanziellen Mittel. Einige junge Menschen müssen daher überlegen, ob sie ihr Studium zurückziehen oder zu ihren Eltern ziehen.",
+        "Experten fordern politische Anpassungen. Ein Vorschlag ist, die BAföG-Wohnpauschale so zu gestalten, dass sie sich am tatsächlichen Wohngeld am Studienort orientiert. Dies würde helfen, die großen Kostenunterschiede zwischen den Städten auszugleichen.",
+        "Die Bundesregierung wird auf die Forderungen hin zu Förderungen für Wohnheime und Sozialwohnungen reagieren. Dennoch kritisieren junge Menschen, dass politische Maßnahmen wie Tankrabatte kurzfristiger Wirkung zeigen als eine notwendige Reform der Wohnkostenpauschale."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema betrifft deine Zukunft direkt. Wenn die Mieten zu hoch sind, kann es sein, dass du dir bestimmte Ausbildungsmöglichkeiten oder sogar den Wohnort einschränken musst. Es geht darum, wie Chancengleichheit im Bildungssystem langfristig gesichert werden kann.",
+  "glossary": [
+    {
+      "term": "Kaltmiete",
+      "definition": "Die reine Miete für eine Wohnung oder ein Zimmer, ohne Nebenkosten wie Heizung oder Wasser."
+    },
+    {
+      "term": "BAföG-Wohnpauschale",
+      "definition": "Ein fester Betrag, der im Rahmen des BAföG für die Kosten der Unterkunft vorgesehen ist."
+    },
+    {
+      "term": "Verbraucherpreisindex",
+      "definition": "Ein statistisches Maß, das die durchschnittliche Preisentwicklung für Waren und Dienstleistungen in einer Volkswirtschaft abbildet."
+    }
+  ],
+  "quiz": {
+    "question": "Wie viel stärker sind die Angebotskaltmieten für WG-Zimmer in einigen Städten im Vergleich zu vor 15 Jahren?",
+    "options": [
+      "Um das Doppelte",
+      "Um 75 Prozent",
+      "Nur um ein Viertel"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut Daten auf WG-Gesucht.de mussten junge Menschen meist 75 Prozent mehr für ein WG-Zimmer zahlen als vor 15 Jahren."
+  },
+  "discussion": [
+    "Inwiefern sollte der Staat in die Mietpreisbildung eingreifen, um bezahlbaren Wohnraum für Studierende zu sichern, ohne dabei den freien Markt zu lähmen?",
+    "Welche Rolle spielen neben den reinen Mietpreisen auch die sozialen Aspekte (z.B. die Verdrängung aus Stadtzentren) bei der Wohnungsnot in Großstädten?"
+  ],
+  "publishedAt": "2026-11-20T10:52:32.891Z",
+  "sources": [
+    {
+      "title": "WG-Mieten steigen stark: Kann sich die Gen Z Wohnen noch leisten?",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/wg-zimmer-gen-z-proteste-wohnungskrise-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wohnungskrise-wie-mieten-die-bildungsplaene-der-jungen-gener.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Demonstranten marschieren bei einer Demonstration für bezahlbaren Wohnraum in Madrid.",
+    "credit": {
+      "title": "Manifestación por una vivienda digna - 250209 132835.jpg",
+      "author": "Barcex",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manifestaci%C3%B3n_por_una_vivienda_digna_-_250209_132835.jpg"
+    }
+  }
+}

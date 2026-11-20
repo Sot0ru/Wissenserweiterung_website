@@ -1,0 +1,86 @@
+{
+  "id": "gerichtsurteil-blockiert-i-mamo-lus-praesidentschaftskandida",
+  "category": "politik",
+  "title": "Gerichtsurteil blockiert İmamoğlus Präsidentschaftskandidatur in der Türkei",
+  "teaser": "Ein wichtiger Oppositionsführer in der Türkei sieht sich durch ein Gerichtsurteil blockiert. Es geht dabei um seine akademischen Abschlüsse und die politische Zukunft.",
+  "tags": [
+    "Türkei",
+    "Demokratie",
+    "Wahlen"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Ekrem İmamoğlu, Oberbürgermeister von Istanbul und wichtiger Oppositionsführer, darf laut einem Gerichtsurteil in der Türkei nicht für die Präsidentschaftswahl 2028 kandidieren.",
+    "Die Einschränkung basiert auf der Aberkennung seines Hochschulabschlusses, der laut türkischem Gesetz für die Kandidatur notwendig ist.",
+    "Imamoğlu steht bereits unter Haftstrafe wegen Korruptionsvorwürfen und weiteren Verfahren."
+  ],
+  "sections": [
+    {
+      "heading": "Die Hürde des Hochschulabschlusses",
+      "paragraphs": [
+        "Ein türkisches Gericht hat die Aberkennung des Hochschulabschlusses von Ekrem İmamoğlu bestätigt. Damit ist dem Oppositionspolitiker die Teilnahme an der Präsidentschaftswahl 2028 verwehrt. In der Türkei ist ein solcher Abschluss eine gesetzliche Voraussetzung, um überhaupt kandidieren zu dürfen.",
+        "Das oberste Verwaltungsgericht hat Imamoğlus Einspruch gegen die Annullierung des Abschlusses zurückgewiesen. İmamoğlu gilt als einer der bedeutendsten politischen Gegner von Präsident Recep Tayyip Erdoğan."
+      ]
+    },
+    {
+      "heading": "Hintergrund: Verfahren und Haft",
+      "paragraphs": [
+        "Die politischen Anhänger von İmamoğlu werfen der türkischen Regierung vor, hinter diesen Verfahren zu stecken. Sie sehen darin einen Versuch, die Kandidatur des Oppositionsführers zu verhindern. İmamoğlu sitzt seit mehr als anderthalb Jahren im Gefängnis, unter anderem wegen Korruptionsvorwürfen.",
+        "In einem separaten Verfahren wurde er kürzlich wegen Stimmenkaufs bei einem CHP-Parteitag im Jahr 2023 verurteilt. Er und acht weitere Vertreter wurden zu jeweils zwei Jahren und einem Monat Haft verurteilt. Zudem wurden allen neun Angeklagten ihre politischen Rechte entzogen.",
+        "Im März dieses Jahres begann ein umfangreicher Prozess gegen İmamoğlu und 413 Mitangeklagte. In diesem Prozess werden ihm 142 Straftaten zur Last gelegt, und bei einer Verurteilung drohen ihm über 2.400 Jahre Haft."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie rechtliche und bürokratische Vorgänge in einem politischen System genutzt werden können, um Opposition zu schwächen. Es ist ein Beispiel dafür, wie demokratische Prozesse in verschiedenen Ländern unterschiedlich funktionieren können.",
+  "glossary": [
+    {
+      "term": "Oppositionsführer",
+      "definition": "Eine politische Person oder Partei, die dem regierenden politischen Lager entgegensteht und Kritik übt."
+    },
+    {
+      "term": "Oberstes Verwaltungsgericht",
+      "definition": "Ein Gericht, das Entscheidungen anderer Verwaltungsgerichte überprüft und in letzter Instanz über administrative Angelegenheiten entscheidet."
+    },
+    {
+      "term": "Korruptionsvorwürfe",
+      "definition": "Vorwürfe, dass jemand Amtshandlungen missbraucht hat, um sich unrechtmäßig Vorteile zu verschaffen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche gesetzliche Voraussetzung verhindert laut Quelle, dass Ekrem İmamoğlu für die Präsidentschaftswahl 2028 kandidieren darf?",
+    "options": [
+      "Er muss eine Haftstrafe verbüßen.",
+      "Er muss keine Korruptionsvorwürfe haben.",
+      "Er muss einen Hochschulabschluss besitzen."
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Aberkennung seines Hochschulabschlusses ist die gesetzliche Hürde, die ihm die Kandidatur verwehrt."
+  },
+  "discussion": [
+    "Wie kann ein Staat sicherstellen, dass politische Gegner faire Chancen bei Wahlen haben, ohne dabei die staatliche Ordnung zu gefährden?",
+    "Inwiefern beeinflussen rechtliche Verfahren in Ländern mit starker Regierungskontrolle die politische Landschaft?"
+  ],
+  "publishedAt": "2026-11-20T10:46:46.466Z",
+  "sources": [
+    {
+      "title": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
+      "url": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/gerichtsurteil-blockiert-i-mamo-lus-praesidentschaftskandida.jpg",
+    "width": 960,
+    "height": 1340,
+    "alt": "Türkischer Politiker Ekrem İmamoğlu in einem formellen Porträt.",
+    "credit": {
+      "title": "Ekrem İmamoğlu 2024.jpg",
+      "author": "This photo is available from Serkan Yakın and https://www.sekoloji.com/detay/ . This file is licensed under the Creative",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ekrem_%C4%B0mamo%C4%9Flu_2024.jpg"
+    }
+  }
+}

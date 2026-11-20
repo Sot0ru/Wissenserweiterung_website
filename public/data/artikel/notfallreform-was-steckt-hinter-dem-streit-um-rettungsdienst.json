@@ -1,0 +1,76 @@
+{
+  "id": "notfallreform-was-steckt-hinter-dem-streit-um-rettungsdienst",
+  "category": "politik",
+  "title": "Notfallreform: Was steckt hinter dem Streit um Rettungsdienste und Krankenhäuser?",
+  "teaser": "Die Notfallversorgung in Deutschland steht vor großen Reformen. Was genau diskutieren Bund und Länder über Standorte und Finanzierung?",
+  "tags": [
+    "Gesundheitspolitik",
+    "Krankenhaus",
+    "Finanzen",
+    "Gesetzgebung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Notfallreform in Deutschland führt zu politischen Verhandlungen zwischen Bund und Ländern über die Struktur der Integrierten Notfallzentren (INZ).",
+    "Hauptstreitpunkte sind die Zuständigkeit bei der Standortwahl der INZ und die Frage, wie die Kosten für die medizinische Notfallrettung finanziert werden sollen.",
+    "Kompromissvorschläge des Bundes beinhalten mehr Einbeziehung der Länder, aber die Finanzierung bleibt noch nicht abschließend geklärt."
+  ],
+  "sections": [
+    {
+      "heading": "Mehr als nur Medizin: Ein politischer Flickenteppich",
+      "paragraphs": [
+        "Wenn wir von der Notfallreform sprechen, geht es nicht nur um medizinische Versorgung. Es ist ein riesiges politisches Konstrukt, das Bund und Länder in Deutschland betrifft. Im Zentrum stehen die Integrierten Notfallzentren (INZ). Diese Zentren sollen die Versorgung verbessern, aber ihre Organisation ist hochumstritten.",
+        "Ein zentraler Streitpunkt ist die Zuständigkeit. Wer darf entscheiden, wo diese wichtigen INZ eingerichtet werden? Im ursprünglichen Gesetzentwurf sollte ein erweiterter Landesausschuss entscheiden, in dem Vertreter aus Ärzteschaft, Krankenkassen und Krankenhäusern sitzen. Die Länder fordern hier mehr Mitspracherecht.",
+        "Als Reaktion darauf hat die Bundesregierung Kompromissvorschläge vorgelegt. Sie sichert zu, dass bei der Standortfestlegung ein Einvernehmen mit der für die Krankenhausplanung zuständigen obersten Landesbehörde erfolgen muss. Wenn das nicht klappt, soll ein Schiedsverfahren folgen."
+      ]
+    },
+    {
+      "heading": "Kosten und Kapazitäten: Wer zahlt und wie viele Menschen sollen versorgt werden?",
+      "paragraphs": [
+        "Neben den Standorten geht es auch um die Zahlen. Ein INZ soll künftig mindestens 100.000 Personen versorgen. Auch die Kapazitätsgrenzen für Krankenhäuser mit unterschiedlichen Notfallstufen werden diskutiert. Beispielsweise soll ein Krankenhaus mit Basisnotfallstufe maximal 150.000 Menschen versorgen.",
+        "Ein weiterer großer Konflikt ist die Finanzierung. Die Länder fordern, dass alle notwendigen Vorhalte- und Investitionskosten der medizinischen Notfallrettung explizit gesetzlich geregelt und von den Kostenträgern (Krankenkassen) abgedeckt werden müssen. Bisher steht dies nur in der Gesetzesbegründung und nicht im Gesetz selbst.",
+        "Die Bundesregierung verspricht, dies in einem nächsten Gesetzgebungsverfahren zu klären und die notwendigen Kosten bei der Kalkulation der Entgelte zu berücksichtigen. Dennoch bestehen die Länder auf einer schnellen und klaren gesetzlichen Absicherung dieser Punkte."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Reform betrifft dich direkt, wenn du oder jemand in deiner Umgebung medizinische Hilfe benötigt. Die Art und Weise, wie Notfallzentren und Krankenhäuser organisiert und finanziert werden, bestimmt, wie schnell und gut du im Ernstfall versorgt wirst.",
+  "glossary": [
+    {
+      "term": "INZ",
+      "definition": "Integriertes Notfallzentrum: Ein zentraler Versorgungsort für medizinische Notfälle."
+    },
+    {
+      "term": "Bund und Länder",
+      "definition": "Die föderale Struktur Deutschlands: Der Bund ist die Bundesebene, die Länder sind die regionalen Verwaltungseinheiten."
+    },
+    {
+      "term": "Kostenträger",
+      "definition": "Die Organisationen (wie Krankenkassen), die die Kosten für medizinische Leistungen bezahlen."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Problem bleibt laut dem Artikel bei der Notfallreform noch nicht abschließend geklärt?",
+    "options": [
+      "Die vollständige Refinanzierung der Vorhalte- und Investitionskosten der Notfallrettung.",
+      "Die genaue Anzahl der Ärzte, die in den INZ arbeiten sollen.",
+      "Die Zuständigkeit bei der Standortauswahl der INZ."
+    ],
+    "answerIndex": 0,
+    "explanation": "Obwohl die Standortfrage Kompromisse sieht, bleibt die Frage der Finanzierung der Vorhalte- und Investitionskosten noch nicht explizit gesetzlich geregelt."
+  },
+  "discussion": [
+    "Wie kann ein föderales System wie Deutschland sicherstellen, dass medizinische Versorgung in ländlichen Regionen genauso gut ist wie in städtischen Zentren?",
+    "Welche Rolle sollte die öffentliche Hand bei der Finanzierung von medizinischen Notfallstrukturen spielen, und wo sollte die Verantwortung der Kostenträger enden?"
+  ],
+  "publishedAt": "2026-11-20T10:10:06.631Z",
+  "sources": [
+    {
+      "title": "Notfallreform: Bund bietet Zugeständnisse, Streit um Finanzierung bleibt",
+      "url": "https://www.aerzteblatt.de/news/notfallreform-bund-bietet-zugestandnisse-streit-um-finanzierung-bleibt-28578304-18ef-4bb3-88f9-a53f20ff64df",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
