@@ -1,0 +1,88 @@
+{
+  "id": "regelmaessigkeit-statt-intensitaet-was-sport-fuer-deine-ment",
+  "category": "medizin",
+  "title": "Regelmäßigkeit statt Intensität: Was Sport für deine mentale Gesundheit bringt",
+  "teaser": "Muss dein Workout immer hart sein, um gesund zu bleiben? Eine große Studie zeigt, dass der Rhythmus wichtiger sein könnte als die Leistung.",
+  "tags": [
+    "Gesundheit",
+    "Bewegung",
+    "Stress",
+    "Prävention"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Eine Studie mit über 10.000 Studenten zeigte, dass die Häufigkeit des Trainings wichtiger für die mentale Gesundheit ist als die Intensität oder Dauer.",
+    "Studenten, die seltener Sport machten, hatten ein höheres Risiko für Depressionen und Angstzustände ein Jahr später.",
+    "Die Ergebnisse legen nahe, dass eine konstante Routine ein wichtiger Faktor zur Unterstützung des psychischen Wohlbefindens ist."
+  ],
+  "sections": [
+    {
+      "heading": "Konsistenz zählt mehr als das letzte Set",
+      "paragraphs": [
+        "Du denkst vielleicht, um mental fit zu sein, musst du dich im Fitnessstudio bis zur Erschöpfung quälen. Eine große Studie widerlegt diese Annahme teilweise. Forschende untersuchten über 10.460 Vollzeitstudenten in Norwegen und kamen zu dem Schluss: Wie oft du trainierst, scheint für deine psychische Gesundheit wichtiger zu sein als, wie hart du dich während des Trainings anstrengst.",
+        "Die Teilnehmer wurden über ein Jahr hinweg beobachtet. Am Anfang gaben sie Auskunft über ihre Trainingsgewohnheiten – also wie oft, wie lange und wie intensiv sie aktiv waren. Ein Jahr später füllten sie einen Fragebogen aus, um festzustellen, ob sie Symptome von Depressionen oder Angststörungen zeigten.",
+        "Das Ergebnis war klar: Studenten, die seltener Sport machten, waren häufiger von diesen psychischen Belastungen betroffen. Die Forschung deutet darauf hin, dass eine regelmäßige Routine ein Schlüsselbestandteil ist, um das mentale Wohlbefinden zu schützen."
+      ]
+    },
+    {
+      "heading": "Was die Zahlen zeigen: Häufigkeit ist der Schlüssel",
+      "paragraphs": [
+        "Die Forscher stellten fest, dass die Trainingshäufigkeit der zuverlässigere Faktor war, der mit dem späteren psychischen Zustand korrelierte – mehr als die Trainingsintensität oder die reine Trainingsdauer. Das ist ein wichtiger Unterschied: Es geht um die Gewohnheit, nicht um die einmalige Höchstleistung.",
+        "Die Studie zeigte auch Unterschiede zwischen den Geschlechtern. Bei Frauen war eine geringere Trainingsintensität mit einem höheren Risiko für Angst und Depression verbunden. Bei Männern hingegen war eine geringere Gesamtstundenanzahl pro Woche stärker mit diesen Zuständen zusammenhängend.",
+        "Generell gilt: Je mehr du pro Woche aktiv bist, desto geringer ist die Wahrscheinlichkeit, an häufigen psychischen Störungen zu erkranken. Dieser positive Trend setzte sich bis zu etwa 10 Stunden körperlicher Aktivität pro Woche fort. Dies unterstützt auch Empfehlungen der Weltgesundheitsorganisation, die mindestens 150 Minuten moderate Aktivität pro Woche empfehlen."
+      ]
+    }
+  ],
+  "whyItMatters": "Da die Studienjahre oft eine besonders herausfordernde Zeit sind, kann die regelmäßige Bewegung helfen, Stress abzubauen. Es zeigt, dass du nicht immer einen Marathon laufen musst, um dich besser zu fühlen; eine kleine, konstante Gewohnheit kann viel bewirken.",
+  "glossary": [
+    {
+      "term": "Depression",
+      "definition": "Eine ernste psychische Erkrankung, die durch anhaltende Traurigkeit, Interessenverlust und andere Stimmungs- und Verhaltensänderungen gekennzeichnet ist."
+    },
+    {
+      "term": "Angststörung",
+      "definition": "Eine psychische Erkrankung, die durch übermäßige und oft unkontrollierbare Angstgefühle gekennzeichnet ist, die über normale Sorgen hinausgehen."
+    },
+    {
+      "term": "Korrelieren",
+      "definition": "Bedeutet, dass zwei Dinge zusammenhängen oder sich in einer bestimmten Beziehung zueinander verhalten (z. B. steigt das eine, steigt auch das andere)."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Faktor zeigte in der Studie die zuverlässigste Verbindung zum späteren mentalen Gesundheitszustand der Studenten?",
+    "options": [
+      "Die Häufigkeit des Trainings",
+      "Die Dauer der einzelnen Workouts",
+      "Die Trainingsintensität"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Forscher fanden heraus, dass die Trainingshäufigkeit („How often“) zuverlässiger mit dem späteren Zustand zusammenhing als Intensität oder Dauer."
+  },
+  "discussion": [
+    "Wie lässt sich in einem vollen Studienalltag eine „konstante Routine“ etablieren, wenn die Zeit extrem knapp ist?",
+    "Welche Rolle spielt die soziale Komponente beim Sport? Ist es effektiver, regelmäßig mit Freunden zu trainieren, als alleine ein hartes Workout zu absolvieren?"
+  ],
+  "publishedAt": "2026-11-21T10:24:02.025Z",
+  "sources": [
+    {
+      "title": "For better mental health, how often you exercise may matter more than how hard",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/regelmaessigkeit-statt-intensitaet-was-sport-fuer-deine-ment.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Studenten trainieren auf einem Oval an der Urrbrae Agricultural College.",
+    "credit": {
+      "title": "Urrbrae Agricultural College showing students exercising on oval(GN13400).jpg",
+      "author": "State Government Photographer",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urrbrae_Agricultural_College_showing_students_exercising_on_oval(GN13400).jpg"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "existenzangst-in-der-schweinehaltung-was-die-politik-tun-kan",
+  "category": "politik",
+  "title": "Existenzangst in der Schweinehaltung: Was die Politik tun kann",
+  "teaser": "Deutsche Schweinehalter stehen vor großen wirtschaftlichen Problemen. Wie helfen staatliche Hilfen, wenn die Marktbedingungen so schwierig sind?",
+  "tags": [
+    "Landwirtschaft",
+    "Wirtschaft",
+    "Förderung",
+    "EU-Politik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die deutsche Schweinehaltung kämpft mit großen Verlusten, da die Haltungsbedingungen streng sind und internationale Konkurrenz durch günstigere Importe Druck ausübt.",
+    "Die Bundesregierung hat ein Liquiditätsprogramm mit 25 Millionen Euro aufgelegt, das zinsvergünstigte Kredite vorsieht, wird aber von Landwirten als unzureichend kritisiert.",
+    "Die Opposition fordert neben kurzfristiger Hilfe auch strukturelle Veränderungen wie Preisstabilisierung und Anpassung an den Klimawandel."
+  ],
+  "sections": [
+    {
+      "heading": "Warum rechnet die Schweinehaltung in Deutschland mit Verlusten?",
+      "paragraphs": [
+        "Viele Schweinehalter in Deutschland sehen sich in einer wirtschaftlichen Zwickmühle. Das Geschäft ist für viele ein Verlustgeschäft. Die Gründe dafür sind vielschichtig. Einerseits gelten in Deutschland sehr strenge Haltungsbedingungen für Schweine. Diese strengen Vorgaben führen dazu, dass Schlachthöfe und Supermärkte die Landwirte nicht ausreichend an den Gewinnen beteiligen.",
+        "Andererseits wird die deutsche Produktion durch den Weltmarkt unter Druck gesetzt. Länder wie China importieren aufgrund von Krankheitsausbrüchen in der EU weniger Schweinefleisch. Das schafft Preisdruck durch europäische Konkurrenz, zum Beispiel aus Spanien. Dort sind die Haltungskosten für Schweine niedriger, wodurch deutsche Betriebe mit den Preisen kaum mithalten können. Ein Landwirt rechnet dabei mit Verlusten von rund 70 Euro pro verkauftem Tier."
+      ]
+    },
+    {
+      "heading": "Der Versuch der Regierung: Kredite statt Systemwandel?",
+      "paragraphs": [
+        "Als Reaktion auf diese Lage bezeichnet der Bundeslandwirtschaftsminister die Situation als „desaströs und existenzvernichtend“. Die Bundesregierung reagiert mit einem Liquiditätsprogramm in Höhe von 25 Millionen Euro. Dieses Programm soll den Betrieben helfen, indem zinsvergünstigte Darlehen angeboten werden. Diese Kredite müssen die Landwirte allerdings wieder zurückzahlen.",
+        "Obwohl diese Hilfe kurzfristig Entlastung bringen kann, sehen viele Akteure damit nicht das Ende des Problems. Landwirte wie Jürgen Dierrauff bezeichnen die Hilfen als „nur ein Tropfen auf den heißen Stein“. Sie fordern neben der Soforthilfe auch tiefgreifende strukturelle Änderungen. Dazu gehören weniger Haltungsvorgaben, bessere Verträge mit Abnehmern und eine Risikoausgleichrücklage, damit Betriebe in guten Zeiten Geld für schlechte Zeiten zurücklegen können."
+      ]
+    },
+    {
+      "heading": "Die Forderungen der Opposition: Mehr als nur Soforthilfe",
+      "paragraphs": [
+        "Auch die Opposition kritisiert die bisherigen Maßnahmen. Während kurzfristige Kredite begrüßt werden, fordern Politiker langfristige Perspektiven. Sie argumentieren, dass es eine Anpassung an den Klimawandel und eine Preisstabilisierung geben müsse. Zudem wird ein System gefordert, in dem durch eine bessere Haltung weniger Tiere trotzdem mehr Umsatz generiert werden kann. Kritiker bemängeln, dass der Landwirtschaftsminister bei diesen Systemwechseln blockiere."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Landwirtschaft ist ein wichtiges Thema für die Ernährungssicherheit. Wenn Betriebe in Krisen geraten, hat das Auswirkungen auf die Lebensmittelpreise und die Versorgung. Es geht darum, wie Politik und Wirtschaft zusammenarbeiten, um nachhaltige Lösungen zu finden.",
+  "glossary": [
+    {
+      "term": "Liquiditätshilfen",
+      "definition": "Finanzielle Unterstützung in Form von Krediten oder Zuschüssen, um kurzfristige Zahlungsschwierigkeiten zu überbrücken."
+    },
+    {
+      "term": "Haltungsbedingungen",
+      "definition": "Die Vorschriften und Standards, denen Tiere in der Landwirtschaft unterliegen (z. B. Platzangebot, Tierwohl)."
+    },
+    {
+      "term": "Ernährungssouveränität",
+      "definition": "Die Fähigkeit eines Landes, seine eigene Nahrungsmittelproduktion und -versorgung selbst zu bestimmen und zu sichern."
+    }
+  ],
+  "quiz": {
+    "question": "Wie hoch ist das Liquiditätsprogramm, das die Bundesregierung zur Unterstützung der Schweinehalter aufgelegt hat?",
+    "options": [
+      "10 Millionen Euro",
+      "25 Millionen Euro",
+      "50 Millionen Euro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut dem Artikel beträgt das Liquiditätsprogramm 25 Millionen Euro."
+  },
+  "discussion": [
+    "Wie kann eine Balance zwischen strengen Tierschutzvorgaben und der wirtschaftlichen Tragfähigkeit der Landwirtschaft gefunden werden?",
+    "Welche Rolle spielen internationale Handelsbeziehungen und Importe bei der Stabilität der heimischen Lebensmittelproduktion?"
+  ],
+  "publishedAt": "2026-11-21T10:34:24.222Z",
+  "sources": [
+    {
+      "title": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/existenzangst-in-der-schweinehaltung-was-die-politik-tun-kan.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Schweine und Ferkel in einem modernen Schweinehochhaus in Deutschland.",
+    "credit": {
+      "title": "Pig and piglets in Schweinehochhaus in Germany.jpg",
+      "author": "Deutsches Tierschutzbüro",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pig_and_piglets_in_Schweinehochhaus_in_Germany.jpg"
+    }
+  }
+}

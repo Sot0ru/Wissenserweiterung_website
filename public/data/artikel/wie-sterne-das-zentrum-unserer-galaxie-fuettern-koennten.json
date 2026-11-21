@@ -1,0 +1,78 @@
+{
+  "id": "wie-sterne-das-zentrum-unserer-galaxie-fuettern-koennten",
+  "category": "astronomie",
+  "title": "Wie Sterne das Zentrum unserer Galaxie füttern könnten",
+  "teaser": "Es gibt einen überraschenden Verdacht: Zwei riesige Sterne könnten Gaswolken erzeugen, die das supermassereiche Schwarze Loch in unserer Milchstraße speisen.",
+  "tags": [
+    "Galaxien",
+    "Weltall",
+    "Kosmologie",
+    "Sternenentwicklung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher haben Gaswolken nahe dem supermassereichen Schwarzen Loch Sagittarius A* identifiziert, die das Zentrum der Milchstraße umgeben.",
+    "Die Theorie besagt, dass die extrem starken Winde von zwei sehr großen, eng beieinander liegenden Sternen diese Wolken erzeugen.",
+    "Diese Wolken könnten als kontinuierliche Quelle dienen, um dem Schwarzen Loch neuen Treibstoff zu liefern und seine Aktivität aufrechtzuerhalten."
+  ],
+  "sections": [
+    {
+      "heading": "Das Herz unserer Milchstraße: Ein mysteriöser Ort",
+      "paragraphs": [
+        "Im Zentrum unserer Milchstraße sitzt Sagittarius A* (Sgr A*), ein supermassereiches Schwarzes Loch. Dieses Gebiet ist extrem dicht und aktiv, da Sterne, Gas und Staub unter intensiven gravitativen Kräften kreisen. Astronomen untersuchen diesen Ort, um zu verstehen, woher die Materie kommt, die das Schwarze Loch"
+      ]
+    }
+  ],
+  "whyItMatters": "Die Art und Weise, wie Schwarze Löcher Materie aufnehmen, ist ein zentrales Thema der modernen Astronomie. Wenn wir verstehen, wie Sgr A* genährt wird, lernen wir mehr über die Entwicklung ganzer Galaxien und die Kräfte, die das Universum formen.",
+  "glossary": [
+    {
+      "term": "Supermassereiches Schwarzes Loch",
+      "definition": "Ein extrem massereiches Schwarzes Loch, das Milliardenfach schwerer ist als unsere Sonne und sich im Zentrum vieler Galaxien befindet."
+    },
+    {
+      "term": "Gravitation",
+      "definition": "Die Anziehungskraft zwischen zwei massiven Objekten; sie hält Planeten in ihren Umlaufbahnen und bestimmt die Struktur von Galaxien."
+    },
+    {
+      "term": "Sternenwind",
+      "definition": "Der ständige Ausstoß von Materie und Energie, der von sehr massereichen Sternen in den Weltraum abgegeben wird."
+    }
+  ],
+  "quiz": {
+    "question": "Welche physikalische Kraft dominiert das Zentrum der Milchstraße und beeinflusst die Bewegung von Gas und Sternen?",
+    "options": [
+      "Kernkraft",
+      "Elektromagnetische Kraft",
+      "Gravitation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Gravitation ist die Anziehungskraft, die durch die Masse von Sgr A* und den umliegenden Objekten erzeugt wird."
+  },
+  "discussion": [
+    "Welche Rolle spielen extreme physikalische Prozesse, wie sie um Schwarze Löcher ablaufen, bei der Gestaltung der gesamten Struktur einer Galaxie?",
+    "Wenn wir verstehen, wie Materie in einem Schwarzen Loch akkumuliert, welche Rückschlüsse können wir dann auf die Entstehung von Sternen ziehen?"
+  ],
+  "publishedAt": "2026-11-21T10:14:18.138Z",
+  "sources": [
+    {
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-sterne-das-zentrum-unserer-galaxie-fuettern-koennten.jpg",
+    "width": 960,
+    "height": 586,
+    "alt": "Simulation der Sternbahnen nahe dem supermassereichen Schwarzen Loch im Zentrum der Milchstraße.",
+    "credit": {
+      "title": "Orbits of stars around black hole at the heart of the Milky Way (eso1825d).jpg",
+      "author": "ESO/L. Calçada/spaceengine.org",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orbits_of_stars_around_black_hole_at_the_heart_of_the_Milky_Way_(eso1825d).jpg"
+    }
+  }
+}

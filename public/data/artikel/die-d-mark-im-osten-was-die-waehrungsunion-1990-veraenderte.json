@@ -1,0 +1,89 @@
+{
+  "id": "die-d-mark-im-osten-was-die-waehrungsunion-1990-veraenderte",
+  "category": "geschichte",
+  "title": "Die D-Mark im Osten: Was die Währungsunion 1990 veränderte",
+  "teaser": "Wie kam die D-Mark in die neuen Bundesländer? Die Währungsunion war ein großer Schritt, brachte aber auch große wirtschaftliche Umbrüche mit sich.",
+  "tags": [
+    "Wiedervereinigung",
+    "Wirtschaft",
+    "Deutschland"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Am 1. Juli 1990 trat der Vertrag über die Wirtschafts-, Währungs- und Sozialunion in Kraft und führte die D-Mark in die neuen Bundesländer ein.",
+    "Dieser Währungswechsel brachte zwar den Zugang zu westlichen Waren, führte aber auch zu hohen Preisen und einem massiven wirtschaftlichen Umbruch.",
+    "Innerhalb weniger Monate entstanden große Probleme, wie hohe Arbeitslosigkeit und der Zusammenbruch vieler volkseigener Betriebe."
+  ],
+  "sections": [
+    {
+      "heading": "Der große Wandel: Was die Währungsunion bedeutete",
+      "paragraphs": [
+        "Am 1. Juli 1990 trat ein wichtiger Vertrag in Kraft: der Vertrag über die Wirtschafts-, Währungs- und Sozialunion. Mit diesem Schritt kam die D-Mark in die neuen Bundesländer, also in die ehemaligen DDR-Gebiete. Dieser Wechsel wurde von den Menschen sehnsüchtig erwartet, da er den Zugang zu westlichen Gütern versprach. Dennoch brachte er auch starke, oft ungewollte Nebenwirkungen mit sich."
+      ]
+    },
+    {
+      "heading": "Der Schock des Umbruchs",
+      "paragraphs": [
+        "Die Einführung der D-Mark markierte den Beginn eines tiefgreifenden wirtschaftlichen Umbruchs. Anfangs lockte das komplette Sortiment aus dem Westen die Bürger an. Doch nach der anfänglichen Kauflust stellten sich Frustration und Probleme ein. Die Preise waren oft überhöht, und die Auswahl an DDR-Produkten schrumpfte rapide."
+      ]
+    },
+    {
+      "heading": "Wirtschaftliche Herausforderungen und Arbeitslosigkeit",
+      "paragraphs": [
+        "Der Übergang war extrem hart für die alte Wirtschaft. Viele volkseigene Betriebe mussten schließen. Diese Zeit brachte große soziale Herausforderungen mit sich. Im Herbst 1990 waren laut Berichten 2,17 Millionen Menschen entweder arbeitslos oder in Kurzarbeit. Die Bundesbank hatte bereits im März 1990 eine Umstellung von 2:1 für den Umtausch von Ostmark in D-Mark empfohlen, was zu Unmut führte."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Zeit zeigt, wie schnell sich ganze Wirtschaftsstrukturen verändern können. Für dich ist es wichtig zu verstehen, dass große politische Entscheidungen immer auch tiefgreifende soziale Folgen für die Menschen haben.",
+  "glossary": [
+    {
+      "term": "Währungsunion",
+      "definition": "Ein Abkommen, bei dem mehrere Länder eine gemeinsame Währung einführen oder ihre Währungen an einen gemeinsamen Standard anpassen."
+    },
+    {
+      "term": "DDR",
+      "definition": "Die Deutsche Demokratische Republik, der Name des ehemaligen Oststaates in Deutschland."
+    },
+    {
+      "term": "Kurzarbeit",
+      "definition": "Eine Maßnahme, bei der Arbeitnehmer für eine begrenzte Zeit weniger arbeiten, um Entlassungen zu vermeiden."
+    }
+  ],
+  "quiz": {
+    "question": "Was war die ungefähre Zahl der Menschen, die im Herbst 1990 arbeitslos oder in Kurzarbeit waren?",
+    "options": [
+      "2,17 Millionen",
+      "3,2 Millionen",
+      "1,7 Millionen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut der Quelle waren im Herbst 1990 2,17 Millionen Menschen arbeitslos oder in Kurzarbeit."
+  },
+  "discussion": [
+    "Welche Rolle spielen wirtschaftliche Entscheidungen bei der Gestaltung des sozialen Zusammenhalts in einer Gesellschaft?",
+    "Wie kann ein schnelles wirtschaftliches Umfeld die Lebensrealität von Menschen in kurzer Zeit fundamental verändern?"
+  ],
+  "publishedAt": "2026-11-21T10:38:20.615Z",
+  "sources": [
+    {
+      "title": "Währungsunion",
+      "url": "https://www.mdr.de/geschichte/ddr/deutsche-einheit/waehrungsunion",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/die-d-mark-im-osten-was-die-waehrungsunion-1990-veraenderte.jpg",
+    "width": 960,
+    "height": 453,
+    "alt": "Foto der Wiedervereinigung Deutschlands am 3. Oktober 1990.",
+    "credit": {
+      "title": "Reunification of Germany (15353636431).jpg",
+      "author": "Archives New Zealand from New Zealand",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reunification_of_Germany_(15353636431).jpg"
+    }
+  }
+}

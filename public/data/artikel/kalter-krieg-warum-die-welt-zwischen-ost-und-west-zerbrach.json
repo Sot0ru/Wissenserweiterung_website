@@ -1,0 +1,77 @@
+{
+  "id": "kalter-krieg-warum-die-welt-zwischen-ost-und-west-zerbrach",
+  "category": "geschichte",
+  "title": "Kalter Krieg: Warum die Welt zwischen Ost und West zerbrach",
+  "teaser": "Der Kalte Krieg war keine direkte militärische Schlacht, sondern ein jahrzehntelanger politischer Showdown. Wir erklären dir, wie dieser Konflikt die Welt und Deutschland prägte.",
+  "tags": [
+    "Weltgeschichte",
+    "Konflikt",
+    "Eiszeit",
+    "Politik",
+    "Atomwaffen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Kalte Krieg war ein geopolitischer Wettstreit zwischen den USA und der Sowjetunion, der von politischen Krisen, dem Atomwettlauf und dem Wettlauf ins All geprägt war.",
+    "Er manifestierte sich nicht durch direkte Kämpfe der Großmächte, sondern durch Stellvertreterkriege und ideologische Spannung.",
+    "Dieser Konflikt führte zu einer tiefen Spaltung der Welt und hatte weitreichende Folgen für Länder wie die DDR."
+  ],
+  "sections": [
+    {
+      "heading": "Mehr als nur eine Krise: Was war der Kalte Krieg?",
+      "paragraphs": [
+        "Stell dir vor, die Welt ist in zwei riesige Lager geteilt. Genau das war der Kalte Krieg. Er dauerte grob von Kriegsende bis 1990 und war ein ideologischer Showdown zwischen zwei Supermächten: den Vereinigten Staaten (USA) und der Sowjetunion (UdSSR).",
+        "Wichtig ist zu wissen: Es gab keinen großen, direkten Krieg zwischen diesen beiden Mächten. Deshalb nennt man es „kalt“. Stattdessen ging es um politische Krisen, den Wettlauf um technologische Überlegenheit und die Angst vor dem Atomkrieg.",
+        "Die beiden Lager standen für gegensätzliche Weltanschauungen: die USA vertraten eine kapitalistische, demokratische Richtung, während die UdSSR einen kommunistischen Systemansatz verfolgte. Diese grundsätzliche Meinungsverschiedenheit führte zu enormer Spannung weltweit."
+      ]
+    },
+    {
+      "heading": "Wettstreit um Macht: Von Bomben bis zum Weltall",
+      "paragraphs": [
+        "Ein zentrales Merkmal dieses Konflikts war das atomare Wettrüsten. Die Entwicklung von Atombomben durch beide Seiten erhöhte die Gefahr eines globalen Atomkrieges drastisch. Selbst die NATO, ein militärisches Bündnis, das 1949 gegründet wurde, sah sich in diesem Spannungsfeld.",
+        "Parallel dazu gab es den Wettlauf ins All. Als die Sowjetunion 1957 mit dem Satelliten Sputnik einen Erdsatelliten startete, zeigten sie technologische Schlagkraft. Später folgte der deutsche Kosmonaut Sigmund Jähn, der 1972 als erster Deutscher im Weltall war – ein Beispiel dafür, wie diese Rivalität auch die Wissenschaft beeinflusste.",
+        "Diese Spannung spaltete auch Deutschland. Die Gründung der Bundesrepublik Deutschland (BRD) und der Deutschen Demokratischen Republik (DDR) nach dem Zweiten Weltkrieg verdeutlichte die Teilung. Die DDR war direkt von den politischen Entscheidungen der Großmächte betroffen, was zu einer stark kontrollierten Gesellschaft führte."
+      ]
+    }
+  ],
+  "whyItMatters": "Der Kalte Krieg hat die heutige Weltordnung und viele Konflikte mitgestaltet. Das Verständnis dieser Ära hilft dir zu sehen, wie Ideologien und technologische Entwicklungen globale Machtverhältnisse bestimmen.",
+  "glossary": [
+    {
+      "term": "Geopolitisch",
+      "definition": "Bezieht sich auf die Machtpolitik, die durch die geografische Lage und Ressourcen von Staaten bestimmt wird."
+    },
+    {
+      "term": "Atomwettlauf",
+      "definition": "Das gegenseitige Streben der Großmächte, die gefährlichsten und mächtigsten Atomwaffen zu entwickeln."
+    },
+    {
+      "term": "Ideologie",
+      "definition": "Ein umfassendes System von Ideen und Überzeugungen, das erklärt, wie die Gesellschaft funktionieren soll (z. B. Kapitalismus oder Kommunismus)."
+    }
+  ],
+  "quiz": {
+    "question": "Was war der Hauptgrund für die Bezeichnung des Konflikts als „Kalter Krieg“?",
+    "options": [
+      "Es gab keinen direkten Krieg zwischen den Großmächten, sondern politische und ideologische Spannung.",
+      "Es gab nur diplomatische Gespräche zwischen den USA und der UdSSR.",
+      "Beide Seiten kämpften ausschließlich im Weltall."
+    ],
+    "answerIndex": 0,
+    "explanation": "Der Krieg war „kalt“, weil die Großmächte sich nicht direkt militärisch angriffen, sondern die Spannung durch Politik, Rüstung und Propaganda aufbauten."
+  },
+  "discussion": [
+    "Inwiefern beeinflussen geopolitische Spannungen heute noch die Entscheidungen von Staaten, die nicht direkt an diesen Konflikten beteiligt sind?",
+    "Welche Rolle spielen moderne Technologien (wie soziale Medien oder künstliche Intelligenz) im Vergleich zu früher bei der Entstehung und Eskalation von globalen Konflikten?"
+  ],
+  "publishedAt": "2026-11-21T10:43:21.326Z",
+  "sources": [
+    {
+      "title": "Kalter Krieg",
+      "url": "https://www.mdr.de/geschichte/ddr/kalter-krieg",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

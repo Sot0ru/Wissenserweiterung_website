@@ -1,0 +1,88 @@
+{
+  "id": "was-passiert-wenn-die-erde-bebt-ein-blick-auf-erdbeben-in-pe",
+  "category": "wissenschaft",
+  "title": "Was passiert, wenn die Erde bebt? Ein Blick auf Erdbeben in Peru",
+  "teaser": "Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Aber was steckt hinter solchen Naturgewalten und warum sind einige Regionen besonders gefährdet?",
+  "tags": [
+    "Geologie",
+    "Erdbeben",
+    "Plattenkollision",
+    "Naturphänomene"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Ein Erdbeben der Stärke 6,7 erschütterte die Andenregion in Peru, wobei das Epizentrum in 129 Kilometern Tiefe lag.",
+    "Peru liegt auf dem Pazifischen Feuerring, einer Zone, in der sich mehrere Erdplatten treffen und häufig Beben verursachen.",
+    "Solche Ereignisse können Erdrutsche und Stromausfälle auslösen, auch wenn die Schäden nicht immer weitreichend sind."
+  ],
+  "sections": [
+    {
+      "heading": "Warum bebt die Erde? Die Geologie dahinter",
+      "paragraphs": [
+        "Wenn du von einem Erdbeben sprichst, sprichst du von einer gewaltigen Verschiebung in der Erdkruste. Peru ist ein Paradebeispiel für eine Region, die häufig von solchen Ereignissen betroffen ist. Der Grund dafür liegt in der Geologie des Landes.",
+        "Peru liegt auf dem sogenannten Pazifischen Feuerring. Stell dir das wie eine riesige, aktive Grenze zwischen verschiedenen Erdplatten vor. An diesen Stellen stoßen die Platten aufeinander oder gleiten aneinander vorbei. Diese Platten sind nicht statisch; sie bewegen sich ständig – nur sehr langsam. Wenn diese Platten aneinander reiben, bauen sich enorme Spannungen auf.",
+        "Diese Spannung wird gespeichert, bis sie plötzlich freigesetzt wird. Dieser plötzliche Energieausbruch ist das Erdbeben. Die Stärke wird dabei gemessen, wie viel Energie freigesetzt wurde. Im jüngsten Ereignis in Peru wurde eine Stärke von 6,7 gemessen."
+      ]
+    },
+    {
+      "heading": "Was passiert bei einem starken Beben?",
+      "paragraphs": [
+        "Ein Beben der Stärke 6,7 ist ein bedeutendes Ereignis. Das Zentrum des Bebens, das Epizentrum, lag in der Andenregion Junín. Die Tiefe des Erdstoßes wird je nach Messinstitut unterschiedlich angegeben, etwa 129 Kilometer laut dem IGP oder 108 Kilometer laut dem USGS.",
+        "Wenn die Erde bebt, kann das alles mitreißen. Die Heftigkeit der Erschütterungen kann sogar bis in große Städte wie Lima gespürt werden, selbst wenn diese weit vom Epizentrum entfernt sind. Die Folge können Erdrutsche und Steinschläge sein, wie in der Region Junín beobachtet wurde.",
+        "Bisher wurden zwar keine großen Sachschäden oder Verletzte gemeldet, aber es gab Berichte über leichte Beschädigungen von Wohnhäusern, Stromausfälle und Verkehrsbeeinträchtigungen. Das zeigt, dass selbst moderate Beben lokale Probleme verursachen können."
+      ]
+    }
+  ],
+  "whyItMatters": "Als junge Generation bist du Teil einer Welt, die immer stärker von Klimawandel und geologischen Veränderungen beeinflusst wird. Verstehen, wie Erdbeben entstehen und welche Risiken sie bergen, hilft dir, fundiert über Umwelt- und Katastrophenschutz zu diskutieren.",
+  "glossary": [
+    {
+      "term": "Epizentrum",
+      "definition": "Der Punkt auf der Erdoberfläche, direkt über dem Ort, an dem das Beben im Erdinneren begann."
+    },
+    {
+      "term": "Pazifischer Feuerring",
+      "definition": "Ein weitläufiger Ring im Pazifischen Ozean, der durchzogen ist von vielen aktiven vulkanischen Zonen und Erdbebengebieten."
+    },
+    {
+      "term": "Erdplatten",
+      "definition": "Die riesigen, starren Teile der Erdkruste, die sich langsam über dem darunterliegenden Mantel bewegen."
+    }
+  ],
+  "quiz": {
+    "question": "Auf welcher geologischen Struktur liegt Peru, was es anfällig für Erdbeben macht?",
+    "options": [
+      "Einem stabilen Kontinentalblock",
+      "Dem Pazifischen Feuerring",
+      "Einer tektonischen Senke"
+    ],
+    "answerIndex": 1,
+    "explanation": "Peru liegt auf dem Pazifischen Feuerring, einer Zone intensiver geologischer Aktivität."
+  },
+  "discussion": [
+    "Welche Maßnahmen hältst du für am wichtigsten, um eine Bevölkerung in einer erdbebengefährdeten Zone (wie Peru) besser zu schützen: Bauvorschriften oder öffentliche Sensibilisierung?",
+    "Wie beeinflusst das Wissen um geologische Risiken unsere Entscheidungen als Gesellschaft bezüglich Infrastruktur und Wohnbau?"
+  ],
+  "publishedAt": "2026-11-21T10:28:53.150Z",
+  "sources": [
+    {
+      "title": "Erdbeben erschüttert Perus Andenregion",
+      "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/was-passiert-wenn-die-erde-bebt-ein-blick-auf-erdbeben-in-pe.jpg",
+    "width": 960,
+    "height": 719,
+    "alt": "Satellitenaufnahme der Anden in Südamerika, die die geologische Struktur zeigt.",
+    "credit": {
+      "title": "Andes 70.30345W 42.99203S.jpg",
+      "author": "Originally uploaded by JuWiki (Transferred by Grondemar )",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andes_70.30345W_42.99203S.jpg"
+    }
+  }
+}

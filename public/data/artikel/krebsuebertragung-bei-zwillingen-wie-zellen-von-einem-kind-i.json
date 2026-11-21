@@ -1,0 +1,75 @@
+{
+  "id": "krebsuebertragung-bei-zwillingen-wie-zellen-von-einem-kind-i",
+  "category": "medizin",
+  "title": "Krebsübertragung bei Zwillingen: Wie Zellen von einem Kind ins andere gelangen",
+  "teaser": "Eine seltene Studie zeigt, wie Krebszellen zwischen Zwillingen übertragen werden können. Wir erklären, was das bedeutet und wie das funktioniert.",
+  "tags": [
+    "Krebs",
+    "Geburt",
+    "Genetik",
+    "Forschung",
+    "Zwillinge"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Bei einigen Zwillingen wurde ein Sarkom, eine Krebsart, nachgewiesen, das von einem Kind auf das andere übertragen wurde.",
+    "Die Übertragung fand über die Plazenta statt, nachdem der Tumor im ersten Trimenon (Drei-Monats-Periode) eines Kindes entstanden war.",
+    "Diese Forschung beleuchtet einen extrem seltenen Mechanismus der Tumorübertragung während der Schwangerschaft."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist ein Sarkom und wie kann Krebs übertragen werden?",
+      "paragraphs": [
+        "Stell dir vor, ein Krebsgeschwür entwickelt sich in einem Embryo. Das ist ein Sarkom, eine Art von Tumor, der aus Bindegewebe entsteht. In einem sehr seltenen Fall wurden bei Zwillingen in England zwei Kinder kurz nach der Geburt an demselben Sarkom gefunden.",
+        "Die Wissenschaftler haben herausgefunden, dass der Krebs zunächst in einem der Zwillinge entstand. Dieser Tumor entwickelte sich bereits im ersten Trimenon der Schwangerschaft. Was dann geschah, war ein extrem seltener Vorgang: Krebszellen gelangten über die Plazenta in das andere Kind."
+      ]
+    },
+    {
+      "heading": "Der Weg der Krebszellen: Von einem Kind zum anderen",
+      "paragraphs": [
+        "Die Plazenta ist das Organ, das während der Schwangerschaft den Austausch zwischen Mutter und Fötus ermöglicht. Normalerweise ist dieser Austausch streng reguliert. In diesem Fall bot die Plazenta jedoch einen Weg für die Krebszellen. Die genetischen Analysen bestätigten, dass die Tumorzellen vom ersten Kind zum zweiten Kind über diese Verbindung transportiert wurden.",
+        "Die Ärzte entdeckten den Tumor zunächst bei einem der Mädchen während der Schwangerschaftsvorsorge. Eine Untersuchung mit Magnetresonanztomografie (MRT) am Great Ormond Street Hospital in London ergab, dass es sich um eine größere Raumforderung im Gesichtsbereich handelte."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Wissen ist wichtig, weil es zeigt, dass biologische Prozesse komplexer sind, als wir oft annehmen. Es hilft uns zu verstehen, wie Krankheiten sich innerhalb eines Körpers oder zwischen eng verwandten Lebewesen ausbreiten können.",
+  "glossary": [
+    {
+      "term": "Sarkom",
+      "definition": "Eine Krebsart, die aus Bindegewebe (wie Knochen, Knorpel oder Fett) entsteht."
+    },
+    {
+      "term": "Trimenon",
+      "definition": "Ein Zeitraum von drei Monaten in der Schwangerschaft."
+    },
+    {
+      "term": "Plazenta",
+      "definition": "Das Organ in der Schwangerschaft, das den Austausch von Nährstoffen und Stoffwechselprodukten zwischen Mutter und Fötus regelt."
+    }
+  ],
+  "quiz": {
+    "question": "Wie gelangten die Krebszellen von einem Zwilling zum anderen?",
+    "options": [
+      "Durch einen direkten Kontakt zwischen den beiden Kindern außerhalb des Körpers.",
+      "Über die Plazenta, nachdem der Tumor im ersten Trimenon eines Kindes entstand.",
+      "Durch eine Infektion, die beide Kinder gleichzeitig erlitten."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Studie zeigte, dass die Krebszellen über die Plazenta von dem Kind, in dem sie zuerst entstanden, ins andere Kind gelangten."
+  },
+  "discussion": [
+    "Welche ethischen Fragen ergeben sich, wenn Krankheiten wie Krebs zwischen eng verwandten Personen übertragen werden könnten?",
+    "Wie könnte die moderne Forschung helfen, solche seltenen Übertragungsmechanismen besser zu verstehen und zukünftige Risiken zu minimieren?"
+  ],
+  "publishedAt": "2026-11-21T09:49:00.577Z",
+  "sources": [
+    {
+      "title": "Zwilling übertrug seltenes Sarkom intrauterin auf Geschwisterkind",
+      "url": "https://www.aerzteblatt.de/news/zwilling-ubertrug-seltenes-sarkom-intrauterin-auf-geschwisterkind-e67d53f2-22ba-4676-957b-c89e73f1f99d",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
