@@ -1,0 +1,82 @@
+{
+  "id": "wenn-sterne-kollidieren-wie-riesige-gaswolken-neue-sterne-er",
+  "category": "astronomie",
+  "title": "Wenn Sterne kollidieren: Wie riesige Gaswolken neue Sterne erschaffen",
+  "teaser": "Ein kleiner Stern stürzt in einen Giganten und löst eine kosmische Explosion aus. Das James Webb Teleskop enthüllt, was nach diesem spektakulären Ereignis passiert ist.",
+  "tags": [
+    "Weltall",
+    "Sterne",
+    "Kosmologie",
+    "Galaxien"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In der Andromeda-Galaxie kollidierte ein kleiner Stern mit einem riesigen Supergiganten, was eine gewaltige Explosion auslöste.",
+    "Das James Webb Teleskop beobachtete das Ereignis nur 47 Tage nach dem Höhepunkt der Eruption, was eine frühe Aufzeichnung dieses Prozesses darstellt.",
+    "Diese Art von Sternenkollision, bekannt als gemeinsame Hüllenentwicklung, kann entweder zu einem neuen, rejuvenierten Stern führen oder zu extremen Objekten wie Schwarzen Löchern."
+  ],
+  "sections": [
+    {
+      "heading": "Ein kosmischer Tanz, der in eine Explosion mündet",
+      "paragraphs": [
+        "Stell dir vor, zwei Sterne tanzen über Millionen von Jahren umeinander. In der Andromeda-Galaxie ist dies passiert: Ein kleinerer Stern spiralförmig in einen gigantischen Supergiganten getaucht. Dieses seltene Ereignis, eine Sternenkollision, hat einen einzigen, neuen Stern hervorgebracht, der durch die Fusion quasi „verjüngt“ wurde.",
+        "Die Beobachtungen des James Webb Space Telescope (JWST) haben uns Einblicke gegeben, wie dieser Prozess abläuft. Der kleinere Stern, der etwa 70 % der Masse unserer Sonne hatte, begann, die äußeren Schichten seines riesigen Partners zu erodieren. Dieser Vorgang, der als gemeinsame Hüllenentwicklung bezeichnet wird, lässt die Sterne langsam miteinander verschmelzen."
+      ]
+    },
+    {
+      "heading": "Von der Stabilität zur Super-Helligkeit",
+      "paragraphs": [
+        "Die anfängliche Stabilität des Systems endete, als der kleinere Stern die äußere Atmosphäre des Giganten berührte. Die Verschmelzung selbst verlief überraschend schnell. Während frühere Kollisionen Tausende von Umlaufbahnen benötigten, fusionierten diese beiden Sterne nach nur sieben weiteren Umläufen – also etwa sieben Jahren.",
+        "Die anschließende Eruption war ebenso unerwartet. Forscher erwarteten, dass ein solch ausgedehnter Stern Jahre brauchen würde, um zu leuchten, aber die Helligkeit stieg innerhalb einer Woche ihren Höhepunkt an. Das JWST konnte diesen Moment nur 47 Tage nach dem Höhepunkt beobachten, was eine beispiellose frühe Nachverfolgung eines solchen Ereignisses darstellt.",
+        "Die Forscher nutzten die Daten des JWST, insbesondere seine mittleren Infrarotmessungen, um Staub zu erkennen, den der riesige Stern über Jahrhunderte ausgestoßen hatte. Dies ermöglichte es, das System vor, während und kurz nach der Fusion zu rekonstruieren."
+      ]
+    },
+    {
+      "heading": "Was kommt nach der Fusion?",
+      "paragraphs": [
+        "Sternenkollisionen führen nicht immer zu einem einzigen, neuen Stern. Manchmal überleben beide Sterne, verlieren aber dabei viel Material und geraten in extrem enge Umlaufbahnen. Diese Überlebenden sind wichtig, weil sie später zu den extremsten Objekten des Universums werden können.",
+        "Je nach Entwicklung können sie Neutronensterne oder Schwarze Löcher bilden, gewaltige Supernovae auslösen oder Gravitationswellen erzeugen. Das Verständnis dieser gemeinsamen Hüllenentwicklung ist daher entscheidend, um die Entstehung dieser kosmischen Giganten zu erklären."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Prozesse zeigen uns, wie Sterne im Universum entstehen und sterben. Sie helfen uns zu verstehen, wie die extremsten Objekte im Kosmos, wie Schwarze Löcher, überhaupt entstehen können.",
+  "glossary": [
+    {
+      "term": "Supergigant",
+      "definition": "Ein sehr massereicher Stern, der extrem groß und hell ist, oft viel größer als unsere Sonne."
+    },
+    {
+      "term": "Gemeinsame Hüllenentwicklung",
+      "definition": "Ein Prozess, bei dem zwei Sterne so nah beieinander sind, dass sie sich gegenseitig umhüllen und Material austauschen."
+    },
+    {
+      "term": "Neutronenstern",
+      "definition": "Ein extrem dichter Stern, der entsteht, wenn ein sehr massereicher Stern kollabiert."
+    }
+  ],
+  "quiz": {
+    "question": "Wie lange dauerte die Verschmelzung der beiden Sterne in der Andromeda-Galaxie nach Beginn der Interaktion?",
+    "options": [
+      "Etwa sieben Jahre",
+      "Weniger als ein Jahr",
+      "Tausende von Umlaufbahnen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Forscher berichteten, dass die Sterne nach nur sieben weiteren Umläufen, also etwa sieben Jahren, zur Einheit wurden."
+  },
+  "discussion": [
+    "Welche Rolle spielen solche extremen kosmischen Ereignisse (wie Sternenkollisionen) für die Entstehung von Elementen im Universum, die wir auch auf der Erde finden?",
+    "Wie beeinflusst die Beobachtung von extremen Phänomenen durch Teleskope wie das JWST unser allgemeines Verständnis von physikalischen Gesetzen?"
+  ],
+  "publishedAt": "2026-11-22T10:15:02.809Z",
+  "sources": [
+    {
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

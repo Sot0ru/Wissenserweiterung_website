@@ -1,0 +1,89 @@
+{
+  "id": "wenn-technik-streikt-was-passiert-wenn-mars-missionen-proble",
+  "category": "astronomie",
+  "title": "Wenn Technik streikt: Was passiert, wenn Mars-Missionen Probleme bekommen?",
+  "teaser": "Die NASA-Missionen auf dem Mars stoßen auf technische Hürden. Wir erklären, was das für die wissenschaftliche Arbeit bedeutet.",
+  "tags": [
+    "Weltraum",
+    "Mars",
+    "NASA",
+    "Raumfahrt",
+    "Technik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Mars-Missionen Perseverance (Rover) und Odyssey (Orbiter) kämpfen mit technischen Störungen, die den wissenschaftlichen Betrieb einschränken.",
+    "Bei Perseverance gab es Kommunikationsprobleme mit dem Hauptfunkgerät, weshalb auf ein Backup-System umgeschaltet werden musste.",
+    "Bei Odyssey funktioniert ein Reaktionsrad nicht mehr, was die Ausrichtung des Raumschiffs erschwert und den Treibstoffverbrauch erhöht."
+  ],
+  "sections": [
+    {
+      "heading": "Kommunikationschaos auf dem Mars",
+      "paragraphs": [
+        "Die NASA überwacht zwei wichtige Missionen auf dem Mars: den Rover „Perseverance“ und den Orbiter „2001 Mars Odyssey“. Aktuell müssen die Teams auf der Erde technische Probleme beheben, die die wissenschaftliche Arbeit beider Raumfahrzeuge beeinträchtigen.",
+        "Bei Perseverance kam es zu einem Kommunikationsausfall. Am 30. Oktober sendete das primäre Downlink-Funkgerät des Rovers nicht die erwarteten Signale, sogenannte „Heartbeats“ oder Pings. Das System reagierte daraufhin automatisch: Es schaltete das fehlerhafte Gerät ab und wechselte auf ein redundantes Zweitfunkgerät – eine Sicherheitsmaßnahme.",
+        "Nach der Diagnose stellte sich heraus, dass das Ersatzfunkgerät nur etwa die Hälfte der erwarteten Sendeleistung liefert. Deshalb wurden beide Funkgeräte vorübergehend abgeschaltet. Um trotzdem Kontakt zu halten, kommuniziert Perseverance momentan direkt mit dem Deep Space Network der NASA. Da diese Verbindung weniger Daten überträgt, mussten die wissenschaftlichen Instrumente pausieren, um Platz für die wichtigen Diagnoseinformationen zu schaffen."
+      ]
+    },
+    {
+      "heading": "Drehimpuls-Probleme beim Mars-Orbiter",
+      "paragraphs": [
+        "Parallel dazu kämpft der Orbiter Mars Odyssey mit einem defekten Reaktionsrad. Raumfahrzeuge nutzen Reaktionsräder, um ihren Drehimpuls zu verändern und so ihre Ausrichtung im Weltraum anzupassen – zum Beispiel, um Solarpaneele zur Sonne auszurichten.",
+        "Odyssey hat vier dieser Räder. Eines dieser Räder funktioniert nicht mehr. Da mindestens drei Räder für die stabile Ausrichtung nötig sind, muss das Raumschiff nun stärker auf seine Hydrazin-Triebwerke zurückgreifen, um seine Position zu halten.",
+        "Die Ingenieure schätzen, dass Odyssey mit dem vorhandenen Treibstoff nur noch etwa ein bis zwei Monate lang stabil ausgerichtet werden kann. Die Teams untersuchen aktiv das defekte Rad und führen Tests durch, um festzustellen, ob es wieder funktionstüchtig gemacht werden kann."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese technischen Herausforderungen zeigen, wie komplex und anfällig Weltraummissionen sind. Sie verdeutlichen, dass jeder wissenschaftliche Erfolg auf unglaublich präziser Ingenieursleistung basiert.",
+  "glossary": [
+    {
+      "term": "Redundantes Gerät",
+      "definition": "Ein Ersatzgerät, das bereitsteht, falls das Hauptgerät ausfällt, um den Betrieb aufrechtzuerhalten."
+    },
+    {
+      "term": "Downlink",
+      "definition": "Die Übertragung von Daten vom Raumfahrzeug hin zur Erde."
+    },
+    {
+      "term": "Reaktionsrad",
+      "definition": "Ein mechanisches Bauteil in Raumfahrzeugen, das durch Beschleunigung oder Verlangsamung Drehmomente erzeugt, um die Ausrichtung zu ändern."
+    }
+  ],
+  "quiz": {
+    "question": "Was geschah, als das primäre Funkgerät von Perseverance ausfiel?",
+    "options": [
+      "Das gesamte Rover-System schaltete ab und blieb offline.",
+      "Die NASA musste die Mission sofort beenden, da kein Kontakt mehr möglich war.",
+      "Ein integrierter Schutzmechanismus schaltete auf ein Backup-Funkgerät um."
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut Quelle löste das Ausbleiben des Signals den integrierten Schutzmechanismus aus, der auf das redundante Zweitfunkgerät umschaltete."
+  },
+  "discussion": [
+    "Wie würdest du die Prioritäten setzen: Sollte man bei einem technischen Defekt zuerst versuchen, die wissenschaftliche Arbeit fortzusetzen, oder zuerst die technische Stabilität des Raumfahrzeugs sicherstellen?",
+    "Welche Rolle spielt die Redundanz (Ersatzsysteme) in Hochtechnologie-Systemen, und wann ist ein Backup-System nicht ausreichend?"
+  ],
+  "publishedAt": "2026-11-22T10:09:26.137Z",
+  "sources": [
+    {
+      "title": "Die Perseverance- und Odyssey-Teams untersuchen technische Probleme",
+      "url": "https://www.raumfahrer.net/die-perseverance-und-odyssey-teams-untersuchen-technische-probleme/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wenn-technik-streikt-was-passiert-wenn-mars-missionen-proble.jpg",
+    "width": 960,
+    "height": 715,
+    "alt": "NASA's Ingenuity Helikopter auf dem Mars, aufgenommen vom Perseverance Rover.",
+    "credit": {
+      "title": "NASA's Ingenuity helicopter on Mars by Perseverance Mastcam-Z, Sol 768 (53475637956).jpg",
+      "author": "semeion.photo Credit: NASA/JPL-Caltech/ASU/Simeon Schmauß",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NASA%27s_Ingenuity_helicopter_on_Mars_by_Perseverance_Mastcam-Z,_Sol_768_(53475637956).jpg"
+    }
+  }
+}

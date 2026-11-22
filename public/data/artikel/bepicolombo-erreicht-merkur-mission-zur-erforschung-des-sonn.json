@@ -1,0 +1,93 @@
+{
+  "id": "bepicolombo-erreicht-merkur-mission-zur-erforschung-des-sonn",
+  "category": "astronomie",
+  "title": "BepiColombo erreicht Merkur: Mission zur Erforschung des sonnennächsten Planeten",
+  "teaser": "Nach acht Jahren Reise ist die europäisch-japanische Sonde BepiColombo am Merkur angekommen. Was wollen die Forscher mit dieser teuren Mission herausfinden?",
+  "tags": [
+    "Sonnensystem",
+    "Planetenforschung",
+    "Weltraummission",
+    "ESA"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die Weltraumsonde BepiColombo ist nach acht Jahren Reise am Merkur angekommen und hat eine Umlaufbahn eingeschlagen.",
+    "Die Mission soll mit ihren Instrumenten das Magnetfeld, die Oberfläche und den Kern des Planeten untersuchen.",
+    "Ziel ist es, mehr über die Entstehung des Merkur und mögliche Wasserreste zu erfahren."
+  ],
+  "sections": [
+    {
+      "heading": "Ankunft am Ziel: Was BepiColombo nun tut",
+      "paragraphs": [
+        "Die Merkur-Sonde BepiColombo hat ihr Ziel erreicht. Nach einer achtjährigen Reise durch das innere Sonnensystem ist der Flugkörper erfolgreich in eine Umlaufbahn um den sonnennächsten Planeten eingetreten. Diese Mission ist ein gemeinsames Projekt der Europäischen Weltraumorganisation (ESA) und der japanischen Raumfahrtbehörde JAXA und kostet rund 1,7 Milliarden Euro.",
+        "Die Sonde, die seit Oktober 2018 unterwegs ist, hat bereits über zehn Milliarden Kilometer zurückgelegt. Jetzt beginnt die eigentliche wissenschaftliche Arbeit. BepiColombo wird zunächst bis auf 674 Kilometer nahe an die Oberfläche des Merkur heranfliegen."
+      ]
+    },
+    {
+      "heading": "Die großen Fragen zur Planetenentstehung",
+      "paragraphs": [
+        "Wissenschaftler nutzen die zahlreichen Instrumente an BepiColombo, um tiefere Einblicke in diesen faszinierenden Planeten zu bekommen. Die Forscher wollen unter anderem das Magnetfeld des Merkur untersuchen und dessen Oberfläche detailliert kartieren. Auch der Kern und die Gashülle werden untersucht.",
+        "Ein zentrales Forschungsziel ist die Frage, ob auf dem Merkur Wasser vorhanden ist und woraus der Planet überhaupt besteht. Die Mission soll dabei helfen, die Ursprünge des gesamten Sonnensystems besser zu verstehen. Es gibt sogar Vermutungen, dass unter der Kruste des Merkur eine kilometerdicke Schicht aus Diamanten existieren könnte."
+      ]
+    },
+    {
+      "heading": "Herausforderungen in der Nähe der Sonne",
+      "paragraphs": [
+        "Da der Merkur dem Sonnenkörper am nächsten ist, stellt diese Umgebung extreme Bedingungen dar. Die Sonnenintensität dort ist mitunter zehnmal stärker als auf der Erde. Um diesem Umfeld standzuhalten, wurden die beiden Satelliten speziell gebaut. Sie verfügen unter anderem über Hochtemperaturbeschichtungen und mehrschichtige Isolierung.",
+        "Ein weiterer technischer Aspekt ist die Rotation: Einer der Satelliten muss sich pro Minute 15 Mal drehen, um eine Überhitzung zu verhindern. Der Merkur gehört zu den am wenigsten erforschten Planeten im inneren Sonnensystem, weshalb diese Mission so wichtig ist."
+      ]
+    }
+  ],
+  "whyItMatters": "Weltraummissionen zeigen uns, wie weit unser Wissen über unser Sonnensystem reicht. Wenn wir mehr über Planeten wie den Merkur erfahren, verstehen wir besser, wie sich Planeten überhaupt bilden und welche Bedingungen für Leben möglich sind.",
+  "glossary": [
+    {
+      "term": "Umlaufbahn",
+      "definition": "Die Bahn, die ein Himmelskörper (wie ein Planet oder eine Sonde) um einen anderen Körper (wie die Sonne) beschreibt."
+    },
+    {
+      "term": "Magnetfeld",
+      "definition": "Ein unsichtbares Feld, das von einem Planeten erzeugt wird und wie ein riesiger, unsichtbarer Magnet wirkt."
+    },
+    {
+      "term": "ESA",
+      "definition": "Die Europäische Weltraumorganisation, eine Organisation, die europäische Raumfahrtmissionen koordiniert."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Hauptaufgabe verfolgt die BepiColombo-Mission im Zusammenhang mit dem Merkur?",
+    "options": [
+      "Die Oberfläche kartieren und das Magnetfeld untersuchen",
+      "Die Sonne beobachten, um deren Energie zu messen",
+      "Ein neues Leben auf dem Planeten suchen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Mission soll mit ihren Instrumenten das Magnetfeld untersuchen und die Oberfläche kartieren."
+  },
+  "discussion": [
+    "Welche Rolle spielt die internationale Zusammenarbeit (wie zwischen ESA und JAXA) bei großen wissenschaftlichen Projekten wie diesem?",
+    "Wenn wir mehr über die Entstehung von Planeten wie dem Merkur lernen, welche Hypothesen können wir dann auf andere Sonnensysteme anwenden?"
+  ],
+  "publishedAt": "2026-11-22T09:59:50.769Z",
+  "sources": [
+    {
+      "title": "Sonde \"BepiColombo\" erreicht Merkur-Umlaufbahn",
+      "url": "https://www.tagesschau.de/wissen/weltraum/merkur-sonde-esa-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/bepicolombo-erreicht-merkur-mission-zur-erforschung-des-sonn.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Aufnahme des Merkurs von der BepiColombo-Sonde, die den Planeten passiert.",
+    "credit": {
+      "title": "Mercury (BepiColombo Mercury-1).jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercury_(BepiColombo_Mercury-1).jpg"
+    }
+  }
+}

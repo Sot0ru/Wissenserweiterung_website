@@ -1,0 +1,87 @@
+{
+  "id": "klimakonferenzen-warum-die-abkehr-von-fossilen-energien-so-s",
+  "category": "wissenschaft",
+  "title": "Klimakonferenzen: Warum die Abkehr von fossilen Energien so schwierig ist",
+  "teaser": "Die Weltklimakonferenz kämpft um einen Beschlusstext. Deutschland sieht im aktuellen Entwurf keine ausreichenden Klimaschutz-Versprechen.",
+  "tags": [
+    "Klimawandel",
+    "Energie",
+    "Nachhaltigkeit",
+    "CO2"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Bei der Klimakonferenz COP31 wird heftig über einen Beschlusstext verhandelt, der die Zukunft des Klimaschutzes bestimmen soll.",
+    "Deutschland lehnt den aktuellen Entwurf ab, weil er kein klares Bekenntnis zur Abkehr von Kohle, Öl und Gas enthält.",
+    "Die Verhandlungen zeigen den Konflikt zwischen dem dringenden Bedarf an Klimaschutz und den Interessen von Öl- und Gasförderern."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist eigentlich eine Klimakonferenz (COP)?",
+      "paragraphs": [
+        "Wenn von einer Weltklimakonferenz wie der COP (Conference of the Parties) gesprochen wird, geht es um internationale Verhandlungen zum Klimaschutz. Diese Treffen finden unter dem Dach der Vereinten Nationen statt und bringen Staaten zusammen, um globale Klimaziele festzulegen und umzusetzen.",
+        "Das Ziel ist, gemeinsam einen Weg zu finden, wie die Erderwärmung eingedämmt werden kann. Dabei geht es um die Reduktion von Treibhausgasen – also Gase wie Kohlendioxid (CO2), die die Wärme in der Atmosphäre festhalten und den Planeten erwärmen."
+      ]
+    },
+    {
+      "heading": "Der Streitpunkt: Fossile Energien vs. Klimaschutz",
+      "paragraphs": [
+        "Aktuell, bei der COP31 in Antalya, gibt es große Spannungen beim Beschlusstext. Bundesumweltminister Carsten Schneider hat den vorliegenden Entwurf scharf zurückgewiesen. Sein Hauptkritikpunkt: Der Text enthält kein ausdrückliches Bekenntnis dazu, sich von fossilen Energieträgern wie Kohle, Öl und Gas abzuwenden.",
+        "Schneider argumentiert, dass ein solches klares Zeichen nötig sei, um der Bedrohung der Erderwärmung entgegenzuwirken. Er sieht, dass sich in den Verhandlungen offenbar Öl-fördernde Staaten durchgesetzt haben, die keine klaren Fahrpläne zur Emissionsreduktion vorlegen wollen.",
+        "Die Konferenz soll einen Konsens finden, doch die Verhandlungen sind schwierig. Schneider äußert Skepsis, ob es angesichts der letzten Stunden noch zu einer Einigung kommen kann, da die Entscheidungsvorlage seiner Meinung nach nicht ausreichend ist und sogar einen Schritt zurückgeht."
+      ]
+    }
+  ],
+  "whyItMatters": "Klimaschutz ist kein abstraktes Thema, sondern beeinflusst direkt dein Leben – von Wetterextremen bis zur Energieversorgung. Diese internationalen Verhandlungen bestimmen, wie schnell die Welt handeln muss, um die Klimakrise zu bremsen.",
+  "glossary": [
+    {
+      "term": "Treibhausgase",
+      "definition": "Gase in der Atmosphäre, die Wärme einfangen und zur Erderwärmung beitragen (z. B. CO2)."
+    },
+    {
+      "term": "Fossile Energieträger",
+      "definition": "Energiequellen, die aus organischem Material entstehen und verbrannt werden (z. B. Kohle, Öl, Gas)."
+    },
+    {
+      "term": "Konsensprinzip",
+      "definition": "Das Prinzip, dass alle beteiligten Parteien einer Entscheidung zustimmen müssen, damit diese Gültigkeit erhält."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut dem Minister Schneider der Hauptgrund für die Ablehnung des aktuellen Beschlusstextes?",
+    "options": [
+      "Der Text ist zu lang und kompliziert für die Teilnehmer.",
+      "Er enthält kein ausdrückliches Bekenntnis zur Abkehr von Kohle, Öl und Gas.",
+      "Die Verhandlungen wurden zu lange in Antalya verlängert."
+    ],
+    "answerIndex": 1,
+    "explanation": "Der Minister kritisierte, dass der Entwurf kein ausdrückliches Bekenntnis zur Abkehr von fossilen Energieträgern enthielt."
+  },
+  "discussion": [
+    "Wie kann ein globales Problem wie der Klimawandel gelöst werden, wenn einzelne Länder unterschiedliche wirtschaftliche Interessen verfolgen?",
+    "Welche Rolle sollte die Technologie (z. B. erneuerbare Energien) bei der Lösung dieser internationalen Konflikte spielen?"
+  ],
+  "publishedAt": "2026-11-22T10:30:32.822Z",
+  "sources": [
+    {
+      "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+      "url": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/klimakonferenzen-warum-die-abkehr-von-fossilen-energien-so-s.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Ministerialtreffen zur Energie auf der Klimakonferenz COP31 in Antalya, Türkei.",
+    "credit": {
+      "title": "General view of the COP31 Presidency’s Energy Ministerial Meeting.jpg",
+      "author": "Necati Savas / European Union, 2026 / EC - Audiovisual Service",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:General_view_of_the_COP31_Presidency%E2%80%99s_Energy_Ministerial_Meeting.jpg"
+    }
+  }
+}

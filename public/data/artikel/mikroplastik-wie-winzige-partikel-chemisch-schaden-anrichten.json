@@ -1,0 +1,88 @@
+{
+  "id": "mikroplastik-wie-winzige-partikel-chemisch-schaden-anrichten",
+  "category": "wissenschaft",
+  "title": "Mikroplastik: Wie winzige Partikel chemisch Schaden anrichten können",
+  "teaser": "Man dachte, Plastik sei chemisch stabil. Neue Forschung zeigt, dass winzige Plastikteilchen in Wasser hochreaktive Stoffe erzeugen können.",
+  "tags": [
+    "Umwelt",
+    "Chemie",
+    "Gesundheit",
+    "Materialwissenschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Mikroplastik, also sehr kleine Plastikpartikel, interagiert mit Wasser und erzeugt hochreaktive Moleküle.",
+    "Diese reaktiven Sauerstoffspezies (ROS) können biologische Strukturen in Zellen und Geweben schädigen.",
+    "Die Forschung liefert einen möglichen Mechanismus, der die gesundheitlichen Bedenken bezüglich Plastikexposition erklärt."
+  ],
+  "sections": [
+    {
+      "heading": "Die chemische Überraschung: Plastik ist nicht immer passiv",
+      "paragraphs": [
+        "Plastik wird überall verwendet – von Verpackungen bis zu Spielzeug. Man geht davon aus, dass es chemisch stabil ist und kaum mit seiner Umgebung reagiert. Doch neue wissenschaftliche Erkenntnisse stellen diese Annahme infrage, wenn Plastik in extrem kleine Teile zerfällt: Mikro- und Nanoplastik.",
+        "Wenn größere Plastikteile zu Mikroplastik zerfallen, steigt die Oberfläche dramatisch an. Forscher der Columbia University und der University of California, Berkeley, haben herausgefunden, dass diese neuen, exponierten Oberflächen mit Wasser chemische Reaktionen eingehen können. Sie erzeugen dabei hochreaktive Moleküle, die potenziell Zellen und Gewebe schädigen können.",
+        "Diese Entdeckung ändert die Sichtweise: Mikroplastik ist kein bloßes, inertes Materialfragment. Es kann die umgebende Wasserchemie verändern."
+      ]
+    },
+    {
+      "heading": "Was passiert in der Zelle? Die Rolle der reaktiven Sauerstoffspezies",
+      "paragraphs": [
+        "Wenn diese winzigen Partikel in den menschlichen Körper gelangen, können sie in der wässrigen Umgebung von Blut und Zellen weiter aktiv werden. Anstatt einfach nur herumzutreiben, können sie sogenannte reaktive Sauerstoffspezies (ROS) erzeugen. ROS sind chemische Stoffe, die biologische Strukturen angreifen und schädigen können.",
+        "Die Forschung liefert damit einen möglichen Erklärungsansatz für die gesundheitlichen Probleme, die mit Mikroplastik-Exposition in Verbindung gebracht werden. Bisherige Studien haben bereits einen Zusammenhang zwischen Mikroplastik und Erkrankungen wie Herzinfarkten oder neurologischen Störungen gezeigt, aber der genaue chemische Weg blieb unklar.",
+        "Die Wissenschaftler stellten fest, dass Wasser dabei eine aktive Rolle spielt. Obwohl viele Kunststoffe wasserabweisend (hydrophob) sind, ermöglicht der Kontakt mit Wasser an der Oberfläche die Bildung von hochreaktiven Radikalen. Kleinere Partikel bieten dabei mehr Angriffspunkte für diese chemischen Prozesse."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil Mikroplastik nicht nur ein sichtbares Umweltproblem ist, sondern durch neue Forschung als chemische Gefahr erkannt wird. Es hilft uns zu verstehen, wie uns alltägliche Plastikprodukte auf zellulärer Ebene schaden könnten.",
+  "glossary": [
+    {
+      "term": "Mikroplastik",
+      "definition": "Plastikpartikel, die kleiner als 5 Millimeter sind und durch Zerfall von größeren Plastikobjekten entstehen."
+    },
+    {
+      "term": "Reaktive Sauerstoffspezies (ROS)",
+      "definition": "Hochreaktive Moleküle, die durch chemische Prozesse entstehen und biologisches Material, wie Zellen, angreifen können."
+    },
+    {
+      "term": "Hydrophob",
+      "definition": "Eine Eigenschaft von Stoffen, die Wasser abstoßen und nicht gut mit Wasser vermischen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche chemische Reaktion wird durch Mikroplastik in Wasser ausgelöst, die biologischen Schaden verursachen kann?",
+    "options": [
+      "Die Neutralisierung von Wasserstoffionen",
+      "Die spontane Erzeugung reaktiver Sauerstoffspezies (ROS)",
+      "Die Bildung von stabilen Polymerketten"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Forschung zeigt, dass Mikroplastik in Wasser hochreaktive Sauerstoffspezies (ROS) erzeugt, die biologische Schäden verursachen können."
+  },
+  "discussion": [
+    "Wie sollte die Industrie ansetzen, um Materialien zu entwickeln, die chemisch stabiler sind und weniger reaktive Stoffe freisetzen, wenn sie mit Wasser in Kontakt kommen?",
+    "Welche Rolle spielt die Aufklärung der Öffentlichkeit bei der Reduzierung der Plastikbelastung, wenn die Ursachen so komplex sind?"
+  ],
+  "publishedAt": "2026-11-22T09:49:42.719Z",
+  "sources": [
+    {
+      "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/mikroplastik-wie-winzige-partikel-chemisch-schaden-anrichten.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Großes Mikroskop zur Zählung von Mikroplastikpartikeln in einer Wasserprobe.",
+    "credit": {
+      "title": "Large microscope used for counting microplastics found in water sample.jpg",
+      "author": "Public domain.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Large_microscope_used_for_counting_microplastics_found_in_water_sample.jpg"
+    }
+  }
+}

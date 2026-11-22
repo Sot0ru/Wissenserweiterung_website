@@ -1,0 +1,88 @@
+{
+  "id": "von-der-nva-zur-bundeswehr-wie-die-ddr-armee-in-die-deutsche",
+  "category": "geschichte",
+  "title": "Von der NVA zur Bundeswehr: Wie die DDR-Armee in die deutsche Einheit integriert wurde",
+  "teaser": "Die Nationale Volksarmee (NVA) war jahrzehntelang die militärische Macht der DDR. Was war diese Armee und wie fand ihre Integration in die Bundeswehr statt?",
+  "tags": [
+    "Kalte Krieg",
+    "Deutsche Geschichte",
+    "Militär",
+    "Nachwendezeit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Nationale Volksarmee (NVA) war die Armee der DDR und stand jahrzehntelang der Bundeswehr gegenüber.",
+    "Nach der Wiedervereinigung am 3. Oktober 1990 wurde die NVA in die Bundeswehr integriert.",
+    "Die Armee war durch Wehrpflicht und eine spezifische Kultur geprägt, die sich stark von westlichen Strukturen unterschied."
+  ],
+  "sections": [
+    {
+      "heading": "Die Armee der DDR: Was war die NVA?",
+      "paragraphs": [
+        "Die DDR hatte ihre eigene Armee, die Nationale Volksarmee (NVA). Diese Armee stand jahrzehntelang der Bundeswehr gegenüber – man spricht hier von der „Nahtstelle der Systeme“.",
+        "Die NVA wurde 1956 gegründet. Anfangs war sie eine Freiwilligenarmee. Dies änderte sich jedoch, als 1962 die allgemeine Wehrpflicht eingeführt wurde. Ab diesem Zeitpunkt mussten alle Männer zwischen 18 und 26 Jahren einen Grundwehrdienst von 18 Monaten leisten.",
+        "Wer diesen Dienst an der Waffe ablehnte, wurde als „Bausoldat“ bezeichnet. Trotz der militärischen Ausrichtung der DDR-Gesellschaft war dieser Ersatzdienst für Pazifisten und Christen möglich, wurde aber stark kontrolliert."
+      ]
+    },
+    {
+      "heading": "Der Übergang zur Einheit: NVA trifft Bundeswehr",
+      "paragraphs": [
+        "Die Zeiten änderten sich dramatisch im Herbst 1989. Obwohl die DDR-Staatsmacht im Jahr 1989 über weit mehr als eine halbe Million Soldaten und Polizisten verfügte, verhinderte die NVA und die Volkspolizei nicht das Ende der SED-Herrschaft.",
+        "Der große Wandel kam am 3. Oktober 1990: Die NVA wurde in die Bundeswehr integriert. Dies war ein historischer Prozess, bei dem die beiden militärischen Systeme zusammengeführt wurden.",
+        "Die Soldaten der NVA hatten eine eigene Sprache und Kultur. Ihr Jargon war oft von Ironie und Zynismus geprägt und diente als eine Art Geheimsprache innerhalb der Armee."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Geschichte der NVA zeigt, wie sich Staaten und ihre Systeme verändern können. Das Verständnis dieser Übergänge hilft dir zu sehen, wie sich politische und militärische Strukturen neu formieren müssen.",
+  "glossary": [
+    {
+      "term": "NVA",
+      "definition": "Die Nationale Volksarmee, die Armee der Deutschen Demokratischen Republik (DDR)."
+    },
+    {
+      "term": "Wehrpflicht",
+      "definition": "Die gesetzliche Pflicht, eine bestimmte Zeit im Militär zu dienen."
+    },
+    {
+      "term": "Bundeswehr",
+      "definition": "Die Bundeswehr ist die Bundeswehr der Bundesrepublik Deutschland, die Armee des westlichen Deutschlands."
+    }
+  ],
+  "quiz": {
+    "question": "Wann wurde die allgemeine Wehrpflicht in der DDR eingeführt?",
+    "options": [
+      "1962",
+      "1990",
+      "1956"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die allgemeine Wehrpflicht wurde am 24. Januar 1962 eingeführt."
+  },
+  "discussion": [
+    "Welche Herausforderungen stellt die Integration von zwei so unterschiedlichen militärischen Kulturen (wie NVA und Bundeswehr) dar?",
+    "Wie beeinflusst die Geschichte eines Landes die heutige politische und soziale Struktur?"
+  ],
+  "publishedAt": "2026-11-22T10:44:15.874Z",
+  "sources": [
+    {
+      "title": "NVA",
+      "url": "https://www.mdr.de/geschichte/ddr/politik-gesellschaft/nva",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/von-der-nva-zur-bundeswehr-wie-die-ddr-armee-in-die-deutsche.jpg",
+    "width": 960,
+    "height": 678,
+    "alt": "Ehrung von NVA und Grenztruppen in Berlin, dokumentiert die Militärgeschichte der DDR.",
+    "credit": {
+      "title": "Bundesarchiv Bild 183-1983-0930-027, Berlin, Ehrungen von NVA und Grenztruppen.jpg",
+      "author": "Zimmermann, Peter",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1983-0930-027,_Berlin,_Ehrungen_von_NVA_und_Grenztruppen.jpg"
+    }
+  }
+}
