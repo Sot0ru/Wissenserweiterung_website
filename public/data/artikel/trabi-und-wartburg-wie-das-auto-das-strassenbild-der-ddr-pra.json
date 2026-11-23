@@ -1,0 +1,86 @@
+{
+  "id": "trabi-und-wartburg-wie-das-auto-das-strassenbild-der-ddr-pra",
+  "category": "geschichte",
+  "title": "Trabi und Wartburg: Wie das Auto das Straßenbild der DDR prägte",
+  "teaser": "Die DDR war bekannt für ihre eigenen Automarken. Aber wie sah das Leben mit einem Trabant oder Wartburg aus und was bedeutet das Ende dieser Ära?",
+  "tags": [
+    "Ostdeutschland",
+    "Automobilgeschichte",
+    "Kalte Krieg",
+    "DDR"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Trabant und Wartburg waren typische Fahrzeuge in der DDR und prägten das Straßenbild des Landes.",
+    "Die Produktion dieser Autos endete in den frühen 1990er Jahren, was das Ende einer ganzen Ära markierte.",
+    "Das Leben mit diesen Fahrzeugen war geprägt von Warteschlangen und dem Unterschied zu Westautos."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Bild der DDR: Autos als Statussymbol",
+      "paragraphs": [
+        "In der Deutschen Demokratischen Republik (DDR) spielten Autos eine ganz besondere Rolle. Fahrzeuge wie der Trabant und der Wartburg waren prägend für das Straßenbild. Wer in der DDR ein eigenes Auto besaß, genoss einen gewissen individuellen Freiraum.",
+        "Im Gegensatz zu Westdeutschland, wo Autos oft leichter verfügbar waren, war der Besitz eines eigenen Fahrzeugs in der DDR ein besonderes Ereignis. Wenn ein nagelneues Auto in eine Familie kam, war das oft ein Moment großer Freude, denn lange Wartezeiten waren damit vorbei."
+      ]
+    },
+    {
+      "heading": "Das Ende einer Ära",
+      "paragraphs": [
+        "Die Geschichte dieser Automarken ist eng mit der Zeit der DDR verbunden. Ein markanter Moment war der 30. April 1991 in Zwickau, als der letzte Trabant vom Band lief. Insgesamt wurden rund 3,6 Millionen Exemplare (inklusive Vorläufermodelle) produziert. Dieses Ereignis markierte das Ende einer langen Produktionsgeschichte.",
+        "Auch der Wartburg wurde in den folgenden Tagen, am 10. April 1991, vom Band genommen. Diese Ereignisse signalisierten das definitive Ende einer Epoche der ostdeutschen Automobilproduktion."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis für die Geschichte der DDR hilft dir, die Unterschiede zwischen Ost und West in Deutschland zu verstehen. Diese Unterschiede prägen bis heute die gesellschaftliche und wirtschaftliche Landschaft Deutschlands.",
+  "glossary": [
+    {
+      "term": "Trabant",
+      "definition": "Ein kleines, typisches Automodell der DDR, das in großen Stückzahlen produziert wurde."
+    },
+    {
+      "term": "Wartburg",
+      "definition": "Ein weiteres bekanntes Automodell der DDR, das ebenfalls eine wichtige Rolle im Verkehr spielte."
+    },
+    {
+      "term": "DDR",
+      "definition": "Die Deutsche Demokratische Republik, der Name des ehemaligen ostdeutschen Staates."
+    }
+  ],
+  "quiz": {
+    "question": "Wann lief der letzte Trabant in Zwickau nach Angaben der Quelle vom Band?",
+    "options": [
+      "30. April 1991",
+      "10. April 1991",
+      "15. Februar 1959"
+    ],
+    "answerIndex": 0,
+    "explanation": "Der letzte Trabant lief am 30. April 1991 vom Band."
+  },
+  "discussion": [
+    "Wie hat die Knappheit an bestimmten Gütern in der DDR das Alltagsleben und die sozialen Strukturen beeinflusst?",
+    "Welche Unterschiede siehst du heute zwischen der Verfügbarkeit von Konsumgütern in Ost- und Westdeutschland?"
+  ],
+  "publishedAt": "2026-11-23T12:02:32.339Z",
+  "sources": [
+    {
+      "title": "Verkehr",
+      "url": "https://www.mdr.de/geschichte/ddr/wirtschaft/verkehr",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/trabi-und-wartburg-wie-das-auto-das-strassenbild-der-ddr-pra.jpg",
+    "width": 960,
+    "height": 666,
+    "alt": "Ein alter ostdeutscher Trabant, geparkt in Berlin im Jahr 1999.",
+    "credit": {
+      "title": "Trabant in Berlin.jpg",
+      "author": "Chris Mitchell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trabant_in_Berlin.jpg"
+    }
+  }
+}

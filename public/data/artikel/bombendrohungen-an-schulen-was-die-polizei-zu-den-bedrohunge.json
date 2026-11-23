@@ -1,0 +1,86 @@
+{
+  "id": "bombendrohungen-an-schulen-was-die-polizei-zu-den-bedrohunge",
+  "category": "politik",
+  "title": "Bombendrohungen an Schulen: Was die Polizei zu den Bedrohungen sagt",
+  "teaser": "Hunderte Schulen in Deutschland wurden mit Drohschreiben konfrontiert. Was bedeutet das für den Schulalltag und wie reagiert die Behörden?",
+  "tags": [
+    "Sicherheit",
+    "Schule",
+    "Polizei",
+    "Gesellschaft"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "In Deutschland wurden Hunderte Schulen bundesweit mit Bombendrohungen konfrontiert, meist über E-Mails.",
+    "Die Polizei geht nach ersten Einschätzungen davon aus, dass die Drohungen keine konkrete Gefahr darstellen.",
+    "Den Schulen wird geraten, den Schulbetrieb normal fortzusetzen und bei weiteren Vorfällen Anzeige zu erstatten."
+  ],
+  "sections": [
+    {
+      "heading": "Hunderte Schulen im Visier: Was passiert, wenn Drohungen kommen?",
+      "paragraphs": [
+        "Aktuell sind in ganz Deutschland zahlreiche Schulen von Bombendrohungen betroffen. Die Bedrohungen kamen vor allem in Form von E-Mails und wurden an Einrichtungen in verschiedenen Bundesländern verschickt. Regionen wie Thüringen, Sachsen, Sachsen-Anhalt und Brandenburg waren unter anderem betroffen.",
+        "Als Reaktion auf die Drohungen wurden an einigen Schulen, beispielsweise in Freiburg, vorsorglich Räumungen durchgeführt. Das ist eine typische Reaktion, wenn eine solche Bedrohung eingeht. Die Schulen selbst wurden aber angehalten, engen Kontakt mit der örtlichen Polizei aufzunehmen und jeden Vorfall anzuzeigen."
+      ]
+    },
+    {
+      "heading": "Die Einschätzung der Behörden: Ist wirklich Gefahr im Verzug?",
+      "paragraphs": [
+        "Die Polizei hat die Situation genau im Blick. Laut verschiedenen Polizeibehörden besteht jedoch nach ersten Einschätzungen keine konkrete Gefahr. Die Behörden raten den Schulen explizit, den Unterricht normal fortzusetzen und nicht vorschnell zu räumen.",
+        "Zu den Verfassern der Drohschreiben liegen bislang keine Erkenntnisse vor. Die Ministerien haben zum genauen Inhalt der Drohungen oder der genauen Zahl der betroffenen Schulen bisher keine weiteren Angaben gemacht. Die Polizei betont, dass sie die Lage überwacht und keine Hinweise auf eine ernsthafte Bedrohung gefunden hat."
+      ]
+    }
+  ],
+  "whyItMatters": "Solche Vorfälle zeigen, wie schnell Angst und Unsicherheit in einer Gemeinschaft entstehen können. Es ist wichtig zu verstehen, wie staatliche Institutionen wie die Polizei in solchen Krisensituationen reagieren und welche Maßnahmen ergriffen werden.",
+  "glossary": [
+    {
+      "term": "Bombendrohung",
+      "definition": "Die schriftliche oder mündliche Behauptung, eine Bombe sei an einem bestimmten Ort platziert worden und werde detonieren."
+    },
+    {
+      "term": "Vorsorgliche Räumung",
+      "definition": "Ein Sicherheitsvorkehrung, bei der ein Gebäude oder ein Bereich zeitweise geräumt wird, um eine potenzielle Gefahr abzuwarten."
+    },
+    {
+      "term": "Bundesländer",
+      "definition": "Die 16 politischen Verwaltungseinheiten Deutschlands, die jeweils eigene Landesregierungen und Polizeibehörden haben."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist die allgemeine Einschätzung der Polizei bezüglich der Bombendrohungen an den Schulen?",
+    "options": [
+      "Die Polizei hat die Täter bereits gefasst und die Gefahr ist gebannt.",
+      "Die Drohungen sind sehr wahrscheinlich ernst gemeint und erfordern sofortige Evakuierungen.",
+      "Es besteht keine konkrete Gefahr, obwohl die Drohungen sehr beunruhigend sind."
+    ],
+    "answerIndex": 2,
+    "explanation": "Laut verschiedenen Polizeibehörden gibt es keine Hinweise auf eine konkrete Gefahr."
+  },
+  "discussion": [
+    "Wie kann die öffentliche Kommunikation von Behörden in Krisensituationen gestaltet werden, um Panik zu vermeiden, aber gleichzeitig Transparenz zu wahren?",
+    "Welche Rolle spielen soziale Medien dabei, die Verbreitung von Gerüchten über solche Vorfälle zu beschleunigen, und welche Verantwortung tragen Nutzer dabei?"
+  ],
+  "publishedAt": "2026-11-23T11:44:02.772Z",
+  "sources": [
+    {
+      "title": "Bombendrohungen an Hunderten Schulen bundesweit",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/bombendrohungen-an-schulen-was-die-polizei-zu-den-bedrohunge.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Polizist steht vor einer High School in Maryland, nachdem eine Bombenbedrohung gegen die Schule gemeldet wurde.",
+    "credit": {
+      "title": "2008 MCPD Ford CVPI, NWHS, Germantown, Maryland, May 5, 2014.jpg",
+      "author": "Illegitimate Barrister",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008_MCPD_Ford_CVPI,_NWHS,_Germantown,_Maryland,_May_5,_2014.jpg"
+    }
+  }
+}

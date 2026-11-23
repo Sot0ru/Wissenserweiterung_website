@@ -1,0 +1,87 @@
+{
+  "id": "klimagipfel-scheitert-was-behindert-den-globalen-klimaschutz",
+  "category": "wissenschaft",
+  "title": "Klimagipfel scheitert: Was behindert den globalen Klimaschutz?",
+  "teaser": "Die letzte Klimakonferenz endete ohne konkrete Ziele. Wir erklären, warum internationale Verhandlungen so schwierig sind und was die größten Hürden sind.",
+  "tags": [
+    "Klimawandel",
+    "Umwelt",
+    "Energie",
+    "Nachhaltigkeit",
+    "Globalisierung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die jüngste Klimakonferenz endete ohne Abschlusserklärung, was zeigt, wie schwer es ist, globale Klimaziele zu erreichen.",
+    "Die Hauptursachen für das Scheitern sind der tiefe Konflikt zwischen Ölförderländern und Staaten, die schnellen Klimaschutz fordern.",
+    "Zudem erschweren unklare Führungsrollen und das langsame Tempo des internationalen Prozesses die Fortschritte."
+  ],
+  "sections": [
+    {
+      "heading": "Warum ist Klimaschutz so kompliziert?",
+      "paragraphs": [
+        "Internationale Klimakonferenzen, wie die in Antalya, sollen Lösungen für die globale Erderwärmung finden. Doch oft enden sie ohne konkrete Ergebnisse. Das liegt an der enormen Komplexität der Verhandlungen. Man muss fast 200 Staaten zusammenbringen, die unterschiedliche Bedürfnisse und Interessen haben.",
+        "Es gibt einen großen Graben zwischen Industrieländern und Entwicklungsländern. Besonders spitz wird es durch den Konflikt zwischen Ölförderländern und Staaten, die einen schnelleren Ausstieg aus fossilen Energien fordern. Diese Meinungsverschiedenheiten verhindern oft, dass alle wichtigen Punkte in einem gemeinsamen Text landen."
+      ]
+    },
+    {
+      "heading": "Die Rolle der internationalen Organisationen",
+      "paragraphs": [
+        "Die Konferenzleitung spielt eine entscheidende Rolle. Sie soll als neutraler Makler fungieren und sicherstellen, dass die Anliegen aller Teilnehmer gehört werden. Wenn die Führung unklar ist oder die Verhandlungsführung intransparent erscheint, führt das schnell zu Frustration.",
+        "Ein Problem ist auch das Tempo. Der internationale Prozess wird oft von den langsamsten Teilnehmern bestimmt. Obwohl Experten im UN-Klimasekretariat helfen, kann die Dynamik der Verhandlungen durch politische Differenzen ausgebremst werden. Zudem ist die Finanzierung ein kritischer Punkt: Staaten des globalen Südens fordern, dass zugesagte Mittel für die Anpassung an die Klimafolgen tatsächlich fließen."
+      ]
+    }
+  ],
+  "whyItMatters": "Klimawandel beeinflusst direkt dein Leben – von Wetterextremen bis hin zu Umweltveränderungen. Du lernst hier, dass Klimaschutz keine einfache technische Lösung, sondern ein riesiges politisches und soziales Problem ist, das globales Verständnis erfordert.",
+  "glossary": [
+    {
+      "term": "Fossile Energien",
+      "definition": "Energiequellen, die aus der Verwesung organischer Stoffe entstehen, wie Kohle, Öl und Gas. Ihre Verbrennung setzt Treibhausgase frei."
+    },
+    {
+      "term": "Globaler Süden",
+      "definition": "Ein Sammelbegriff für Länder in Entwicklungsländern, die oft stärker von den Folgen des Klimawandels betroffen sind, aber weniger Ressourcen für den Klimaschutz haben."
+    },
+    {
+      "term": "COP",
+      "definition": "Steht für Conference of the Parties (Konferenz der Vertragsparteien). Dies sind die jährlichen Treffen der Staaten zur Umsetzung des Pariser Klimaabkommens."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut dem Artikel ein zentraler Konfliktgrund bei Klimagipfeln?",
+    "options": [
+      "Die zu hohe Anzahl an Teilnehmern (über 200 Staaten).",
+      "Der tiefe Graben zwischen Ölförderländern und Staaten, die schnellen Klimaschutz fordern.",
+      "Die mangelnde Expertise des UN-Klimasekretariats."
+    ],
+    "answerIndex": 1,
+    "explanation": "Der Text nennt den 'tiefen Graben zwischen Ölförderländern... und andererseits den Staaten, die mehr Fortschritte im Kampf gegen die Erderwärmung einfordern' als Hauptursache."
+  },
+  "discussion": [
+    "Wie kann man internationale Verhandlungen gestalten, damit Länder mit unterschiedlichen wirtschaftlichen Entwicklungsständen (z.B. Industrieländer vs. Entwicklungsländer) einen gemeinsamen Konsens finden?",
+    "Welche Rolle sollte die internationale Gemeinschaft dabei spielen, um sicherzustellen, dass zugesagte Klimafinanzierung tatsächlich in die betroffenen Länder fließt?"
+  ],
+  "publishedAt": "2026-11-23T11:51:29.905Z",
+  "sources": [
+    {
+      "title": "Wer ist schuld am Scheitern des Klimagipfels?",
+      "url": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/klimagipfel-scheitert-was-behindert-den-globalen-klimaschutz.jpg",
+    "width": 960,
+    "height": 1196,
+    "alt": "Stuart Scott spricht auf einer Pressekonferenz während der Klimaverhandlungen COP-20 in Lima, Peru.",
+    "credit": {
+      "title": "Stuart Scott Speaking at COP-20 Lima.jpg",
+      "author": "StuartGaia",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stuart_Scott_Speaking_at_COP-20_Lima.jpg"
+    }
+  }
+}

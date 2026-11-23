@@ -1,0 +1,96 @@
+{
+  "id": "schaltsekunde-abgeschafft-was-bedeutet-das-fuer-unsere-uhren",
+  "category": "wissenschaft",
+  "title": "Schaltsekunde abgeschafft: Was bedeutet das für unsere Uhren?",
+  "teaser": "Die präzise Zeitmessung ändert sich. Ein internationales Gremium hat entschieden, dass die bisherige Schaltsekunde künftig wegfällt. Was bedeutet das für deinen Alltag?",
+  "tags": [
+    "Zeitmessung",
+    "Erdrotation",
+    "Naturphänomene",
+    "Astronomie"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die Schaltsekunde, die die atomare Zeit an die astronomische Zeit anpasste, wird abgeschafft.",
+    "Die Erde rotiert nicht perfekt gleichmäßig, weshalb diese Anpassungen nötig waren.",
+    "Bis zum Jahr 3000 gibt es voraussichtlich keinen dringenden Handlungsbedarf für die Zeitmessung."
+  ],
+  "sections": [
+    {
+      "heading": "Warum unsere Uhren nicht immer perfekt sind",
+      "paragraphs": [
+        "Stell dir vor, du hast eine perfekt tickende Uhr. Aber die Erde selbst dreht sich nicht ganz gleichmäßig. Sie rotiert manchmal schneller, manchmal langsamer. Das ist ein natürlicher Vorgang.",
+        "Ein wichtiger Grund dafür sind die Gezeitenkräfte, die durch den Mond entstehen und auch für Ebbe und Flut sorgen. Diese Kräfte bremsen die Erdrotation allmählich ab, was dazu führt, dass ein Tag im Laufe der Zeit minimal länger wird. Auch Erdbeben oder Prozesse im Erdinneren können die Rotation beeinflussen.",
+        "Um diese natürliche Abweichung auszugleichen, gab es bisher die Schaltsekunde. Sie diente dazu, die internationale Atomzeit – die sehr präzise, aber künstlich definierte Zeit – mit der astronomischen Zeit, also der Zeit, die man an der Sonne abliest, in Einklang zu halten."
+      ]
+    },
+    {
+      "heading": "Der Wechsel von Sekunde zu Stunde",
+      "paragraphs": [
+        "Bisher wurde diese Anpassung bei Bedarf vorgenommen. Zweimal im Jahr, Ende Juni und Ende Dezember, konnte eine zusätzliche Sekunde eingefügt werden – also 23:59:60 statt direkt auf 0:00 Uhr zu springen. Seit 1972 gab es insgesamt 27 solcher Schaltsekunden.",
+        "Dieses System ist für viele Computersysteme kompliziert. Da es keine feste Regel gibt, wann eine Schaltsekunde kommt, müssen viele Programme manuell darauf vorbereitet werden. Theoretisch könnte es auch eine negative Schaltsekunde geben, bei der ein Tag eine Sekunde kürzer wäre – das ist für Technik noch weniger vorhersagbar.",
+        "Nun hat ein internationales Gremium beschlossen, diese Schaltsekunden abzuschaffen. Die Abweichung zwischen der astronomischen und der koordinierten Weltzeit darf künftig bis zu einer Stunde betragen, bevor eine Anpassung nötig wird. Das bedeutet, dass die Anpassungen viel seltener stattfinden werden."
+      ]
+    },
+    {
+      "heading": "Was das für dich bedeutet",
+      "paragraphs": [
+        "Die gute Nachricht ist: Für den normalen Alltag spielt diese winzige Abweichung kaum eine Rolle. Viele von uns leben ohnehin in Zeitzonen, die schon um mehr als eine Stunde von der reinen Sonnenzeit abweichen.",
+        "Die große Änderung ist, dass statt alle paar Jahre eine Sekunde hinzugefügt wird, zukünftig erst in einigen Jahrhunderten eine größere Anpassung nötig sein könnte. Diese Anpassung könnte eine ganze Schaltstunde oder eine Änderung der Zeitzone bedeuten, ähnlich wie der Wechsel von Sommer- auf Winterzeit.",
+        "Kurz gesagt: Die Technik muss sich anpassen, aber für dich als Nutzer bedeutet das erst einmal keine sofortige Umstellung. Der nächste große Termin ist erst um das Jahr 3000."
+      ]
+    }
+  ],
+  "whyItMatters": "Zeitmessung ist die Grundlage vieler moderner Systeme, von Banktransaktionen bis hin zu globaler Kommunikation. Dieses Thema zeigt, wie Wissenschaft und Technik ständig an natürliche Prozesse angepasst werden müssen.",
+  "glossary": [
+    {
+      "term": "Astronomische Zeit",
+      "definition": "Die Zeit, die sich an den tatsächlichen Sonnenstand orientiert, also wann die Sonne ihren höchsten Punkt erreicht."
+    },
+    {
+      "term": "Atomzeit",
+      "definition": "Die hochpräzise, wissenschaftlich definierte Zeit, die auf der Schwingungsfrequenz von Atomen basiert."
+    },
+    {
+      "term": "Gezeitenkräfte",
+      "definition": "Die durch die Gravitationskraft des Mondes und der Sonne verursachten Kräfte, die Ebbe und Flut auslösen und die Erdrotation verlangsamen."
+    }
+  ],
+  "quiz": {
+    "question": "Wie oft wurde bisher im Durchschnitt eine Schaltsekunde eingefügt, um die Zeit anzupassen?",
+    "options": [
+      "Einmal pro Jahrhundert",
+      "27 Mal",
+      "Alle paar Jahre"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut Quelle gab es seit der Einführung 1972 insgesamt 27 Schaltsekunden."
+  },
+  "discussion": [
+    "Wie denkst du, sollte die globale Zeitmessung künftig am besten funktionieren, wenn die natürlichen Abweichungen immer größer werden?",
+    "Inwiefern beeinflussen präzise Zeitmessungen (wie sie in der Wissenschaft benötigt werden) unser tägliches Leben?"
+  ],
+  "publishedAt": "2026-11-23T11:03:43.039Z",
+  "sources": [
+    {
+      "title": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
+      "url": "https://www.tagesschau.de/wissen/forschung/schaltsekunde-abschaffung-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/schaltsekunde-abgeschafft-was-bedeutet-das-fuer-unsere-uhren.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Langzeitbelichtung zeigt das ESO-Teleskop und die Rotation der Erde im Weltraum.",
+    "credit": {
+      "title": "As time goes by (potw1133a).jpg",
+      "author": "ESO/G. Lombardi ( glphoto.it )",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:As_time_goes_by_(potw1133a).jpg"
+    }
+  }
+}

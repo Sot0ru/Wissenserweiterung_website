@@ -1,0 +1,93 @@
+{
+  "id": "grippeimpfstoff-mangel-was-steckt-hinter-den-lieferproblemen",
+  "category": "medizin",
+  "title": "Grippeimpfstoff-Mangel: Was steckt hinter den Lieferproblemen?",
+  "teaser": "Hausärzte berichten von Engpässen bei Grippeimpfstoffen. Was sagt das Gesundheitsministerium dazu und was steckt wirklich hinter den Verzögerungen?",
+  "tags": [
+    "Gesundheit",
+    "Impfung",
+    "Grippe",
+    "Versorgung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Hausärzte beklagen einen Mangel und ein schlechtes Management bei der Versorgung mit Grippeimpfstoffen.",
+    "Hintergrund dafür sind Produktionsverzögerungen und zeitliche Probleme bei der Freigabe durch das Paul-Ehrlich-Institut (PEI).",
+    "Das Bundesgesundheitsministerium hält einen bundesweiten Engpass jedoch für nicht feststellbar."
+  ],
+  "sections": [
+    {
+      "heading": "Die Lage im Praxisalltag: Wo fehlen die Impfstoffe?",
+      "paragraphs": [
+        "In der aktuellen Grippesaison gibt es Diskussionen über die Verfügbarkeit von Impfstoff gegen Influenza. Der Deutsche Hausärztinnen- und Hausärzteverband meldet, dass es Engpässe und ein problematisches Management bei der Versorgung gibt. Das bedeutet für viele Arztpraxen: Sie müssen aktiv nach verfügbarem Impfstoff suchen, da er nicht immer direkt verfügbar ist.",
+        "Diese Situation führt dazu, dass Impftermine verschoben werden müssen. Die Hausärzte betonen, dass dies die gesamte Impfkampagne behindere, obwohl die Impfquoten ohnehin noch zu niedrig sind."
+      ]
+    },
+    {
+      "heading": "Warum kommt es zu Verzögerungen?",
+      "paragraphs": [
+        "Die Ursachen für die wahrgenommenen Mängel sind vielschichtig. Einerseits gab es Verzögerungen in der Produktion der Impfstoffe. Andererseits spielte die Freigabe der Impfstoffe durch das Paul-Ehrlich-Institut (PEI) eine Rolle. Das PEI bestätigte, dass die Prüfung und Freigabe der Impfstoffchargen in diesem Jahr später begonnen wurde.",
+        "Ein weiterer Grund für die Verzögerungen waren die Hersteller. Für diese Grippesaison mussten alle drei in den Impfstoffen enthaltenen Virusstämme angepasst werden. Diese Stammanpassung war besonders umfangreich und nahm den Herstellern mehr Zeit in Anspruch. Hinzu kamen verspätete Lieferungen von Produktionsmaterialien."
+      ]
+    },
+    {
+      "heading": "Was sagen die Behörden zur Versorgungssicherheit?",
+      "paragraphs": [
+        "Das Bundesgesundheitsministerium (BMG) widerspricht dem Bild eines bundesweiten Mangels. Das Ministerium teilte mit, dass kein flächendeckender Engpass festzustellen sei. Das PEI selbst gibt an, dass zwar die Zahl der geprüften Dosen in den letzten Monaten unter denen der Vorjahre lag, diese aber nun gleichgezogen ist. Es wurden insgesamt 20,2 Millionen Dosen freigegeben.",
+        "Auch frühere Gesundheitsminister sind der Ansicht, dass mit den verfügbaren Mengen ausreichend Impfstoff vorhanden ist. Sie führen die späte Auslieferung eher auf die notwendige Entwicklung der neuen Impfstoffe zurück, anstatt sie als politisches Versagen zu bezeichnen."
+      ]
+    }
+  ],
+  "whyItMatters": "Da Grippeimpfungen eine wichtige Maßnahme zur Vorbeugung von schweren Krankheitsverläufen sind, beeinflusst die Verfügbarkeit direkt die öffentliche Gesundheit. Du lernst hier, wie komplexe Lieferketten und staatliche Zulassungsverfahren funktionieren.",
+  "glossary": [
+    {
+      "term": "Influenza",
+      "definition": "Der medizinische Fachbegriff für die Grippe, eine akute Atemwegsinfektion, die durch Viren verursacht wird."
+    },
+    {
+      "term": "Paul-Ehrlich-Institut (PEI)",
+      "definition": "Das Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel, das die Zulassung und Überwachung von Impfstoffen in Deutschland verantwortet."
+    },
+    {
+      "term": "Stammanpassung",
+      "definition": "Die gezielte Veränderung der Grippeviren, um sicherzustellen, dass der Impfstoff gegen die aktuell zirkulierenden Virusvarianten wirksam ist."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut dem Paul-Ehrlich-Institut (PEI) in den letzten Monaten passiert, was die Versorgung beeinflusst hat?",
+    "options": [
+      "Es gab einen bundesweiten Lieferstopp durch das BMG.",
+      "Die Zahl der geprüften Dosen lag deutlich unter denen der Vorjahre, ist aber nun gleichgezogen.",
+      "Alle Hersteller haben gleichzeitig ihre Produktion eingestellt."
+    ],
+    "answerIndex": 1,
+    "explanation": "Das PEI bestätigte, dass die Zahl der geprüften Dosen in den vergangenen Monaten deutlich unter denen der Vorjahre lag, aber diese ist mittlerweile gleichgezogen."
+  },
+  "discussion": [
+    "Wie balanciert ein Gesundheitssystem die Notwendigkeit schneller Impfstofflieferungen mit den strengen Sicherheitsprüfungen, die durch Institute wie das PEI vorgeschrieben sind?",
+    "Welche Rolle spielen globale Produktionsketten und die Abhängigkeit von internationalen Virusstämmen bei der Versorgung mit Impfstoffen in Deutschland?"
+  ],
+  "publishedAt": "2026-11-23T10:49:45.726Z",
+  "sources": [
+    {
+      "title": "Influenza: Debatte über Engpass bei Impfstoff",
+      "url": "https://www.aerzteblatt.de/news/influenza-debatte-uber-engpass-bei-impfstoff-e3840657-6772-48c1-bd8a-fcb38be3ef50",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/grippeimpfstoff-mangel-was-steckt-hinter-den-lieferproblemen.jpg",
+    "width": 960,
+    "height": 782,
+    "alt": "Packung von 10 Grippeimpfstoff-Spritzen für die Saison 2024-2025.",
+    "credit": {
+      "title": "Influenza vaccine syringes.jpg",
+      "author": "Epolk",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Influenza_vaccine_syringes.jpg"
+    }
+  }
+}

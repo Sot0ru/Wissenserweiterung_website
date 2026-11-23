@@ -1,0 +1,94 @@
+{
+  "id": "wie-wissenschaftler-asteroiden-ablenken-die-mission-hera",
+  "category": "wissenschaft",
+  "title": "Wie Wissenschaftler Asteroiden ablenken: Die Mission Hera",
+  "teaser": "Ein Asteroideneinschlag kann die Bahn eines Himmelskörpers verändern. Die Mission Hera untersucht nun genau, wie diese Technik funktioniert.",
+  "tags": [
+    "Weltraum",
+    "Planetenverteidigung",
+    "Asteroid",
+    "NASA",
+    "ESA"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die NASA hat mit der DART-Sonde 2022 einen Asteroiden namens Dimorphos getroffen, um dessen Umlaufbahn zu verändern.",
+    "Die ESA-Mission Hera untersucht nun diesen Einschlag, um zu verstehen, wie man solche planetarischen Verteidigungsmaßnahmen effektiv anwenden kann.",
+    "Die Mission liefert wichtige Daten darüber, wie Asteroiden auf solche Stöße reagieren, um die Erde besser zu schützen."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Impuls im Weltraum: Was ist kinetischer Einschlag?",
+      "paragraphs": [
+        "Stell dir vor, ein Raumschiff trifft auf einen kleinen Himmelskörper im Weltall. Das ist im Grunde das Prinzip des kinetischen Einschlags. Das Ziel ist, die Bahn eines Asteroiden zu verändern, bevor er die Erde erreicht. Das ist eine Form der planetarischen Verteidigung.",
+        "Vor einigen Jahren setzte die DART-Sonde der NASA genau diesen Test durch. Sie prallte auf einen Asteroiden namens Dimorphos. Dieser Asteroid ist ein kleiner Begleiter eines größeren Körpers, genannt Didymos. Der Einschlag setzte Millionen Tonnen Trümmer frei und führte zu einer messbaren Änderung der Umlaufbahn von Dimorphos um etwa 33 Minuten."
+      ]
+    },
+    {
+      "heading": "Die Mission Hera: Nachforschungen zum Einschlag",
+      "paragraphs": [
+        "Der erste Test war ein Erfolg, aber Wissenschaftler brauchen mehr Details. Sie müssen wissen, *wie* der Asteroid auf den Stoß reagiert. Genau dafür ist die Hera-Mission der Europäischen Weltraumorganisation (ESA) unterwegs. Hera ist nun bei dem Doppelasteroiden angekommen, um die Folgen des DART-Einschlags genau zu untersuchen.",
+        "Die Mission führt die gründlichste Untersuchung eines solchen abgelenkten Asteroiden durch. Hera soll herausfinden, wie groß die Masse des Asteroiden ist und welche seiner Eigenschaften seine Reaktion auf den Stoß erklären. Die Daten helfen dabei, diese Technik zu einer gut verstandenen Methode zu entwickeln, die im Ernstfall wiederholt werden könnte."
+      ]
+    },
+    {
+      "heading": "Warum ist das wichtig für uns?",
+      "paragraphs": [
+        "Der Grund, warum wir uns das ansehen, ist die Sicherheit der Erde. Vor Millionen von Jahren hat ein Asteroideneinschlag den Lauf des Lebens auf unserem Planeten verändert. Obwohl der Test mit Dimorphos viel kleiner war als solche historischen Ereignisse, zeigt er, dass wir in der Lage sind, einen Teil des Sonnensystems messbar zu beeinflussen.",
+        "Die Erkenntnisse aus Hera sind entscheidend, um zukünftig mögliche Planetengefahren abzuwehren. Die Mission wird nicht nur Nahaufnahmen liefern, sondern auch kleinere Satelliten (CubeSats) aussenden, um noch näher an die Asteroiden heranzufliegen und so ein vollständiges Bild zu bekommen."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, dass Wissenschaft aktiv an der Verteidigung unseres Planeten beteiligt ist. Es geht darum, wie wir mit globalen Risiken umgehen, die außerhalb unserer Kontrolle liegen.",
+  "glossary": [
+    {
+      "term": "Asteroid",
+      "definition": "Ein Gesteins- oder Metallkörper, der im Sonnensystem kreist und nicht groß genug ist, um ein Planet zu sein."
+    },
+    {
+      "term": "Kinetischer Einschlag",
+      "definition": "Eine Methode, bei der ein Raumschiff mit hoher Geschwindigkeit auf einen Himmelskörper prallt, um dessen Bahn zu verändern."
+    },
+    {
+      "term": "ESA",
+      "definition": "Die Europäische Weltraumorganisation, eine internationale Organisation, die Weltraumforschung betreibt."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Organisation hat die DART-Sonde für den Einschlag auf Dimorphos eingesetzt?",
+    "options": [
+      "Die Europäische Weltraumorganisation (ESA)",
+      "Die NASA",
+      "Das Berliner Museum für Naturkunde"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die NASA setzte die DART-Sonde ein, während die ESA die Hera-Mission durchführt."
+  },
+  "discussion": [
+    "Welche ethischen Fragen entstehen, wenn wir versuchen, natürliche Vorgänge im Sonnensystem aktiv zu beeinflussen?",
+    "Wie viel sollte die Menschheit in Forschung investieren, die potenziell große, aber nicht sofort sichtbare Risiken abwehrt?"
+  ],
+  "publishedAt": "2026-11-23T11:16:40.493Z",
+  "sources": [
+    {
+      "title": "Sei Live dabei: Heras erste Aufnahmen des Asteroiden Dimorphos nach dem Einschlag",
+      "url": "https://www.raumfahrer.net/sei-live-dabei-heras-erste-aufnahmen-des-asteroiden-dimorphos-nach-dem-einschlag/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-wissenschaftler-asteroiden-ablenken-die-mission-hera.jpg",
+    "width": 960,
+    "height": 960,
+    "alt": "Fußabdruck des DART-Raumschiffs über der Einschlagstelle auf dem Asteroiden Dimorphos.",
+    "credit": {
+      "title": "Footprint of DART spacecraft over the spot where it impacted asteroid Dimorphos.jpg",
+      "author": "NASA/Johns Hopkins APL",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Footprint_of_DART_spacecraft_over_the_spot_where_it_impacted_asteroid_Dimorphos.jpg"
+    }
+  }
+}

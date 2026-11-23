@@ -1,0 +1,87 @@
+{
+  "id": "kaffee-und-darm-was-die-wissenschaft-ueber-die-verbindung-zu",
+  "category": "wissenschaft",
+  "title": "Kaffee und Darm: Was die Wissenschaft über die Verbindung zum Gehirn weiß",
+  "teaser": "Kaffee ist mehr als nur Koffein. Neue Forschung zeigt, wie dein Darm auf Kaffee reagiert und welche Auswirkungen das auf dein Wohlbefinden haben kann.",
+  "tags": [
+    "Mikrobiom",
+    "Ernährung",
+    "Gesundheit",
+    "Neurobiologie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Eine Studie beleuchtet die sogenannte Darm-Hirn-Achse und zeigt, dass sowohl Kaffee mit Koffein als auch entkoffeinierter Kaffee das Darmmikrobiom verändern kann.",
+    "Beide Kaffeearten waren mit niedrigerem wahrgenommenem Stress und weniger Impulsivität verbunden, wobei entkoffeinierter Kaffee besser für Lernen und Gedächtnis war.",
+    "Die Ergebnisse deuten darauf hin, dass die Wirkung von Kaffee nicht nur vom Koffein abhängt, sondern auch von anderen chemischen Bestandteilen wie Polyphenolen."
+  ],
+  "sections": [
+    {
+      "heading": "Die Darm-Hirn-Achse: Ein zweifacher Dialog",
+      "paragraphs": [
+        "Du trinkst Kaffee, um wach zu werden. Aber die Wirkung geht weit darüber hinaus. Neue Forschung untersucht, wie Kaffee das Zusammenspiel zwischen deinem Verdauungssystem und deinem Gehirn beeinflussen kann. Dieses System nennt man die Darm-Hirn-Achse. Sie ist ein bidirektionaler Kommunikationsweg, bei dem Mikroorganismen im Darm Signale an das Gehirn senden – und umgekehrt.",
+        "Wissenschaftler von APC Microbiome Ireland untersuchten genau, wie Kaffee diese Kommunikation beeinflusst. Sie untersuchten 31 regelmäßige Kaffeetrinker und 31 Menschen, die selten Kaffee tranken. Die Teilnehmer lieferten nicht nur psychologische Bewertungen ab, sondern gaben auch Stuhl- und Urinproben ab, um Veränderungen im Darmmikrobiom und Stoffwechsel zu verfolgen."
+      ]
+    },
+    {
+      "heading": "Was passiert, wenn der Kaffee wegfällt und dann wiederkommt?",
+      "paragraphs": [
+        "Die Forscher begannen damit, dass die regelmäßigen Kaffeetrinker für zwei Wochen komplett auf Kaffee verzichteten. Dabei stellten sie fest, dass sich die Stoffwechselprofile im Darm merklich änderten, wenn sie keinen Kaffee konsumierten. Danach wurde Kaffee wieder eingeführt, wobei die Teilnehmer nicht wussten, ob sie Koffein oder entkoffeinierten Kaffee tranken.",
+        "Die Ergebnisse zeigten, dass bei beiden Gruppen – egal ob mit Koffein oder ohne – die wahrgenommenen Werte für Stress, Depression und Impulsivität gesunken waren. Das deutet darauf hin, dass einige positive Effekte von Kaffee auf die Stimmung nicht allein durch Koffein entstehen.",
+        "Die Art des Kaffees spielte jedoch eine Rolle: Entkoffeinierter Kaffee war mit besseren Fähigkeiten im Lernen und Gedächtnis verbunden. Im Gegensatz dazu wurde bei Kaffee mit Koffein eine Reduktion von Angstgefühlen sowie eine verbesserte Wachsamkeit und Aufmerksamkeit festgestellt. Dies legt nahe, dass andere Stoffe im Kaffee, wie Polyphenole, ebenfalls eine wichtige Rolle spielen."
+      ]
+    }
+  ],
+  "whyItMatters": "Da Kaffee ein weit verbreiteter Bestandteil des Alltags ist, ist es wichtig zu verstehen, wie er unseren Körper beeinflusst. Dieses Wissen kann dir helfen, bewusstere Entscheidungen über deine Ernährung und deinen Konsum zu treffen, um dein Wohlbefinden zu unterstützen.",
+  "glossary": [
+    {
+      "term": "Darmmikrobiom",
+      "definition": "Die gesamte Gemeinschaft von Mikroorganismen (Bakterien etc.), die in unserem Darm leben und wichtige Stoffwechselprozesse unterstützen."
+    },
+    {
+      "term": "Darm-Hirn-Achse",
+      "definition": "Der Kommunikationsweg zwischen dem Verdauungstrakt und dem Gehirn, der über Hormone, Nerven und chemische Stoffe läuft."
+    },
+    {
+      "term": "Metaboliten",
+      "definition": "Kleine Moleküle, die im Körper entstehen oder verändert werden, oft durch die Arbeit der Darmbakterien bei der Verarbeitung von Nahrung."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Kaffee wurde in der Studie mit einer verbesserten Fähigkeit zum Lernen und Gedächtnis in Verbindung gebracht?",
+    "options": [
+      "Entkoffeinierter Kaffee",
+      "Nur Kaffee, der reich an Polyphenolen ist",
+      "Kaffee, der eine hohe Menge an Koffein enthält"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Studie fand, dass die Verbesserung von Lernen und Gedächtnis nur bei Teilnehmern auftrat, die entkoffeinierte Kaffee tranken."
+  },
+  "discussion": [
+    "Welchen Einfluss hat deine eigene Ernährung auf dein Gefühl von Energie und Konzentration im Alltag?",
+    "Wie balancierst du den Wunsch nach Stimulation (z. B. durch Koffein) mit dem Bedürfnis nach Ruhe und mentaler Klarheit?"
+  ],
+  "publishedAt": "2026-11-23T11:37:04.120Z",
+  "sources": [
+    {
+      "title": "Scientists just discovered what coffee really does to your gut and brain",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/kaffee-und-darm-was-die-wissenschaft-ueber-die-verbindung-zu.jpg",
+    "width": 960,
+    "height": 713,
+    "alt": "Bauarbeiter trinken Kaffee in einer privaten Wohnung in Berlin.",
+    "credit": {
+      "title": "Bundesarchiv Bild 183-N0403-0013, Berlin, Privatwohnung, Bauarbeiter Kaffee trinkend.jpg",
+      "author": "Peter Heinz Junge",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0403-0013,_Berlin,_Privatwohnung,_Bauarbeiter_Kaffee_trinkend.jpg"
+    }
+  }
+}

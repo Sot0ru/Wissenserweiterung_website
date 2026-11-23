@@ -1,0 +1,94 @@
+{
+  "id": "beruf-und-familie-in-der-ddr-war-gleichberechtigung-wirklich",
+  "category": "geschichte",
+  "title": "Beruf und Familie in der DDR: War Gleichberechtigung wirklich erreicht?",
+  "teaser": "Der Staat versprach in der DDR eine ausgewogene Vereinbarkeit von Beruf und Familie. Doch wie sah das Leben wirklich aus, wenn die Ideale auf die Alltagspraxis trafen?",
+  "tags": [
+    "Ostdeutschland",
+    "Sozialismus",
+    "Frauenrechte",
+    "Nachkriegsgeschichte"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In der DDR gab es staatliche Maßnahmen wie Babyjahr und Krankengeld, um die Vereinbarkeit von Beruf und Familie zu fördern.",
+    "Trotz offizieller Gleichberechtigungsansprüche zeigten Berichte, dass die tatsächliche Umsetzung in der Gesellschaft komplex war.",
+    "Auch Themen wie Sexismus wurden in den 1980er Jahren durch mutige Frauen in der DDR erstmals öffentlich thematisiert."
+  ],
+  "sections": [
+    {
+      "heading": "Der staatliche Anspruch: Beruf und Familie vereint",
+      "paragraphs": [
+        "In der Deutschen Demokratischen Republik (DDR) versprach der Staat aktiv, dass Frauen ihren Beruf und ihre Rolle als Mutter vereinbaren könnten. Dafür gab es verschiedene Unterstützungsangebote. Dazu gehörten beispielsweise das Babyjahr, Ehe-Kredite oder die Zahlung von Krankengeld.",
+        "Diese Maßnahmen sollten sicherstellen, dass Frauen nicht zwischen Karriere und Familie wählen müssten. Das Bild der sozial abgesicherten Familie war ein zentraler Bestandteil der sozialistischen Vorstellung."
+      ]
+    },
+    {
+      "heading": "Zwischen Theorie und Alltag: Die Realität der Gleichberechtigung",
+      "paragraphs": [
+        "Die Frage, ob diese staatlichen Bemühungen tatsächlich zu einer echten Gleichberechtigung führten, ist komplex. Die gesellschaftlichen Erwartungen und die tatsächliche Lebensrealität unterschieden sich oft stark von den offiziellen Darstellungen.",
+        "Einige Beobachtungen zeigen, dass die Gleichberechtigung in der privaten Sphäre, also in der Wohnung, nicht immer so präsent war, wie es die Politik vorgab. Auch die traditionellen Rollenbilder blieben in Teilen bestehen.",
+        "Interessant ist auch der Bruch mit Tabus: In den 1980er Jahren begannen mutige Frauen in der DDR, das Thema Sexismus und sexuelle Gewalt öffentlich anzusprechen. Dies geschah trotz des offiziellen Anspruchs auf volle Gleichberechtigung."
+      ]
+    },
+    {
+      "heading": "Was blieb und was veränderte sich?",
+      "paragraphs": [
+        "Obwohl die DDR den Muttertag offiziell ablehnte und stattdessen den Internationalen Frauentag am 8. März feierte, wurde der Muttertag dennoch praktiziert. Die Kultur des Zusammenlebens und der Freizeitgestaltung, wie das Pilze sammeln, war ebenfalls tief in den ostdeutschen Familien verwurzelt.",
+        "Diese Rückblicke zeigen, dass die Geschichte der DDR ein Spannungsfeld zwischen staatlicher Ideologie und dem individuellen Leben der Bürgerinnen und Bürger darstellt. Die Diskussion über die tatsächliche Gleichstellung ist daher bis heute relevant."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis dieser historischen Dynamiken hilft dir zu sehen, wie Ideale und politische Versprechen im Alltag gelebt werden. Es zeigt, dass gesellschaftlicher Fortschritt immer ein Prozess ist, der oft langsamer verläuft als die offiziellen Ankündigungen.",
+  "glossary": [
+    {
+      "term": "Babyjahr",
+      "definition": "Ein staatlich vorgesehener Zeitraum, in dem Mütter nach der Geburt eine Auszeit nehmen konnten."
+    },
+    {
+      "term": "Gleichberechtigung",
+      "definition": "Der Zustand, in dem alle Menschen die gleichen Rechte und Chancen haben, unabhängig von Geschlecht oder Herkunft."
+    },
+    {
+      "term": "DDR",
+      "definition": "Die Deutsche Demokratische Republik, der sozialistische Staat in Ostdeutschland von 1949 bis 1990."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Datum wurde in der DDR offiziell zur Feier der Frauenrechte zelebriert?",
+    "options": [
+      "Der 8. März",
+      "Der Muttertag",
+      "Der Tag der Arbeit"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die DDR lehnte den Muttertag ab und feierte stattdessen den Internationalen Frauentag am 8. März."
+  },
+  "discussion": [
+    "Wie beeinflussen staatliche Förderprogramme (wie Elterngeld oder Kita-Ausbau) die tatsächliche Gleichstellung von Männern und Frauen in der modernen Gesellschaft?",
+    "Inwiefern kann die Kluft zwischen dem offiziell propagierten gesellschaftlichen Ideal und der privaten Lebensrealität eines Landes entstehen?"
+  ],
+  "publishedAt": "2026-11-23T11:57:32.931Z",
+  "sources": [
+    {
+      "title": "Familie",
+      "url": "https://www.mdr.de/geschichte/ddr/alltag/familie",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/beruf-und-familie-in-der-ddr-war-gleichberechtigung-wirklich.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": "Sgraffito mit dem Titel 'Familienaktivitäten' in Jena, DDR.",
+    "credit": {
+      "title": "DDR Sgraffito 'Familienaktivitäten', Lutherstraße 179, 07743 Jena, Germany.jpg",
+      "author": "Kai Kemmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DDR_Sgraffito_%27Familienaktivit%C3%A4ten%27,_Lutherstra%C3%9Fe_179,_07743_Jena,_Germany.jpg"
+    }
+  }
+}
