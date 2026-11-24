@@ -1,0 +1,81 @@
+{
+  "id": "wie-behoerden-die-verfolgung-von-sinti-und-roma-in-magdeburg",
+  "category": "geschichte",
+  "title": "Wie Behörden die Verfolgung von Sinti und Roma in Magdeburg vorantrieben",
+  "teaser": "Ein neues Buch beleuchtet, wie lokale Behörden in Magdeburg die NS-Verfolgung von Sinti und Roma verschärften. Es zeigt, wie Vorurteile die Deportationen nach Auschwitz ermöglichten.",
+  "tags": [
+    "NS-Zeit",
+    "Diskriminierung",
+    "Minderheiten",
+    "Verfolgung"
+  ],
+  "readingMinutes": 5,
+  "tldr": [
+    "Fast 600 Akten der Magdeburger Kriminalpolizei zeigen, wie Behörden die Verfolgung von Sinti und Roma im NS-Staat aktiv vorantrieben.",
+    "Die Magdeburger Stellen verschärften die Verfolgung oft über die Vorgaben hinaus, was zu Deportationen nach Auschwitz führte.",
+    "Auch nach dem Krieg blieben Vorurteile bestehen, und vielen Überlebenden wurde der Opferstatus lange verweigert."
+  ],
+  "sections": [
+    {
+      "heading": "Von der Überwachung zur Deportation",
+      "paragraphs": [
+        "Die Verfolgung von Sinti und Roma im NS-Staat war ein komplexer Prozess, der nicht nur von Berlin aus gesteuert wurde. Eine Untersuchung beleuchtet, wie die Behörden in Magdeburg diese Verfolgung aktiv vorantrieben und sogar über die Vorgaben hinaus verschärften.",
+        "Fast 600 Akten der Kriminalpolizei belegen diesen Prozess. Sie zeigen den Weg von der ersten Erfassung und Hetze bis hin zur Deportation nach Auschwitz-Birkenau. Historikerinnen rekonstruieren, wie alte Vorurteile auch nach dem Zweiten Weltkrieg fortwirkten."
+      ]
+    },
+    {
+      "heading": "Lokaler Übereifer und bürokratische Gewalt",
+      "paragraphs": [
+        "Die Behörden in Magdeburg nutzten ihre Spielräume. Zum Beispiel bei der Aktion „Arbeitsscheu Reich“ im Jahr 1938 wurden zwar mindestens 60 Festnahmen vorgegeben, doch tatsächlich wurden 96 Menschen deportiert – etwa ein Drittel davon waren Sinti und Roma.",
+        "Der Fall eines zwölfjährigen kroatischen Roma-Jungen zeigt das System: Wegen Bettelns wurde er von Kriminalpolizei, Jugendamt und Fürsorge behandelt. Weil er als nicht „deutschblütig“ galt, wurde er in ein Jugendkonzentrationslager eingewiesen. Diese Behörden arbeiteten eng zusammen, um die Verfolgung durchzusetzen."
+      ]
+    },
+    {
+      "heading": "Die Rolle der Gesellschaft und die Nachwirkungen",
+      "paragraphs": [
+        "Die Verfolgung wurde auch durch die Zivilgesellschaft unterstützt. Ein Konditor, der in der Vorbereitung der Deportationen involviert war, drängte beispielsweise darauf, Familien zu deportieren, obwohl sie gültige Papiere vorlegten. Hinzu kamen „rassenhygienische Untersuchungen“, bei denen Körpermerkmale erfasst wurden, um die Deportation nach Auschwitz zu rechtfertigen.",
+        "Auch nach Kriegsende waren die Vorurteile präsent. Viele Überlebende mussten nachweisen, wie loyal sie gegenüber dem neuen System waren, um als Verfolgte anerkannt zu werden. Dies erschwerte es den Opfern enorm, Anerkennung zu finden."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es zeigt, wie staatliche Strukturen und lokale Entscheidungen Massenverbrechen ermöglichen können. Es verdeutlicht auch, dass Diskriminierung nicht nur ein Ereignis ist, sondern oft lange nach einem Konflikt weiterwirkt.",
+  "glossary": [
+    {
+      "term": "Deportation",
+      "definition": "Die zwangsweise Verbringung von Menschen aus einem Gebiet in ein anderes."
+    },
+    {
+      "term": "Kriminalpolizei (Kripo)",
+      "definition": "Die Polizei, die sich mit Straftaten befasst."
+    },
+    {
+      "term": "Pseudowissenschaftlich",
+      "definition": "Wissenschaftlich klingende Methoden oder Theorien, die aber keine wissenschaftliche Grundlage haben."
+    }
+  ],
+  "quiz": {
+    "question": "Wie viele Personen aus dem Magdeburger Raum wurden nach Auschwitz-Birkenau deportiert?",
+    "options": [
+      "470",
+      "Etwa 60",
+      "96"
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut der Untersuchung wurden 470 Menschen aus dem Magdeburger Raum deportiert."
+  },
+  "discussion": [
+    "Inwiefern kann eine lokale Verwaltung die Politik eines übergeordneten Staates beeinflussen oder verstärken?",
+    "Welche gesellschaftlichen Prozesse führen dazu, dass Vorurteile auch nach dem Ende eines Konflikts fortbestehen?"
+  ],
+  "publishedAt": "2026-11-24T13:16:29.195Z",
+  "sources": [
+    {
+      "title": "Von Magdeburg nach Auschwitz: Die Verfolgung von Sinti und Roma",
+      "url": "https://www.mdr.de/geschichte/ns-zeit/sinti-roma-magdeburg-verfolgung-lager-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

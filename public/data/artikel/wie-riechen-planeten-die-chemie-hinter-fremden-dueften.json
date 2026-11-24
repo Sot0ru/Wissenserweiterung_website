@@ -1,0 +1,94 @@
+{
+  "id": "wie-riechen-planeten-die-chemie-hinter-fremden-dueften",
+  "category": "wissenschaft",
+  "title": "Wie riechen Planeten? Die Chemie hinter fremden Düften",
+  "teaser": "Wir können fremde Planeten nicht besuchen, aber die Wissenschaft versucht, ihre Gerüche zu erraten. Was riechen Gasriesen und wie ist es auf dem Mars?",
+  "tags": [
+    "Chemie",
+    "Weltall",
+    "Planeten",
+    "Astronomie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Astronomen können mithilfe von Spektroskopie die chemische Zusammensetzung von Planetenatmosphären bestimmen, was Rückschlüsse auf deren Geruch erlaubt.",
+    "Gasriesen im Sonnensystem riechen laut Theorien oft unangenehm, wie zum Beispiel nach faulem Ei, wegen bestimmter chemischer Verbindungen.",
+    "Gesteinsplaneten wie der Mars könnten nach Rost und Schießpulver riechen, während kosmische Wolken exotische Duftmischungen haben könnten."
+  ],
+  "sections": [
+    {
+      "heading": "Geruch aus dem Weltall: Was uns die Chemie verrät",
+      "paragraphs": [
+        "Wir schauen seit Jahrhunderten in den Nachthimmel und wollen mehr über die Planeten erfahren. Dank moderner Technologie können wir zwar genau messen, wie die Atmosphäre auf Jupiter oder Mars aussieht. Aber eine einfache Frage bleibt unbeantwortet: Wie riecht es dort draußen?",
+        "Menschen werden wahrscheinlich nie auf einen anderen Planeten gehen und schnuppern können. Doch die Wissenschaft hat sich Gedanken gemacht. Astronomen nutzen dabei Spektroskope. Diese messen, wie verschiedene Gase das Licht verändern. Durch Probenahmesonden und Modelle können Forscher feststellen, welche chemischen Elemente auf einem Planeten vorhanden sind.",
+        "Einige dieser chemischen Stoffe haben einen bestimmten Geruch. Der Physikprofessor Boyko Ranguelov erforscht, wie diese Welten unsere menschlichen Sinne anregen würden – er nennt das die „organoleptischen Eigenschaften“ der Planeten. Er stellt fest, dass die Gerüche von fremden Himmelskörpern sehr unterschiedlich sein dürften."
+      ]
+    },
+    {
+      "heading": "Gasriesen vs. Gesteinsplaneten: Ein Duftvergleich",
+      "paragraphs": [
+        "Die Gasriesen unseres Sonnensystems riechen laut Ranguelov größtenteils sehr unangenehm. Das liegt an chemischen Verbindungen wie Schwefelwasserstoff oder Ammoniak. Dieser „schreckliche Geruch“ wird durch den hohen Druck in den unteren Atmosphärenschichten noch verstärkt.",
+        "Gesteinsplaneten wie der Mars zeigen ein anderes Bild. Wegen des hohen Eisengehalts auf dem Mars wird er wahrscheinlich ähnlich wie Rost und mit einem Hauch von Schießpulver riechen. Ein Beispiel dafür ist der Mond: Apollo-Astronauten berichteten, dass Proben, die sie mitnahmen, unmittelbar nach der Entnahme einen Geruch hatten, den Ranguelov als ähnlich wie Sicherheitsstreichhölzer beschreibt."
+      ]
+    },
+    {
+      "heading": "Kosmische Düfte und unsere Wahrnehmung",
+      "paragraphs": [
+        "Obwohl es keine direkten Geruchserfahrungen von Planeten gibt, gibt es Theorien für weiter entfernte Orte. Zum Beispiel wird vermutet, dass die Molekülwolke Sagittarius B2 „wie ein alkoholischer Cocktail aus Wodka, Sauerkirschlikör und eingelegten Gurken riechen wird“. Allerdings müssten wir dafür eine Nase von der Größe mehrerer Lichtjahre haben.",
+        "Es ist wichtig zu wissen: Wir sind stark an die Gerüche der Erde gewöhnt. Daher wären wir bei einem fremden Duft sehr überrascht. Die wissenschaftlichen Modelle geben uns also eine grobe Vorstellung, aber die tatsächliche Wahrnehmung ist eine große Spekulation."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie Wissenschaft komplexe Fragen beantwortet, auch wenn es keine einfachen Antworten gibt. Es verdeutlicht, dass wir durch indirekte Messungen – wie die Analyse von Licht – sehr viel über unbekannte Orte lernen können.",
+  "glossary": [
+    {
+      "term": "Spektroskopie",
+      "definition": "Eine Methode, bei der gemessen wird, wie verschiedene Gase die Wellenlänge von Licht beeinflussen. Dies erlaubt Rückschlüsse auf die chemische Zusammensetzung."
+    },
+    {
+      "term": "Organoleptische Eigenschaften",
+      "definition": "Die Eigenschaften eines Stoffes, die durch die menschlichen Sinne (wie Geruch oder Geschmack) wahrgenommen werden."
+    },
+    {
+      "term": "Schwefelwasserstoff",
+      "definition": "Eine chemische Verbindung, die oft für den typischen, unangenehmen Geruch von faulen Eiern verantwortlich ist."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Methode nutzen Astronomen, um die chemische Zusammensetzung von Planetenatmosphären zu untersuchen?",
+    "options": [
+      "Die Beobachtung der Erdrotation",
+      "Die Messung von Druck und Dichte allein",
+      "Die Spektroskopie"
+    ],
+    "answerIndex": 2,
+    "explanation": "Spektroskopie misst, wie Gase die Wellenlänge des Lichts beeinflussen und liefert so chemische Informationen."
+  },
+  "discussion": [
+    "Wie beeinflusst die Tatsache, dass wir an die Gerüche der Erde gewöhnt sind, unsere Fähigkeit, fremde Umweltreize objektiv zu bewerten?",
+    "Wenn wir zukünftig auf andere Planeten reisen könnten, welche wissenschaftlichen Instrumente müsste man zusätzlich zur einfachen Nase mitnehmen, um die Umgebung umfassend zu beschreiben?"
+  ],
+  "publishedAt": "2026-11-24T12:45:46.544Z",
+  "sources": [
+    {
+      "title": "Chemisches Duftspiel: Wie riechen andere Planeten?",
+      "url": "https://www.spektrum.de/news/wie-riechen-andere-planeten/2355535",
+      "publisher": "Spektrum der Wissenschaft"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/wie-riechen-planeten-die-chemie-hinter-fremden-dueften.jpg",
+    "width": 960,
+    "height": 676,
+    "alt": "Hubble-Aufnahme zeigt die Entdeckung von Kohlendioxid in der Atmosphäre eines Exoplaneten.",
+    "credit": {
+      "title": "Hubble Finds Carbon Dioxide on an Extrasolar Planet.jpg",
+      "author": "ESA, NASA, M. Kornmesser (ESA/Hubble), and STScI",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hubble_Finds_Carbon_Dioxide_on_an_Extrasolar_Planet.jpg"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zwei-klassen-in-der-medizin-was-die-kuerzungen-im-gesundheit",
+  "category": "medizin",
+  "title": "Zwei Klassen in der Medizin? Was die Kürzungen im Gesundheitswesen bedeuten",
+  "teaser": "Wenn das Budget sinkt, droht eine Ungleichbehandlung bei Arztterminen. Wir erklären, was eine „Drei-Klassen-Medizin“ sein könnte und wie du dich schützen kannst.",
+  "tags": [
+    "Gesundheit",
+    "Versorgung",
+    "Krankenkasse",
+    "Zugang",
+    "Gesundheitspolitik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Durch Kürzungen im Gesundheitsetat wird die Versorgung für gesetzlich Versicherte unter Druck gesetzt, was zu längeren Wartezeiten bei Fachärzten führt.",
+    "Es besteht die Gefahr einer „Drei-Klassen-Medizin“, bei der Privatpatienten und Selbstzahler bevorzugt behandelt werden.",
+    "Obwohl es rechtliche Grenzen gibt, bewegen sich viele Praktiken in einer Grauzone, was die Patientenversorgung erschwert."
+  ],
+  "sections": [
+    {
+      "heading": "Der Druck auf das Gesundheitssystem",
+      "paragraphs": [
+        "Das deutsche Gesundheitssystem steht vor großen Herausforderungen. Aktuelle Kürzungen im Gesundheitsetat führen dazu, dass weniger Geld für die Versorgung zur Verfügung steht. Dies trifft besonders die gesetzlich Versicherten, die monatlich Beiträge zahlen, aber bei Facharztterminen immer häufiger auf lange Wartezeiten stoßen.",
+        "Experten warnen vor dem Entstehen einer sogenannten „Drei-Klassen-Medizin“. Das bedeutet, dass die Qualität und Geschwindigkeit der Behandlung davon abhängen könnte, wie viel du zahlst. An erster Stelle stünden Privatpatienten, an zweiter Stelle zahlungskräftigere gesetzlich Versicherte, die sich als Selbstzahler zusätzliche Leistungen buchen, und an letzter Stelle die Kassenpatienten, die sich diese Zusatzkosten nicht leisten können."
+      ]
+    },
+    {
+      "heading": "Die Verschiebung im Praxisalltag",
+      "paragraphs": [
+        "Die Daten zeigen, dass sich im Gesundheitswesen etwas verschiebt. Der Anteil von reinen Privatpraxen steigt, und Praxen, die auch gesetzlich Versicherte behandeln, erhalten immer höhere Einnahmen aus Privatabrechnungen. Dies trägt laut Befragungen dazu bei, dass Kassenpatienten länger warten müssen.",
+        "Einige Ärzte berichten, dass sie aufgrund der Budgeteinschränkungen nur noch langfristige Planungsvorhersagen treffen können. In Baden-Württemberg ergab eine Umfrage unter Ärzten, dass zwei Drittel der Praxen über mehr Selbstzahler-Leistungen nachdenken. Dies wird durch die Tatsache verstärkt, dass online-Terminportale oft zuerst Selbstzahler-Angebote anzeigen."
+      ]
+    },
+    {
+      "heading": "Was ist legal und wo ist die Grauzone?",
+      "paragraphs": [
+        "Rechtlich ist es klar: Eine Praxis darf nicht verlangen, dass du nur dann einen Termin bekommst, wenn du dafür zahlst. Doch im Alltag ist die Situation oft kompliziert. Wenn Patienten durch Online-Portale zu Selbstzahler-Angeboten geleitet werden, liegt dies in einer rechtlichen Grauzone, solange kein direkter Druck durch den Arzt entsteht.",
+        "Politische Forderungen reichen von der Einführung einer „Termingarantie“ für Kassenpatienten bis hin zur Forderung, dass Ärzte bei der Terminvergabe gar nicht mehr fragen dürfen, ob jemand gesetzlich oder privat versichert ist. Die Debatte zeigt, dass die Sicherstellung eines fairen Zugangs zu medizinischer Versorgung ein zentrales gesellschaftliches Thema bleibt."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist für dich relevant, weil es direkt deine Gesundheitsversorgung betrifft. Es geht darum, ob du unabhängig von deinem Geldbeutel schnell einen Facharzttermin bekommst. Die Diskussion zeigt, wie politische Entscheidungen deinen Alltag beeinflussen können.",
+  "glossary": [
+    {
+      "term": "Gesundheitsetat",
+      "definition": "Der festgelegte Betrag, den eine Regierung für Gesundheitsausgaben bereitstellt."
+    },
+    {
+      "term": "GKV",
+      "definition": "Gesetzliche Krankenversicherung. Das ist die Versicherung, die du über deinen Job oder deinen Status erhältst."
+    },
+    {
+      "term": "Selbstzahler",
+      "definition": "Ein Patient, der eine Behandlung oder einen Termin komplett aus eigener Tasche bezahlt, ohne dass die Krankenkasse beteiligt ist."
+    },
+    {
+      "term": "Drei-Klassen-Medizin",
+      "definition": "Ein Begriff, der beschreibt, dass in einem Gesundheitssystem unterschiedliche Behandlungsstandards je nach sozialem Status oder Zahlungsfähigkeit existieren."
+    }
+  ],
+  "quiz": {
+    "question": "Was warnen Experten im Zusammenhang mit den Sparplänen im Gesundheitswesen?",
+    "options": [
+      "Dass alle Ärzte in Rente gehen müssen.",
+      "Dass eine „Drei-Klassen-Medizin“ entstehen könnte.",
+      "Dass die Apotheken weniger Medikamente führen werden."
+    ],
+    "answerIndex": 1,
+    "explanation": "Experten warnen vor der Entstehung einer „Drei-Klassen-Medizin“, bei der der Zugang zur Behandlung vom Geld abhängt."
+  },
+  "discussion": [
+    "Wie viel Verantwortung sollte die Politik für die Sicherstellung eines fairen Zugangs zu medizinischer Versorgung übernehmen?",
+    "Wie beeinflusst die zunehmende Verfügbarkeit von Selbstzahler-Angeboten die Wahrnehmung der Gleichheit im Gesundheitssystem?"
+  ],
+  "publishedAt": "2026-11-24T13:12:12.425Z",
+  "sources": [
+    {
+      "title": "Debatte über Arzttermine: Führt der Sparkurs zur Drei-Klassen-Medizin?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/zwei-klassen-in-der-medizin-was-die-kuerzungen-im-gesundheit.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Wartezimmer in einer medizinischen Einrichtung, Arztpraxis oder einem Krankenhaus.",
+    "credit": {
+      "title": "A waiting room at a medical healthcare clinic, doctor's office, hospital.jpg",
+      "author": "Harrison Keely",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_waiting_room_at_a_medical_healthcare_clinic,_doctor%27s_office,_hospital.jpg"
+    }
+  }
+}

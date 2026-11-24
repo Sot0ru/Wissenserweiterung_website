@@ -1,0 +1,80 @@
+{
+  "id": "telefonische-krankschreibung-warum-manche-patienten-sie-beha",
+  "category": "politik",
+  "title": "Telefonische Krankschreibung: Warum manche Patienten sie behalten wollen",
+  "teaser": "Die Bundesregierung plant, die telefonische Krankschreibung abzuschaffen. Doch bestimmte Patientengruppen kämpfen dafür, diese Möglichkeit beibehalten zu dürfen.",
+  "tags": [
+    "Gesundheitspolitik",
+    "Gesetzesänderung",
+    "Versorgung",
+    "Arzt-Patienten-Beziehung"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die Bundesregierung plant, die telefonische Krankschreibung (Telefon-AU) abzuschaffen und eine Pflicht zur Vorlage von ärztlichen Attesten ab dem ersten Krankheitstag einzuführen.",
+    "Vertreter der Kassenärztlichen Vereinigung Niedersachsen (KVN) fordern, diese Möglichkeit für bestimmte Patientengruppen beizubehalten.",
+    "Diese Gruppen sind oft in Hausarztzentrierten Versorgungsmodellen eingeschrieben und haben eine etablierte Beziehung zu ihren Ärzten."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist die Telefon-AU und warum wird sie diskutiert?",
+      "paragraphs": [
+        "Die telefonische Krankschreibung, oft als Telefon-AU bezeichnet, ist eine Möglichkeit, bei der Ärzte eine Arbeitsunfähigkeitsbescheinigung (AU) telefonisch ausstellen können. Die Diskussion dreht sich darum, ob diese Möglichkeit für alle Patienten gelten soll oder ob sie für bestimmte Gruppen erhalten bleiben muss.",
+        "Aktuell plant die Bundesregierung im Rahmen eines Reformpakets im Gesundheitswesen, die Telefon-AU komplett abzuschaffen. Stattdessen soll eine Pflicht eingeführt werden, dass Patienten bereits ab dem ersten Krankheitstag eine ärztliche Bescheinigung vorlegen müssen."
+      ]
+    },
+    {
+      "heading": "Die Argumente der Ärzteverbände",
+      "paragraphs": [
+        "Die Delegierten der Kassenärztlichen Vereinigung Niedersachsen (KVN) sprechen sich gegen die vollständige Abschaffung aus. Sie fordern, dass die telefonische Krankschreibung für bestimmte Patientengruppen weiterhin möglich bleiben muss.",
+        "Diese Gruppen sind beispielsweise Patienten, die in der Hausarztzentrierten Versorgung (HZV) eingeschrieben sind oder die regelmäßig in Facharztpraxen behandelt werden. Die KVN begründet das damit, dass bei diesen Patienten eine „verbindliche, nachvollziehbare Arzt-Patientenbeziehung“ besteht. Für sie sei die telefonische Krankschreibung weiterhin sinnvoll."
+      ]
+    },
+    {
+      "heading": "Bedenken gegen die neue Regelung",
+      "paragraphs": [
+        "Die KVN befürchtet, dass die geplante generelle Einführung einer Vorlage ab Tag eins zu erheblichen Problemen führen könnte. Sie nennt dabei „übervolle Praxen“, einen „Wust an zusätzlicher Bürokratie“ und einen „enormen Zeitaufwand“ als mögliche Folgen der neuen Regelung."
+      ]
+    }
+  ],
+  "whyItMatters": "Diese Debatte betrifft deinen Alltag, wenn du krank wirst. Sie entscheidet darüber, wie du eine Krankschreibung erhältst und wie viel Zeit du in der Praxis verbringen musst, wenn du nur kurzfristig nicht arbeiten kannst.",
+  "glossary": [
+    {
+      "term": "Telefon-AU",
+      "definition": "Die telefonische Arbeitsunfähigkeitsbescheinigung, bei der ein Arzt die AU telefonisch ausstellt."
+    },
+    {
+      "term": "HZV",
+      "definition": "Hausarztzentrierte Versorgung; ein Versorgungsmodell, bei dem der Hausarzt eine zentrale Rolle bei der Koordination der Patientenversorgung spielt."
+    },
+    {
+      "term": "AU",
+      "definition": "Arbeitsunfähigkeitsbescheinigung; ein ärztliches Attest, das bescheinigt, dass jemand arbeitsunfähig ist."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Konsequenz befürchtet die KVN bei der Einführung einer Pflicht zur Vorlage einer AU ab dem ersten Krankheitstag?",
+    "options": [
+      "Eine stärkere Fokussierung auf die ambulante Behandlung.",
+      "Übervolle Praxen und enormen Zeitaufwand für das Personal.",
+      "Eine bessere Koordination der Patientenversorgung durch Hausärzte."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die KVN befürchtet, dass die Pläne zu „übervollen Praxen, einem Wust an zusätzlicher Bürokratie und einem enormen Zeitaufwand“ führen."
+  },
+  "discussion": [
+    "Wie würdest du die Balance zwischen der Notwendigkeit, Missbrauch zu verhindern, und der Bequemlichkeit für Patienten sehen, wenn es um die Krankschreibung geht?",
+    "Welche Alternativen zur vollständigen Abschaffung der telefonischen Krankschreibung könnten helfen, die Bürokratie zu reduzieren, ohne Missbrauch zu fördern?"
+  ],
+  "publishedAt": "2026-11-24T12:31:08.030Z",
+  "sources": [
+    {
+      "title": "KV Niedersachsen: Telefonische Krankschreibung für bestimmte Patienten beibehalten",
+      "url": "https://www.aerzteblatt.de/news/kv-niedersachsen-telefonische-krankschreibung-fur-bestimmte-patienten-beibehalten-6fff07ae-2339-41cd-a76d-675805adc2bf",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

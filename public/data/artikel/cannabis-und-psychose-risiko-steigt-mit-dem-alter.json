@@ -1,0 +1,94 @@
+{
+  "id": "cannabis-und-psychose-risiko-steigt-mit-dem-alter",
+  "category": "medizin",
+  "title": "Cannabis und Psychose: Risiko steigt mit dem Alter",
+  "teaser": "Eine große Analyse zeigt, dass Cannabis-Konsumenten früher psychotische Symptome entwickeln. Das Risiko scheint im Laufe des Lebens sogar zuzunehmen.",
+  "tags": [
+    "Psyche",
+    "Substanz",
+    "Gesundheit",
+    "Gehirn",
+    "Risiko"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Eine Analyse von 149 Studien ergab, dass Cannabis-Konsumenten im Durchschnitt 2,5 Jahre früher eine Psychose entwickeln als Nicht-Konsumenten.",
+    "Dieser zeitliche Unterschied wird bei Erwachsenen ab 30 Jahren deutlich größer und kann über sechs Jahre betragen.",
+    "Die Forscher warnen davor, dass das Risiko nicht nur in der Jugend besteht, sondern sich über die Jahre ansammeln kann."
+  ],
+  "sections": [
+    {
+      "heading": "Nicht nur in der Jugend: Wie Cannabis das Risiko verändern kann",
+      "paragraphs": [
+        "Wenn du über Cannabis nachdenkst, konzentriert man sich oft auf die Jugendjahre, weil das Gehirn dann noch in Entwicklung ist. Eine neue, große internationale Analyse stellt diese Annahme jedoch in Frage. Forscher haben 149 Studien mit über 71.000 Teilnehmern untersucht, um den Zusammenhang zwischen Cannabis-Konsum und dem Auftreten einer Psychose zu untersuchen.",
+        "Die Ergebnisse zeigen: Menschen, die Cannabis nutzen, erleben ihren ersten psychotischen Schub im Durchschnitt etwa 2,5 Jahre früher als diejenigen, die das Mittel nicht konsumieren. Das ist ein wichtiger Unterschied, den man nicht unterschätzen sollte."
+      ]
+    },
+    {
+      "heading": "Das Risiko nimmt im Erwachsenenalter zu",
+      "paragraphs": [
+        "Das Besorgniserregende ist, dass dieser zeitliche Abstand mit dem Alter zunimmt. In Studien, die Personen im Alter von 30 Jahren oder älter untersuchten, trat die Psychose bei Cannabis-Konsumenten im Durchschnitt 6,3 Jahre früher auf als bei Nicht-Konsumenten. Selbst in jüngeren Altersgruppen gab es Unterschiede: Bei Personen zwischen 20 und 24 Jahren war der Unterschied etwa 1,6 Jahre.",
+        "Psychose ist ein Zustand, in dem die Wahrnehmung der Realität gestört ist. Symptome können Halluzinationen (Wahrnehmungen, die nicht da sind) oder Wahnvorstellungen (feste, falsche Überzeugungen) sein. Die Forscher vermuten, dass die psychischen Folgen des Cannabiskonsums über die Adoleszenz hinausgehen und sich mit längerer Exposition verstärken können."
+      ]
+    },
+    {
+      "heading": "Was bedeuten diese Zahlen für dich?",
+      "paragraphs": [
+        "Die Studie warnt davor, dass man sich nur auf die Risiken in der Jugend konzentriert. Experten betonen, dass das Risiko nicht einfach verschwindet, sobald man in die 20er kommt. Stattdessen scheint sich ein kumulativer Effekt zu bilden, ähnlich wie bei anderen Substanzen.",
+        "Wichtig ist zu wissen: Die Analyse kann nicht beweisen, dass Cannabis die Psychose *direkt* verursacht. Da es unethisch wäre, Menschen absichtlich psychisch zu schädigen, kann man das nicht im Labor testen. Dennoch liefern die Ergebnisse starke Hinweise auf einen möglichen Zusammenhang, besonders bei älteren Erwachsenen, die vermutlich länger konsumiert haben."
+      ]
+    }
+  ],
+  "whyItMatters": "Da psychotische Erkrankungen wichtige Lebensphasen wie Ausbildung oder den Beruf starten können, kann eine Verschiebung des Beginns um wenige Jahre große Auswirkungen auf dein Leben haben. Dieses Wissen hilft dir, fundierte Entscheidungen über deinen Konsum zu treffen.",
+  "glossary": [
+    {
+      "term": "Psychose",
+      "definition": "Ein Zustand, in dem die Wahrnehmung der Realität gestört ist. Dazu gehören Halluzinationen oder Wahnvorstellungen."
+    },
+    {
+      "term": "Meta-Analyse",
+      "definition": "Eine Studie, die Ergebnisse aus vielen anderen, separaten wissenschaftlichen Studien zusammenfasst und statistisch auswertet."
+    },
+    {
+      "term": "Kumulativer Effekt",
+      "definition": "Ein Effekt, der sich durch die Anhäufung von Einflüssen über einen längeren Zeitraum entwickelt."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Altersbereich zeigte laut der Analyse den größten Unterschied beim früheren Auftreten einer Psychose bei Cannabis-Konsumenten?",
+    "options": [
+      "Zwischen 20 und 24 Jahren",
+      "Zwischen 25 und 29 Jahren",
+      "Im Alter von 30 Jahren oder älter"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die größte Differenz von durchschnittlich 6,3 Jahren wurde in Studien mit Personen, deren Psychose ab 30 Jahren auftrat, beobachtet."
+  },
+  "discussion": [
+    "Welche Rolle spielen genetische Veranlagungen im Verhältnis zu Umweltfaktoren wie Substanzkonsum bei der Entwicklung psychischer Erkrankungen?",
+    "Wie kann die medizinische Aufklärung über Risiken von Substanzen gestaltet werden, damit sie nicht nur auf die Jugend, sondern auf alle Lebensphasen zugeschnitten ist?"
+  ],
+  "publishedAt": "2026-11-24T12:36:03.987Z",
+  "sources": [
+    {
+      "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/cannabis-und-psychose-risiko-steigt-mit-dem-alter.jpg",
+    "width": 960,
+    "height": 686,
+    "alt": "Dr. Anne Evins hält Vortrag über Zusammenhang zwischen Cannabis-Konsum und Psychose.",
+    "credit": {
+      "title": "Dr. Anne Evins @ -MJNeuroSummit (25360235884).jpg",
+      "author": "NIDA(NIH)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._Anne_Evins_@_-MJNeuroSummit_(25360235884).jpg"
+    }
+  }
+}

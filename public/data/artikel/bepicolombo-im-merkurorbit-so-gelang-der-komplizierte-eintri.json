@@ -1,0 +1,94 @@
+{
+  "id": "bepicolombo-im-merkurorbit-so-gelang-der-komplizierte-eintri",
+  "category": "astronomie",
+  "title": "BepiColombo im Merkurorbit: So gelang der komplizierte Eintritt",
+  "teaser": "Die Raumsonde BepiColombo hat den Merkur erreicht. Doch der Eintritt in die Umlaufbahn war nicht einfach – ein Softwarefehler machte die Mission auf die Probe.",
+  "tags": [
+    "Weltraumfahrt",
+    "Planeten",
+    "Raumsonde",
+    "Mechanik",
+    "ESA"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Raumsonde BepiColombo erreichte am 21. November 2026 den Merkurorbit. Dies war ein wichtiger Schritt nach acht Jahren Reise.",
+    "Während des entscheidenden Manövers trat ein Softwarefehler auf, weshalb das Triebwerksmanöver vorzeitig beendet wurde.",
+    "Trotz der Störung konnte das Missionskontrollteam den Eintritt in die stabile Umlaufbahn erfolgreich bestätigen."
+  ],
+  "sections": [
+    {
+      "heading": "Die Reise zum Merkur: Ein komplexes Manöver",
+      "paragraphs": [
+        "BepiColombo ist eine Raumsonde, die auf eine lange Reise zu Merkur entworfen wurde. Diese Mission ist eine Zusammenarbeit zwischen der Europäischen Weltraumagentur (ESA) und der japanischen Weltraumagentur (JAXA). Die Sonde brauchte acht Jahre, um ihren Zielplaneten zu erreichen.",
+        "Der Eintritt in die Umlaufbahn eines Planeten ist kein einfacher Vorgang. Zuerst nutzt die Sonde eine Technik namens „Weak Stability Capture“. Das bedeutet, sie kommt mit geringerer Geschwindigkeit an, als es bei klassischen planetaren Missionen üblich ist. Diese Technik erlaubt es ihr, durch die schwache Gravitation des Planeten gebunden zu werden, aber nur vorübergehend."
+      ]
+    },
+    {
+      "heading": "Softwarefehler statt perfekter Flugbahn",
+      "paragraphs": [
+        "Der entscheidende Schritt, um von diesem vorübergehenden Fang in eine dauerhafte Umlaufbahn zu gelangen, ist der Manöver zum Eintritt in die Umlaufbahn (MOI). Hierbei zündet die Sonde ihre chemischen Triebwerke, um gezielt abzubremsen. Am 21. November 2026 sollte dieser Schub für 37 Minuten dauern.",
+        "Doch während des Manövers gab es eine unerwartete Wendung. Das Missionskontrollteam stellte fest, dass das Manöver autonom unterbrochen wurde. Die Ursache wurde später auf einen Softwarefehler zurückgeführt, der die Lageregelung und die Triebwerkssteuerung betraf. Die Sonde wechselte in den sogenannten „Safe Mode“, einen Schutzzustand, der sie vor unerwarteten Bedingungen schützt."
+      ]
+    },
+    {
+      "heading": "Mission erfolgreich: Die Umlaufbahn ist gesichert",
+      "paragraphs": [
+        "Obwohl das Manöver vorzeitig beendet wurde, konnte das Missionskontrollteam die Situation analysieren. Die Daten zeigten, dass etwa 77 % der geplanten Geschwindigkeitsänderung erreicht wurden. Nach detaillierten Berechnungen bestätigte das Flugdynamik-Team der ESA den erfolgreichen Eintritt in den Merkurorbit.",
+        "Dieser Erfolg ist ein wichtiger Meilenstein. Die Sonde befindet sich nun in einer stabilen Umlaufbahn. Die Teams arbeiten weiterhin daran, die Umlaufbahn schrittweise anzupassen. Die Mission ist darauf ausgelegt, dass jeder dieser kleinen Manöver die Bahn verändert, bis die Sonde in ihre endgültige wissenschaftliche Umlaufbahn gelangt."
+      ]
+    }
+  ],
+  "whyItMatters": "Weltraummissionen zeigen, wie komplex Ingenieurwesen und Physik zusammenspielen. Du lernst, wie Wissenschaftler mit unvorhergesehenen Problemen umgehen, um große Ziele zu erreichen.",
+  "glossary": [
+    {
+      "term": "ESA",
+      "definition": "European Space Agency. Die europäische Weltraumagentur, die viele Raumfahrtmissionen koordiniert und durchführt."
+    },
+    {
+      "term": "Safe Mode",
+      "definition": "Ein Schutzzustand eines Raumfahrzeugs. Wenn unerwartete Probleme auftreten, schaltet die Sonde in diesen Modus, um sich zu stabilisieren und Schäden zu verhindern."
+    },
+    {
+      "term": "Weak Stability Capture",
+      "definition": "Eine Technik, bei der ein Raumfahrzeug durch die schwache Gravitation eines Planeten in eine Umlaufbahn eintreten kann, ohne riesige Mengen Treibstoff zu verbrauchen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Ursache wurde für die vorzeitige Beendigung des Triebwerksmanövers genannt?",
+    "options": [
+      "Ein Softwarefehler in der Lageregelung und Triebwerkssteuerung",
+      "Ein unerwarteter meteoritischer Einschlag",
+      "Ein Ausfall der Deep-Space-Antenne"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Analyse führte zu der Vermutung, dass ein Softwareproblem die Ursache für die Unterbrechung war."
+  },
+  "discussion": [
+    "Welche Rolle spielt die Fähigkeit von Wissenschaftlern, auf unerwartete technische Probleme in komplexen Langzeitprojekten zu reagieren?",
+    "Wie beeinflussen internationale Kooperationen, wie die zwischen ESA und JAXA, den Erfolg großer wissenschaftlicher Projekte?"
+  ],
+  "publishedAt": "2026-11-24T12:54:35.338Z",
+  "sources": [
+    {
+      "title": "BepiColombo trotz unerwarteter Schwierigkeiten sicher im Merkurorbit",
+      "url": "https://www.raumfahrer.net/bepicolombo-trotz-unerwarteter-schwierigkeiten-sicher-im-merkurorbit/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/bepicolombo-im-merkurorbit-so-gelang-der-komplizierte-eintri.jpg",
+    "width": 960,
+    "height": 960,
+    "alt": "BepiColombo fliegt an Merkur vorbei, während er in der Ferne sichtbar ist.",
+    "credit": {
+      "title": "BepiColombo says goodbye to Mercury for the fourth time ESA501139 - BepiColombo says goodbye to Mercury for the fourth time.jpg",
+      "author": "European Space Agency",
+      "license": "CC BY-SA 3.0 igo",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BepiColombo_says_goodbye_to_Mercury_for_the_fourth_time_ESA501139_-_BepiColombo_says_goodbye_to_Mercury_for_the_fourth_time.jpg"
+    }
+  }
+}

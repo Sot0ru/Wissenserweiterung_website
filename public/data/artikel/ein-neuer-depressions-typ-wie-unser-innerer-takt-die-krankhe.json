@@ -1,0 +1,93 @@
+{
+  "id": "ein-neuer-depressions-typ-wie-unser-innerer-takt-die-krankhe",
+  "category": "medizin",
+  "title": "Ein neuer Depressions-Typ: Wie unser innerer Takt die Krankheit beeinflusst",
+  "teaser": "Nicht alle Depressionen sind gleich. Forscher haben einen neuen Subtyp entdeckt, der eng mit unserem 24-Stunden-Rhythmus verbunden ist und bei dem Standard-Antidepressiva oft nicht helfen.",
+  "tags": [
+    "Gehirn",
+    "Stimmung",
+    "Gesundheit",
+    "Biologie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher identifizierten einen neuen Depressions-Subtyp, genannt „zirkadiane Depression“, der mit dem inneren biologischen Takt des Körpers zusammenhängt.",
+    "Bei etwa einem Viertel der Patienten mit schwerer Depression zeigt dieser Typ Symptome wie starke Erschöpfung und ist eher ein „Nachtmensch“.",
+    "Herkömmliche serotoninhaltige Medikamente wirken bei diesen Menschen oft weniger gut; hier könnten Therapien wie Lichttherapie oder Melatonin helfen."
+  ],
+  "sections": [
+    {
+      "heading": "Depression ist kein Einheitsbrei",
+      "paragraphs": [
+        "Depression wird oft als eine einzige Krankheit betrachtet. Doch die Forschung zeigt: Depression ist sehr vielfältig. Ein neuer Subtyp, die sogenannte „zirkadiane Depression“, hilft uns zu verstehen, warum Standardbehandlungen bei einigen Menschen nicht greifen.",
+        "Wissenschaftler der Universität Sydney untersuchten Daten von über 10.000 Australiern mit Depression. Dabei stellten sie fest, dass fast ein Viertel der Teilnehmer Merkmale dieses neuen Typs aufwies. Dieser Subtyp ist eng mit der biologischen Uhr unseres Körpers verbunden – dem sogenannten zirkadianen Rhythmus."
+      ]
+    },
+    {
+      "heading": "Was macht die zirkadiane Depression aus?",
+      "paragraphs": [
+        "Dieser Typ der Depression ist nicht nur eine Frage der Stimmung. Er ist direkt mit unserem 24-Stunden-Takt verbunden, der reguliert, wann wir wach und wann wir müde werden. Menschen mit zirkadianer Depression neigen dazu, „Nachtmenschen“ zu sein – sie bevorzugen es, spät wach zu bleiben und später aufzuwachen.",
+        "Typische Anzeichen sind übermäßiges Schlafen, anhaltende Erschöpfung, selbst wenn sie viel im Bett waren, und manchmal saisonale Schwankungen der Symptome. Außerdem neigten diese Personen dazu, Depressionen früher im Leben zu entwickeln und zeigten oft schwerere Symptome."
+      ]
+    },
+    {
+      "heading": "Neue Wege statt alter Medikamente?",
+      "paragraphs": [
+        "Das Problem: Viele gängige Antidepressiva, wie SSRIs (selektive Serotonin-Wiederaufnahmehemmer), die auf chemische Botenstoffe im Gehirn wirken, sind für Menschen mit zirkadianer Depression oft weniger effektiv. Sie können zudem mehr Nebenwirkungen verursachen.",
+        "Die Hoffnung liegt in gezielteren Ansätzen. Da der Rhythmus eine zentrale Rolle spielt, könnten Therapien, die diesen Takt beeinflussen, helfen. Dazu gehören Lichttherapie – die gezielte Belichtung zur Regulierung des Rhythmus – sowie Medikamente, die auf Melatonin wirken, dem Hormon, das den Schlaf-Wach-Zyklus steuert. Frühe Erkennung dieses Subtyps könnte jungen Menschen helfen, schneller die richtige Behandlung zu finden."
+      ]
+    }
+  ],
+  "whyItMatters": "Für junge Menschen ist das Verständnis dieser Unterschiede wichtig, weil sie oft die ersten sind, die eine psychische Erkrankung entwickeln. Wenn die richtige Behandlung zu früh gefunden wird, kann das unnötiges Leiden und Nebenwirkungen durch falsche Medikamente verhindern.",
+  "glossary": [
+    {
+      "term": "Zirkadianer Rhythmus",
+      "definition": "Der innere, etwa 24-stündige biologische Takt des Körpers, der unseren Schlaf-Wach-Zyklus und andere Körperfunktionen steuert."
+    },
+    {
+      "term": "SSRIs",
+      "definition": "Eine Gruppe von gängigen Antidepressiva (selektive Serotonin-Wiederaufnahmehemmer), die die Stimmung durch Beeinflussung von Botenstoffen im Gehirn regulieren sollen."
+    },
+    {
+      "term": "Melatonin",
+      "definition": "Ein Hormon, das dem Körper signalisiert, wann er sich auf den Schlaf vorbereiten muss und somit den Schlaf-Wach-Zyklus reguliert."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Art von Therapie wird laut der Quelle als potenziell effektiver für Menschen mit zirkadianer Depression genannt, da sie den inneren Takt beeinflusst?",
+    "options": [
+      "Medikamente, die nur auf Serotonin wirken",
+      "Standard-SSRIs",
+      "Lichttherapie oder Melatonin-gerichtete Behandlungen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Quelle nennt Lichttherapie und Melatonin-gerichtete Antidepressiva als vielversprechende Optionen, da diese den zirkadianen Rhythmus ansprechen."
+  },
+  "discussion": [
+    "Wie könnte die Erkenntnis, dass Depression verschiedene biologische Ursachen haben kann, die Art und Weise verändern, wie Gesundheitssysteme in Zukunft psychische Erkrankungen diagnostizieren?",
+    "Welche Rolle spielen Lebensgewohnheiten (wie Schlafenszeiten oder Lichtexposition) im Zusammenspiel mit der biologischen Uhr bei der Entwicklung von psychischen Erkrankungen?"
+  ],
+  "publishedAt": "2026-11-24T12:59:31.169Z",
+  "sources": [
+    {
+      "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/ein-neuer-depressions-typ-wie-unser-innerer-takt-die-krankhe.jpg",
+    "width": 960,
+    "height": 1357,
+    "alt": "Darstellung der zentralen zirkadianen Uhr im menschlichen Gehirn.",
+    "credit": {
+      "title": "The master circadian clock in the human brain.jpg",
+      "author": "Ian B Hickie, Sharon L Naismith, Rébecca Robillard, Elizabeth M Scott, and Daniel F Hermens",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_master_circadian_clock_in_the_human_brain.jpg"
+    }
+  }
+}

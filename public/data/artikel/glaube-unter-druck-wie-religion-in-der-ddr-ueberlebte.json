@@ -1,0 +1,81 @@
+{
+  "id": "glaube-unter-druck-wie-religion-in-der-ddr-ueberlebte",
+  "category": "geschichte",
+  "title": "Glaube unter Druck: Wie Religion in der DDR überlebte",
+  "teaser": "In der DDR war der Glaube oft ein gefährliches Thema. Er wurde aber zu einem wichtigen Ort für Widerstand, besonders gegen das Regime.",
+  "tags": [
+    "DDR",
+    "Religionsfreiheit",
+    "Opposition",
+    "Gesellschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In der DDR war der Glaube stark eingeschränkt, da die Kirchen als Gegner der SED galten.",
+    "Trotz des Drucks wurden Kirchen Ende der 1980er Jahre wichtige Zufluchtsorte für die Opposition.",
+    "Protestakte, wie die von Pfarrer Oskar Brüsewitz, zeigten den Widerstand gegen die Unterdrückung der Religionsfreiheit."
+  ],
+  "sections": [
+    {
+      "heading": "Glaube als Dorn im Auge der SED",
+      "paragraphs": [
+        "In der Deutschen Demokratischen Republik (DDR) stand der Glaube unter starkem Druck. Die Kirchen wurden von der Sozialistischen Einheitspartei Deutschlands (SED) als ein „Dorn im Auge“ betrachtet. Die staatliche Ideologie war stark atheistisch und sah religiöse Praktiken als Bedrohung ihrer Macht.",
+        "Die staatliche Kontrolle war umfassend. Zum Beispiel fiel der Reformationstag, der bis 1967 ein gesetzlicher Feiertag war, weg, als die DDR das Konzept des arbeitsfreien Sonnabends einführte."
+      ]
+    },
+    {
+      "heading": "Widerstand durch Glauben und Symbole",
+      "paragraphs": [
+        "Trotz der staatlichen Unterdrückung blieben die Kirchen ein wichtiger Ort für Menschen, die sich anders orientieren wollten. Besonders gegen Ende der 1980er Jahre boten sie Zuflucht für eine wachsende Opposition.",
+        "Der Widerstand manifestierte sich auf verschiedene Weisen. Pfarrer Oskar Brüsewitz protestierte 1976 in Zeitz, indem er sich selbst in Flammen setzte, um auf die Unterdrückung der Religionsfreiheit aufmerksam zu machen.",
+        "Auch kleine Symbole wurden zu Zeichen des Widerstands. Ein bekanntes Beispiel ist der Aufnäher „Schwerter zu Pflugscharen“, der 1981 in Herrnhut verbreitet wurde. Durch Druck auf Vliesstoff gelangten rund 100.000 dieser Aufnäher an der staatlichen Zensur vorbei."
+      ]
+    },
+    {
+      "heading": "Veränderungen im öffentlichen Raum",
+      "paragraphs": [
+        "Der Einfluss der staatlichen Umgestaltung war auch im öffentlichen Raum sichtbar. Am 30. Mai 1968 wurde die Paulinerkirche in Leipzig gesprengt. Dieser Ort, der rund 500 Jahre lang ein Zentrum des universitären Lebens war, wurde der sozialistischen Umgestaltung der Universität zum Opfer gefallen."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie gesellschaftlicher Wandel und politische Systeme die persönlichen Freiheiten beeinflussen können. Es verdeutlicht, dass auch in repressiven Systemen Formen des Widerstands entstehen können.",
+  "glossary": [
+    {
+      "term": "SED",
+      "definition": "Sozialistische Einheitspartei Deutschlands, die führende politische Partei der DDR."
+    },
+    {
+      "term": "Religionsfreiheit",
+      "definition": "Das Recht jedes Einzelnen, seinen Glauben frei zu leben oder diesen abzulehnen."
+    },
+    {
+      "term": "Opposition",
+      "definition": "Gruppen oder Personen, die sich gegen die herrschende politische Macht stellen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Zahl gibt an, wie viele Aufnäher mit dem Slogan „Schwerter zu Pflugscharen“ an der Zensur vorbei verbreitet wurden?",
+    "options": [
+      "500.000",
+      "100.000",
+      "1.000.000"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut Quelle gelangten 100.000 Aufnäher an der Zensur vorbei."
+  },
+  "discussion": [
+    "Welche Rolle spielen religiöse oder ideelle Überzeugungen in einer Gesellschaft, die stark von staatlicher Kontrolle geprägt ist?",
+    "Wie kann symbolischer Protest, wie das Anbringen eines Aufnähers, im Vergleich zu politischem Demonstrationsmarsch eine Botschaft vermitteln?"
+  ],
+  "publishedAt": "2026-11-24T13:20:08.743Z",
+  "sources": [
+    {
+      "title": "Kirche",
+      "url": "https://www.mdr.de/geschichte/ddr/politik-gesellschaft/kirche",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
