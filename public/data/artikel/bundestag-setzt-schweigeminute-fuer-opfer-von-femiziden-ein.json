@@ -1,0 +1,84 @@
+{
+  "id": "bundestag-setzt-schweigeminute-fuer-opfer-von-femiziden-ein",
+  "category": "politik",
+  "title": "Bundestag setzt Schweigeminute für Opfer von Femiziden ein",
+  "teaser": "Anlässlich des Orange Days erinnert der Bundestag an Frauen, die Opfer von Femiziden wurden. Die Regierung verspricht verstärkten Schutz gegen Gewalt.",
+  "tags": [
+    "Frauenrechte",
+    "Gewalt",
+    "Gesellschaft",
+    "Rechtspolitik"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Bundestag hat eine Schweigeminute für die Opfer von Femiziden eingelegt, um auf die Gewalt gegen Frauen aufmerksam zu machen.",
+    "Laut aktuellen Zahlen starben im Jahr 2025 342 Frauen, deren Tötung ein frauenverachtendes Motiv hatte.",
+    "Die Bundesregierung kündigt Maßnahmen an, um den Schutz von Frauen, Mädchen und Kindern in Deutschland zu verbessern."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist ein Femizid und warum ist das Thema wichtig?",
+      "paragraphs": [
+        "Ein Femizid ist eine spezifische Form von Tötung. Es handelt sich dabei um eine Gewalttat, bei der das Motiv frauenfeindlich ist. Das bedeutet, die Tötung geschieht aus Hass gegen Frauen.",
+        "Die Zahlen zeigen, wie ernst die Lage ist: Im Jahr 2025 wurden in Deutschland insgesamt 1.200 Frauen und Mädchen Opfer von versuchter oder vollendeter Tötung. Davon starben 342 Menschen. Diese Fälle werden als Femizide gewertet.",
+        "Der jährliche Orange Day am 25. November dient dazu, auf diese Gewalt aufmerksam zu machen und eine Zukunft ohne solche Taten zu fordern. Die Farbe Orange symbolisiert dabei eine hellere, gewaltfreie Zukunft."
+      ]
+    },
+    {
+      "heading": "Politische Reaktionen und neue Schutzversprechen",
+      "paragraphs": [
+        "Im Bundestag wurde zur Erinnerung an diese Opfer eine Schweigeminute eingelegt. Bundeskanzler Friedrich Merz nutzte diesen Anlass, um zu versichern, dass die Bundesregierung verstärkt handeln wird, um Frauen, Mädchen und Kinder besser zu schützen als bisher.",
+        "Bundestagspräsidentin Julia Klöckner betonte die Dringlichkeit der Situation, da rechnerisch fast jeden Tag eine Frau oder ein Mädchen gewaltsam stirbt. Sie hob hervor, dass die Täter oft aus dem engen Umfeld der Opfer stammen.",
+        "Um effektiver zu werden, sollen Erfahrungen aus anderen Ländern genutzt werden. Klöckner nannte Spanien als Beispiel, das vor rund 20 Jahren verpflichtende Präventionsarbeit an Schulen und eine konsequente Täterüberwachung eingeführt hat. Der Fokus dabei liegt auf dem Opferschutz."
+      ]
+    },
+    {
+      "heading": "Die aktuelle Situation: Steigende Gewaltzahlen",
+      "paragraphs": [
+        "Die Bundesregierung präsentierte kürzlich eine Bilanz zu gegen Frauen gerichteten Straftaten im Jahr 2025. Diese Statistik umfasst unter anderem häusliche Gewalt, Sexualstraftaten und digitale Angriffe.",
+        "Die Zahlen zeigen einen besorgniserregenden Trend: In allen genannten Deliktsbereichen ist die Zahl der Straftaten im vergangenen Jahr gestiegen.",
+        "Politikerinnen und Politiker, wie Bundestagspräsidentin Klöckner, Minister Pistorius und Vizekanzler Klingbeil, zeigten ihr Engagement durch das Tragen von orangefarbenen Accessoires, um die Botschaft der Solidarität zu verstärken."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist für deine Generation relevant, weil Gewalt gegen Frauen eine gesellschaftliche Realität ist, die tief in unseren Strukturen verankert ist. Es geht darum, wie Politik und Gesellschaft gemeinsam dafür sorgen können, dass sich alle sicher fühlen und dass Gewalt nicht als normal akzeptiert wird.",
+  "glossary": [
+    {
+      "term": "Femizid",
+      "definition": "Eine Tötung, bei der ein frauenverachtendes Motiv im Vordergrund steht."
+    },
+    {
+      "term": "Orange Day",
+      "definition": "Ein jährlicher Tag (25. November), der dazu dient, an Frauen zu erinnern, die Opfer von Gewalt geworden sind."
+    },
+    {
+      "term": "Präventionsarbeit",
+      "definition": "Maßnahmen, die ergriffen werden, um Probleme wie Gewalt zu verhindern, bevor sie überhaupt entstehen."
+    }
+  ],
+  "quiz": {
+    "question": "Wie viele Frauen und Mädchen wurden laut der Bundesregierung im Jahr 2025 Opfer von versuchter oder vollendeter Tötung?",
+    "options": [
+      "1.200",
+      "5.420",
+      "342"
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut der Bilanz der Bundesregierung wurden fast 1.200 Frauen und Mädchen Opfer dieser Taten."
+  },
+  "discussion": [
+    "Welche Rolle spielen soziale Medien und digitale Angriffe bei der Eskalation von Gewalt gegen Frauen, und wie könnte die Politik hier besser eingreifen?",
+    "Wenn Präventionsarbeit an Schulen wichtig ist, wie kann sichergestellt werden, dass diese Programme wirklich wirken und nicht nur ein einmaliges Projekt bleiben?"
+  ],
+  "publishedAt": "2026-11-25T12:10:08.820Z",
+  "sources": [
+    {
+      "title": "Bundestag legt Schweigeminute für Opfer von Femiziden ein",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

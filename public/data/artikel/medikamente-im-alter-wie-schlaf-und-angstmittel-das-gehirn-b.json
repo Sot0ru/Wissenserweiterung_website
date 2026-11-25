@@ -1,0 +1,88 @@
+{
+  "id": "medikamente-im-alter-wie-schlaf-und-angstmittel-das-gehirn-b",
+  "category": "medizin",
+  "title": "Medikamente im Alter: Wie Schlaf- und Angstmittel das Gehirn beeinflussen können",
+  "teaser": "Bei älteren Menschen mit kognitiven Problemen gibt es ein hohes Risiko, Medikamente zu nehmen, die die Hirnfunktion negativ beeinflussen. Was bedeutet das für die Gesundheitsversorgung?",
+  "tags": [
+    "Alter",
+    "Medikamentensicherheit",
+    "Kognition",
+    "Chronische Krankheiten"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Bei älteren Erwachsenen mit Demenz oder anderen kognitiven Störungen nehmen fast ein Drittel potenziell schädliche Medikamente ein, die die Hirnfunktion beeinträchtigen können.",
+    "Forschung zeigt, dass die Nutzung solcher Medikamente zwischen 2011 und 2022 bei unabhängigen älteren Erwachsenen gesunken ist, was auf verbesserte Bewusstheit hindeutet.",
+    "Experten empfehlen „Deprescribing“ – also die sorgfältige Reduzierung oder Einstellung unnötiger Medikamente – um die Sicherheit zu erhöhen."
+  ],
+  "sections": [
+    {
+      "heading": "Die Gefahr von Medikamenten im Alter",
+      "paragraphs": [
+        "Ältere Menschen, insbesondere jene mit Demenz oder anderen kognitiven Störungen, sind besonders anfällig für die negativen Auswirkungen von Medikamenten. Diese Mittel werden oft zur Behandlung von Angstzuständen, Schlafstörungen oder Psychosen eingesetzt und wirken auf das zentrale Nervensystem.",
+        "Wenn diese Medikamente unsachgemäß verwendet werden, können sie zu ernsten Problemen führen. Dazu zählen häufigere Notfallbesuche, längere Krankenhausaufenthalte, eine Verschlechterung der psychischen Gesundheit und ein erhöhtes Risiko für vorzeitigen Tod.",
+        "Die Problematik ist groß: Laut einer Analyse war zwischen 2011 und 2022 bei älteren Erwachsenen mit kognitiven Störungen, die selbstständig lebten, der Anteil derjenigen, die potenziell ungeeignete Medikamente einnahmen, von 39,3 % auf 29,3 % gesunken."
+      ]
+    },
+    {
+      "heading": "Was bedeutet „Deprescribing“?",
+      "paragraphs": [
+        "Ein wichtiger Ansatz, um dieses Risiko zu senken, ist das sogenannte „Deprescribing“. Dieser Begriff bedeutet, unnötige Medikamente zu entfernen oder deren Dosierung oder Häufigkeit schrittweise zu reduzieren. In manchen Fällen bedeutet es, das aktuelle Medikament durch eine mildere Alternative zu ersetzen.",
+        "Medikamente wie Benzodiazepine (zum Beispiel Xanax bei Angst) oder Schlafmittel (wie Ambien) können die kognitive Funktion, das Gleichgewicht und die Koordination negativ beeinflussen. Experten betonen daher die Notwendigkeit einer engen Zusammenarbeit zwischen Ärzten, Apothekern und Pflegekräften, um die Medikation optimal zu sichern.",
+        "Um problematische Wirkstoffe zu identifizieren, nutzen Forscher Kriterien wie die Beers Criteria der American Geriatrics Society, die etwa 100 Medikamente auflistet, die bei älteren Menschen Risiken darstellen können. Die Forschung unterstreicht, dass regelmäßige Medikamentenüberprüfungen bei Routinebesuchen essenziell sind."
+      ]
+    }
+  ],
+  "whyItMatters": "Da die Bevölkerung weltweit älter wird, steigt die Notwendigkeit, die Sicherheit der Medikamentenverabreichung zu erhöhen. Für junge Menschen ist es wichtig zu verstehen, wie medizinische Entscheidungen im Alter getroffen werden und welche Risiken damit verbunden sind.",
+  "glossary": [
+    {
+      "term": "Zentrales Nervensystem",
+      "definition": "Das Nervensystem, das das Gehirn und das Rückenmark umfasst und für alle Körperfunktionen zuständig ist."
+    },
+    {
+      "term": "Deprescribing",
+      "definition": "Der Prozess, bei dem unnötige oder schädliche Medikamente bei chronisch Kranken schrittweise reduziert oder eingestellt werden."
+    },
+    {
+      "term": "Kognitive Funktion",
+      "definition": "Die Fähigkeit des Gehirns, Prozesse wie Denken, Erinnern, Lernen und Problemlösen zu steuern."
+    }
+  ],
+  "quiz": {
+    "question": "Wie hoch war der Anteil der älteren Erwachsenen mit kognitiven Störungen, die 2011 potenziell ungeeignete Medikamente einnahmen?",
+    "options": [
+      "75 %",
+      "39,3 %",
+      "29,3 %"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut der Analyse lag der Anteil im Jahr 2011 bei 39,3 %."
+  },
+  "discussion": [
+    "Welche Rolle sollte die Familie oder das soziale Umfeld bei der Überprüfung der Medikamente älterer Angehöriger spielen, wenn die Ärzte dies nicht regelmäßig tun?",
+    "Wie kann die Gesundheitsversorgung besser darauf vorbereitet sein, wenn immer mehr Menschen chronische Erkrankungen und damit mehr Medikamente benötigen?"
+  ],
+  "publishedAt": "2026-11-25T11:20:23.346Z",
+  "sources": [
+    {
+      "title": "Common sleep and anxiety drugs could be harming aging brains",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/medikamente-im-alter-wie-schlaf-und-angstmittel-das-gehirn-b.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Darstellung der älteren Gesellschaft, die das Thema des demografischen Wandels illustriert.",
+    "credit": {
+      "title": "The elderly society.jpg",
+      "author": "志涛 张",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_elderly_society.jpg"
+    }
+  }
+}

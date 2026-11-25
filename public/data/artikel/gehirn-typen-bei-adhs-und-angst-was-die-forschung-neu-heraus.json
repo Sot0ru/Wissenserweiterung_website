@@ -1,0 +1,82 @@
+{
+  "id": "gehirn-typen-bei-adhs-und-angst-was-die-forschung-neu-heraus",
+  "category": "medizin",
+  "title": "Gehirn-Typen bei ADHS und Angst: Was die Forschung neu herausfindet",
+  "teaser": "Können wir psychische Erkrankungen besser verstehen, wenn wir nicht nur Symptome, sondern auch Gehirnstrukturen betrachten? Eine Studie zeigt neue Wege zur Diagnose.",
+  "tags": [
+    "Gehirn",
+    "Psychische Gesundheit",
+    "Diagnose",
+    "Neurologie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Forscher haben herausgefunden, dass bei Kindern mit ADHS oder Angststörungen nicht nur ein, sondern drei unterschiedliche biologische Gehirn-Typen (Biotypen) existieren können.",
+    "Diese Typen basieren auf unterschiedlichen Mustern in den Gehirnkreisen und können bereits vor einer offiziellen Diagnose erkannt werden.",
+    "Das Ziel ist, die Behandlung zu personalisieren, anstatt nur allgemeine Symptomlisten zu nutzen."
+  ],
+  "sections": [
+    {
+      "heading": "Warum Symptomlisten nicht immer reichen",
+      "paragraphs": [
+        "Wenn jemand von ADHS (Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung) oder Angst betroffen ist, verlassen sich Ärzte meist auf Symptom-Checklisten. Das ist der Standardweg zur Diagnose. Aber die Forschung zeigt, dass diese Krankheiten oft Symptome teilen. Ein Kind mit ADHS kann auch Ängste zeigen, und umgekehrt.",
+        "Eine neue Studie, die von Forschern der Stanford Medicine geleitet wurde, hat diese Komplexität neu beleuchtet. Sie untersuchte Tausende von Gehirnscans mithilfe von funktioneller Magnetresonanztomographie (fMRT). Dabei ging es darum, ob biologische Unterschiede zwischen den Kindern existieren, die nicht durch die klinischen Diagnosebezeichnungen erklärt werden können."
+      ]
+    },
+    {
+      "heading": "Die Entdeckung der drei Gehirn-Typen",
+      "paragraphs": [
+        "Die Forscher identifizierten drei spezifische biologische Muster, die sie als „Biotypen“ bezeichneten. Diese Muster beziehen sich auf unterschiedliche Funktionsweisen verschiedener Gehirnkreise. Die Studie ergab, dass diese drei Typen gegenseitig ausschließend sind – ein Kind gehört nur zu einem Typ.",
+        "Die Typen wurden benannt nach ihren Hauptmerkmalen: Der „externalisierende-disinhibierte Biotyp“ zeigt eher Impulsivität, Aggression oder Regelbruch. Bei diesem Typ war eine ADHS-Diagnose häufiger. Der „internalisierende-distressed Biotyp“ zeichnet sich durch starke Schuldgefühle, Perfektionismus und Symptome von Angst aus, weshalb dieser Typ häufiger mit Angststörungen verbunden war.",
+        "Ein dritter Typ, der „mixed Biotyp“, weist Schwierigkeiten mit Aufmerksamkeit und Reizbarkeit auf und kann sowohl mit ADHS als auch mit Angst in Verbindung gebracht werden. Wichtig ist zu wissen: Kein Typ ist exklusiv für eine einzige Diagnose; alle drei Muster traten bei Kindern mit ADHS, Angst oder beidem auf."
+      ]
+    },
+    {
+      "heading": "Blick in die Zukunft: Früherkennung und Therapie",
+      "paragraphs": [
+        "Eines der überraschendsten Ergebnisse betrifft die Früherkennung. Die Forscher konnten die charakteristischen biologischen Muster bereits in den ersten Scans von Kindern erkennen, bevor ihnen überhaupt eine offizielle Diagnose gestellt wurde. Das könnte bedeuten, dass Ärzte diese Biotypen als Frühindikator für diese Zustände nutzen können.",
+        "Die Studie soll die Behandlung nicht ersetzen, sondern ergänzen. Aktuell müssen Kinder oft viel experimentieren, um die richtige Medikation zu finden. Die Forscher hoffen, dass zukünftige Studien herausfinden können, welche Therapien am besten zu welchem spezifischen Biotyp passen. Das Ziel ist, Biomarker zu finden, die helfen, die richtige Behandlung zur richtigen Zeit zu wählen."
+      ]
+    }
+  ],
+  "whyItMatters": "Wenn wir die zugrundeliegenden biologischen Muster verstehen, statt nur die Symptome zu behandeln, können wir gezielter helfen. Für junge Menschen bedeutet das, dass Diagnosen früher und die Behandlung spezifischer auf ihre individuelle Gehirnstruktur abgestimmt werden kann.",
+  "glossary": [
+    {
+      "term": "ADHS",
+      "definition": "Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung. Eine neurologische Entwicklungsstörung, die durch Probleme mit Aufmerksamkeit und Impulsivität gekennzeichnet ist."
+    },
+    {
+      "term": "fMRT",
+      "definition": "Funktionelle Magnetresonanztomographie. Ein bildgebendes Verfahren, das zeigt, welche Bereiche des Gehirns bei bestimmten Tätigkeiten aktiv sind."
+    },
+    {
+      "term": "Biotyp",
+      "definition": "In dieser Studie: Ein spezifisches, biologisches Muster in den Gehirnkreisen, das bestimmte Verhaltensmerkmale mit sich bringt."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Technik nutzten die Forscher, um die verschiedenen Funktionsweisen der Gehirnkreise zu untersuchen?",
+    "options": [
+      "Echokardiographie",
+      "funktionelle Magnetresonanztomographie (fMRT)",
+      "Elektromyographie"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Studie basierte auf der Analyse von fMRT-Scans, um die funktionelle Konnektivität zu untersuchen."
+  },
+  "discussion": [
+    "Wie verändert die Möglichkeit, eine Erkrankung auf biologischer Ebene (z.B. Biotyp) zu klassifizieren, das Verständnis von psychischen Erkrankungen im Vergleich zur reinen Symptombeschreibung?",
+    "Welche ethischen Fragen entstehen, wenn biologische Muster frühzeitig erkannt werden, bevor eine offizielle Diagnose vorliegt?"
+  ],
+  "publishedAt": "2026-11-25T11:59:13.629Z",
+  "sources": [
+    {
+      "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

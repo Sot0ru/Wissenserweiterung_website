@@ -1,0 +1,96 @@
+{
+  "id": "weltraumteleskop-entdeckt-unerwartet-komet-im-sonnensystem",
+  "category": "wissenschaft",
+  "title": "Weltraumteleskop entdeckt unerwartet Komet im Sonnensystem",
+  "teaser": "Ein Teleskop, das eigentlich nach Galaxien sucht, fand stattdessen einen neuen Kometen. Was bedeutet das für unsere Kenntnis des Sonnensystems?",
+  "tags": [
+    "Weltall",
+    "Astronomie",
+    "Sonnensystem",
+    "Entdeckung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Das Euclid-Teleskop der ESA, das primär zur Erforschung dunkler Materie und ferner Galaxien gebaut wurde, entdeckte einen bisher unbekannten Kometen.",
+    "Dieser Komet befindet sich etwa 1,3 Milliarden Kilometer von der Erde entfernt und folgt einer sehr ungewöhnlichen, jahrtausendelangen Bahn.",
+    "Die Entdeckung zeigt, dass das Teleskop auch Objekte in unserem Sonnensystem erkennen kann, was für zukünftige Missionen wichtig ist."
+  ],
+  "sections": [
+    {
+      "heading": "Von Galaxien zu Kometen: Die unerwartete Entdeckung",
+      "paragraphs": [
+        "Das europäische Weltraumteleskop Euclid hat eine überraschende Entdeckung im Sonnensystem gemacht. Ursprünglich wurde Euclid gebaut, um detaillierte Bilder von weit entfernten Galaxien zu machen und die Geheimnisse des dunklen Universums zu lüften. Stattdessen entdeckte die Mission einen bisher unbekannten Kometen.",
+        "Die Beobachtungen, die zwischen dem 16. und 24. September 2026 gemacht wurden, zeigten dieses eisige Objekt. Es befindet sich ungefähr 1,3 Milliarden Kilometer von der Erde entfernt und hat eine seltsame Umlaufbahn, die Tausende von Jahren dauert.",
+        "Forscher konnten das Objekt schnell identifizieren, weil Euclid auch in der Lage ist, neue Kometen zu erkennen, selbst wenn diese noch relativ weit von der Sonne entfernt sind. Dies ist ein wichtiger Schritt, da es zukünftig helfen könnte, Ziele für die kommende Comet Interceptor Mission der ESA zu finden."
+      ]
+    },
+    {
+      "heading": "Wie wurde der Komet gefunden?",
+      "paragraphs": [
+        "Die Entdeckung wurde von Mikko Pöntinen, einem Doktoranden der Universität Helsinki, zusammen mit der Solar System Objects Science Working Group des Euclid Konsortiums gemacht. Pöntinen entwickelte spezielle Software, die kleine Objekte im Sonnensystem in den Teleskopbildern erkennen und verfolgen kann.",
+        "Seine Software markierte zunächst einen „Strich“ über mehrere Bilder, was auf ein schnell bewegtes Objekt hindeutete. Durch die Vorhersage seiner Position konnte er das Objekt in fünf verschiedenen Bildreihen bestätigen. Eine genauere Untersuchung zeigte zudem eine verschwommene Wolke um das Objekt, was typisch für einen aktiven Kometen ist, der Staub und Gas abgibt.",
+        "Nachdem in den Katalogen bekannter Asteroiden und Kometen keine Übereinstimmung gefunden wurde, meldete Pöntinen die Beobachtungen beim Minor Planet Center (MPC) der International Astronomical Union. Am 8. Oktober bestätigte das MPC die Entdeckung offiziell und benannte den Kometen C/2026 S1 (Euclid)."
+      ]
+    },
+    {
+      "heading": "Ein Fenster in die Frühzeit des Sonnensystems",
+      "paragraphs": [
+        "Kometen sind alte Körper aus Eis und Staub, die von der Entstehung unseres Sonnensystems vor etwa 4,6 Milliarden Jahren übrig geblieben sind. Die meisten stammen aus dem Kuipergürtel oder der Oortschen Wolke, also außerhalb der Umlaufbahnen der äußeren Planeten.",
+        "Wenn ein Komet der Sonne näherkommt, verwandelt sich sein Eis durch die steigende Temperatur direkt in Gas. Dieses austretende Gas und Staub bilden eine leuchtende, verschwommene Wolke, die sogenannte „Koma“, sowie einen langen Schweif.",
+        "Da Kometen aus unserem Sonnensystem seit ihrer Entstehung relativ unverändert geblieben sind, bewahren sie wertvolle Hinweise auf die Materialien und Umweltbedingungen, die herrschten, als die Planeten entstanden. Die Untersuchung dieser alten Objekte kann uns helfen zu verstehen, wie Wasser und die chemischen Bausteine des Lebens auf der Erde entstanden sind."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, dass selbst hochspezialisierte wissenschaftliche Instrumente unerwartete Entdeckungen machen können. Es verdeutlicht, wie wichtig es ist, alle Daten zu analysieren, selbst wenn sie nicht dem Hauptziel entsprechen. Für dich bedeutet das, dass Wissenschaft oft spannende Überraschungen bereithält, die unser Wissen erweitern.",
+  "glossary": [
+    {
+      "term": "Komet",
+      "definition": "Ein Körper aus Eis und Staub, der aus den äußeren Regionen des Sonnensystems stammt und beim Annähern an die Sonne einen Schweif bildet."
+    },
+    {
+      "term": "Koma",
+      "definition": "Die leuchtende, verschwommene Wolke um einen Kometen, die entsteht, wenn das Eis durch die Sonne verdampft."
+    },
+    {
+      "term": "ESA",
+      "definition": "Die Europäische Weltraumorganisation, die wissenschaftliche Missionen wie Euclid durchführt."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Hauptaufgabe hatte das Euclid-Teleskop ursprünglich?",
+    "options": [
+      "Die Suche nach neuen Kometen im Sonnensystem",
+      "Die detaillierte Abbildung ferner Galaxien",
+      "Die Erforschung der Atmosphäre der äußeren Planeten"
+    ],
+    "answerIndex": 1,
+    "explanation": "Euclid wurde primär gebaut, um detaillierte Bilder von weit entfernten Galaxien zu machen."
+  },
+  "discussion": [
+    "Wie würdest du die Rolle eines „Zufalls“ in der Wissenschaft bewerten? Ist eine unerwartete Entdeckung wertvoller als eine perfekt geplante?",
+    "Angesichts der riesigen Datenmengen, die moderne Teleskope sammeln: Wie kann sichergestellt werden, dass auch „uninteressante“ Daten nicht verloren gehen?"
+  ],
+  "publishedAt": "2026-11-25T11:31:08.879Z",
+  "sources": [
+    {
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+      "publisher": "ScienceDaily"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/weltraumteleskop-entdeckt-unerwartet-komet-im-sonnensystem.jpg",
+    "width": 960,
+    "height": 768,
+    "alt": "Hubble-Teleskop-Aufnahmen eines heftigen Ausbruchs des Kometen LINEAR.",
+    "credit": {
+      "title": "Comet LINEAR's Violent Outburst (2000-26-982).jpg",
+      "author": "NASA, H. Weaver and P. Feldman (Johns Hopkins University), M. A'Hearn (University of Maryland), C. Arpigny (Liege Univer",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Comet_LINEAR%27s_Violent_Outburst_(2000-26-982).jpg"
+    }
+  }
+}

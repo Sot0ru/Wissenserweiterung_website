@@ -1,0 +1,77 @@
+{
+  "id": "kernkraft-auf-dem-mond-wie-nasa-dauerhafte-mondmissionen-erm",
+  "category": "wissenschaft",
+  "title": "Kernkraft auf dem Mond: Wie NASA dauerhafte Mondmissionen ermöglichen will",
+  "teaser": "Um auf dem Mond länger zu bleiben, braucht man zuverlässige Energie. Die NASA plant, einen kleinen Kernreaktor zu entwickeln. Was steckt dahinter?",
+  "tags": [
+    "Raumfahrt",
+    "Energie",
+    "Technologie",
+    "Kernkraft",
+    "Mond"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die NASA sucht Industriepartner, um den „Lunar Reactor-1“ (LR-1) zu entwickeln, ein kleines Kernspaltkraftwerk für den Mond.",
+    "Dieser Reaktor soll 20 Kilowatt Strom liefern und so Infrastruktur wie Wohnräume und Rover mit Energie versorgen.",
+    "Im Gegensatz zu Solarzellen kann Kernenergie auch während der Mondnächte kontinuierlich Strom erzeugen."
+  ],
+  "sections": [
+    {
+      "heading": "Warum braucht man Energie auf dem Mond?",
+      "paragraphs": [
+        "Der Mensch will nicht nur kurz auf dem Mond landen, sondern dort dauerhaft leben und arbeiten. Dafür braucht es Infrastruktur: Wohnräume, Kommunikationssysteme und Roboter. Diese Dinge benötigen konstant Strom.",
+        "Die Solarenergie, also Energie aus Sonnenlicht, ist zwar einfach, aber sie hat eine große Schwäche: Sie funktioniert nur, solange die Sonne scheint. Auf dem Mond gibt es lange Perioden ohne Sonnenlicht, sogenannte Mondnächte, die etwa zwei Wochen dauern.",
+        "Hier kommt die Kernenergie ins Spiel. Die NASA plant die Entwicklung des „Lunar Reactor-1“ (LR-1). Das ist ein kleines Kernspaltkraftwerk, das kontinuierlich Strom erzeugen kann, egal ob Sonne scheint oder nicht."
+      ]
+    },
+    {
+      "heading": "Was macht der Mond-Reaktor?",
+      "paragraphs": [
+        "Der LR-1 soll eine Leistung von 20 Kilowatt erbringen. Das ist genug Strom, um ungefähr 16 durchschnittliche US-Haushalte auf der Erde zu versorgen. Diese Energie soll die zukünftige Mondbasis mit Strom versorgen.",
+        "Die NASA strebt an, bis zum Jahr 2030 ein startbereites System zu haben und es danach mindestens fünf Jahre lang auf dem Mond zu betreiben. Die Ausschreibung, die die NASA gestartet hat, berücksichtigt dabei strenge Sicherheitsstandards des Energieministeriums (DOE).",
+        "Die Kernkraft wird für die Raumfahrt immer wichtiger, weil sie zuverlässig ist. Auch für zukünftige Missionen zum Mars ist diese Technologie wichtig, da dort Staubstürme das Sonnenlicht monatelang blockieren können."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie Ingenieure und Wissenschaftler Probleme lösen, wenn sie an extreme Orte wie den Mond denken. Es geht darum, wie wir die nächste Generation von Raumfahrt und langfristigen menschlichen Präsenzen im Weltall ermöglichen.",
+  "glossary": [
+    {
+      "term": "Kernspaltkraftwerk",
+      "definition": "Ein Kraftwerk, das Energie durch kontrollierte Kernspaltung von Atommaterial erzeugt."
+    },
+    {
+      "term": "Kilowatt",
+      "definition": "Eine Maßeinheit für Leistung, also wie viel Energie pro Sekunde genutzt wird."
+    },
+    {
+      "term": "Lunar Reactor-1 (LR-1)",
+      "definition": "Der Name des kleinen Kernreaktors, den die NASA für den Einsatz auf dem Mond konzipiert."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist der Hauptvorteil eines Kernreaktors im Vergleich zur Solarenergie auf dem Mond?",
+    "options": [
+      "Er kann kontinuierlich Strom erzeugen, auch während der Mondnächte.",
+      "Er ist leichter als jede andere Technologie.",
+      "Er benötigt weniger Wartung als die Rover."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Kernkraft kann unabhängig von Sonnenlicht arbeiten, was in den langen Mondnächten entscheidend ist."
+  },
+  "discussion": [
+    "Welche ethischen oder sicherheitstechnischen Herausforderungen ergeben sich aus dem Einsatz von Kerntechnologie außerhalb der Erde?",
+    "Wie müsste sich die internationale Zusammenarbeit ändern, um solch große, risikobehaftete Projekte wie eine permanente Mondbasis zu finanzieren und zu steuern?"
+  ],
+  "publishedAt": "2026-11-25T11:47:54.531Z",
+  "sources": [
+    {
+      "title": "NASA sucht Partner für Entwicklung eines Kernreaktors für den Mond",
+      "url": "https://www.raumfahrer.net/nasa-sucht-partner-fuer-entwicklung-eines-kernreaktors-fuer-den-mond/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

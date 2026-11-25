@@ -1,0 +1,95 @@
+{
+  "id": "was-ist-ein-supermond-die-wissenschaft-hinter-der-mondnaehe",
+  "category": "astronomie",
+  "title": "Was ist ein Supermond? Die Wissenschaft hinter der Mondnähe",
+  "teaser": "Der Mond erscheint manchmal besonders groß und nah. Aber was bedeutet das wissenschaftlich wirklich? Wir klären den Unterschied zwischen optischer Täuschung und Astronomie.",
+  "tags": [
+    "Himmelskörper",
+    "Orbitalmechanik",
+    "Mond",
+    "Phänomene"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Ein Supermond ist kein offizieller astronomischer Fachbegriff, sondern beschreibt einen Vollmond oder Neumond, der besonders nahe an der Erde ist.",
+    "Diese Nähe führt dazu, dass der Mond scheinbar größer und heller erscheint als ein durchschnittlicher Vollmond.",
+    "Die Häufung von Supermonden hängt damit zusammen, dass die Zeit zwischen Mondphasen (ca. 29,53 Tage) nur geringfügig länger ist als die Zeit für eine Erdumlaufbahn des Mondes (ca. 27,55 Tage)."
+  ],
+  "sections": [
+    {
+      "heading": "Nähe versus Sichtbarkeit: Was macht einen Mond „super“?",
+      "paragraphs": [
+        "Wenn der Mond besonders nah an uns ist, nennen wir ihn manchmal Supermond. Aber Achtung: Dieser Begriff ist wissenschaftlich gesehen eher ein populärer Ausdruck und kein offizieller Fachbegriff. Was wirklich zählt, ist der Abstand zwischen Erde und Mond.",
+        "Wenn der Mond in seiner größten Erdnähe einen Vollmond erreicht, ist er zum Beispiel rund 12 Prozent näher als im Durchschnitt. Diese Nähe lässt die Mondscheibe im scheinbaren Durchmesser tatsächlich größer erscheinen. Ein weit entfernter Mond misst etwa 29,5 Bogenminuten, während ein Supermond diese Zahl auf 33,1 Bogenminuten erhöhen kann.",
+        "Es ist wichtig zu unterscheiden: Die scheinbare Größe, die du siehst, kann auch durch die Position am Horizont verfälscht werden. Ein Mond, der am frühen Abend nahe am Horizont steht, wirkt durch eine optische Täuschung oft riesig, auch wenn er nicht zwangsläufig ein Supermond ist."
+      ]
+    },
+    {
+      "heading": "Die Definitionen: Warum gibt es so viele Supermonde?",
+      "paragraphs": [
+        "Da es keine einzige wissenschaftliche Definition gibt, variieren die Kriterien. Ursprünglich führte Richard Nolle 1979 eine Definition ein: Ein Supermond sei ein Vollmond oder Neumond, der entweder seine größte Nähe zur Erde erreicht oder sich innerhalb von 90 Prozent dieser maximalen Nähe befindet.",
+        "Andere definieren es anders, zum Beispiel als jeden Vollmond, der maximal 360.000 Kilometer von der Erde entfernt ist. Je nach Definition können dadurch jedes Jahr drei oder vier Supermonde entstehen.",
+        "Die Häufung dieser Ereignisse ist physikalisch erklärbar. Der Mond benötigt, um von einem Vollmond zum nächsten zu gelangen, etwa 29,53 Tage. Die Zeit, die er für eine vollständige Erdumlaufbahn benötigt, beträgt nur 27,55 Tage. Dieser geringe Unterschied von knapp zwei Tagen sorgt dafür, dass die Mondphasen sehr eng beieinander liegen und es oft zu mehreren Supermond-Ereignissen in kurzer Zeit kommt."
+      ]
+    },
+    {
+      "heading": "Mehr als nur Größe: Was bedeutet die Nähe für uns?",
+      "paragraphs": [
+        "Die Nähe macht den Mond nicht nur optisch größer, sondern auch heller. Ähnlich wie eine Lampe, die näherkommt, wirkt sie heller. Außerdem kann ein besonders naher Vollmond an Küsten zu stärkeren Gezeiten führen.",
+        "Es ist jedoch ein wichtiger Irrtum, den man vermeiden sollte: Supermonde lösen weder Erdbeben noch Vulkanausbrüche aus. Die Gravitationskräfte des Mondes sind zwar bedeutend, aber sie sind nicht stark genug, um solche geologischen Ereignisse auszulösen."
+      ]
+    }
+  ],
+  "whyItMatters": "Als Mensch sind wir fasziniert von Himmelskörpern. Das Verständnis, wie Mondphasen und seine Umlaufbahn funktionieren, hilft dir, diese beeindruckenden Ereignisse nicht nur zu beobachten, sondern auch wissenschaftlich einzuordnen.",
+  "glossary": [
+    {
+      "term": "Vollmond",
+      "definition": "Die Phase des Mondes, bei der die von der Sonne beleuchtete Seite vollständig von der Erde aus sichtbar ist."
+    },
+    {
+      "term": "Bogenminute",
+      "definition": "Eine kleine Maßeinheit im Winkel, die verwendet wird, um die Größe von Himmelskörpern zu beschreiben."
+    },
+    {
+      "term": "Elliptische Bahn",
+      "definition": "Die Umlaufbahn des Mondes um die Erde ist nicht perfekt rund, sondern leicht oval (elliptisch), was zu Abständen mit unterschiedlicher Entfernung führt."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist die Hauptursache dafür, dass ein Mond, der nahe an der Erde ist, größer erscheint?",
+    "options": [
+      "Die Mondscheibe wird durch die Schwerkraft der Erde vergrößert.",
+      "Der Mond strahlt bei geringer Entfernung mehr Licht ab.",
+      "Die Nähe zur Erde vergrößert den scheinbaren Durchmesser des Mondes."
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Nähe zur Erde vergrößert den scheinbaren Durchmesser des Mondes, was einen Unterschied von etwa 12 Prozent ausmachen kann."
+  },
+  "discussion": [
+    "Wie beeinflusst das Wissen über astronomische Phänomene unsere Wahrnehmung der Natur und unseres Platzes im Universum?",
+    "Welche Rolle spielt die Unterscheidung zwischen wissenschaftlich gesicherten Fakten und populärwissenschaftlichen Begriffen in der modernen Medienlandschaft?"
+  ],
+  "publishedAt": "2026-11-25T11:37:27.444Z",
+  "sources": [
+    {
+      "title": "Drei Supermonde in Folge: Was macht einen Mond super?",
+      "url": "https://www.tagesschau.de/wissen/weltraum/drei-supermonde-hintereinander-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/was-ist-ein-supermond-die-wissenschaft-hinter-der-mondnaehe.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Supermond steigt über dem Atlantik in Cocoa Beach, Florida, im Juli 2023.",
+    "credit": {
+      "title": "Supermoon in Cocoa Beach.jpg",
+      "author": "Mitch199811",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Supermoon_in_Cocoa_Beach.jpg"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "devisen-in-der-ddr-wie-die-knappe-wirtschaft-geld-beschaffte",
+  "category": "geschichte",
+  "title": "Devisen in der DDR: Wie die knappe Wirtschaft Geld beschaffte",
+  "teaser": "Die DDR war ökonomisch oft unter Druck. Wir erklären, wie Devisen – also Fremdwährungen – in der Planwirtschaft wichtig waren und welche Wege zur Geldbeschaffung genutzt wurden.",
+  "tags": [
+    "Wirtschaft",
+    "Ostdeutschland",
+    "Planwirtschaft",
+    "Politik"
+  ],
+  "readingMinutes": 3,
+  "tldr": [
+    "Die DDR litt unter chronischer Geldknappheit und benötigte ständig Devisen, also Fremdwährungen.",
+    "Ein Weg zur Geldbeschaffung waren die Intershops, wo Bürger mit West-Marken bezahlen konnten.",
+    "Auch andere Quellen, wie der Häftlingsfreikauf, wurden genutzt, um dringend benötigte Devisen zu erhalten."
+  ],
+  "sections": [
+    {
+      "heading": "Warum Devisen in der DDR so wichtig waren",
+      "paragraphs": [
+        "Stell dir vor, du hast ein sehr gut organisiertes System, aber dein Land hat kaum Zugang zu den Währungen anderer Länder. Genau diese Situation beschreibt die DDR in Bezug auf Devisen. Devisen sind einfach Fremdwährungen – also Geld aus anderen Ländern, zum Beispiel US-Dollar oder D-Mark.",
+        "Die DDR war ökonomisch sehr eingeschränkt und litt oft unter Geldknappheit. Um Waren aus dem Ausland zu kaufen, Technologie zu importieren oder andere internationale Geschäfte zu tätigen, brauchte sie diese Fremdwährungen. Ohne Devisen konnte die Wirtschaft nicht richtig funktionieren."
+      ]
+    },
+    {
+      "heading": "Die Rolle der Intershops und anderer Quellen",
+      "paragraphs": [
+        "Ein bekanntes System zur Beschaffung von Devisen waren die sogenannten Intershops. Diese Geschäfte entstanden unter anderem am Bahnhof Friedrichstraße in Ost-Berlin. Hier konnten Bürger Produkte kaufen und dafür mit West-Marken bezahlen.",
+        "Die Intershops waren ein direkter Weg, um Fremdwährungen in die Staatskasse zu bringen. Die DDR-Bürger durften ab dem 16. April 1979 nur noch mit speziellen Forumschecks in diesen Läden bezahlen. Diese Mechanismen waren Teil des komplexen Systems, das die knappe Wirtschaft stützen sollte."
+      ]
+    },
+    {
+      "heading": "Mehr als nur Geschäfte: Andere Wege zur Geldbeschaffung",
+      "paragraphs": [
+        "Die Beschaffung von Devisen beschränkte sich nicht nur auf den Handel. Auch der Häftlingsfreikauf war eine lukrative Möglichkeit für die DDR, an Fremdwährungen zu kommen. Dies zeigt, wie stark die Notwendigkeit an Devisen die politischen und sozialen Strukturen beeinflusste.",
+        "Diese wirtschaftlichen Zwänge führten zu einer ständigen Suche nach Lösungen, um die knappen Ressourcen zu sichern. Die Geschichte der DDR ist eng mit diesen ökonomischen Herausforderungen verknüpft."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis für solche Wirtschaftssysteme hilft dir zu sehen, wie sich politische Entscheidungen direkt auf den Alltag und die Versorgung der Menschen auswirken. Es zeigt auch, wie sich Handelsbeziehungen zwischen Ländern auf die innere Stabilität einer Nation auswirken können.",
+  "glossary": [
+    {
+      "term": "Devisen",
+      "definition": "Fremdwährungen, also Geld, das nicht die eigene Landeswährung ist (z. B. Euro, Dollar)."
+    },
+    {
+      "term": "Planwirtschaft",
+      "definition": "Ein Wirtschaftssystem, in dem der Staat zentral entscheidet, was produziert, wie viel und für wen."
+    },
+    {
+      "term": "Intershops",
+      "definition": "Spezielle Geschäfte in der DDR, in denen Waren mit West-Marken bezahlt werden konnten, um Devisen zu generieren."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Währung wurde in den Intershops für Zahlungen verwendet?",
+    "options": [
+      "Ostmark",
+      "D-Mark",
+      "Forumschecks"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut der Quelle wurde in den Intershops mit D-Mark bezahlt."
+  },
+  "discussion": [
+    "Wie beeinflusst ein zentral gesteuertes Wirtschaftssystem (Planwirtschaft) die individuelle Freiheit und Konsummöglichkeiten der Bürger?",
+    "Welche Rolle spielen internationale Handelsbeziehungen für die Stabilität einer Nation, und welche Risiken entstehen durch eine starke Abhängigkeit von wenigen Handelspartnern?"
+  ],
+  "publishedAt": "2026-11-25T12:19:02.266Z",
+  "sources": [
+    {
+      "title": "Devisen",
+      "url": "https://www.mdr.de/geschichte/ddr/wirtschaft/devisen",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
