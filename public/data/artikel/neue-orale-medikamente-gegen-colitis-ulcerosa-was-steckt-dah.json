@@ -1,0 +1,90 @@
+{
+  "id": "neue-orale-medikamente-gegen-colitis-ulcerosa-was-steckt-dah",
+  "category": "medizin",
+  "title": "Neue orale Medikamente gegen Colitis ulcerosa: Was steckt dahinter?",
+  "teaser": "Colitis ulcerosa ist eine chronische Darmerkrankung. Forschende haben einen neuen Weg gefunden, diese Krankheit mit einem oral verabreichten Medikament zu behandeln.",
+  "tags": [
+    "Darmgesundheit",
+    "Entzündung",
+    "Medikamente",
+    "Chronische Erkrankungen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Ein neuer, oral verabreichter Wirkstoff namens Icotrokinra wird gegen mittelschwere bis schwere Colitis ulcerosa getestet.",
+    "Das Medikament blockiert gezielt den Interleukin-23-Rezeptor, einen wichtigen Faktor bei chronischen Entzündungen im Darm.",
+    "In der Phase-2b-Studie ANTHEM UC zeigte Icotrokinra signifikant bessere klinische Ansprechen als das Placebo."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist Colitis ulcerosa und wie wird sie bekämpft?",
+      "paragraphs": [
+        "Colitis ulcerosa ist eine chronisch-entzündliche Darmerkrankung. Das bedeutet, dass die Darmschleimhaut dauerhaft entzündet ist. Die Erkrankung kann mittelschwer bis schwer verlaufen und erfordert eine langfristige Behandlung.",
+        "Ein wichtiger Ansatz bei diesen Entzündungen ist die Hemmung bestimmter Signalwege im Körper. Einer dieser Wege ist der Interleukin-23-Signalweg. Um diesen zu blockieren, gibt es bereits Medikamente, die aber meistens durch eine Infusion (intravenös) oder unter die Haut (subkutan) verabreicht werden müssen."
+      ]
+    },
+    {
+      "heading": "Ein neuer Weg: orale Blockade statt Spritze",
+      "paragraphs": [
+        "Forscher haben einen neuen Ansatz entwickelt, der die Behandlung einfacher gestalten könnte. Dabei handelt es sich um den Wirkstoff Icotrokinra. Dieser Stoff ist ein Peptid, das gezielt den Interleukin-23-Rezeptor blockiert, aber das Besondere ist: Er kann oral eingenommen werden, also als Tablette.",
+        "Die Wirksamkeit wurde in der randomisierten Phase-2b-Studie ANTHEM UC untersucht. In dieser Studie konnten unter allen getesteten Dosierungen signifikant mehr Teilnehmer ein klinisches Ansprechen erreichen, wenn sie Icotrokinra nahmen, verglichen mit denen, die nur ein Placebo (eine inaktive Substanz) erhielten."
+      ]
+    }
+  ],
+  "whyItMatters": "Chronisch-entzündliche Darmerkrankungen können die Lebensqualität stark einschränken. Neue, einfach zu dosierende Medikamente bedeuten potenziell mehr Komfort und eine bessere Behandlungschance für Betroffene.",
+  "glossary": [
+    {
+      "term": "Colitis ulcerosa",
+      "definition": "Eine chronisch-entzündliche Darmerkrankung, bei der die Darmschleimhaut dauerhaft entzündet ist."
+    },
+    {
+      "term": "Interleukin-23-Rezeptorblocker",
+      "definition": "Ein Medikament, das einen spezifischen Signalweg (Interleukin-23) im Körper blockiert, um Entzündungen zu hemmen."
+    },
+    {
+      "term": "Oral verabreichbar",
+      "definition": "Das Medikament kann durch den Mund eingenommen werden, meist als Tablette, anstatt per Spritze."
+    },
+    {
+      "term": "Phase-2b-Studie",
+      "definition": "Eine klinische Studienphase, in der die Wirksamkeit und Dosierung eines Medikaments an einer größeren Gruppe von Patienten getestet wird."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist der Hauptvorteil des Wirkstoffs Icotrokinra im Vergleich zu bestehenden Therapien?",
+    "options": [
+      "Er blockiert alle Arten von Entzündungen im Körper.",
+      "Er kann oral eingenommen werden und blockiert den Interleukin-23-Rezeptor.",
+      "Er ist ein monoklonaler Antikörper, der direkt in die Blutbahn gelangt."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Quelle betont, dass Icotrokinra ein oral verfügbares Peptid ist, das gezielt den Interleukin-23-Rezeptor blockiert."
+  },
+  "discussion": [
+    "Welche Rolle spielt die orale Verfügbarkeit eines Medikaments bei der langfristigen Behandlung chronischer Erkrankungen?",
+    "Wie beeinflussen Fortschritte in der zielgerichteten Therapie (wie die Blockade spezifischer Rezeptoren) die medizinische Forschung im Allgemeinen?"
+  ],
+  "publishedAt": "2026-11-26T10:55:05.469Z",
+  "sources": [
+    {
+      "title": "Colitis ulcerosa: Oraler IL-23-Rezeptorblocker zeigt Wirksamkeit in Phase-2b-Studie",
+      "url": "https://www.aerzteblatt.de/news/colitis-ulcerosa-oraler-il-23-rezeptorblocker-zeigt-wirksamkeit-in-phase-2b-studie-5bf6ff95-9cd8-4881-9954-666bdfa2db3b",
+      "publisher": "Deutsches Ärzteblatt"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/neue-orale-medikamente-gegen-colitis-ulcerosa-was-steckt-dah.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Makroskopische Aufnahme eines Kolons mit schwerer Colitis ulcerosa, zeigt entzündete Schleimhaut.",
+    "credit": {
+      "title": "Severe ulcerative colitis.jpg",
+      "author": "Mikael Häggström , M.D. Author info - Reusing images - Conflicts of interest: None Mikael Häggström , M.D. Consent note ",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Severe_ulcerative_colitis.jpg"
+    }
+  }
+}

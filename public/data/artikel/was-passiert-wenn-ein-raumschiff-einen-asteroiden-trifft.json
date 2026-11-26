@@ -1,0 +1,81 @@
+{
+  "id": "was-passiert-wenn-ein-raumschiff-einen-asteroiden-trifft",
+  "category": "astronomie",
+  "title": "Was passiert, wenn ein Raumschiff einen Asteroiden trifft?",
+  "teaser": "Wissenschaftler beobachteten, wie ein Asteroid durch einen gezielten Einschlag verändert wurde. Was enthüllte die neue Mission Hera genau über diesen Vorgang?",
+  "tags": [
+    "Weltraum",
+    "Planetenverteidigung",
+    "Asteroid",
+    "ESA",
+    "Raumfahrt"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Hera-Mission der ESA untersuchte einen Asteroiden namens Dimorphos, der durch einen gezielten Einschlag der NASA-Sonde DART verändert wurde.",
+    "Die Beobachtungen zeigten, dass die Seite des Asteroiden, die getroffen wurde, zu einem Krater von Stadiongröße abgeflacht wurde.",
+    "Zusätzlich entdeckte Hera Hunderte kleiner Felsbrocken, die das Doppelasteroidensystem umkreisen."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Test zur Planetenverteidigung",
+      "paragraphs": [
+        "Die Menschheit testet gerade, wie man vor großen Asteroiden schützen kann, die auf die Erde zusteuern könnten. Dies geschieht nicht nur durch theoretische Berechnungen. Es gibt echte Experimente im Weltraum.",
+        "Ein wichtiges Projekt dafür ist die Ablenkung von Asteroiden. Die NASA führte hierfür 2022 eine Mission durch: Die Sonde DART traf gezielt den kleinen Asteroiden Dimorphos. Ziel war es, seine Umlaufbahn zu verändern und ihn so von einer möglichen Kollision mit der Erde fernzuhalten.",
+        "Doch was genau mit Dimorphos passierte, blieb lange Zeit unklar. Er wurde zu einem Doppelasteroidensystem, bestehend aus dem größeren Körper Didymos und dem kleineren Dimorphos. Die Wissenschaftler wollten wissen, ob der Einschlag nur die Bahn veränderte oder auch die Oberfläche beschädigte."
+      ]
+    },
+    {
+      "heading": "Hera enthüllt die Krater-Überraschung",
+      "paragraphs": [
+        "Hier kommt die Hera-Mission ins Spiel. Diese europäische Sonde der ESA wurde entsandt, um Dimorphos und Didymos genauer zu untersuchen. Hera lieferte die Antwort auf die große Frage: Der Einschlag hat tatsächlich eine massive Veränderung bewirkt.",
+        "Die wissenschaftlichen Ergebnisse zeigen, dass die auf die Sonde DART getroffene Seite von Dimorphos zu einem Krater abgeflacht wurde, dessen Größe der eines Sportstadions entspricht. Dieser Krater erstreckt sich über die gesamte Breite des Asteroiden.",
+        "Hera bestätigte auch, dass der Asteroid durch diesen Einschlag chaotisch in seiner Umlaufbahn taumelt. Darüber hinaus entdeckte die Mission eine weitere große Überraschung: Hunderte von Felsbrocken, die nur wenige Meter groß sind, umkreisen das gesamte Doppelasteroidensystem."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Experiment zeigt, dass wir Methoden haben, um die Bahn von potenziell gefährlichen Asteroiden zu beeinflussen. Für uns bedeutet das, dass die Wissenschaft aktiv daran arbeitet, unsere Erde langfristig zu schützen.",
+  "glossary": [
+    {
+      "term": "Asteroid",
+      "definition": "Ein kleiner Himmelskörper, der hauptsächlich zwischen Mars und Jupiter kreist und oft als Teil eines Asteroidengürtels vorkommt."
+    },
+    {
+      "term": "ESA",
+      "definition": "Die European Space Agency; die Weltraumagentur Europas, die wissenschaftliche Forschung im Weltall durchführt."
+    },
+    {
+      "term": "Umlaufbahn",
+      "definition": "Der geschlossene Weg, den ein Himmelskörper (wie ein Planet oder Asteroid) um einen größeren Körper (wie die Sonne) beschreibt."
+    },
+    {
+      "term": "DART",
+      "definition": "Die Sonde der NASA, die gezielt auf Dimorphos prallte, um dessen Umlaufbahn zu verändern."
+    }
+  ],
+  "quiz": {
+    "question": "Was enthüllte die Hera-Mission bezüglich der Oberfläche des Asteroiden Dimorphos nach dem Einschlag?",
+    "options": [
+      "Die Seite, die getroffen wurde, wurde zu einem Krater von Stadiongröße abgeflacht.",
+      "Es wurden nur kleine Staubpartikel gefunden, die die Oberfläche bedeckten.",
+      "Die Oberfläche blieb unverändert, aber die Umlaufbahn änderte sich stark."
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Hera-Mission zeigte, dass die von DART getroffene Seite zu einem Einschlagkrater von der Größe eines Sportstadions abgeflacht wurde."
+  },
+  "discussion": [
+    "Wie wichtig ist es, dass internationale Organisationen wie die NASA und die ESA zusammenarbeiten, um solche großen wissenschaftlichen Projekte zu realisieren?",
+    "Wenn wir die Fähigkeit haben, Asteroiden abzulenken, welche ethischen Fragen stellen sich dann bezüglich der Veränderung natürlicher Himmelskörper?"
+  ],
+  "publishedAt": "2026-11-26T11:22:07.404Z",
+  "sources": [
+    {
+      "title": "Hera enthüllt einen stadiongroßen Asteroidenkrater verursacht durch den Raumfahrzeugeinschlag",
+      "url": "https://www.raumfahrer.net/hera-enthuellt-einen-stadiongrossen-asteroidenkrater-verursacht-durch-den-raumfahrzeugeinschlag/",
+      "publisher": "Raumfahrer.net"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

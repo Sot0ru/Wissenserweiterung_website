@@ -1,0 +1,81 @@
+{
+  "id": "asteroiden-abwehr-was-passiert-wenn-wir-einen-weltraum-gigan",
+  "category": "wissenschaft",
+  "title": "Asteroiden-Abwehr: Was passiert, wenn wir einen Weltraum-Giganten ablenken wollen?",
+  "teaser": "Wenn ein Asteroid auf die Erde zusteuert, reicht einfaches Schießen nicht aus. Die Wissenschaft lernt gerade an einem Testobjekt, wie man solche kosmischen Bedrohungen wirklich abwehren kann.",
+  "tags": [
+    "Weltall",
+    "Planeten",
+    "Raumfahrt",
+    "Kosmos",
+    "Geologie"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die NASA hat mit der Sonde DART einen Asteroiden, Dimorphos, getroffen, um zu testen, ob man seine Flugbahn verändern kann.",
+    "Die ESA-Sonde HERA untersucht nun die Auswirkungen dieses Einschlags und zeigt, dass die Ergebnisse komplex sind.",
+    "Forscher lernen, dass die Abwehr von Asteroiden viel komplizierter ist, als man zunächst annahm, und das Wissen über die Asteroidenstruktur ist entscheidend."
+  ],
+  "sections": [
+    {
+      "heading": "Der Test: Was passiert beim Einschlag?",
+      "paragraphs": [
+        "Stell dir vor, ein Asteroid nähert sich der Erde. Wie verhindern wir einen Einschlag? Eine Möglichkeit ist, den Asteroiden durch einen gezielten Einschlag abzulenken. Die NASA hat diesen Test mit der Sonde DART durchgeführt. DART schoss mit hoher Geschwindigkeit auf den Asteroiden Dimorphos, der Teil eines Doppelasteroidensystems mit seinem Begleiter Didymos ist.",
+        "Das Ziel war, die Umlaufbahn von Dimorphos so zu verändern, dass er an der Erde vorbeifliegt, anstatt auf sie zuzukommen. Die Ergebnisse zeigen, dass ein Einschlag die Flugbahn tatsächlich verändert. Vor dem Einschlag brauchte Dimorphos knapp zwölf Stunden, um Didymos einmal zu umkreisen; nach dem Einschlag waren es weniger als elfeinhalb Stunden. Das ist eine deutliche Veränderung."
+      ]
+    },
+    {
+      "heading": "Die Überraschung: Was HERA entdeckt",
+      "paragraphs": [
+        "Um die genauen Folgen des Einschlags zu verstehen, ist die ESA-Sonde HERA zu Dimorphos geflogen. Die ersten Bilder haben die Forscher überrascht. Man hatte einen kleinen Krater erwartet, aber der Einschlag von DART scheint eine ganze Seite des Asteroiden wie plattgedrückt zu haben. Außerdem hat sich nicht nur die Umlaufbahn, sondern auch die Eigendrehung des Asteroiden verändert. Vorher zeigte er immer dieselbe Seite zu seinem Begleiter, nun taumelt er chaotisch.",
+        "Die Wissenschaftler mussten auch eine unerwartete Menge an Brocken entdecken, die um den größeren Asteroiden kreisen. Diese waren in der Missionsplanung nicht berücksichtigt. Zudem ist bekannt, dass Asteroiden oft keine soliden Gesteinsbrocken sind, sondern sogenannte Geröllhaufen – lose Haufen kleinerer Steine, die nur durch minimale Schwerkraft zusammengehalten werden. Die Art, wie DART auf einen solchen Haufen traf, ist noch nicht vollständig geklärt."
+      ]
+    },
+    {
+      "heading": "Warum das Wissen so wichtig ist",
+      "paragraphs": [
+        "Experten warnen davor, dass das gezielte Schießen nicht immer einfach ist. Wie ein Vertreter der ESA sagt: „Das Schießen ist einfach, aber wenn man einmal falsch schießt, kann man die Lage verschlimmern.“ Die aktuelle Forschung mit HERA soll genau klären, wie der innere Aufbau des Asteroiden auf den Einschlag reagiert. Nur mit diesen detaillierten Informationen können zukünftige Abwehrmissionen präzise geplant werden."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es direkt die langfristige Sicherheit unseres Planeten betrifft. Wir lernen hier, wie wir uns gegen natürliche Bedrohungen aus dem Weltall verteidigen können. Es zeigt auch, wie Wissenschaftler komplexe Probleme Schritt für Schritt angehen und dabei oft neue, unerwartete Erkenntnisse gewinnen.",
+  "glossary": [
+    {
+      "term": "Asteroid",
+      "definition": "Ein relativ kleiner Himmelskörper, der hauptsächlich im Sonnensystem kreist und oft aus Gesteinsbrocken besteht."
+    },
+    {
+      "term": "Umlaufbahn",
+      "definition": "Die Bahn, die ein Himmelskörper wie ein Planet oder Asteroid um einen größeren Körper (wie die Sonne) zieht."
+    },
+    {
+      "term": "Geröllhaufen (Rubble Pile)",
+      "definition": "Die Bezeichnung für Asteroiden, die nicht als massiver Block, sondern als lose Haufen kleinerer Gesteinsbrocken zusammengehalten sind."
+    }
+  ],
+  "quiz": {
+    "question": "Was war das Hauptziel der NASA-Sonde DART beim Einschlag auf Dimorphos?",
+    "options": [
+      "Die innere Struktur des Asteroiden zu kartieren.",
+      "Die Flugbahn des Asteroiden zu verändern, um einen Einschlag auf die Erde zu verhindern.",
+      "Die Eigendrehung des Asteroiden zu beschleunigen."
+    ],
+    "answerIndex": 1,
+    "explanation": "Das Ziel war, die Flugbahn zu verändern, damit der Asteroid an der Erde vorbeifliegt."
+  },
+  "discussion": [
+    "Welche ethischen Überlegungen müssen wir treffen, wenn wir versuchen, natürliche Himmelskörper aktiv zu verändern?",
+    "Wie kann die internationale Zusammenarbeit zwischen Raumfahrtagenturen (wie ESA und JAXA) helfen, globale Risiken wie Asteroideneinschläge zu managen?"
+  ],
+  "publishedAt": "2026-11-26T11:11:08.280Z",
+  "sources": [
+    {
+      "title": "Asteroiden-Abwehr - einfach schießen und hoffen reicht nicht",
+      "url": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

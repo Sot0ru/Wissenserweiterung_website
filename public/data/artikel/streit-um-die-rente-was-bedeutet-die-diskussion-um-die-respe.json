@@ -1,0 +1,80 @@
+{
+  "id": "streit-um-die-rente-was-bedeutet-die-diskussion-um-die-respe",
+  "category": "politik",
+  "title": "Streit um die Rente: Was bedeutet die Diskussion um die „Respekt-Rente“?",
+  "teaser": "Die deutsche Rentenpolitik ist im Aufwind. Ein neuer Vorschlag der Union stößt auf Skepsis bei der SPD. Wir erklären, worum es in diesem Konflikt geht.",
+  "tags": [
+    "Sozialsystem",
+    "Wirtschaft",
+    "Alterssicherung"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Es geht um die Reform der Altersvorsorge, insbesondere um die Frührente, die aktuell als „Rente mit 63“ bekannt ist.",
+    "Die Union hat einen Kompromissvorschlag zur „Respekt-Rente“ vorgelegt, der die Abschaffung der abschlagsfreien Frührente nach 45 Jahren vorsieht.",
+    "Die SPD und Gewerkschaften lehnen diesen Vorschlag ab, da sie befürchten, dass er viele Durchschnittsverdiener schlechter stellen würde."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist eigentlich die „Rente mit 63“?",
+      "paragraphs": [
+        "Bevor wir uns in die politischen Debatten stürzen, klären wir kurz den Hintergrund. Die sogenannte „Rente mit 63“ ist ein Mechanismus, der es bestimmten Versicherten erlaubt, früher in Rente zu gehen, ohne Abschläge zu zahlen. Die Abschaffung dieser Regelung ist ein zentraler Punkt in der aktuellen Rentenreform-Diskussion.",
+        "Die Diskussion wird kompliziert, weil das deutsche Rentensystem vor großen Herausforderungen steht. Die Rentenkommission, die Empfehlungen zur Reform erarbeitete, hat ursprünglich die Abschaffung dieser Frührente empfohlen. Dies ist ein entscheidender Baustein in der geplanten Umstrukturierung der Altersvorsorge."
+      ]
+    },
+    {
+      "heading": "Der neue Vorschlag: Die „Respekt-Rente“",
+      "paragraphs": [
+        "Die Union hat daraufhin einen eigenen Kompromissvorschlag erarbeitet, den sie als „Respekt-Rente“ bezeichnet. Dieser Vorschlag sieht vor, dass Menschen, die im Durchschnitt maximal 70 Prozent des Durchschnittseinkommens verdient haben, nach 45 Jahren weiterhin ohne Abschläge vorzeitig in Rente gehen können.",
+        "Für diejenigen, die mehr verdienen, würde der Vorschlag bedeuten, dass sie bei einer Frühverrentung Abschläge hinnehmen müssen. Diese Abschläge würden aber nur für Rentenpunkte aus Einkommen gelten, das diese 70-Prozent-Grenze übersteigt. Das Ziel der Union ist es, die Frühverrentung zielgerichteter zu gestalten."
+      ]
+    },
+    {
+      "heading": "Die politische Reaktion: Ein deutlicher Konflikt",
+      "paragraphs": [
+        "Die Reaktion der SPD und der Gewerkschaften auf diesen Vorschlag ist verhalten und kritisch. Vertreterinnen der SPD, wie Annika Klose, finden die gesetzten Grenzen zu niedrig. Die stellvertretende Fraktionsvorsitzende Wiebke Esdar äußerte sich zurückhaltend, da der Vorschlag laut ihrer Aussage „90 Prozent derjenigen schlechter stellen würde, die heute die Rente nach 45 Jahren abschlagsfrei bekommen“.",
+        "Auch der Deutsche Gewerkschaftsbund (DGB) kritisiert die „Respekt-Rente“ scharf. Ein Vorstandsmitglied des DGB erklärte, dass dieser Vorschlag „genau null Respekt für viele Beschäftigte“ zeige, da er den Weg in die ungekürzte Rente für viele Durchschnittsverdiener dauerhaft verbauen würde. Die Linke fordert ebenfalls den Widerstand gegen diesen Kompromiss."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Altersvorsorge betrifft jeden, der irgendwann in Rente gehen möchte. Dieses Thema zeigt, wie komplex die Balance zwischen finanzieller Stabilität des Systems und der sozialen Absicherung von Menschen ist.",
+  "glossary": [
+    {
+      "term": "Abschlagsfrei",
+      "definition": "Bedeutet, dass bei der Auszahlung einer Rente keine prozentualen Kürzungen (Abschläge) vorgenommen werden."
+    },
+    {
+      "term": "Frührente",
+      "definition": "Die Möglichkeit, vor dem regulären Renteneintrittsalter in Rente zu gehen."
+    },
+    {
+      "term": "Rentenpunkte",
+      "definition": "Ein Wert, der angibt, wie viel jemand in seiner Erwerbszeit verdient hat und wie hoch seine spätere Rente sein wird."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut dem Unionsvorschlag für Menschen, die mehr als 70 Prozent des Durchschnittseinkommens verdient haben, bei Frühverrentung?",
+    "options": [
+      "Sie müssen die regulären Abschläge hinnehmen, aber nur für Einkommen über der 70-Prozent-Grenze.",
+      "Sie erhalten automatisch eine höhere Rente, als sie ohne Frühverrentung bekommen würden.",
+      "Sie können weiterhin ohne Abschläge vorzeitig in Rente gehen."
+    ],
+    "answerIndex": 0,
+    "explanation": "Der Vorschlag sieht vor, dass wer mehr verdient, bei Frühverrentung die Abschläge hinnehmen muss, aber diese gelten nur für den Teil des Einkommens, der die 70-Prozent-Grenze überschreitet."
+  },
+  "discussion": [
+    "Wie lässt sich ein sozial gerechtes System schaffen, das sowohl die finanzielle Tragfähigkeit des Rentensystems sichert als auch die Lebensleistung aller Bürger angemessen honoriert?",
+    "Wo ziehst du die Grenze zwischen staatlicher Notwendigkeit (wie der Reform) und dem Schutz individueller Lebensentwürfe (wie der Frührente)?"
+  ],
+  "publishedAt": "2026-11-26T11:43:39.743Z",
+  "sources": [
+    {
+      "title": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

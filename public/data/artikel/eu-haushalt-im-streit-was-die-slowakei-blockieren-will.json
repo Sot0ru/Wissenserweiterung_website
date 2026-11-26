@@ -1,0 +1,93 @@
+{
+  "id": "eu-haushalt-im-streit-was-die-slowakei-blockieren-will",
+  "category": "politik",
+  "title": "EU-Haushalt im Streit: Was die Slowakei blockieren will",
+  "teaser": "Die Slowakei nimmt an EU-Verhandlungen teil und stellt sich mit anderen Ländern in Konfrontation. Hier geht es um große Geldbeträge und die Unterstützung der Ukraine.",
+  "tags": [
+    "Europäische Union",
+    "Finanzen",
+    "Internationale Politik",
+    "Osteuropa"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die slowakische Regierung unter Robert Fico blockiert gemeinsam mit Polen, Ungarn und Tschechien Teile der EU-Haushaltspläne, insbesondere die Hilfe für die Ukraine.",
+    "Fico lehnt den vorgeschlagenen Haushaltsentwurf ab und fordert eine Neubewertung der Verhandlungen.",
+    "Hinter der Blockade steckt sowohl ein politischer Kampf in der Slowakei als auch der Wunsch nach mehr nationaler Souveränität."
+  ],
+  "sections": [
+    {
+      "heading": "Ein Block von Ostmitteleuropa",
+      "paragraphs": [
+        "Aktuell gibt es Spannungen in der Europäischen Union, die sich um die Haushaltspläne drehen. Die Slowakei nimmt in diesen Verhandlungen eine besonders kritische Haltung ein. Zusammen mit Polen, Ungarn und Tschechien bilden diese vier Länder einen Block, der EU-Haushaltspläne blockieren will.",
+        "Der slowakische Premierminister Robert Fico erklärte vor einem EU-Sondergipfel, dass der Haushaltsentwurf für die Jahre 2028 bis 2034 in seiner jetzigen Form für sie nicht akzeptabel sei. Er betonte, dass noch erhebliche Verhandlungen nötig seien, um eine Einigung zu erzielen."
+      ]
+    },
+    {
+      "heading": "Der Konflikt um die Ukraine-Hilfe",
+      "paragraphs": [
+        "Ein zentraler Streitpunkt ist die finanzielle Unterstützung für die Ukraine. Kanzler Friedrich Merz forderte eine gemeinsame Verpflichtung aller Mitgliedsstaaten für den Finanzbedarf der Ukraine im Jahr 2027. Wenn alle Staaten sich nicht verpflichten, drohte die Bundesregierung, die Verhandlungen zum EU-Haushalt zu stoppen.",
+        "Fico wies diese Forderung als Erpressung zurück. Er hat mit Tschechien und Ungarn durchgesetzt, dass diese drei Länder nicht an einen früheren Milliardenkredit für Kiew gebunden werden müssen. Stattdessen bot Fico an, dass die Slowakei und die anderen Länder die Ukraine bilateral unterstützen könnten."
+      ]
+    },
+    {
+      "heading": "Politik im eigenen Land spielt eine Rolle",
+      "paragraphs": [
+        "Hinter der harten Haltung von Fico steckt laut Beobachtern auch ein innenpolitisches Kalkül. Fico befindet sich in einem Wahlkampf. Sein Regierungspartner hat sich mit einem Minister zerstritten, und er verfügt aktuell nicht über eine Mehrheit im Parlament.",
+        "Das Land ist stark auf EU-Mittel angewiesen. Seit dem Beitritt 2004 erhält die Slowakei im Schnitt 1,4 Prozent ihres Bruttoinlandsprodukts pro Jahr von der EU. Viele öffentliche Investitionen werden ohne diese Gelder kaum umgesetzt. Trotz dieser Abhängigkeit kämpft Fico für eine souveräne Haltung der Slowakei."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Art und Weise, wie große internationale Organisationen wie die EU funktionieren, beeinflusst den Alltag vieler Menschen. Wenn Länder sich über große Gelder streiten, kann das langfristig Auswirkungen auf Wirtschaft und Entwicklung haben.",
+  "glossary": [
+    {
+      "term": "EU-Haushalt",
+      "definition": "Das gemeinsame Budget der Europäischen Union, das für gemeinsame Projekte, Hilfen und Verwaltungskosten verwendet wird."
+    },
+    {
+      "term": "Bruttoinlandsprodukt (BIP)",
+      "definition": "Die gesamte Wertschöpfung eines Landes in einem bestimmten Zeitraum; ein Maß für die wirtschaftliche Leistung."
+    },
+    {
+      "term": "Bilateral",
+      "definition": "Einseitig oder zwischen zwei Parteien; im Text bedeutet es, dass zwei Länder direkt miteinander handeln, ohne eine dritte Instanz einzubeziehen."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Länder bilden laut Quelle einen Block, der EU-Haushaltspläne blockieren will?",
+    "options": [
+      "Polen, Ungarn, Tschechien und Slowakei",
+      "Deutschland, Frankreich, Italien",
+      "Italien, Spanien, Griechenland"
+    ],
+    "answerIndex": 0,
+    "explanation": "Die Quelle nennt Polen, Ungarn, Tschechien und die Slowakei als diese vier Länder."
+  },
+  "discussion": [
+    "Wie kann eine internationale Organisation wie die EU ihre Entscheidungen treffen, wenn einzelne Mitgliedsstaaten starken politischen Widerstand leisten?",
+    "Inwiefern ist die Abhängigkeit von EU-Geldern für kleinere Staaten wie die Slowakei ein Vorteil oder eine Einschränkung für ihre politische Souveränität?"
+  ],
+  "publishedAt": "2026-11-26T11:38:09.600Z",
+  "sources": [
+    {
+      "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
+      "url": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/eu-haushalt-im-streit-was-die-slowakei-blockieren-will.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": "Treffen zwischen Robert Fico und Raffaele Fitto in der Slowakei.",
+    "credit": {
+      "title": "Visit of Raffaele Fitto, to Slovakia (P-068857-00-13).jpg",
+      "author": "Europäische Kommission - Audiovisueller Dienst, CE - Service audiovisuel, Alex Halada, EC - Audiovisual Service, FACTSTO",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Visit_of_Raffaele_Fitto,_to_Slovakia_(P-068857-00-13).jpg"
+    }
+  }
+}
