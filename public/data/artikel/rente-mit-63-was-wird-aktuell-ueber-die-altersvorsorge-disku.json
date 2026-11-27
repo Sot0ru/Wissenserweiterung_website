@@ -1,0 +1,74 @@
+{
+  "id": "rente-mit-63-was-wird-aktuell-ueber-die-altersvorsorge-disku",
+  "category": "politik",
+  "title": "Rente mit 63: Was wird aktuell über die Altersvorsorge diskutiert?",
+  "teaser": "Die Regelung der Rente mit 63 ist umstritten. Wir erklären, was sie ist und welche Kompromisse die Politik gerade diskutiert.",
+  "tags": [
+    "Altersvorsorge",
+    "Sozialpolitik",
+    "Rente",
+    "Wirtschaft"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die „Rente mit 63“ erlaubt es Menschen mit 45 Versicherungsjahren, ohne Rentenabschläge früher in Rente zu gehen.",
+    "Ein Expertenbericht empfahl die Streichung der Regelung, aber mit Härtefallregelungen.",
+    "Aktuell diskutieren Parteien Kompromisse, wie die „Respekt-Rente“, anstatt die Regelung komplett abzuschaffen."
+  ],
+  "sections": [
+    {
+      "heading": "Was ist die „Rente mit 63“ überhaupt?",
+      "paragraphs": [
+        "Die Regelung, die oft als „Rente mit 63“ bezeichnet wird, erlaubt es bestimmten Menschen, früher in den Ruhestand zu gehen. Die Voraussetzung dafür sind 45 Versicherungsjahre in der gesetzlichen Rentenversicherung. Das Wichtigste daran: Diese Regelung ermöglicht einen Rentenbezug ohne Abschläge. Normalerweise muss man, wenn man vor dem regulären Renteneintrittsalter in Rente geht, finanzielle Einbußen hinnehmen."
+      ]
+    },
+    {
+      "heading": "Die Debatte: Kritik und Kompromissversuche",
+      "paragraphs": [
+        "Die Kosten dieser Regelung sind hoch. Eine von der Bundesregierung eingesetzte Rentenkommission empfahl daher, die Regelung komplett zu streichen. Stattdessen schlug sie Härtefallregelungen vor: Menschen, die nach einer individuellen Gesundheitsprüfung nachweislich nicht mehr arbeiten können, sollen einen vereinfachten Zugang zur Rente bekommen.",
+        "Die politische Lage ist komplex. Ursprünglich sollte die Regierung die Empfehlungen der Kommission übernehmen. Doch die Meinungen in der Koalition aus CDU, CSU und SPD haben sich gewandelt. Während lange Zeit Abschaffung gefordert wurde, gibt es nun Signale der Kompromissbereitschaft.",
+        "Ein aktueller Vorschlag der CDU-Abgeordneten, die „Respekt-Rente“, sieht vor, dass weiterhin abschlagsfrei in Rente gehen kann, wer 45 Versicherungsjahre hat und in seinem Arbeitsleben weniger als 70 Prozent des Durchschnittseinkommens verdient hat. Experten weisen darauf hin, dass dieser Vorschlag nur einen kleinen Teil der Erwerbstätigen betreffen würde."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Altersvorsorge betrifft jeden, egal wie alt du bist. Dieses Thema zeigt, wie kompliziert es ist, ein soziales System so zu gestalten, dass es für alle funktioniert, ohne dass die Finanzen kippen.",
+  "glossary": [
+    {
+      "term": "Abschläge",
+      "definition": "Reduzierungen bei der Höhe der monatlichen Rentenzahlungen, wenn man vor dem regulären Rentenalter in Rente geht."
+    },
+    {
+      "term": "Versicherungsjahre",
+      "definition": "Zeiträume, in denen Beiträge in die gesetzliche Rentenversicherung eingezahlt wurden. Dazu zählen auch Zeiten der Arbeitslosigkeit oder Kindererziehung."
+    },
+    {
+      "term": "Härtefallregelung",
+      "definition": "Eine spezielle Regelung, die Menschen in besonderen Notlagen, wie gesundheitlichen Einschränkungen, entgegenkommt."
+    }
+  ],
+  "quiz": {
+    "question": "Was war die zentrale Empfehlung der von der Bundesregierung eingesetzten Rentenkommission bezüglich der „Rente mit 63“?",
+    "options": [
+      "Die Regelung nur für Frauen anzupassen.",
+      "Die Regelung komplett zu streichen, aber Härtefallregelungen einzuführen.",
+      "Die Regelung komplett beizubehalten und zu erweitern."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Kommission empfahl die Streichung der Regelung, sah aber Härtefallregelungen vor."
+  },
+  "discussion": [
+    "Wie glaubst du, sollte eine soziale Absicherung gestaltet sein: Soll sie möglichst universell sein, oder sollte sie gezielt diejenigen unterstützen, die am meisten Unterstützung benötigen?",
+    "Welche Rolle spielt das Einkommen bei der Gestaltung von Übergängen in den Ruhestand? Ist es fair, wenn die Regeln stark vom Verdienst abhängen?"
+  ],
+  "publishedAt": "2026-11-27T11:42:54.781Z",
+  "sources": [
+    {
+      "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

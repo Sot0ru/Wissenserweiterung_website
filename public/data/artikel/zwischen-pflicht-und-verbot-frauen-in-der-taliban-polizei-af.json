@@ -1,0 +1,83 @@
+{
+  "id": "zwischen-pflicht-und-verbot-frauen-in-der-taliban-polizei-af",
+  "category": "politik",
+  "title": "Zwischen Pflicht und Verbot: Frauen in der Taliban-Polizei Afghanistans",
+  "teaser": "In Afghanistan sind Frauen stark eingeschränkt. Doch einige arbeiten in der Polizei und sind damit Teil des Taliban-Systems. Was bedeutet das für ihre Rechte?",
+  "tags": [
+    "Afghanistan",
+    "Frauenrechte",
+    "Soziale Normen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "In Afghanistan sind Frauen unter der Taliban-Herrschaft stark eingeschränkt, unter anderem durch Verpflichtungen zur Gesichtsbedeckung.",
+    "Trotz dieser Auflagen arbeiten einige Frauen in der Polizei und sind damit Teil des Systems.",
+    "Experten weisen darauf hin, dass diese wenigen Fälle nicht die gesamte Situation abbilden und die Rechte von Millionen Frauen nicht verbessern."
+  ],
+  "sections": [
+    {
+      "heading": "Die Situation für Frauen in Afghanistan",
+      "paragraphs": [
+        "In Afghanistan leben Frauen unter strengen Auflagen. Ihre Rechte sind stark eingeschränkt, und in der Öffentlichkeit müssen viele ihr Gesicht verhüllen. Bildungsmöglichkeiten sind für sie kaum gegeben. Diese Regeln werden vom Taliban-Regime durchgesetzt."
+      ]
+    },
+    {
+      "heading": "Arbeit in der Polizei: Ein schwieriger Kompromiss",
+      "paragraphs": [
+        "Trotz dieser restriktiven Umgebung arbeiten einige Frauen in der Polizei von Kabul. Eine 45-jährige Polizistin, Shaima, ist ein Beispiel dafür. Sie ist Teil des Systems, das die Taliban kontrollieren. Ihre Arbeit erfordert strenge Auflagen: Sie muss komplett verhüllt sein, und selbst ihre Augen sind bedeckt. Ihre Hände sind ebenfalls bedeckt, wenn sie Funkgeräte bedient."
+      ]
+    },
+    {
+      "heading": "Warum sind Frauen in bestimmten Bereichen nötig?",
+      "paragraphs": [
+        "Die Taliban sind in einigen Bereichen auf weibliche Beamte angewiesen. Dies liegt an ihrer extremen Auslegung des islamischen Gesetzes (Scharia). Nach dieser Auslegung dürfen männliche Beamte fremde Frauen weder berühren noch in deren privaten Räume eindringen. Frauen erleichtern die Arbeit der Polizei, da sie bestimmte Aufgaben erledigen können, die für Männer verboten wären."
+      ]
+    },
+    {
+      "heading": "Kritik und die Grenzen der Teilnahme",
+      "paragraphs": [
+        "Obwohl einige Frauen arbeiten, gibt es Kritik an dieser Entwicklung. Frauenaktivistinnen betrachten dies als Symbolpolitik. Sie argumentieren, dass die Einstellung weniger Frauen in der Polizei nicht ausreicht, um zu sagen, dass Frauen ihre Rechte wiedererlangt haben. Erst wenn sich die Tore von Schulen und Universitäten wieder öffnen, könnten sie das beurteilen."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema ist wichtig, weil es zeigt, wie sich gesellschaftliche Regeln und Machtstrukturen auf das Leben einzelner Menschen auswirken. Es geht um die Balance zwischen individueller Arbeit und strengen politischen Vorgaben.",
+  "glossary": [
+    {
+      "term": "Scharia",
+      "definition": "Das islamische Gesetz, das von den Taliban in Afghanistan angewandt wird und bestimmte Regeln für das gesellschaftliche Leben festlegt."
+    },
+    {
+      "term": "Verhüllt",
+      "definition": "Bedeutet, dass das Gesicht oder Teile des Körpers durch ein Tuch oder eine Bedeckung bedeckt sind, was in Afghanistan oft eine religiöse oder staatliche Vorschrift ist."
+    },
+    {
+      "term": "Symbolpolitik",
+      "definition": "Die Darstellung von Maßnahmen oder Leistungen, die zwar öffentlich gezeigt werden, aber in ihrem tatsächlichen Umfang oder ihrer Wirkung nicht die tiefgreifenden Probleme lösen."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Problem wird von Frauenaktivistinnen kritisiert, wenn nur wenige Frauen in der Polizei arbeiten?",
+    "options": [
+      "Dass die Frauen zu wenig bezahlt werden.",
+      "Dass dies nicht ausreicht, um die Rechte aller Frauen zu sichern.",
+      "Dass die Taliban keine neuen Uniformen bereitstellen."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Aktivistinnen betonen, dass die wenigen Fälle nicht die gesamte Situation abbilden und die Rechte von Millionen Frauen nicht verbessern."
+  },
+  "discussion": [
+    "Wie kann die Balance zwischen traditionellen gesellschaftlichen Regeln und dem Wunsch nach individueller Teilhabe am Arbeitsleben gefunden werden?",
+    "Welche Verantwortung haben internationale Beobachter, wenn sie politische Systeme kritisch beurteilen, die bestimmte Gruppen stark einschränken?"
+  ],
+  "publishedAt": "2026-11-27T11:38:10.242Z",
+  "sources": [
+    {
+      "title": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
+      "url": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

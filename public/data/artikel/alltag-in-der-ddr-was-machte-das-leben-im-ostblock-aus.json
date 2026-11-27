@@ -1,0 +1,89 @@
+{
+  "id": "alltag-in-der-ddr-was-machte-das-leben-im-ostblock-aus",
+  "category": "geschichte",
+  "title": "Alltag in der DDR: Was machte das Leben im Ostblock aus?",
+  "teaser": "Von Mangelwirtschaft bis zu technischen Eigenleistungen: So sah der Alltag in der Deutschen Demokratischen Republik aus. Wir beleuchten die Besonderheiten dieses Systems.",
+  "tags": [
+    "Ostdeutschland",
+    "Kalte Krieg",
+    "Wirtschaftsgeschichte",
+    "Sozialismus",
+    "Nachkriegsgeschichte"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die DDR war durch eine Planwirtschaft geprägt, die zwar Stabilität garantierte, aber oft von Mangelwirtschaft und staatlicher Kontrolle gekennzeichnet war.",
+    "Trotz systemischer Einschränkungen zeigten Bürger Innovationskraft, sei es durch Bastelprojekte wie Windräder oder die Nutzung von Intershops.",
+    "Die Geschichte der DDR zeigt einen Mix aus staatlich kontrollierter Industrie, technischer Rückständigkeit und individueller Improvisation."
+  ],
+  "sections": [
+    {
+      "heading": "Mangel und Improvisation im Alltag",
+      "paragraphs": [
+        "Die Deutsche Demokratische Republik (DDR) war ein System, das stark von der Planwirtschaft geprägt war. Das bedeutete, dass der Staat die Produktion und Verteilung fast vollständig steuerte. Oft führte dies zu einer prekären Versorgungslage, also zu Mangel.",
+        "Anstatt sich mit dem Mangel zu beklagen, mussten Betriebe kreativ werden. Sie wurden nicht nur für die Grundversorgung, sondern auch für Konsumgüter herangezogen. Dieses Bedürfnis nach Ersatz und Verbesserung führte zu vielen Eigenleistungen.",
+        "Ein Beispiel für diese Improvisation sind die ersten Windräder in der DDR. Findige Bürger konnten Genehmigungen austricksen und eigene Projekte ans Netz bringen, um Energie zu erzeugen. Auch die Bürger nutzten die Intershops, die im Bahnhof Friedrichstraße in Ost-Berlin eröffnet wurden. Dort konnten sie mit D-Mark bezahlen und so Devisen für das Land beschaffen."
+      ]
+    },
+    {
+      "heading": "Technik und Alltag: Was war anders?",
+      "paragraphs": [
+        "Im Alltag gab es viele Unterschiede zu Westdeutschland. Der Trabant, mit seinen etwa 3,6 Millionen produzierten Exemplaren, wurde zum Symbol der Ära. Die Wartezeiten auf diese Fahrzeuge waren oft sehr lang, was die Knappheit verdeutlichte.",
+        "Auch die Technik war oft robust gebaut. Geräte wie Kühlschränke oder Waschmaschinen aus der DDR waren manchmal so konstruiert, dass sie extrem langlebig waren, da die Qualitätssicherung und die Nutzung unter schwierigen Bedingungen stattfanden.",
+        "Die Mobilität wurde durch spezielle Züge wie den „Städte-Express“ aufgewertet, der als schneller Zug der Hauptstadt diente. Gleichzeitig war das Leben durch staatliche Vorgaben geregelt, etwa bei der Industrie oder der Landwirtschaft, wo Privateigentum schrittweise verstaatlicht wurde."
+      ]
+    }
+  ],
+  "whyItMatters": "Die Geschichte der DDR zeigt, wie ein zentral gesteuertes Wirtschaftssystem funktionieren kann – und wo es scheitert. Dieses Thema hilft dir zu verstehen, wie staatliche Entscheidungen den Alltag und die Lebensqualität von Millionen Menschen direkt beeinflussen.",
+  "glossary": [
+    {
+      "term": "Planwirtschaft",
+      "definition": "Ein Wirtschaftssystem, bei dem der Staat zentral entscheidet, was, wie viel und für wen produziert wird, anstatt dass Angebot und Nachfrage den Markt bestimmen."
+    },
+    {
+      "term": "Devisen",
+      "definition": "Außenwährung, also Geld, das von ausländischen Staaten verwendet wird (z. B. US-Dollar oder D-Mark)."
+    },
+    {
+      "term": "Prekäre Versorgungslage",
+      "definition": "Eine Situation, in der die Versorgung mit notwendigen Gütern oder Lebensmitteln unsicher oder unzureichend ist."
+    }
+  ],
+  "quiz": {
+    "question": "Welches Merkmal kennzeichnete die Versorgungslage in der DDR laut der Quelle?",
+    "options": [
+      "Einseitige Abhängigkeit von Importen aus dem Westen",
+      "Prekäre Versorgungslage und Mangel",
+      "Überfluss an Konsumgütern durch freie Marktwirtschaft"
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Quelle beschreibt die DDR als ein System, das durch eine prekäre Versorgungslage gekennzeichnet war."
+  },
+  "discussion": [
+    "Wie beeinflusst die Zentralisierung von Entscheidungen (wie in einer Planwirtschaft) die Innovationskraft einer Gesellschaft im Vergleich zu einem freien Markt?",
+    "Welche Rolle spielt die individuelle Kreativität oder Improvisation, wenn das staatliche System nicht alle Bedürfnisse abdeckt?"
+  ],
+  "publishedAt": "2026-11-27T11:48:24.064Z",
+  "sources": [
+    {
+      "title": "Wirtschaft",
+      "url": "https://www.mdr.de/geschichte/ddr/wirtschaft",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/alltag-in-der-ddr-was-machte-das-leben-im-ostblock-aus.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Ein Trabant-Auto und ein Transistorradio aus der DDR im Wende Museum.",
+    "credit": {
+      "title": "WENDE MUSEUM of the Cold War Culver City California Material culture Everyday items Visual art Communist East Bloc GDR Soviet Union TRANSISTOR RADIO Loudspeaker Trabant Los Angeles - 51596975737.jpg",
+      "author": "Roller Coaster Philosophy",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WENDE_MUSEUM_of_the_Cold_War_Culver_City_California_Material_culture_Everyday_items_Visual_art_Communist_East_Bloc_GDR_Soviet_Union_TRANSISTOR_RADIO_Loudspeaker_Trabant_Los_Angeles_-_51596975737.jpg"
+    }
+  }
+}
