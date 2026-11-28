@@ -1,0 +1,82 @@
+{
+  "id": "rentenreform-im-streit-was-die-neuen-plaene-fuer-die-zukunft",
+  "category": "politik",
+  "title": "Rentenreform im Streit: Was die neuen Pläne für die Zukunft der Rente bedeuten",
+  "teaser": "Die Rentenpläne des Arbeitsministers sind auf dem Tisch, doch der Widerstand aus der Union ist groß. Was soll das für deine finanzielle Zukunft bedeuten?",
+  "tags": [
+    "Sozialpolitik",
+    "Wirtschaft",
+    "Rente",
+    "Koalition",
+    "Finanzen"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Der Arbeitsminister hat einen Gesetzentwurf zur Rentenreform vorgelegt, der die „Rente mit 63“ im Kern beibehalten will, aber den Zugang erschwert.",
+    "Die Union kritisiert die Pläne scharf, weil sie die Finanzierbarkeit in Frage stellen und die junge Generation zusätzlich belasten könnten.",
+    "Die Debatte zeigt, dass es große Meinungsverschiedenheiten zwischen den Koalitionspartnern gibt, obwohl der Minister eine Einigung sehen will."
+  ],
+  "sections": [
+    {
+      "heading": "Das Ziel: Die Rente stabilisieren",
+      "paragraphs": [
+        "Die Altersvorsorge in Deutschland ist ein Dauerbrenner in der Politik. Der aktuelle Vorschlag des Bundesarbeitsministers Alexander Schweitzer zielt darauf ab, die Rentenversicherung zu stabilisieren. Im Kern soll die „Rente mit 63“ erhalten bleiben. Allerdings sieht Schweitzer vor, den Zugang zu dieser Frührente zu erschweren.",
+        "Konkret bedeutet das unter anderem, dass Zeiten der Arbeitslosigkeit oder geringfügige Beschäftigung nicht mehr so leicht auf die erforderlichen 45 Versicherungsjahre angerechnet werden können. Nach Angaben des Ministers könnten dadurch rund 27 Prozent der bisher Anspruchsberechtigten ihren Anspruch verlieren."
+      ]
+    },
+    {
+      "heading": "Die Kritik aus der Opposition und Koalition",
+      "paragraphs": [
+        "Der Entwurf stößt auf erheblichen Widerstand, besonders aus der Union. Kritiker wie Florian Dorn, stellvertretender Vorsitzender der Rentenkommission, warnen, dass die Reform „nicht nachhaltig stabilisiert“ und die junge Generation zusätzlich belaste. Er betont, dass das Festhalten an der abschlagsfreien Rente ohne wirksame Stabilisierungsmaßnahmen auf Kosten der Jugend gehe.",
+        "Auch Wirtschaftsvertreter äußern Bedenken. Der Hauptgeschäftsführer der Bundesvereinigung der Deutschen Arbeitgeberverbände (BDA) nannte den Entwurf einen „vermurksten Versuch, von der eigenen Reformunwilligkeit abzulenken“ und kritisierte die Ungleichgewichte zwischen Belastungen und Entlastungen."
+      ]
+    },
+    {
+      "heading": "Gewerkschaften und Parteien sehen unterschiedliche Wege",
+      "paragraphs": [
+        "Die Gewerkschaften sind gespalten. Während der DGB und die IG Metall positiv hervorheben, dass die abschlagsfreie Frührente für gut verdienende Fachkräfte erhalten bleiben soll, kritisieren sie andere Punkte. Der ver.di-Chef Frank Werneke bemängelt beispielsweise die geplante Erhöhung der Abschläge und bezeichnet sie als einen „Sanktionscharakter“.",
+        "Auch die politische Landschaft ist gespalten. Während die SPD den Entwurf als einen guten Ausgleich sieht, äußern die Grünen Skepsis und fordern eine gerechtere Lösung. Die AfD hingegen sieht den Entwurf als Kürzungsprogramm für die Beitragszahler."
+      ]
+    }
+  ],
+  "whyItMatters": "Da du selbst eines Tages in Rente gehen wirst, ist das Thema Rentenreform extrem wichtig für deine finanzielle Zukunft. Die diskutierten Änderungen bestimmen, wie viel Geld du im Alter bekommen könntest und wie lange du arbeiten musst.",
+  "glossary": [
+    {
+      "term": "Abschlagsfreie Frührente",
+      "definition": "Eine Rente, die man früher bezieht, ohne dass Kürzungen (Abschläge) vorgenommen werden."
+    },
+    {
+      "term": "Beitragsjahre",
+      "definition": "Die Jahre, in denen du Beiträge zur Rentenversicherung gezahlt hast."
+    },
+    {
+      "term": "Stabilisierung",
+      "definition": "Die Sicherstellung, dass ein System (hier: die Rentenversicherung) langfristig finanzierbar bleibt und nicht zusammenbricht."
+    }
+  ],
+  "quiz": {
+    "question": "Was ist laut Minister Schweitzer eine Konsequenz des neuen Entwurfs für bisher Anspruchsberechtigte?",
+    "options": [
+      "Rund 27 Prozent der bisher Anspruchsberechtigten könnten ihren Anspruch verlieren.",
+      "Die Rente wird automatisch für alle auf das gesetzliche Rentenalter angehoben.",
+      "Sie werden alle Anspruch auf die Rente mit 63 behalten."
+    ],
+    "answerIndex": 0,
+    "explanation": "Laut Schweitzer könnten durch die erschwerten Zugangsvoraussetzungen rund 27 Prozent der bisher Anspruchsberechtigten ihren Anspruch verlieren."
+  },
+  "discussion": [
+    "Wie balancierst du das Spannungsverhältnis zwischen der Sicherung der Rentenfinanzierung und der Vermeidung von Kürzungen für die junge Generation?",
+    "Welche Rolle sollte die Lebensarbeitszeit spielen, wenn das Rentenalter an die steigende Lebenserwartung gekoppelt wird?"
+  ],
+  "publishedAt": "2026-11-28T10:57:37.478Z",
+  "sources": [
+    {
+      "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+      "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}

@@ -1,0 +1,89 @@
+{
+  "id": "kriegsfolgen-im-gazastreifen-angriffe-auf-humanitaere-helfer",
+  "category": "politik",
+  "title": "Kriegsfolgen im Gazastreifen: Angriffe auf humanitäre Helfer",
+  "teaser": "Die Arbeit von Hilfsorganisationen ist in Kriegsgebieten extrem gefährlich. Was passiert, wenn Angriffe auf medizinische Einrichtungen stattfinden?",
+  "tags": [
+    "Konflikt",
+    "Humanitäre Hilfe",
+    "Völkerrecht",
+    "Gesundheit"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Zwei Wachleute von Ärzte ohne Grenzen wurden bei einem Angriff im Gazastreifen getötet.",
+    "Israels Militär gibt an, die Männer seien Hamas-Terroristen gewesen, die sich als Helfer ausgegeben hätten.",
+    "Die Organisation fordert Rechenschaft und betont die Gefahr für humanitäre Einrichtungen im Konflikt."
+  ],
+  "sections": [
+    {
+      "heading": "Angriff auf humanitäre Helfer in Gaza",
+      "paragraphs": [
+        "In dem andauernden Konflikt im Gazastreifen kommt es zu schweren Vorwürfen bezüglich der Sicherheit von Menschen, die helfen wollen. Kürzlich wurden zwei Wachleute der Organisation Ärzte ohne Grenzen (Médecins Sans Frontières) bei einem Angriff getötet.",
+        "Die israelische Armee gab an, dass es sich bei den Getöteten um Hamas-Terroristen handelte, die sich vorgespielt hätten, humanitäre Helfer zu sein. Die Hilfsorganisation selbst zeigte sich über die Tötung ihrer Kollegen „zutiefst erschüttert und empört“.",
+        "Laut den Berichten kamen die Männer bei einem Angriff auf eine Klinik der Organisation in Gaza-Stadt um. Die Einrichtung sei deutlich mit den Logos von Ärzte ohne Grenzen gekennzeichnet und ihr Standort sei dem Militär bekannt gewesen. Ärzte ohne Grenzen forderte die Verantwortlichen für den Angriff zur Rechenschaft.",
+        "Zur Frage, ob es sich tatsächlich um Terroristen handelte, äußerte sich die Organisation zunächst nicht. Insgesamt sind im Gaza-Krieg laut ihren Angaben 17 Mitarbeiter von Ärzte ohne Grenzen ums Leben gekommen."
+      ]
+    },
+    {
+      "heading": "Vorwürfe und internationale Regeln",
+      "paragraphs": [
+        "Die Lage ist von gegenseitigen Anschuldigungen geprägt. Israel wirft der Hamas immer wieder vor, sich als humanitäre Helfer auszugeben und Zivilisten als Schutzschilde zu missbrauchen. Kritiker hingegen werfen Israel vor, internationale Normen zu missachten und medizinische Einrichtungen anzugreifen.",
+        "Das Völkerrecht schützt Einrichtungen der Gesundheitsversorgung besonders stark. Israels Armee betonte, dass der Angriff nicht gezielt auf ein Krankenhaus gerichtet war. Ein getöteter Mann sei laut Militär ein Kommandeur im militärischen Flügel der Hamas gewesen. Die Armee versicherte, Maßnahmen zur Minimierung von zivilen Schäden getroffen zu haben und dass keine Schäden an der medizinischen Infrastruktur entstanden seien.",
+        "Es ist wichtig zu wissen, dass sowohl die Angaben des israelischen Militärs als auch die von Ärzte ohne Grenzen momentan nicht unabhängig überprüft werden konnten. Die Situation zeigt die enorme Herausforderung, humanitäre Hilfe in einem aktiven Konflikt zu gewährleisten."
+      ]
+    }
+  ],
+  "whyItMatters": "Dieses Thema zeigt, wie komplex und gefährlich Konflikte sind, selbst für Menschen, die nur helfen wollen. Es geht um die Frage, wie internationale Regeln (wie das Völkerrecht) in realen, gewalttätigen Situationen funktionieren und ob sie eingehalten werden.",
+  "glossary": [
+    {
+      "term": "Humanitäre Hilfe",
+      "definition": "Hilfe, die Menschen in Krisensituationen (wie Krieg oder Naturkatastrophen) leistet, um Leben zu retten und Leiden zu lindern."
+    },
+    {
+      "term": "Völkerrecht",
+      "definition": "Ein Satz von Regeln und Verträgen, die Staaten regeln und die internationalen Beziehungen bestimmen, zum Beispiel wie in Kriegszeiten vorgegangen werden muss."
+    },
+    {
+      "term": "Gazastreifen",
+      "definition": "Ein Gebiet im Nahen Osten, das seit Jahren von einem langwierigen Konflikt geprägt ist und unter starker Blockade steht."
+    }
+  ],
+  "quiz": {
+    "question": "Was hat die israelische Armee laut Quelle als Begründung für den Angriff genannt?",
+    "options": [
+      "Dass die Klinik gezielt angegriffen wurde, weil sie als militärischer Stützpunkt diente.",
+      "Dass es sich bei den getöteten Männern um Hamas-Terroristen handelte, die sich als Helfer ausgegeben hatten.",
+      "Dass die Organisation Ärzte ohne Grenzen die Sicherheitsbestimmungen missachtet hat."
+    ],
+    "answerIndex": 1,
+    "explanation": "Die Quelle besagt: „Das israelische Militär erklärte, es habe sich bei den Männern um Hamas-Terroristen gehandelt, die sich „als humanitäre Helfer ausgegeben“ hätten.“"
+  },
+  "discussion": [
+    "Wie kann sichergestellt werden, dass humanitäre Helfer in Konfliktgebieten geschützt werden, wenn die Konfliktparteien gegenseitig Anschuldigungen austauschen?",
+    "Welche Rolle spielt das Völkerrecht, wenn die Einhaltung internationaler Regeln in einem Krieg nicht garantiert werden kann?"
+  ],
+  "publishedAt": "2026-11-28T11:03:23.541Z",
+  "sources": [
+    {
+      "title": "Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
+      "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
+      "publisher": "tagesschau.de"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/kriegsfolgen-im-gazastreifen-angriffe-auf-humanitaere-helfer.jpg",
+    "width": 960,
+    "height": 639,
+    "alt": "US Air Force C-17 Globemaster III wirft humanitäre Hilfe über den Gazastreifen ab.",
+    "credit": {
+      "title": "U S Air Force airdrops humanitarian aid for Gaza from C-17 (8314510).jpg",
+      "author": "U.S. Air Force AFCENT by Staff Sgt. Caleb Roland",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:U_S_Air_Force_airdrops_humanitarian_aid_for_Gaza_from_C-17_(8314510).jpg"
+    }
+  }
+}

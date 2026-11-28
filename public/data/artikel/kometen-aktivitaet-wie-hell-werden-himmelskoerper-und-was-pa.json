@@ -1,0 +1,87 @@
+{
+  "id": "kometen-aktivitaet-wie-hell-werden-himmelskoerper-und-was-pa",
+  "category": "astronomie",
+  "title": "Kometen-Aktivität: Wie hell werden Himmelskörper und was passiert dabei?",
+  "teaser": "Kometen sind nicht nur schöne Erscheinungen am Nachthimmel. Ihre Helligkeit verrät viel über ihre innere Aktivität und deren Entwicklung.",
+  "tags": [
+    "Himmelskörper",
+    "Raumfahrt",
+    "Weltall",
+    "Planetenkunde"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Die Helligkeit eines Kometen hängt stark von seiner Aktivität ab, die durch den Aktivitätsparameter n beschrieben wird.",
+    "Während Asteroiden nur durch den Abstand zur Sonne beeinflusst werden (n=2), können Kometen durch die Verdampfung von Eis und Gas viel heller werden (n kann bis zu 10 oder mehr erreichen).",
+    "Diese starke Aktivität kann ein Zeichen dafür sein, dass ein Komet zerfällt oder sich fragmentiert."
+  ],
+  "sections": [
+    {
+      "heading": "Mehr als nur ein funkelnder Fleck am Himmel",
+      "paragraphs": [
+        "Wenn du am Nachthimmel einen Kometen siehst, siehst du mehr als nur einen leuchtenden Fleck. Die Intensität und das Verhalten dieser Himmelskörper geben uns wichtige Hinweise auf ihre Zusammensetzung und ihren Zustand. Kometen sind im Grunde riesige Eiskugeln, die Staub und gefrorenes Gas enthalten. Wenn sie sich der Sonne nähern, beginnt dieses Eis zu verdampfen – ein Prozess, der ihre beeindruckende Aktivität erzeugt.",
+        "Um zu verstehen, wie hell ein Komet werden kann, muss man den sogenannten Aktivitätsparameter (n) betrachten. Dieser Parameter beschreibt, wie stark sich die Helligkeit ändert, wenn sich der Komet von der Sonne wegbewegt oder nähert. Bei inaktiven Körpern, wie Asteroiden, nimmt die Helligkeit nur mit dem Quadrat des Sonnenabstands ab. Hier gilt ein Wert von n = 2."
+      ]
+    },
+    {
+      "heading": "Die Physik der Kometen: Warum sie so hell werden können",
+      "paragraphs": [
+        "Kometen sind dynamischer. Wenn sie der Sonne nahekommen, verdampft nicht nur die reflektierte Energie, sondern auch das innere Material. Das freigesetzte Gas und der Staub bilden eine Atmosphäre um den Kometen, die wiederum mehr Sonnenlicht reflektiert. Dies führt zu einer stärkeren Helligkeitszunahme als bei Asteroiden.",
+        "Die Abhängigkeit steigt mit der Aktivität. Bei Kometen, bei denen die Gasentwicklung stark zunimmt, wird der Aktivitätsparameter auf n = 4 erhöht. Bei älteren oder sehr aktiven Kometen, deren Staubschichten durch die Sonneneinstrahlung aufbrechen, kann dieser Wert sogar auf n = 6 ansteigen. Das bedeutet: Wenn sich der Abstand zur Sonne halbiert, kann die Helligkeit bei einem Kometen mit n=6 um das 64-fache ansteigen!",
+        "Ein besonders auffälliges Beispiel ist der Komet 10P/Tempel. Seine Aktivität war in diesem Sommer außergewöhnlich hoch und erreichte Werte von n = 20. Solch eine starke Aktivität deutet oft darauf hin, dass der Komet instabil ist und möglicherweise zerfällt oder sich fragmentiert. Die Vorhersage seiner zukünftigen Entwicklung ist deshalb sehr schwierig."
+      ]
+    }
+  ],
+  "whyItMatters": "Das Verständnis dieser physikalischen Prozesse hilft uns zu verstehen, wie sich die Materie im Sonnensystem verhält. Es zeigt, dass die Himmelskörper nicht statisch sind, sondern komplexe, sich ständig verändernde Systeme.",
+  "glossary": [
+    {
+      "term": "Komet",
+      "definition": "Ein Himmelskörper, der aus gefrorenem Gas, Staub und Gestein besteht und bei Annäherung an die Sonne eine sichtbare Schweifbildung entwickelt."
+    },
+    {
+      "term": "Asteroid",
+      "definition": "Ein kleiner, felsiger Himmelskörper, der hauptsächlich im Asteroidengürtel zwischen Mars und Jupiter kreist."
+    },
+    {
+      "term": "Aktivitätsparameter (n)",
+      "definition": "Ein Maß dafür, wie stark sich die Helligkeit eines Himmelskörpers ändert, wenn sich sein Abstand zur Sonne ändert."
+    }
+  ],
+  "quiz": {
+    "question": "Welcher Wert für den Aktivitätsparameter (n) gilt für inaktive Körper wie Asteroiden?",
+    "options": [
+      "n = 4",
+      "n = 2",
+      "n = 10"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bei inaktiven Körpern wie Asteroiden nimmt die Helligkeit nur mit dem Quadrat des Sonnenabstands ab, was n = 2 entspricht."
+  },
+  "discussion": [
+    "Welche Unterschiede siehst du zwischen der physikalischen Erklärung für die Helligkeitszunahme eines Kometen und der eines Sterns, der heller wird?",
+    "Wenn ein Himmelskörper wie Komet 10P/Tempel zerfällt, welche Auswirkungen könnte das auf die langfristige Entwicklung des Sonnensystems haben?"
+  ],
+  "publishedAt": "2026-11-28T10:46:36.687Z",
+  "sources": [
+    {
+      "title": "Kometen im Dezember 2026: Die Aktivität von 10P/Tempel ist außergewöhnlich",
+      "url": "https://www.spektrum.de/news/kometen-im-dezember-2026-aktivitaet-von-10p-tempel-ist-aussergewoehnlich/2335135",
+      "publisher": "Sterne und Weltraum"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": {
+    "src": "data/bilder/kometen-aktivitaet-wie-hell-werden-himmelskoerper-und-was-pa.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Der Komet Tempel 2 mit grünem Koma und hellem Kern, aufgenommen am 21. Juni 2026.",
+    "credit": {
+      "title": "10P Tempel on 21 June 2026.jpg",
+      "author": "Dimitrios Katevainis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:10P_Tempel_on_21_June_2026.jpg"
+    }
+  }
+}

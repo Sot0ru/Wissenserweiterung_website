@@ -1,0 +1,82 @@
+{
+  "id": "wie-putin-die-geschichte-neu-erzaehlt-ein-blick-auf-russisch",
+  "category": "geschichte",
+  "title": "Wie Putin die Geschichte neu erzählt: Ein Blick auf russische Geschichtspolitik",
+  "teaser": "Geschichtsbilder sind mächtige Werkzeuge in der Politik. Wir erklären, wie Wladimir Putin die Vergangenheit umdeutet, um die heutige politische Lage zu beeinflussen.",
+  "tags": [
+    "Politik",
+    "Russland",
+    "Propaganda",
+    "Zweiter Weltkrieg"
+  ],
+  "readingMinutes": 4,
+  "tldr": [
+    "Wladimir Putin nutzt die Geschichtsschreibung, um die Rolle Russlands im Zweiten Weltkrieg neu zu definieren und sich selbst zu rechtfertigen.",
+    "Experten zeigen, dass die Darstellung des Hitler-Stalin-Pakts und des Münchner Abkommens stark politisch motiviert ist und die Verantwortung Russlands bagatellisiert.",
+    "Diese Geschichtspolitik zielt darauf ab, Russlands historisches Gewicht in der internationalen Ordnung wiederherzustellen."
+  ],
+  "sections": [
+    {
+      "heading": "Geschichte als politisches Werkzeug",
+      "paragraphs": [
+        "Geschichtsbilder sind seit jeher ein wichtiger Bestandteil von Propaganda. Sie helfen dabei, eine bestimmte Sichtweise auf die Welt zu etablieren und Unterstützung für politische Ziele zu gewinnen. Wladimir Putin nutzt diese Mechanismen seit Jahrzehnten, um in Teilen der Bevölkerung Stabilität und Zustimmung zu sichern.",
+        "Experten, darunter Osteuropa-Historiker, analysieren diese Geschichtspolitik des Kremls. Sie zeigen, dass die Deutung historischer Ereignisse gezielt gesteuert wird, um die aktuelle politische Lage zu untermauern. Diese Strategie wird oft als Versuch gesehen, die eigene Rolle in der Geschichte zu rehabilitieren."
+      ]
+    },
+    {
+      "heading": "Umdeutung wichtiger Wendepunkte",
+      "paragraphs": [
+        "Ein zentraler Punkt ist die Umdeutung des Hitler-Stalin-Pakts und des Münchner Abkommens. Putin präsentiert eine Sichtweise, die die Mitverantwortung Moskaus für den Ausbruch des Zweiten Weltkriegs zurückweist und die Sowjetunion stattdessen als Opfer darstellt.",
+        "Historiker weisen darauf hin, dass diese Deutung stark von politischen Motiven geprägt ist. Anstatt die Hauptverantwortung bei Deutschland zu belassen, wird Polen eine erhebliche Mitschuld zugewiesen. Dies geschieht unter anderem durch die Betonung der Besetzung des tschechoslowakischen Olsa-Gebiets durch Polen nach dem Münchner Abkommen.",
+        "Das Münchner Abkommen, das 1938 zwischen Deutschland, Großbritannien, Frankreich und Italien geschlossen wurde, führte dazu, dass die Tschechoslowakei rund 30 Prozent ihres Territoriums an das Deutsche Reich abtreten musste. Die Darstellung, dass diese Gebietsgewinne die gesamte Aufteilung Polens rechtfertigen, wird von Experten als eine starke Verzerrung der Proportionen kritisiert."
+      ]
+    },
+    {
+      "heading": "Die Suche nach historischer Legitimität",
+      "paragraphs": [
+        "Putin versucht, ein Narrativ zu etablieren, in dem der sowjetische Einmarsch in Polen als defensiv und notwendig dargestellt wird. Die These lautet, dass die Sowjetunion allein gelassen wurde und keine andere Wahl hatte. Diese Muster ähneln denen, die die Sowjetunion selbst früher verwendet hat, wurden aber zugespitzt.",
+        "Gleichzeitig beklagt Putin nicht zugängliche Archivdokumente. Kritiker sehen darin jedoch eine strategische Behauptung. Sie argumentieren, dass die Möglichkeiten für westliche Forscher, in russischen Militärarchiven zu recherchieren, begrenzt sind, aber dass die russische Führung selbst Zugang zu umfangreichen Akten haben müsste."
+      ]
+    }
+  ],
+  "whyItMatters": "Für junge Menschen ist es wichtig zu verstehen, dass Geschichte kein fertiges Buch ist, sondern ein Feld, in dem Interpretationen ständig diskutiert werden. Wenn du über aktuelle politische Konflikte sprichst, hilft dir das Wissen, wie Geschichtserzählungen bewusst eingesetzt werden.",
+  "glossary": [
+    {
+      "term": "Propaganda",
+      "definition": "Systematische Verbreitung von Informationen, um eine bestimmte politische Meinung zu fördern oder zu beeinflussen."
+    },
+    {
+      "term": "Münchner Abkommen",
+      "definition": "Ein Vertrag von 1938, bei dem Deutschland Gebiete der Tschechoslowakei erhielt, um einen Krieg mit Nazi-Deutschland zu verhindern."
+    },
+    {
+      "term": "Appeasement-Politik",
+      "definition": "Die Politik, aggressiven Staaten nachzugeben, in der Hoffnung, einen größeren Krieg zu vermeiden."
+    }
+  ],
+  "quiz": {
+    "question": "Welche Politik zielte darauf ab, einen Krieg mit Nazi-Deutschland zu verhindern, indem man ihm Zugeständnisse machte?",
+    "options": [
+      "Die Geschichtsumdeutung",
+      "Die sowjetische Verteidigungsstrategie",
+      "Die Appeasement-Politik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Die Appeasement-Politik (Beschwichtigungspolitik) war der Versuch, durch Nachgiebigkeit einen Krieg zu verhindern."
+  },
+  "discussion": [
+    "Inwiefern kann die öffentliche Geschichtsschreibung in einem Land die politische Loyalität der Bürger beeinflussen?",
+    "Wie unterscheidet sich eine wissenschaftliche historische Analyse von einer politisch motivierten Geschichtserzählung?"
+  ],
+  "publishedAt": "2026-11-28T11:08:52.385Z",
+  "sources": [
+    {
+      "title": "Putin und seine Umdeutung der Geschichte",
+      "url": "https://www.mdr.de/geschichte/zeitgeschichte-gegenwart/politik-gesellschaft/putin-propaganda-russland-polen-2-weltkrieg-100.html",
+      "publisher": "MDR Geschichte"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemma4:e4b",
+  "image": null
+}
